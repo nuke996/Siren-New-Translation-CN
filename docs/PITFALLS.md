@@ -485,3 +485,43 @@ copy) so consecutive deploy tools accumulate. Both tools now do this.
 `.dds` atlas changes. Comparing only the message `.dat` (or rendering with a stale
 atlas) will wrongly suggest the patch is already deployed; always check the atlas
 entry too.
+
+---
+
+# 27. Non-ASCII `.bat` wrappers break under `cmd.exe`
+
+**Symptom:** running `导出汉化.bat` / `导入汉化.bat` from `cmd` prints a pile of
+`'…' 不是内部或外部命令` — fragments such as `获`, `slator-view\`,
+`build.ps1" -Task import` are executed as commands and the PowerShell call never
+runs.
+
+**Cause:** two independent traps that were both present.
+
+1. **Encoding.** The wrappers were UTF-8 (no BOM) with `chcp 65001`. `cmd.exe`
+   parses batch files using the active code page, so under cp936 a UTF-8
+   multibyte character's bytes mis-align with the next ASCII byte; and (verified
+   on Windows 10 zh-CN) the batch reader also mis-splits **long** lines while
+   cp 65001 is active — lines get cut and the fragments run as commands.
+   Verified matrix (identical long-Chinese content, run via `cmd /c`):
+
+   | file encoding | `chcp` | result |
+   |---|---|---|
+   | UTF-8, no BOM | 65001 | broken (line split) |
+   | UTF-8, with BOM | 65001 | broken (line split) **and** the BOM fuses to `@echo off`, so `'@echo' 不是…` |
+   | GBK / cp936 | 936 | clean |
+
+2. **ASCII punctuation.** Translating the prompts to ASCII introduced `->` (its
+   `>` becomes a redirection operator → `系统找不到指定的路径`) and an ASCII
+   `(...)` inside an `if errorlevel 1 (...)` block (the `)` closes the block
+   early → `此时不应有 .`). The original full-width `（）` and the word `到`
+   avoided both.
+
+**Fix (current):** the two `.bat` are **pure ASCII** (English prompts, no `chcp`);
+the Chinese task banners now live in `build.ps1`, which is saved **UTF-8 with
+BOM** so Windows PowerShell 5.1 decodes them. Both launchers run with 0 stderr
+bytes.
+
+**Rule:** keep `.bat` files **ASCII-only** (no BOM, CRLF line endings) and put any
+localized text in a PowerShell/Node layer saved as UTF-8 **with** BOM. Inside
+ASCII batch text, escape or avoid `><|&^()`; in particular `echo a -> b` will try
+to redirect to a file named `b`.

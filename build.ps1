@@ -1,4 +1,4 @@
-#Requires -Version 5
+﻿#Requires -Version 5
 <#
   Build / install entry point for the
   "Siren: New Translation" (BCJS30020) Simplified-Chinese localization.
@@ -78,10 +78,12 @@ try {
     }
     'export' {
       Write-Host '== export translator view ==' -ForegroundColor Cyan
+      Write-Host '导出汉化文本：日文原文 + 现用译文 到 locales\zh-CN\translator-view\' -ForegroundColor Cyan
       & $node '_i18n_export.js'
     }
     'import' {
       Write-Host '== import translator edits -> regenerate -> deploy -> refresh dist ==' -ForegroundColor Cyan
+      Write-Host '导入汉化文本：回写译文 - 重新生成 - 部署 HDD/镜像 - 刷新 dist' -ForegroundColor Cyan
       & $node '_i18n_import.js'
     }
     'build' {
