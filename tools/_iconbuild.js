@@ -13,7 +13,9 @@ const { execFileSync } = require('child_process');
 const { parseHed } = require('./sntp_pack.js');
 const { writePNG } = require('./dds2png.js');
 
-const HDD = `${__P.HDD}/`;
+// Read originals from the live HDD install when present, else the disc source,
+// so a clean checkout can rebuild without a configured RPCS3 profile.
+const SRC = (process.env.SNT_HDD || `${__P.BASE}`).replace(/\/+$/, '') + '/';
 const W = `${__P.WORK}/`;
 const TMP = W + 'msn/tmp/';
 const PS1 = path.join(__dirname, 'render_text.ps1');
@@ -21,10 +23,10 @@ const FONT = process.env.ICON_FONT || 'SimHei';
 fs.mkdirSync(TMP, { recursive: true });
 
 const NAME = 'hud/font_02_icon_jp.dds';
-const cidx = parseHed(fs.readFileSync(HDD + 'common.hed'));
-const cdat = fs.readFileSync(HDD + 'common.dat');
+const cidx = parseHed(fs.readFileSync(SRC + 'common.hed'));
+const cdat = fs.readFileSync(SRC + 'common.dat');
 const ce = cidx.entries.find(e => e.name === NAME);
-const fd = fs.openSync(HDD + 'common.dat', 'r');
+const fd = fs.openSync(SRC + 'common.dat', 'r');
 const dds = Buffer.from(cdat.subarray(ce.off, ce.off + ce.size));
 fs.closeSync(fd);
 
@@ -149,7 +151,18 @@ writePNG(W + 'font_02_icon_jp_zh.png', Wd, Hd, o2);
 console.log('wrote preview');
 
 if (process.argv.includes('--deploy')) {
-  const fh = fs.openSync(HDD + 'common.dat', 'r+');
-  try { fs.writeSync(fh, out, 0, out.length, ce.off); } finally { fs.closeSync(fh); }
-  console.log('DEPLOYED ' + NAME + ' @' + ce.off);
+  // Write into every target, dist/ first (see __P.DATA_TARGETS).  Keep an
+  // existing target archive (so earlier patches survive) or seed it from the
+  // base; never write back to the read-only disc source.
+  for (const T of __P.DATA_TARGETS) {
+    fs.mkdirSync(T, { recursive: true });
+    const f = T + '/common.dat';
+    if (T !== __P.HDD) {
+      if (fs.existsSync(f)) { const keep = fs.readFileSync(f); fs.unlinkSync(f); fs.writeFileSync(f, keep); }
+      else fs.copyFileSync(SRC + 'common.dat', f);
+    }
+    const fh = fs.openSync(f, 'r+');
+    try { fs.writeSync(fh, out, 0, out.length, ce.off); } finally { fs.closeSync(fh); }
+    console.log('DEPLOYED ' + NAME + ' @' + ce.off + ' -> ' + T);
+  }
 }

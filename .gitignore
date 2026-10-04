@@ -1,5 +1,4 @@
 # Local project instructions
-AGENTS.md
 docs/LOCALIZATION_STANDARD.md
 
 # Build output
@@ -128,3 +127,8 @@ decompiled/
 # ---------------------------------------------------------------------------
 !locales/**
 !config.example.json
+
+# Translator reference images are textures extracted from the original game and
+# must not be redistributed.  They are dev-only visual aids; the import pipeline
+# does not depend on them.
+locales/**/translator-view/refs/
