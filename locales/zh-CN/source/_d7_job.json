@@ -1,0 +1,61 @@
+{
+ "arch": "common",
+ "font": "SimHei",
+ "items": [
+  {
+   "name": "menu/jp/launcher_episode/ep_text/episode_text_01.dds",
+   "size": 22, "bold": 1, "align": "left",
+   "lines": [ { "text": "进入章节选择画面。", "y": 0, "x": 1 } ]
+  },
+  {
+   "name": "menu/jp/launcher_episode/ep_text/episode_text_02.dds",
+   "size": 22, "bold": 1, "align": "left",
+   "lines": [
+    { "text": "将删除此章节数据（存档数据不会消失）。", "y": 0, "x": 1 },
+    { "text": "已删除的章节数据随时可以重新下载。", "y": 26, "x": 0 },
+    { "text": "关于重新下载，可按△按钮查看方法详情。", "y": 52, "x": 1 }
+   ]
+  },
+  {
+   "name": "menu/jp/launcher_episode/element/type_episode_window.dds",
+   "size": 56, "bold": 1, "align": "left", "keep": true,
+   "clear": [ { "x": 0, "y": 0, "w": 300, "h": 80 } ],
+   "lines": [ { "text": "章节", "y": 2, "x": 1 } ]
+  },
+  {
+   "name": "menu/jp/launcher_title/choice/title_parts_01.dds",
+   "size": 20, "bold": 1, "align": "left",
+   "lines": [ { "text": "章节", "y": 2, "x": 1 } ]
+  },
+  {
+   "name": "menu/jp/launcher_title/choice/title_parts_02.dds",
+   "size": 20, "bold": 1, "align": "left",
+   "lines": [ { "text": "档案", "y": 2, "x": 1 } ]
+  },
+  {
+   "name": "menu/jp/launcher_title/choice/title_parts_03.dds",
+   "size": 20, "bold": 1, "align": "left",
+   "lines": [ { "text": "战绩", "y": 2, "x": 1 } ]
+  },
+  {
+   "name": "menu/jp/launcher_title/choice/title_parts_04.dds",
+   "size": 20, "bold": 1, "align": "left",
+   "lines": [ { "text": "选项", "y": 2, "x": 1 } ]
+  },
+  {
+   "name": "menu/jp/launcher_title/choice/title_parts_05.dds",
+   "size": 20, "bold": 1, "align": "left",
+   "lines": [ { "text": "在线手册", "y": 2, "x": 1 } ]
+  },
+  {
+   "name": "menu/jp/launcher_title/choice/title_parts_06.dds",
+   "size": 20, "bold": 1, "align": "left",
+   "lines": [ { "text": "新游戏", "y": 2, "x": 1 } ]
+  },
+  {
+   "name": "menu/jp/launcher_title/choice/title_parts_07.dds",
+   "size": 20, "bold": 1, "align": "left",
+   "lines": [ { "text": "迷你游戏", "y": 2, "x": 1 } ]
+  }
+ ]
+}

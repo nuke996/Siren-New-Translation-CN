@@ -1,0 +1,790 @@
+{
+  "note": "s19 章节系统文本简体中文草稿（AI 起草，待用户审校）。已跳过第二张表未解码的 GUIDE/TUTORIAL 条目。◇为译码缺字，※ 标注不确定处。",
+  "glossary": {
+    "ハワート・ライト": "霍华德·莱特",
+    "メリッサ・ゲイル": "梅丽莎·盖尔",
+    "サム・モンロー": "山姆·门罗",
+    "ベラ・モンロー": "贝拉·门罗",
+    "ソル・ジャクソン": "索尔·杰克逊",
+    "美耶古": "美耶古",
+    "アマナ": "阿玛娜",
+    "羽生蛇村": "羽生蛇村"
+  },
+  "lines": [
+    {
+      "name": "AC_CHANGENAME_I_EV_14",
+      "src": "【【リリアン】に持ち替える",
+      "text": "【切换为【莉莉安】"
+    },
+    {
+      "name": "AC_CHANGENAME_I_EV_15",
+      "src": "【【虫取りセット】に持ち替える",
+      "text": "【切换为【捉虫套装】"
+    },
+    {
+      "name": "AC_CHANGENAME_I_EV_16",
+      "src": "【【ハニュウダカブト】に持ち替える",
+      "text": "【切换为【羽生独角仙】"
+    },
+    {
+      "name": "AC_CHANGENAME_I_KEY_02",
+      "src": "【【寝室の鍵】に持ち替える",
+      "text": "【切换为【寝室的钥匙】"
+    },
+    {
+      "name": "AC_CHANGENAME_I_KEY_03",
+      "src": "【【納戸の鍵】に持ち替える",
+      "text": "【切换为【储藏室的钥匙】"
+    },
+    {
+      "name": "AC_CHANGENAME_I_L_99",
+      "src": "【【懐中電灯】に持ち替える",
+      "text": "【切换为【手电筒】"
+    },
+    {
+      "name": "AC_CHANGENAME_I_W_HH_12",
+      "src": "【【白いキター】に持ち替える",
+      "text": "【切换为【白色吉他】"
+    },
+    {
+      "name": "AC_CHANGENAME_I_W_LK_02",
+      "src": "【【包丁】に持ち替える",
+      "text": "【切换为【菜刀】"
+    },
+    {
+      "name": "AC_CHECK",
+      "src": "【調べる",
+      "text": "【调查"
+    },
+    {
+      "name": "AC_DOOR_CLOSE",
+      "src": "【閉める",
+      "text": "【关闭"
+    },
+    {
+      "name": "AC_DOOR_HOLD",
+      "src": "〈长按〉押さえる",
+      "text": "长按 按住"
+    },
+    {
+      "name": "AC_DOOR_INNER_LOCK",
+      "src": "〈长按〉内鍵をかける",
+      "text": "长按 上内锁"
+    },
+    {
+      "name": "AC_DOOR_INNER_UNLOCK",
+      "src": "【内鍵を開ける",
+      "text": "【打开内锁"
+    },
+    {
+      "name": "AC_DOOR_OPEN",
+      "src": "【開ける",
+      "text": "【打开"
+    },
+    {
+      "name": "AC_DOOR_UNLOCK",
+      "src": "【鍵を開ける",
+      "text": "【开锁"
+    },
+    {
+      "name": "AC_ELEVATOR_CALL",
+      "src": "【エレベータを呼ぶ",
+      "text": "【呼叫电梯"
+    },
+    {
+      "name": "AC_ELEVATOR_DOWN",
+      "src": "【下へ",
+      "text": "【向下"
+    },
+    {
+      "name": "AC_ELEVATOR_MOVE",
+      "src": "【ボタンを押す",
+      "text": "【按下按钮"
+    },
+    {
+      "name": "AC_ELEVATOR_UP",
+      "src": "【上へ",
+      "text": "【向上"
+    },
+    {
+      "name": "AC_EXIT",
+      "src": "【出る",
+      "text": "【出去"
+    },
+    {
+      "name": "AC_HIDE",
+      "src": "【隠れる",
+      "text": "【躲藏"
+    },
+    {
+      "name": "AC_JUMP_TRUCK",
+      "src": "【飛び降りる",
+      "text": "【跳下"
+    },
+    {
+      "name": "AC_LIFTUP",
+      "src": "【引き上げる",
+      "text": "【拉起"
+    },
+    {
+      "name": "AC_PICKUP_ANTENNA",
+      "src": "【アンテナを投げる",
+      "text": "【投掷天线"
+    },
+    {
+      "name": "AC_PICK_UP2",
+      "src": "【拾う",
+      "text": "【拾取"
+    },
+    {
+      "name": "AC_PICK_UPNAME_I_EV_14",
+      "src": "【【リリアン】を拾う",
+      "text": "【拾取【莉莉安】"
+    },
+    {
+      "name": "AC_PICK_UPNAME_I_EV_15",
+      "src": "【【虫取りセット】を拾う",
+      "text": "【拾取【捉虫套装】"
+    },
+    {
+      "name": "AC_PICK_UPNAME_I_EV_16",
+      "src": "【【ハニュウダカブト】を拾う",
+      "text": "【拾取【羽生独角仙】"
+    },
+    {
+      "name": "AC_PICK_UPNAME_I_KEY_02",
+      "src": "【【寝室の鍵】を拾う",
+      "text": "【拾取【寝室的钥匙】"
+    },
+    {
+      "name": "AC_PICK_UPNAME_I_KEY_03",
+      "src": "【【納戸の鍵】を拾う",
+      "text": "拾取【储藏室钥匙】"
+    },
+    {
+      "name": "AC_PICK_UPNAME_I_L_99",
+      "src": "【【懐中電灯】を拾う",
+      "text": "【拾取【手电筒】"
+    },
+    {
+      "name": "AC_PICK_UPNAME_I_W_HH_12",
+      "src": "【【白いキター】を拾う",
+      "text": "【拾取【白色吉他】"
+    },
+    {
+      "name": "AC_PICK_UPNAME_I_W_LK_02",
+      "src": "【【包丁】を拾う",
+      "text": "【拾取【菜刀】"
+    },
+    {
+      "name": "AC_PUSH_TRUCK",
+      "src": "〈长按〉トロッコを押す",
+      "text": "长按 推矿车"
+    },
+    {
+      "name": "AC_RIDE_TRUCK",
+      "src": "【飛び乗る",
+      "text": "【跳上"
+    },
+    {
+      "name": "AC_ROLL_LEVER",
+      "src": "〈长按〉レバーを回す",
+      "text": "长按 转动拉杆"
+    },
+    {
+      "name": "CHA_AFTERDRAT_RPS_0",
+      "src": "「ベラ！ マミィよ！」",
+      "text": "「贝拉！是妈妈呀！」"
+    },
+    {
+      "name": "CHA_AFTERDRAT_RPS_1",
+      "src": "「やっぱりベラはまだ赤ちやんね」",
+      "text": "「贝拉果然还是个孩子呢」"
+    },
+    {
+      "name": "CHA_BATTLE_RPS_0",
+      "src": "「こっちにおいで！」",
+      "text": "「到这边来！」"
+    },
+    {
+      "name": "CHA_BATTLE_RPS_1",
+      "src": "「ずっと一緒よ！」",
+      "text": "我们永远一起！"
+    },
+    {
+      "name": "CHA_CAUTION1_RPS_0",
+      "src": "「ハニー そこにいるの？」",
+      "text": "「宝贝～你在那儿吗？」"
+    },
+    {
+      "name": "CHA_CAUTION1_RPS_1",
+      "src": "「ベラ そこにいるのね？」",
+      "text": "「贝拉，你在那儿吧？」"
+    },
+    {
+      "name": "CHA_CAUTION1_SF3_0",
+      "src": "「え？ なあに？ 誰？」",
+      "text": "「咦？什么？谁？」"
+    },
+    {
+      "name": "CHA_CAUTION1_SF3_1",
+      "src": "「やだあ！ 怖い！」",
+      "text": "「讨厌！好可怕！」"
+    },
+    {
+      "name": "CHA_CAUTION1_SF3_2",
+      "src": "「ねえ？ 誰かいるのお？」",
+      "text": "「喂？有人吗？」"
+    },
+    {
+      "name": "CHA_CAUTION1_SM2_0",
+      "src": "「ん～？ 誰だあ～？」",
+      "text": "「嗯～？是谁呀～？」"
+    },
+    {
+      "name": "CHA_CAUTION1_SM2_1",
+      "src": "「おい……誰かいるのかあ？」",
+      "text": "「喂……有人吗？」"
+    },
+    {
+      "name": "CHA_CAUTION1_SM2_2",
+      "src": "「何だあ？ おい？」",
+      "text": "「干什么？喂？」"
+    },
+    {
+      "name": "CHA_CAUTION1_SM3_1",
+      "src": "「何だってえ？」",
+      "text": "「你说什么？」"
+    },
+    {
+      "name": "CHA_CAUTION1_SM3_2",
+      "src": "「誰じやあ！ 出て来い！」",
+      "text": "「是谁！出来！」"
+    },
+    {
+      "name": "CHA_CAUTION2_RPS_0",
+      "src": "「どこに隠れたの？」",
+      "text": "「你躲哪去了？」"
+    },
+    {
+      "name": "CHA_CAUTION2_RPS_1",
+      "src": "「かくれんぼはおしまいよ」",
+      "text": "「捉迷藏结束了哦」"
+    },
+    {
+      "name": "CHA_CAUTION2_RPS_2",
+      "src": "「出てきなさい」",
+      "text": "「出来」"
+    },
+    {
+      "name": "CHA_CAUTION2_SF3_0",
+      "src": "「ねえ～？ どこいったのお？」",
+      "text": "「喂～？去哪了呀？」"
+    },
+    {
+      "name": "CHA_CAUTION2_SF3_1",
+      "src": "「一緒に遊ばないのお～？」",
+      "text": "「一起玩好不好～？」"
+    },
+    {
+      "name": "CHA_CAUTION2_SF3_2",
+      "src": "「あ～あ つまんないのお」",
+      "text": "「啊～真无聊呀」"
+    },
+    {
+      "name": "CHA_CAUTION2_SM2_0",
+      "src": "「戻って……来いよお」",
+      "text": "「回来……啊」"
+    },
+    {
+      "name": "CHA_CAUTION2_SM2_1",
+      "src": "「どこ……行ったあ？」",
+      "text": "「跑哪……去了？」"
+    },
+    {
+      "name": "CHA_CAUTION2_SM2_2",
+      "src": "「無駄だよお」",
+      "text": "「没用的」"
+    },
+    {
+      "name": "CHA_CAUTION2_SM3_0",
+      "src": "「年寄りだと思って馬鹿にしおって！」",
+      "text": "「竟敢把我当老人耍！」"
+    },
+    {
+      "name": "CHA_CAUTION2_SM3_1",
+      "src": "「どこじや！ 馬鹿もん！」",
+      "text": "「在哪！混账！」"
+    },
+    {
+      "name": "CHA_CAUTION2_SM3_2",
+      "src": "「次は見逃してやらんからな！」",
+      "text": "「下次可不会放过你！」"
+    },
+    {
+      "name": "CHA_DIE_MUS",
+      "src": "「いやあ一一！」",
+      "text": "「不要啊——！」"
+    },
+    {
+      "name": "CHA_PATROL_RPS_0",
+      "src": "「おうちに帰る時間よ」",
+      "text": "「该回家了哦」"
+    },
+    {
+      "name": "CHA_PATROL_RPS_1",
+      "src": "「もう目を離さないからね」",
+      "text": "「我不会再离开你身边了」"
+    },
+    {
+      "name": "CHA_PATROL_RPS_2",
+      "src": "「マミィを許して」",
+      "text": "「原谅妈妈吧」"
+    },
+    {
+      "name": "CHA_PATROL_RPS_3",
+      "src": "「ベラ 遊びに行きましよう」",
+      "text": "「贝拉，我们去玩吧」"
+    },
+    {
+      "name": "CHA_ST07EVENT1_SM2_0",
+      "src": "「ふあ～生き返るなあ～」",
+      "text": "呼啊～真是活过来一样～"
+    },
+    {
+      "name": "CHA_ST07EVENT1_SM2_1",
+      "src": "「ふう～良い湯だねえ～」",
+      "text": "「呼～好舒服的热水啊～」"
+    },
+    {
+      "name": "CHA_ST07EVENT1_SM3_0",
+      "src": "「ふあ～生き返るなあ～」",
+      "text": "呼啊～真是活过来一样～"
+    },
+    {
+      "name": "CHA_ST07EVENT1_SM3_1",
+      "src": "「おおう～良い湯だなあ～」",
+      "text": "「哦～好舒服的热水啊～」"
+    },
+    {
+      "name": "CHA_ST19EVEMT1_PRS_0",
+      "src": "「イタズラしちや駄目よ！」",
+      "text": "「不可以恶作剧哦！」"
+    },
+    {
+      "name": "CHA_ST19EVENT1_MUS",
+      "src": "「ダディが言ってた 木に密を塗ったら虫が集まるって」",
+      "text": "「爸爸说过，往树上涂蜜，虫子就会聚集过来。」"
+    },
+    {
+      "name": "CHA_ST19EVENT1_SM3_2",
+      "src": "「んん？ ばあさんかあ？ 生きとったんかあ？」",
+      "text": "「嗯嗯？是老太婆吗？你还活着啊？」"
+    },
+    {
+      "name": "CHA_ST19EVENT2_SF1_0",
+      "src": "「んん？ はーい どちらさまですかあ？」",
+      "text": "「嗯？你好～是哪位呀？」"
+    },
+    {
+      "name": "CHA_ST19EVENT2_SM3_0",
+      "src": "「飯かっ！ 飯の時間かあ～？」",
+      "text": "「吃饭？到吃饭时间了吗～？」"
+    },
+    {
+      "name": "CHA_STARTST19_MUS_0",
+      "src": "「マミィ……」",
+      "text": "「妈妈……」"
+    },
+    {
+      "name": "CHA_STARTST19_MUS_1",
+      "src": "「どうしよう……」",
+      "text": "「怎么办……」"
+    },
+    {
+      "name": "CHA_STARTST19_MUS_2",
+      "src": "「もうこんなとこいやだよ……」",
+      "text": "「我讨厌这种地方了……」"
+    },
+    {
+      "name": "DOOR_BLOCKED",
+      "src": "この扉は開かないようだ。",
+      "text": "这扇门打不开。"
+    },
+    {
+      "name": "DOOR_EVENT_LOCKED",
+      "src": "ここに合う鍵を持っていない。",
+      "text": "没有能打开这里的钥匙。"
+    },
+    {
+      "name": "DOOR_INNER_LOCK",
+      "src": "反対側から内鍵が掛かっている。",
+      "text": "另一侧上了内锁。"
+    },
+    {
+      "name": "DOOR_INNER_UNLOCKED",
+      "src": "内鍵を開けた。",
+      "text": "打开了内锁。"
+    },
+    {
+      "name": "DOOR_UNLOCKED",
+      "src": "鍵を開けた。",
+      "text": "打开了锁。"
+    },
+    {
+      "name": "ELEVATOR_BLOCK",
+      "src": "動かないようだ。",
+      "text": "好像动不了。"
+    },
+    {
+      "name": "EMPTY_LABEL",
+      "src": "空テキストです",
+      "text": "空文本"
+    },
+    {
+      "name": "EP10_CP2_1_01",
+      "src": "「ベラ……」",
+      "text": "「贝拉……」"
+    },
+    {
+      "name": "EP10_CP2_1_02",
+      "src": "「マミィ？」",
+      "text": "「妈妈？」"
+    },
+    {
+      "name": "EP10_CP2_1_03",
+      "src": "「ベラ……」",
+      "text": "「贝拉……」"
+    },
+    {
+      "name": "EP10_CP2_1_04",
+      "src": "「マミィ！」",
+      "text": "「妈妈！」"
+    },
+    {
+      "name": "EP10_CP2_1_05",
+      "src": "「ベラ……マミィよ 迎えに来たわ」",
+      "text": "「贝拉……是妈妈，来接你了」"
+    },
+    {
+      "name": "EP10_CP2_1_06",
+      "src": "「いやあああ一一！」",
+      "text": "「不要啊——！」"
+    },
+    {
+      "name": "EP10_CP2_3_01",
+      "src": "「かっこいい！」",
+      "text": "「好帅！」"
+    },
+    {
+      "name": "GET_ARCHIVE2ARCHIVE038",
+      "src": "アーカイブ【バミューダ３のレコード】既に入手済み。",
+      "text": "档案【百慕大3的唱片】\n已获得。"
+    },
+    {
+      "name": "GET_ARCHIVE2ARCHIVE039",
+      "src": "アーカイブ【リリアン】既に入手済み。",
+      "text": "档案【莉莉安】\n已获得。"
+    },
+    {
+      "name": "GET_ARCHIVE2ARCHIVE040",
+      "src": "アーカイブ【虫取りセット】既に入手済み。",
+      "text": "档案【捉虫套装】\n已获得。"
+    },
+    {
+      "name": "GET_ARCHIVE2ARCHIVE041",
+      "src": "アーカイブ【ハニュウダカブト】既に入手済み。",
+      "text": "档案【羽生独角仙】\n已获得。"
+    },
+    {
+      "name": "GET_ARCHIVE2ARCHIVE119",
+      "src": "アーカイブ【エピソード11 チャプター４】既に入手済み。",
+      "text": "档案【第11集 第4章】\n已获得。"
+    },
+    {
+      "name": "GET_ARCHIVEARCHIVE038",
+      "src": "【バミューダ３のレコード】がアーカイブに追加された。",
+      "text": "【百慕大3的唱片】\n已添加到档案。"
+    },
+    {
+      "name": "GET_ARCHIVEARCHIVE039",
+      "src": "【リリアン】がアーカイブに追加された。",
+      "text": "【莉莉安】\n已添加到档案。"
+    },
+    {
+      "name": "GET_ARCHIVEARCHIVE040",
+      "src": "【虫取りセット】がアーカイブに追加された。",
+      "text": "【捉虫套装】\n已添加到档案。"
+    },
+    {
+      "name": "GET_ARCHIVEARCHIVE041",
+      "src": "【ハニュウダカブト】がアーカイブに追加された。",
+      "text": "【羽生独角仙】\n已添加到档案。"
+    },
+    {
+      "name": "GET_ARCHIVEARCHIVE119",
+      "src": "【エピソード11 チャプター４】がアーカイブに追加された。",
+      "text": "【第11集 第4章】\n已添加到档案。"
+    },
+    {
+      "name": "GET_ARCHIVE_KEY2ARCHIVE038",
+      "src": "【バミューダ３のレコード】アーカイブ入手の必要行動。既に達成済み。",
+      "text": "【百慕大3的唱片】\n取得档案所需行动。已经完成。"
+    },
+    {
+      "name": "GET_ARCHIVE_KEY2ARCHIVE039",
+      "src": "【リリアン】アーカイブ入手の必要行動。既に達成済み。",
+      "text": "【莉莉安】\n取得档案所需行动。已经完成。"
+    },
+    {
+      "name": "GET_ARCHIVE_KEY2ARCHIVE040",
+      "src": "【虫取りセット】アーカイブ入手の必要行動。既に達成済み。",
+      "text": "【捉虫套装】\n取得档案所需行动。已经完成。"
+    },
+    {
+      "name": "GET_ARCHIVE_KEY2ARCHIVE041",
+      "src": "【ハニュウダカブト】アーカイブ入手の必要行動。既に達成済み。",
+      "text": "【羽生独角仙】\n取得档案所需行动。已经完成。"
+    },
+    {
+      "name": "GET_ARCHIVE_KEY2ARCHIVE119",
+      "src": "【エピソード11 チャプター４】アーカイブ入手の必要行動。既に達成済み。",
+      "text": "【第11集 第4章】\n取得档案所需行动。已经完成。"
+    },
+    {
+      "name": "GET_ARCHIVE_KEYARCHIVE038",
+      "src": "【バミューダ３のレコード】アーカイブ入手の必要行動を達成した。",
+      "text": "【百慕大3的唱片】\n已完成取得档案所需行动。"
+    },
+    {
+      "name": "GET_ARCHIVE_KEYARCHIVE039",
+      "src": "【リリアン】アーカイブ入手の必要行動を達成した。",
+      "text": "【莉莉安】\n已完成取得档案所需行动。"
+    },
+    {
+      "name": "GET_ARCHIVE_KEYARCHIVE040",
+      "src": "【虫取りセット】アーカイブ入手の必要行動を達成した。",
+      "text": "【捉虫套装】\n已完成取得档案所需行动。"
+    },
+    {
+      "name": "GET_ARCHIVE_KEYARCHIVE041",
+      "src": "【ハニュウダカブト】アーカイブ入手の必要行動を達成した。",
+      "text": "【羽生独角仙】\n已完成取得档案所需行动。"
+    },
+    {
+      "name": "GET_ARCHIVE_KEYARCHIVE119",
+      "src": "【エピソード11 チャプター４】アーカイブ入手の必要行動を達成した。",
+      "text": "【第11集 第4章】\n已完成取得档案所需行动。"
+    },
+    {
+      "name": "GET_ITEMNAME_I_EV_14",
+      "src": "【リリアン】を入手した。",
+      "text": "【莉莉安】已入手。"
+    },
+    {
+      "name": "GET_ITEMNAME_I_EV_15",
+      "src": "【虫取りセット】を入手した。",
+      "text": "【捉虫套装】已入手。"
+    },
+    {
+      "name": "GET_ITEMNAME_I_EV_16",
+      "src": "【ハニュウダカブト】を入手した。",
+      "text": "【羽生独角仙】已入手。"
+    },
+    {
+      "name": "GET_ITEMNAME_I_KEY_02",
+      "src": "【寝室の鍵】を入手した。",
+      "text": "【寝室的钥匙】已入手。"
+    },
+    {
+      "name": "GET_ITEMNAME_I_KEY_03",
+      "src": "【納戸の鍵】を入手した。",
+      "text": "【储藏室的钥匙】已入手。"
+    },
+    {
+      "name": "GET_ITEMNAME_I_L_99",
+      "src": "【懐中電灯】を入手した。",
+      "text": "【手电筒】已入手。"
+    },
+    {
+      "name": "GET_ITEMNAME_I_W_HH_12",
+      "src": "【白いキター】を入手した。",
+      "text": "【白色吉他】已入手。"
+    },
+    {
+      "name": "GET_ITEMNAME_I_W_LK_02",
+      "src": "【包丁】を入手した。",
+      "text": "【菜刀】已入手。"
+    },
+    {
+      "name": "NO_TEXT_LABEL",
+      "src": "ＮＯ＿ＴＥＸＴ＿ＬＡＢＥＬ",
+      "text": "NO_TEXT_LABEL"
+    },
+    {
+      "name": "S19_ACTION_COMMAND001",
+      "src": "【虫取りセットを使う",
+      "text": "【使用捉虫套装"
+    },
+    {
+      "name": "S19_ACTION_COMMAND002",
+      "src": "〈长按〉ねじ鍵を回す",
+      "text": "长按 转动螺丝钥匙"
+    },
+    {
+      "name": "S19_ACTION_COMMAND003",
+      "src": "【呼び鈴を鳴らす",
+      "text": "【按响门铃"
+    },
+    {
+      "name": "S19_MESSAGE002",
+      "src": "動かない……。",
+      "text": "动不了……"
+    },
+    {
+      "name": "S19_MESSAGE004",
+      "src": "聴いたことのない曲が流れている。",
+      "text": "播放着从未听过的曲子。"
+    },
+    {
+      "name": "S19_MESSAGE005",
+      "src": "蜜を塗った木がある。",
+      "text": "有棵涂了蜜的树。"
+    },
+    {
+      "name": "S99_AREA_OVER1",
+      "src": "戻る訳にはいかない。",
+      "text": "不能回头。"
+    },
+    {
+      "name": "S99_AREA_OVER10",
+      "src": "サムを置いていく訳にはいかない……。",
+      "text": "不能丢下山姆……"
+    },
+    {
+      "name": "S99_AREA_OVER11",
+      "src": "この先には用がない……。",
+      "text": "前方没有要找的东西……"
+    },
+    {
+      "name": "S99_AREA_OVER2",
+      "src": "この先は危険だ……。",
+      "text": "前方很危险……"
+    },
+    {
+      "name": "S99_AREA_OVER3",
+      "src": "目的を果たさなければならない。",
+      "text": "必须完成目的。"
+    },
+    {
+      "name": "S99_AREA_OVER4",
+      "src": "美耶古を置いていく訳にはいかない……。",
+      "text": "不能丢下美耶古……"
+    },
+    {
+      "name": "S99_AREA_OVER5",
+      "src": "メリッサを置いていく訳にはいかない……。",
+      "text": "不能丢下梅丽莎……"
+    },
+    {
+      "name": "S99_AREA_OVER6",
+      "src": "アマナを置いていく訳にはいかない……。",
+      "text": "不能丢下阿玛娜……"
+    },
+    {
+      "name": "S99_AREA_OVER7",
+      "src": "ベラを置いていく訳にはいかない……。",
+      "text": "不能丢下贝拉……"
+    },
+    {
+      "name": "S99_AREA_OVER8",
+      "src": "ベラを探さなければ……。",
+      "text": "必须找到贝拉……"
+    },
+    {
+      "name": "S99_AREA_OVER9",
+      "src": "技が折れている。ここからは戻れそうにない。",
+      "text": "树枝折断，看来无法从这里返回。"
+    },
+    {
+      "name": "S99_BUSY",
+      "src": "今はそれどころではない。",
+      "text": "现在不是做这个的时候。"
+    },
+    {
+      "name": "S99_MESSAGE001",
+      "src": "扉は固く閉じられている。中からは物音も聞こえない。",
+      "text": "门紧紧关闭着。\n里面听不到任何声响。"
+    },
+    {
+      "name": "S99_MESSAGE002",
+      "src": "番号を間違えたようだ。",
+      "text": "好像拨错号码了。"
+    },
+    {
+      "name": "S99_MESSAGE003",
+      "src": "話し中のようだ。",
+      "text": "好像正在通话中。"
+    },
+    {
+      "name": "S99_NPCOUTOFRANGE",
+      "src": "声が届かない。",
+      "text": "声音传不到。"
+    },
+    {
+      "name": "SUB_COM_CANCEL_TRAP",
+      "src": "罠解除",
+      "text": "拆陷阱"
+    },
+    {
+      "name": "SUB_COM_COME",
+      "src": "「来い」",
+      "text": "「过来」"
+    },
+    {
+      "name": "SUB_COM_HIDE",
+      "src": "「隠れろ」",
+      "text": "「躲起来」"
+    },
+    {
+      "name": "SUB_COM_LIGHT1",
+      "src": "懐中電灯ＯＮ",
+      "text": "手电筒ON"
+    },
+    {
+      "name": "SUB_COM_LIGHT2",
+      "src": "懐中電灯ＯＦＦ",
+      "text": "手电筒OFF"
+    },
+    {
+      "name": "SUB_COM_NO",
+      "src": "いいえ",
+      "text": "否"
+    },
+    {
+      "name": "SUB_COM_SET_TRAP",
+      "src": "罠設置",
+      "text": "设陷阱"
+    },
+    {
+      "name": "SUB_COM_SHOUT",
+      "src": "叫ぶ",
+      "text": "呼喊"
+    },
+    {
+      "name": "SUB_COM_SMOKE",
+      "src": "発煙筒",
+      "text": "发烟筒"
+    },
+    {
+      "name": "SUB_COM_WAIT",
+      "src": "「待て」",
+      "text": "「等待」"
+    },
+    {
+      "name": "SUB_COM_YES",
+      "src": "はい",
+      "text": "是"
+    }
+  ]
+}

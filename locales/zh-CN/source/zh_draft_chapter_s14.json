@@ -1,0 +1,1290 @@
+{
+  "note": "s14 章节系统文本简体中文草稿（AI 起草，待用户审校）。已跳过第二张表未解码的 GUIDE/TUTORIAL 条目。◇为译码缺字，※ 标注不确定处。",
+  "glossary": {
+    "ハワート・ライト": "霍华德·莱特",
+    "メリッサ・ゲイル": "梅丽莎·盖尔",
+    "サム・モンロー": "山姆·门罗",
+    "ベラ・モンロー": "贝拉·门罗",
+    "ソル・ジャクソン": "索尔·杰克逊",
+    "美耶古": "美耶古",
+    "アマナ": "阿玛娜",
+    "羽生蛇村": "羽生蛇村"
+  },
+  "lines": [
+    {
+      "name": "AC_CHANGENAME_I_KEY_07",
+      "src": "【【電源室の鍵】に持ち替える",
+      "text": "【切换为【电源室的钥匙】"
+    },
+    {
+      "name": "AC_CHANGENAME_I_L_99",
+      "src": "【【懐中電灯】に持ち替える",
+      "text": "【切换为【手电筒】"
+    },
+    {
+      "name": "AC_CHANGENAME_I_W_BK_01",
+      "src": "【【一升瓶】に持ち替える",
+      "text": "【切换为【一升瓶】"
+    },
+    {
+      "name": "AC_CHANGENAME_I_W_BK_03",
+      "src": "【【尿瓶】に持ち替える",
+      "text": "【切换为【尿瓶】"
+    },
+    {
+      "name": "AC_CHANGENAME_I_W_BK_04",
+      "src": "【【蛍光灯】に持ち替える",
+      "text": "【切换为【荧光灯】"
+    },
+    {
+      "name": "AC_CHANGENAME_I_W_BK_05",
+      "src": "【【ウイスキーボトル】に持ち替える",
+      "text": "【切换为【威士忌酒瓶】"
+    },
+    {
+      "name": "AC_CHANGENAME_I_W_HH_08",
+      "src": "【【テレビカメラ】に持ち替える",
+      "text": "【切换为【电视摄像机】"
+    },
+    {
+      "name": "AC_CHANGENAME_I_W_LH_03",
+      "src": "【【火桶き棒】に持ち替える",
+      "text": "【切换为【火拨棍】"
+    },
+    {
+      "name": "AC_CHANGENAME_I_W_LH_05",
+      "src": "【【察内板】に持ち替える",
+      "text": "【切换为【指示牌】"
+    },
+    {
+      "name": "AC_CHANGENAME_I_W_LH_05",
+      "src": "【【察内板】に持ち替える",
+      "text": "【切换为【指示牌】"
+    },
+    {
+      "name": "AC_CHANGENAME_I_W_LK_01",
+      "src": "【【メス】に持ち替える",
+      "text": "【切换为【手术刀】"
+    },
+    {
+      "name": "AC_CHECK",
+      "src": "【調べる",
+      "text": "【调查"
+    },
+    {
+      "name": "AC_DOOR_CLOSE",
+      "src": "【閉める",
+      "text": "【关闭"
+    },
+    {
+      "name": "AC_DOOR_HOLD",
+      "src": "〈长按〉押さえる",
+      "text": "长按 按住"
+    },
+    {
+      "name": "AC_DOOR_INNER_LOCK",
+      "src": "〈长按〉内鍵をかける",
+      "text": "长按 上内锁"
+    },
+    {
+      "name": "AC_DOOR_INNER_UNLOCK",
+      "src": "【内鍵を開ける",
+      "text": "【打开内锁"
+    },
+    {
+      "name": "AC_DOOR_OPEN",
+      "src": "【開ける",
+      "text": "【打开"
+    },
+    {
+      "name": "AC_DOOR_UNLOCK",
+      "src": "【鍵を開ける",
+      "text": "【开锁"
+    },
+    {
+      "name": "AC_ELEVATOR_CALL",
+      "src": "【エレベータを呼ぶ",
+      "text": "【呼叫电梯"
+    },
+    {
+      "name": "AC_ELEVATOR_DOWN",
+      "src": "【下へ",
+      "text": "【向下"
+    },
+    {
+      "name": "AC_ELEVATOR_MOVE",
+      "src": "【ボタンを押す",
+      "text": "【按下按钮"
+    },
+    {
+      "name": "AC_ELEVATOR_UP",
+      "src": "【上へ",
+      "text": "【向上"
+    },
+    {
+      "name": "AC_EXIT",
+      "src": "【出る",
+      "text": "【出去"
+    },
+    {
+      "name": "AC_HIDE",
+      "src": "【隠れる",
+      "text": "【躲藏"
+    },
+    {
+      "name": "AC_JUMP_TRUCK",
+      "src": "【飛び降りる",
+      "text": "【跳下"
+    },
+    {
+      "name": "AC_LIFTUP",
+      "src": "【引き上げる",
+      "text": "【拉起"
+    },
+    {
+      "name": "AC_PICKUP_ANTENNA",
+      "src": "【アンテナを投げる",
+      "text": "【投掷天线"
+    },
+    {
+      "name": "AC_PICK_UP2",
+      "src": "【拾う",
+      "text": "【拾取"
+    },
+    {
+      "name": "AC_PICK_UPNAME_I_KEY_07",
+      "src": "【【電源室の鍵】を拾う",
+      "text": "【拾取【电源室的钥匙】"
+    },
+    {
+      "name": "AC_PICK_UPNAME_I_L_99",
+      "src": "【【懐中電灯】を拾う",
+      "text": "【拾取【手电筒】"
+    },
+    {
+      "name": "AC_PICK_UPNAME_I_W_BK_01",
+      "src": "【【一升瓶】を拾う",
+      "text": "【拾取【一升瓶】"
+    },
+    {
+      "name": "AC_PICK_UPNAME_I_W_BK_03",
+      "src": "【【尿瓶】を拾う",
+      "text": "【拾取【尿瓶】"
+    },
+    {
+      "name": "AC_PICK_UPNAME_I_W_BK_04",
+      "src": "【【蛍光灯】を拾う",
+      "text": "【拾取【荧光灯】"
+    },
+    {
+      "name": "AC_PICK_UPNAME_I_W_BK_05",
+      "src": "【【ウイスキーボトル】を拾う",
+      "text": "【拾取【威士忌酒瓶】"
+    },
+    {
+      "name": "AC_PICK_UPNAME_I_W_HH_08",
+      "src": "【【テレビカメラ】を拾う",
+      "text": "【拾取【电视摄像机】"
+    },
+    {
+      "name": "AC_PICK_UPNAME_I_W_LH_03",
+      "src": "【【火桶き棒】を拾う",
+      "text": "【拾取【火拨棍】"
+    },
+    {
+      "name": "AC_PICK_UPNAME_I_W_LH_05",
+      "src": "【【察内板】を拾う",
+      "text": "【拾取【指示牌】"
+    },
+    {
+      "name": "AC_PICK_UPNAME_I_W_LH_05",
+      "src": "【【察内板】を拾う",
+      "text": "【拾取【指示牌】"
+    },
+    {
+      "name": "AC_PICK_UPNAME_I_W_LK_01",
+      "src": "【【メス】を拾う",
+      "text": "【拾取【手术刀】"
+    },
+    {
+      "name": "AC_PUSH_TRUCK",
+      "src": "〈长按〉トロッコを押す",
+      "text": "长按 推矿车"
+    },
+    {
+      "name": "AC_RIDE_TRUCK",
+      "src": "【飛び乗る",
+      "text": "【跳上"
+    },
+    {
+      "name": "AC_ROLL_LEVER",
+      "src": "〈长按〉レバーを回す",
+      "text": "长按 转动拉杆"
+    },
+    {
+      "name": "CHA_AFTERDRAT_CAS_0",
+      "src": "「やっと会えたね！」",
+      "text": "「终于见到你了！」"
+    },
+    {
+      "name": "CHA_AFTERDRAT_CAS_1",
+      "src": "「ベイビーちやん 手間かけさぜないでおくれよ」",
+      "text": "「小宝贝，可别让叔叔费心啊」"
+    },
+    {
+      "name": "CHA_AFTERDRAT_CAS_2",
+      "src": "「惜しかったな！」",
+      "text": "「真可惜啊！」"
+    },
+    {
+      "name": "CHA_ASSISTTEXT_MUS_1",
+      "src": "「一人じや無理だよ！」",
+      "text": "「一个人不行的！」"
+    },
+    {
+      "name": "CHA_ASSISTTEXT_MUS_2",
+      "src": "「お願い！助けて！」",
+      "text": "「求你了！救救我！」"
+    },
+    {
+      "name": "CHA_BATTLEEND_MUS_0",
+      "src": "「もう お化けはいなくなったの？」",
+      "text": "「怪物已经不见了吗？」"
+    },
+    {
+      "name": "CHA_BATTLEEND_MUS_1",
+      "src": "「もう 大丈夫なの？」",
+      "text": "「已经没事了吗？」"
+    },
+    {
+      "name": "CHA_BATTLEEND_MUS_2",
+      "src": "「こんなとこいやだよ」",
+      "text": "「我讨厌这种地方」"
+    },
+    {
+      "name": "CHA_BATTLE_CAS_0",
+      "src": "「ベラ！ ベラ～！ ベラ～！」",
+      "text": "「贝拉！贝拉～！贝拉～！」"
+    },
+    {
+      "name": "CHA_BATTLE_CAS_1",
+      "src": "「もう逃がさないそお～」",
+      "text": "「我不会再让你逃掉了～」"
+    },
+    {
+      "name": "CHA_CACANTBUMP_MUS_0",
+      "src": "「恐いよ！」",
+      "text": "「好可怕！」"
+    },
+    {
+      "name": "CHA_CACANTBUMP_MUS_1",
+      "src": "「できないよ！」",
+      "text": "「做不到啦！」"
+    },
+    {
+      "name": "CHA_CACANTBUMP_MUS_2",
+      "src": "「落ちちやうよ！」",
+      "text": "「会掉下去的！」"
+    },
+    {
+      "name": "CHA_CACANTJUMP_MUS_0",
+      "src": "「恐いよ！」",
+      "text": "「好可怕！」"
+    },
+    {
+      "name": "CHA_CACANTJUMP_MUS_1",
+      "src": "「できないよ！」",
+      "text": "「做不到啦！」"
+    },
+    {
+      "name": "CHA_CACANTJUMP_MUS_2",
+      "src": "「落ちちやうよ！」",
+      "text": "「会掉下去的！」"
+    },
+    {
+      "name": "CHA_CACOMELONG_MUS_0",
+      "src": "「お化けが来るよ……」",
+      "text": "「怪物来了……」"
+    },
+    {
+      "name": "CHA_CACOMELONG_MUS_1",
+      "src": "「助けて……」",
+      "text": "「救救我……」"
+    },
+    {
+      "name": "CHA_CACOMELONG_MUS_2",
+      "src": "「マミィ どこ？」",
+      "text": "「妈妈，你在哪？」"
+    },
+    {
+      "name": "CHA_CAHURRYUP_MUS_0",
+      "src": "「ねえ どうしたの？」",
+      "text": "「喂，怎么了？」"
+    },
+    {
+      "name": "CHA_CAHURRYUP_MUS_1",
+      "src": "「どうするの？」",
+      "text": "「怎么办呢？」"
+    },
+    {
+      "name": "CHA_CAHURRYUP_MUS_2",
+      "src": "「マミィ 逃げようよ！」",
+      "text": "「妈妈，快逃吧！」"
+    },
+    {
+      "name": "CHA_CAMEET_MUS_0",
+      "src": "「はっ！ すっごく恐かったんだよ……」",
+      "text": "「呼！真是吓死我了……」"
+    },
+    {
+      "name": "CHA_CAMEET_MUS_1",
+      "src": "「はっ！ 良かった……」",
+      "text": "「呼！太好了……」"
+    },
+    {
+      "name": "CHA_CAMEET_MUS_2",
+      "src": "「はっ！ マミィ！」",
+      "text": "「呼！妈妈！」"
+    },
+    {
+      "name": "CHA_CANTBUMP_MUS_0",
+      "src": "「降りられないよ」",
+      "text": "「下不去啊」"
+    },
+    {
+      "name": "CHA_CANTBUMP_MUS_1",
+      "src": "「高すきるよ」",
+      "text": "「太高了」"
+    },
+    {
+      "name": "CHA_CANTBUMP_MUS_2",
+      "src": "「無理だよ」",
+      "text": "「不行啦」"
+    },
+    {
+      "name": "CHA_CANTJUMP_MUS_0",
+      "src": "「恐いよ」",
+      "text": "「好可怕」"
+    },
+    {
+      "name": "CHA_CANTJUMP_MUS_1",
+      "src": "「できないよ」",
+      "text": "「做不到啦」"
+    },
+    {
+      "name": "CHA_CANTJUMP_MUS_2",
+      "src": "「無理だよ……」",
+      "text": "「不行啦……」"
+    },
+    {
+      "name": "CHA_CAUTION1_CAS_1",
+      "src": "「聞こえるよ～！」",
+      "text": "「我听得见哦～！」"
+    },
+    {
+      "name": "CHA_CAUTION1_CAS_2",
+      "src": "「わかったそ！ そこにいるんだね！」",
+      "text": "「我知道了！你就在那儿吧！」"
+    },
+    {
+      "name": "CHA_CAUTION1_MUS_2",
+      "src": "「見つかった！？」",
+      "text": "「被发现了！？」"
+    },
+    {
+      "name": "CHA_CAUTION1_SK1_0",
+      "src": "「誰かいるの？」",
+      "text": "「有人吗？」"
+    },
+    {
+      "name": "CHA_CAUTION1_SK1_1",
+      "src": "「いるんでしよ？」",
+      "text": "「有人在吧？」"
+    },
+    {
+      "name": "CHA_CAUTION1_SK1_2",
+      "src": "「誰？ そこにいるの？」",
+      "text": "「谁？在那儿吗？」"
+    },
+    {
+      "name": "CHA_CAUTION1_SK2_0",
+      "src": "「そこにいるの誰？」",
+      "text": "「在那儿的，是谁？」"
+    },
+    {
+      "name": "CHA_CAUTION1_SK2_1",
+      "src": "「誰ですかあ？ 出てきなさいよお！」",
+      "text": "「是谁啊？快给我出来！」"
+    },
+    {
+      "name": "CHA_CAUTION1_SK2_2",
+      "src": "「いるのは分かってるわよお～」",
+      "text": "「我知道你在那儿哦～」"
+    },
+    {
+      "name": "CHA_CAUTION1_SM3_1",
+      "src": "「何だってえ？」",
+      "text": "「你说什么？」"
+    },
+    {
+      "name": "CHA_CAUTION1_SM3_2",
+      "src": "「誰じやあ！ 出て来い！」",
+      "text": "「谁啊！滚出来！」"
+    },
+    {
+      "name": "CHA_CAUTION2_CAS_0",
+      "src": "「お～い 逃げないでくれよ」",
+      "text": "「喂～，别跑啊」"
+    },
+    {
+      "name": "CHA_CAUTION2_CAS_1",
+      "src": "「冗談きついせ……」",
+      "text": "玩笑开过头了……"
+    },
+    {
+      "name": "CHA_CAUTION2_CAS_2",
+      "src": "「出ておいで～子猫ちやん～」",
+      "text": "「出来呀～小猫咪～」"
+    },
+    {
+      "name": "CHA_CAUTION2_SK1_0",
+      "src": "「どこ……いっちやったの？」",
+      "text": "「哪儿……跑哪儿去了？」"
+    },
+    {
+      "name": "CHA_CAUTION2_SK1_1",
+      "src": "「出てきなさいよ！」",
+      "text": "「快出来！」"
+    },
+    {
+      "name": "CHA_CAUTION2_SK1_2",
+      "src": "「馬鹿にしないで！」",
+      "text": "「别把我当傻瓜！」"
+    },
+    {
+      "name": "CHA_CAUTION2_SK2_0",
+      "src": "「こらっ！ どこに行った！」",
+      "text": "「喂！跑哪儿去了！」"
+    },
+    {
+      "name": "CHA_CAUTION2_SK2_1",
+      "src": "「絶対見つけてやる！」",
+      "text": "「我一定要找到你！」"
+    },
+    {
+      "name": "CHA_CAUTION2_SK2_2",
+      "src": "「遊びじやないのよ！」",
+      "text": "「这可不是闹着玩的！」"
+    },
+    {
+      "name": "CHA_CAUTION2_SM3_0",
+      "src": "「年寄りだと思って馬鹿にしおって！」",
+      "text": "「竟敢把老人当傻子耍！」"
+    },
+    {
+      "name": "CHA_CAUTION2_SM3_1",
+      "src": "「どこじや！ 馬鹿もん！」",
+      "text": "「在哪儿！蠢货！」"
+    },
+    {
+      "name": "CHA_CAUTION2_SM3_2",
+      "src": "「次は見逃してやらんからな！」",
+      "text": "「下次可不会放过你！」"
+    },
+    {
+      "name": "CHA_CAWAITLONG_MUS_0",
+      "src": "「恐いよ……」",
+      "text": "「好可怕……」"
+    },
+    {
+      "name": "CHA_CAWAITLONG_MUS_1",
+      "src": "「どうしよう……わかんないよ……」",
+      "text": "「怎么办……我不知道……」"
+    },
+    {
+      "name": "CHA_CAWAITLONG_MUS_2",
+      "src": "「恐いよ マミィ……」",
+      "text": "「好可怕，妈妈……」"
+    },
+    {
+      "name": "CHA_CAWAITNEAR_MUS_0",
+      "src": "「ここ恐いよ……」",
+      "text": "「这里好可怕……」"
+    },
+    {
+      "name": "CHA_CAWAITNEAR_MUS_1",
+      "src": "「どうするの……？」",
+      "text": "「怎么办呢……？」"
+    },
+    {
+      "name": "CHA_CAWAITNEAR_MUS_2",
+      "src": "「マミィ もうこんなとこいやだよ」",
+      "text": "「妈妈，我讨厌这种地方了」"
+    },
+    {
+      "name": "CHA_COMELONG_MUS_0",
+      "src": "「どこ行ったの？」",
+      "text": "「你去哪儿了？」"
+    },
+    {
+      "name": "CHA_COMELONG_MUS_1",
+      "src": "「早く来て」",
+      "text": "「快来」"
+    },
+    {
+      "name": "CHA_COMELONG_MUS_2",
+      "src": "「マミィ 置いていかないで……」",
+      "text": "「妈妈，别丢下我……」"
+    },
+    {
+      "name": "CHA_DIE_MUS",
+      "src": "「いやあ一一！」",
+      "text": "「不要啊——！」"
+    },
+    {
+      "name": "CHA_ESC1_MUS_1",
+      "src": "「助けて！ お願い！」",
+      "text": "「救救我！求你了！」"
+    },
+    {
+      "name": "CHA_ESC1_MUS_2",
+      "src": "「助けて！」",
+      "text": "「救救我！」"
+    },
+    {
+      "name": "CHA_ESC1_MUS_3",
+      "src": "「マミィ！ 助けて！」",
+      "text": "「妈妈！救救我！」"
+    },
+    {
+      "name": "CHA_ESC2_MUS_0",
+      "src": "「いやー！ 一人にしないで！」",
+      "text": "「不要！别留下我一个人！」"
+    },
+    {
+      "name": "CHA_ESC2_MUS_1",
+      "src": "「誰か助けて！」",
+      "text": "「谁来救救我！」"
+    },
+    {
+      "name": "CHA_ESC2_MUS_2",
+      "src": "「ダディ！ マミィ！」",
+      "text": "「爸爸！妈妈！」"
+    },
+    {
+      "name": "CHA_FIND2_MUS_2",
+      "src": "「お化け！」",
+      "text": "「怪物！」"
+    },
+    {
+      "name": "CHA_FINISH_REP_0",
+      "src": "「やったわ！」",
+      "text": "「成功了！」"
+    },
+    {
+      "name": "CHA_FINISH_REP_1",
+      "src": "「諦めないでよね！」",
+      "text": "「不要放弃哦！」"
+    },
+    {
+      "name": "CHA_HURRYUP_MUS_0",
+      "src": "「ねえ 行こうよ！？」",
+      "text": "「喂，走吧！？」"
+    },
+    {
+      "name": "CHA_HURRYUP_MUS_1",
+      "src": "「どうしちやったの？」",
+      "text": "「你怎么了？」"
+    },
+    {
+      "name": "CHA_HURRYUP_MUS_2",
+      "src": "「マミィ どうしちやったの？」",
+      "text": "「妈妈，你怎么了？」"
+    },
+    {
+      "name": "CHA_IDLE01_REP",
+      "src": "「一体どうなってるの……？」",
+      "text": "「到底发生什么了……？」"
+    },
+    {
+      "name": "CHA_MEET_MUS_1",
+      "src": "「はっ！ 心配だったよ……」",
+      "text": "「呼！一直担心你呢……」"
+    },
+    {
+      "name": "CHA_MEET_MUS_2",
+      "src": "「はっ！ マミィ！」",
+      "text": "「呼！妈妈！」"
+    },
+    {
+      "name": "CHA_PATROL_CAS_0",
+      "src": "「ベラ……もう大丈夫だよ」",
+      "text": "「贝拉……已经没事了。」"
+    },
+    {
+      "name": "CHA_PATROL_CAS_1",
+      "src": "「信じてくれよ……ボクが守ってあげるよ」",
+      "text": "「相信我吧……我会保护你的。」"
+    },
+    {
+      "name": "CHA_PATROL_CAS_2",
+      "src": "「ベラ ボク メリッサ 幸ぜな家族になろうせ」",
+      "text": "「贝拉、我、梅丽莎，组成幸福的一家人吧。」"
+    },
+    {
+      "name": "CHA_PATROL_CAS_4",
+      "src": "「眺ずかしがらないで出ておいで……」",
+      "text": "「别害羞，出来吧……」"
+    },
+    {
+      "name": "CHA_PATROL_CAS_5",
+      "src": "「サムめ 自分だけうまく逃げやがった……くそっ！……まあでも今 意外とイイ感じだけどな……」",
+      "text": "「山姆那家伙，就自己一个人溜得倒快……可恶！\n……不过嘛，现在倒意外地感觉还不错……」"
+    },
+    {
+      "name": "CHA_PCDAMAGE_MUS_2",
+      "src": "「いやっ！」",
+      "text": "「不要！」"
+    },
+    {
+      "name": "CHA_PCDAMAGE_MUS_3",
+      "src": "「マミィ！」",
+      "text": "「妈妈！」"
+    },
+    {
+      "name": "CHA_PCDIE_MUS_1",
+      "src": "「やめて！ いやあ一一！」",
+      "text": "「住手！不要啊——！」"
+    },
+    {
+      "name": "CHA_PCDIE_MUS_2",
+      "src": "「マミィ一一！」",
+      "text": "「妈妈——！」"
+    },
+    {
+      "name": "CHA_PCDYING_MUS_0",
+      "src": "「逃げよう！ 早く！」",
+      "text": "「快逃！快点！」"
+    },
+    {
+      "name": "CHA_PCDYING_MUS_1",
+      "src": "「死なないで！」",
+      "text": "「不要死！」"
+    },
+    {
+      "name": "CHA_PCDYING_MUS_2",
+      "src": "「……だいじようぶ？」",
+      "text": "「……你没事吧？」"
+    },
+    {
+      "name": "CHA_PCDYING_MUS_3",
+      "src": "「マミィ！」",
+      "text": "「妈妈！」"
+    },
+    {
+      "name": "CHA_PCGETITEM_MUS_0",
+      "src": "「それ使えるの？」",
+      "text": "「那个能用吗？」"
+    },
+    {
+      "name": "CHA_PCMOUNT_MUS_1",
+      "src": "「あっち行け！」",
+      "text": "「滚开！」"
+    },
+    {
+      "name": "CHA_PCMOUNT_MUS_3",
+      "src": "「マミィ！」",
+      "text": "「妈妈！」"
+    },
+    {
+      "name": "CHA_PCSWITCH_MUS_0",
+      "src": "「マミィ それどうするの？」",
+      "text": "「妈妈，那个要怎么用？」"
+    },
+    {
+      "name": "CHA_SCREAM_REP_0",
+      "src": "「ベラ！」",
+      "text": "「贝拉！」"
+    },
+    {
+      "name": "CHA_SCREAM_REP_1",
+      "src": "「いやっ！ ベラ！」",
+      "text": "「不要！贝拉！」"
+    },
+    {
+      "name": "CHA_SCREAM_REP_2",
+      "src": "「嫌……嫌！ お願い！」",
+      "text": "不要……不要！求你！"
+    },
+    {
+      "name": "CHA_SQIDLE01_REP",
+      "src": "「何でこんなとこに来ちやったの……？」",
+      "text": "「为什么会来到这种地方……？」"
+    },
+    {
+      "name": "CHA_ST04EVENT2_CAS_0",
+      "src": "「いたっ！」",
+      "text": "「好痛！」"
+    },
+    {
+      "name": "CHA_ST04EVENT2_CAS_1",
+      "src": "「ベラ～！」",
+      "text": "「贝拉～！」"
+    },
+    {
+      "name": "CHA_ST04EVENT2_CAS_2",
+      "src": "「ここにいたのかい お姪さま……」",
+      "text": "「原来你在这儿啊，小侄女……」"
+    },
+    {
+      "name": "CHA_ST04EVENT4_SK2_0",
+      "src": "「開けなさい！ 早く開けなさいってば！」",
+      "text": "「开门！快点开门啊！」"
+    },
+    {
+      "name": "CHA_ST04EVENT4_SK2_1",
+      "src": "「誰かあ～！ 誰かあ開けてえ～！ 誰かあ～！」",
+      "text": "「有人吗～！谁来开开门啊～！有人吗～！」"
+    },
+    {
+      "name": "CHA_ST14EVEMT1_REP",
+      "src": "「ここから動いちや駄目よ？」",
+      "text": "「别离开这里哦？」"
+    },
+    {
+      "name": "CHA_ST14EVEMT2_REP",
+      "src": "「ベラ！」",
+      "text": "「贝拉！」"
+    },
+    {
+      "name": "CHA_ST14EVEMT3_REP_0",
+      "src": "「何かドアに引っかかってる……」",
+      "text": "「有什么东西卡在门里……」"
+    },
+    {
+      "name": "CHA_ST14EVEMT3_REP_1",
+      "src": "「何か挟まってる……もうっ！」",
+      "text": "有什么东西夹住了……真的！"
+    },
+    {
+      "name": "CHA_ST14EVEMT3_REP_2",
+      "src": "「このままじや開かない……」",
+      "text": "「这样打不开……」"
+    },
+    {
+      "name": "CHA_ST14EVENT1_CAS_0",
+      "src": "「良かった！二人とも無事だったんだね！」",
+      "text": "「太好了！你们两个都没事！」"
+    },
+    {
+      "name": "CHA_ST14EVENT1_CAS_1",
+      "src": "「メリッサ～！ ここを開けてくれよ！」",
+      "text": "「梅丽莎～！把这打开啊！」"
+    },
+    {
+      "name": "CHA_ST14EVENT1_CAS_2",
+      "src": "「なあ……開けておくれよ……開けろっってば！」",
+      "text": "「喂……给我开开门啊……快开啊！」"
+    },
+    {
+      "name": "CHA_ST14EVENT1_MUS_0",
+      "src": "「いやっ！ あっちいけ！」",
+      "text": "「不要！滚开！」"
+    },
+    {
+      "name": "CHA_ST14EVENT1_MUS_1",
+      "src": "「助けてっ！」",
+      "text": "「救救我！」"
+    },
+    {
+      "name": "CHA_ST14EVENT1_MUS_2",
+      "src": "「マミィ 助けて！ どこ！？」",
+      "text": "「妈妈，救救我！你在哪！？」"
+    },
+    {
+      "name": "CHA_ST14EVENT2_MUS_0",
+      "src": "「早く帰ってきて……ね？」",
+      "text": "「快点回来……好吗？」"
+    },
+    {
+      "name": "CHA_ST14EVENT2_MUS_1",
+      "src": "「マミィ ここ恐いよ……」",
+      "text": "「妈妈，这里好可怕……」"
+    },
+    {
+      "name": "CHA_ST14EVENT2_MUS_2",
+      "src": "「良い子にして待ってるよ」",
+      "text": "「我会乖乖等着的」"
+    },
+    {
+      "name": "CHA_ST14EVENT3_MUS_0",
+      "src": "「マミィ まだかな？」",
+      "text": "「妈妈，还没来吗？」"
+    },
+    {
+      "name": "CHA_ST14EVENT3_MUS_1",
+      "src": "「ここ嫌な感じ……」",
+      "text": "这里感觉好讨厌…"
+    },
+    {
+      "name": "CHA_ST14EVENT3_MUS_2",
+      "src": "「マミィ 早く帰ってきて」",
+      "text": "「妈妈，快点回来」"
+    },
+    {
+      "name": "CHA_ST14EVENT4_MUS",
+      "src": "「マミィ！」",
+      "text": "「妈妈！」"
+    },
+    {
+      "name": "CHA_ST99EVENT1_CAS_0",
+      "src": "「はいチ～ズ～」",
+      "text": "「来，茄子～」"
+    },
+    {
+      "name": "CHA_ST99EVENT1_CAS_1",
+      "src": "「笑っておくれよお～」",
+      "text": "「笑一个嘛～」"
+    },
+    {
+      "name": "CHA_STARTST14_REP_0",
+      "src": "「一体どうなってるの……？」",
+      "text": "「到底发生什么了……？」"
+    },
+    {
+      "name": "CHA_THANKS_MUS_0",
+      "src": "「ふう ありがとう」",
+      "text": "「呼，谢谢你」"
+    },
+    {
+      "name": "CHA_THANKS_MUS_2",
+      "src": "「ふう 急ごう！」",
+      "text": "「呼，快走吧！」"
+    },
+    {
+      "name": "CHA_WAITLONG_MUS_0",
+      "src": "「お家に帰りたいよ」",
+      "text": "「我想回家」"
+    },
+    {
+      "name": "CHA_WAITLONG_MUS_1",
+      "src": "「恐くないもん」",
+      "text": "「才不可怕呢」"
+    },
+    {
+      "name": "CHA_WAITLONG_MUS_2",
+      "src": "「まだなのかなあ？」",
+      "text": "「还没来吗？」"
+    },
+    {
+      "name": "CHA_WAITNEAR_MUS_0",
+      "src": "「どうしてこんなことになったの？」",
+      "text": "「为什么会变成这样？」"
+    },
+    {
+      "name": "CHA_WAITNEAR_MUS_1",
+      "src": "「ダディも大丈夫……だよね？」",
+      "text": "「爸爸也没事……对吧？」"
+    },
+    {
+      "name": "CHA_WAITNEAR_MUS_2",
+      "src": "「おうちに帰りたいよ マミィ」",
+      "text": "「我想回家，妈妈」"
+    },
+    {
+      "name": "DOOR_BLOCKED",
+      "src": "この扉は開かないようだ。",
+      "text": "这扇门似乎打不开。"
+    },
+    {
+      "name": "DOOR_EVENT_LOCKED",
+      "src": "ここに合う鍵を持っていない。",
+      "text": "没有能打开这里的钥匙。"
+    },
+    {
+      "name": "DOOR_INNER_LOCK",
+      "src": "反対側から内鍵が掛かっている。",
+      "text": "内侧从另一头上着锁。"
+    },
+    {
+      "name": "DOOR_INNER_UNLOCKED",
+      "src": "内鍵を開けた。",
+      "text": "打开了内锁。"
+    },
+    {
+      "name": "DOOR_UNLOCKED",
+      "src": "鍵を開けた。",
+      "text": "打开了锁。"
+    },
+    {
+      "name": "ELEVATOR_BLOCK",
+      "src": "動かないようだ。",
+      "text": "好像动不了。"
+    },
+    {
+      "name": "EMPTY_LABEL",
+      "src": "空テキストです",
+      "text": "空文本"
+    },
+    {
+      "name": "EP08_CP4_1_01",
+      "src": "「ベラ おいで！」",
+      "text": "「贝拉，过来！」"
+    },
+    {
+      "name": "EP08_CP4_1_02",
+      "src": "「良い子にして ここでじっとしてママを待ってて ね？」",
+      "text": "「乖乖在这里别动，等妈妈回来，好吗？」"
+    },
+    {
+      "name": "EP08_CP4_1_03",
+      "src": "「マミィ？」",
+      "text": "「妈妈？」"
+    },
+    {
+      "name": "EP08_CP4_3_01",
+      "src": "「ベラ！」",
+      "text": "「贝拉！」"
+    },
+    {
+      "name": "EP08_CP4_3_02",
+      "src": "「ソル？」",
+      "text": "「索尔？」"
+    },
+    {
+      "name": "EP08_CP4_3_03",
+      "src": "「ベラ！ ベラ！ ここにいるんだろうベラ！？」",
+      "text": "「贝拉！贝拉！你在这里对吧，贝拉！？」"
+    },
+    {
+      "name": "EP08_CP4_3_04",
+      "src": "「マミィ！ マミィ！ 早く来て！」",
+      "text": "「妈妈！妈妈！快来！」"
+    },
+    {
+      "name": "EP08_CP4_3_05",
+      "src": "「ベラ！」",
+      "text": "「贝拉！」"
+    },
+    {
+      "name": "EP08_CP4_3_06",
+      "src": "「マミィ！」",
+      "text": "「妈妈！」"
+    },
+    {
+      "name": "EP08_CP4_3_07",
+      "src": "「わかった わかったよ……」",
+      "text": "「知道了，我知道了……」"
+    },
+    {
+      "name": "EP08_CP4_3_08",
+      "src": "「マミィ！」",
+      "text": "「妈妈！」"
+    },
+    {
+      "name": "EP08_CP4_3_09",
+      "src": "「ベラ……ベラ？」",
+      "text": "「贝拉……贝拉？」"
+    },
+    {
+      "name": "EP08_CP4_4_01",
+      "src": "「ベラ 気をつけて」",
+      "text": "「贝拉，小心点」"
+    },
+    {
+      "name": "EP08_CP4_4_02",
+      "src": "「ベラ？」",
+      "text": "「贝拉？」"
+    },
+    {
+      "name": "EP08_CP4_5_01",
+      "src": "「何の鍵だろ？」",
+      "text": "这是啥钥匙？"
+    },
+    {
+      "name": "GET_ARCHIVE2ARCHIVE032",
+      "src": "アーカイブ【JＯＹＬiＮK 一ウルトラネットワークキング一】既に入手済み。",
+      "text": "该档案【JOYLINK -超级网络-】\n已经获得过了。"
+    },
+    {
+      "name": "GET_ARCHIVE2ARCHIVE114",
+      "src": "アーカイブ【エピソード12 チャプター2】既に入手済み。",
+      "text": "该档案【第12集 第2章】\n已经获得过了。"
+    },
+    {
+      "name": "GET_ARCHIVEARCHIVE032",
+      "src": "【JＯＹＬiＮK 一ウルトラネットワークキング一】がアーカイブに追加された。",
+      "text": "【JOYLINK -超级网络-】\n已添加到档案中。"
+    },
+    {
+      "name": "GET_ARCHIVEARCHIVE114",
+      "src": "【エピソード12 チャプター2】がアーカイブに追加された。",
+      "text": "【第12集 第2章】\n已添加到档案中。"
+    },
+    {
+      "name": "GET_ARCHIVE_KEY2ARCHIVE032",
+      "src": "【JＯＹＬiＮK 一ウルトラネットワークキング一】アーカイブ入手の必要行動。既に達成済み。",
+      "text": "【JOYLINK -超级网络-】\n获得档案所需的行动。已经完成过了。"
+    },
+    {
+      "name": "GET_ARCHIVE_KEY2ARCHIVE114",
+      "src": "【エピソード12 チャプター2】アーカイブ入手の必要行動。既に達成済み。",
+      "text": "【第12集 第2章】\n获得档案所需的行动。已经完成过了。"
+    },
+    {
+      "name": "GET_ARCHIVE_KEYARCHIVE032",
+      "src": "【JＯＹＬiＮK 一ウルトラネットワークキング一】アーカイブ入手の必要行動を達成した。",
+      "text": "达成了获得【JOYLINK -超级网络-】\n档案所需的行动。"
+    },
+    {
+      "name": "GET_ARCHIVE_KEYARCHIVE114",
+      "src": "【エピソード12 チャプター2】アーカイブ入手の必要行動を達成した。",
+      "text": "达成了获得【第12集 第2章】\n档案所需的行动。"
+    },
+    {
+      "name": "GET_ITEMNAME_I_KEY_07",
+      "src": "【電源室の鍵】を入手した。",
+      "text": "获得了【电源室的钥匙】。"
+    },
+    {
+      "name": "GET_ITEMNAME_I_L_99",
+      "src": "【懐中電灯】を入手した。",
+      "text": "获得了【手电筒】。"
+    },
+    {
+      "name": "GET_ITEMNAME_I_W_BK_01",
+      "src": "【一升瓶】を入手した。",
+      "text": "获得了【一升瓶】。"
+    },
+    {
+      "name": "GET_ITEMNAME_I_W_BK_03",
+      "src": "【尿瓶】を入手した。",
+      "text": "获得了【尿瓶】。"
+    },
+    {
+      "name": "GET_ITEMNAME_I_W_BK_04",
+      "src": "【蛍光灯】を入手した。",
+      "text": "获得了【蓄电池灯】。"
+    },
+    {
+      "name": "GET_ITEMNAME_I_W_BK_05",
+      "src": "【ウイスキーボトル】を入手した。",
+      "text": "获得了【威士忌酒瓶】。"
+    },
+    {
+      "name": "GET_ITEMNAME_I_W_HH_08",
+      "src": "【テレビカメラ】を入手した。",
+      "text": "获得了【电视摄像机】。"
+    },
+    {
+      "name": "GET_ITEMNAME_I_W_LH_03",
+      "src": "【火桶き棒】を入手した。",
+      "text": "获得了【拨火棒】。"
+    },
+    {
+      "name": "GET_ITEMNAME_I_W_LH_05",
+      "src": "【察内板】を入手した。",
+      "text": "获得了【察内板】。"
+    },
+    {
+      "name": "GET_ITEMNAME_I_W_LH_05",
+      "src": "【察内板】を入手した。",
+      "text": "获得了【察内板】。"
+    },
+    {
+      "name": "GET_ITEMNAME_I_W_LK_01",
+      "src": "【メス】を入手した。",
+      "text": "获得了【手术刀】。"
+    },
+    {
+      "name": "NO_TEXT_LABEL",
+      "src": "ＮＯ＿ＴＥＸＴ＿ＬＡＢＥＬ",
+      "text": "NO_TEXT_LABEL"
+    },
+    {
+      "name": "S14_ACTION_COMMAND020",
+      "src": "【電源を入れる",
+      "text": "【打开电源"
+    },
+    {
+      "name": "S14_ACTION_COMMAND060",
+      "src": "【バルブを回す",
+      "text": "【转动阀门"
+    },
+    {
+      "name": "S14_ACTION_COMMAND080",
+      "src": "【出る",
+      "text": "【出去"
+    },
+    {
+      "name": "S14_ACTION_COMMAND100",
+      "src": "【一人で出る",
+      "text": "【独自出去"
+    },
+    {
+      "name": "S14_ACTION_COMMAND120",
+      "src": "【入る",
+      "text": "【进入"
+    },
+    {
+      "name": "S14_MESSAGE001",
+      "src": "自動ドアが開かない。電力が供給されていないようだ。",
+      "text": "自动门打不开。\n似乎没有供电。"
+    },
+    {
+      "name": "S14_MESSAGE002",
+      "src": "ここからベラを一緒に連れて行くのは無理のようだ。",
+      "text": "带着贝拉从这里一起进去似乎不行。"
+    },
+    {
+      "name": "S14_MESSAGE021",
+      "src": "電力は正常に供給されている。",
+      "text": "电力供应正常。"
+    },
+    {
+      "name": "S14_MESSAGE031",
+      "src": "何かがつっかえていて、自動ドアの動きが阻まれている。外に出て取り外さなければ……。",
+      "text": "有什么东西卡住了，挡住了自动门的动作。\n得出去把它取下来……。"
+    },
+    {
+      "name": "S14_MESSAGE061",
+      "src": "水の流れている音がする。",
+      "text": "有水流的声音。"
+    },
+    {
+      "name": "S99_AREA_OVER1",
+      "src": "戻る訳にはいかない。",
+      "text": "不能回头。"
+    },
+    {
+      "name": "S99_AREA_OVER10",
+      "src": "サムを置いていく訳にはいかない……。",
+      "text": "不能丢下山姆……。"
+    },
+    {
+      "name": "S99_AREA_OVER11",
+      "src": "この先には用がない……。",
+      "text": "前方没有事情要办……。"
+    },
+    {
+      "name": "S99_AREA_OVER2",
+      "src": "この先は危険だ……。",
+      "text": "前面很危险……。"
+    },
+    {
+      "name": "S99_AREA_OVER3",
+      "src": "目的を果たさなければならない。",
+      "text": "必须达成目的。"
+    },
+    {
+      "name": "S99_AREA_OVER4",
+      "src": "美耶古を置いていく訳にはいかない……。",
+      "text": "不能丢下美耶古……。"
+    },
+    {
+      "name": "S99_AREA_OVER5",
+      "src": "メリッサを置いていく訳にはいかない……。",
+      "text": "不能丢下梅丽莎……。"
+    },
+    {
+      "name": "S99_AREA_OVER6",
+      "src": "アマナを置いていく訳にはいかない……。",
+      "text": "不能丢下阿玛娜……。"
+    },
+    {
+      "name": "S99_AREA_OVER7",
+      "src": "ベラを置いていく訳にはいかない……。",
+      "text": "不能丢下贝拉……。"
+    },
+    {
+      "name": "S99_AREA_OVER8",
+      "src": "ベラを探さなければ……。",
+      "text": "必须去找贝拉……。"
+    },
+    {
+      "name": "S99_AREA_OVER9",
+      "src": "技が折れている。ここからは戻れそうにない。",
+      "text": "树枝断了。从这里似乎回不去了。"
+    },
+    {
+      "name": "S99_BUSY",
+      "src": "今はそれどころではない。",
+      "text": "现在不是做这个的时候。"
+    },
+    {
+      "name": "S99_MESSAGE001",
+      "src": "扉は固く閉じられている。中からは物音も聞こえない。",
+      "text": "门紧闭着。\n里面也听不到任何声响。"
+    },
+    {
+      "name": "S99_MESSAGE002",
+      "src": "番号を間違えたようだ。",
+      "text": "好像拨错号码了。"
+    },
+    {
+      "name": "S99_MESSAGE003",
+      "src": "話し中のようだ。",
+      "text": "好像正在通话中。"
+    },
+    {
+      "name": "S99_NPCOUTOFRANGE",
+      "src": "声が届かない。",
+      "text": "声音传达不到。"
+    },
+    {
+      "name": "SUB_COM_CANCEL_TRAP",
+      "src": "罠解除",
+      "text": "拆陷阱"
+    },
+    {
+      "name": "SUB_COM_COME",
+      "src": "「来い」",
+      "text": "「过来」"
+    },
+    {
+      "name": "SUB_COM_HIDE",
+      "src": "「隠れろ」",
+      "text": "「躲起来」"
+    },
+    {
+      "name": "SUB_COM_LIGHT1",
+      "src": "懐中電灯ＯＮ",
+      "text": "手电筒ON"
+    },
+    {
+      "name": "SUB_COM_LIGHT2",
+      "src": "懐中電灯ＯＦＦ",
+      "text": "手电筒OFF"
+    },
+    {
+      "name": "SUB_COM_NO",
+      "src": "いいえ",
+      "text": "否"
+    },
+    {
+      "name": "SUB_COM_SET_TRAP",
+      "src": "罠設置",
+      "text": "设陷阱"
+    },
+    {
+      "name": "SUB_COM_SHOUT",
+      "src": "叫ぶ",
+      "text": "呼喊"
+    },
+    {
+      "name": "SUB_COM_SMOKE",
+      "src": "発煙筒",
+      "text": "发烟筒"
+    },
+    {
+      "name": "SUB_COM_WAIT",
+      "src": "「待て」",
+      "text": "「等待」"
+    },
+    {
+      "name": "SUB_COM_YES",
+      "src": "はい",
+      "text": "是"
+    }
+  ]
+}

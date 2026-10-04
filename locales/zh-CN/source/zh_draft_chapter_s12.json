@@ -1,0 +1,675 @@
+{
+  "note": "s12 章节系统文本简体中文草稿（AI 起草，待用户审校）。已跳过第二张表未解码的 GUIDE/TUTORIAL 条目。◇为译码缺字，※ 标注不确定处。",
+  "glossary": {
+    "ハワート・ライト": "霍华德·莱特",
+    "メリッサ・ゲイル": "梅丽莎·盖尔",
+    "サム・モンロー": "山姆·门罗",
+    "ベラ・モンロー": "贝拉·门罗",
+    "ソル・ジャクソン": "索尔·杰克逊",
+    "美耶古": "美耶古",
+    "アマナ": "阿玛娜",
+    "羽生蛇村": "羽生蛇村"
+  },
+  "lines": [
+    {
+      "name": "AC_CHANGENAME_I_B_02",
+      "src": "【【狩猟用狙撃銃の弾】に持ち替える",
+      "text": "【切换为【狩猎用狙击枪子弹】"
+    },
+    {
+      "name": "AC_CHANGENAME_I_EV_10",
+      "src": "【【缶切り】に持ち替える",
+      "text": "【切换为【开罐器】"
+    },
+    {
+      "name": "AC_CHANGENAME_I_L_99",
+      "src": "【【懐中電灯】に持ち替える",
+      "text": "【切换为【手电筒】"
+    },
+    {
+      "name": "AC_CHANGENAME_I_W_HH_06",
+      "src": "【【バール】に持ち替える",
+      "text": "【切换为【撬棍】"
+    },
+    {
+      "name": "AC_CHANGENAME_I_W_LH_01",
+      "src": "【【スバナ】に持ち替える",
+      "text": "【切换为【扳手】"
+    },
+    {
+      "name": "AC_CHANGENAME_I_W_LK_03",
+      "src": "【【ドス】に持ち替える",
+      "text": "【切换为【短刀】"
+    },
+    {
+      "name": "AC_CHANGENAME_I_W_SG_03",
+      "src": "【【狩猟用狙撃銃】に持ち替える",
+      "text": "【切换为【狩猎用狙击枪】"
+    },
+    {
+      "name": "AC_CHECK",
+      "src": "【調べる",
+      "text": "【调查"
+    },
+    {
+      "name": "AC_DOOR_CLOSE",
+      "src": "【閉める",
+      "text": "【关闭"
+    },
+    {
+      "name": "AC_DOOR_HOLD",
+      "src": "〈长按〉押さえる",
+      "text": "长按 按住"
+    },
+    {
+      "name": "AC_DOOR_INNER_LOCK",
+      "src": "〈长按〉内鍵をかける",
+      "text": "长按 上内锁"
+    },
+    {
+      "name": "AC_DOOR_INNER_UNLOCK",
+      "src": "【内鍵を開ける",
+      "text": "【打开内锁"
+    },
+    {
+      "name": "AC_DOOR_OPEN",
+      "src": "【開ける",
+      "text": "【打开"
+    },
+    {
+      "name": "AC_DOOR_UNLOCK",
+      "src": "【鍵を開ける",
+      "text": "【开锁"
+    },
+    {
+      "name": "AC_ELEVATOR_CALL",
+      "src": "【エレベータを呼ぶ",
+      "text": "【呼叫电梯"
+    },
+    {
+      "name": "AC_ELEVATOR_DOWN",
+      "src": "【下へ",
+      "text": "【向下"
+    },
+    {
+      "name": "AC_ELEVATOR_MOVE",
+      "src": "【ボタンを押す",
+      "text": "【按下按钮"
+    },
+    {
+      "name": "AC_ELEVATOR_UP",
+      "src": "【上へ",
+      "text": "【向上"
+    },
+    {
+      "name": "AC_EXIT",
+      "src": "【出る",
+      "text": "【出去"
+    },
+    {
+      "name": "AC_HIDE",
+      "src": "【隠れる",
+      "text": "【躲藏"
+    },
+    {
+      "name": "AC_JUMP_TRUCK",
+      "src": "【飛び降りる",
+      "text": "【跳下"
+    },
+    {
+      "name": "AC_LIFTUP",
+      "src": "【引き上げる",
+      "text": "【拉起"
+    },
+    {
+      "name": "AC_PICKUP_ANTENNA",
+      "src": "【アンテナを投げる",
+      "text": "【投掷天线"
+    },
+    {
+      "name": "AC_PICK_UP2",
+      "src": "【拾う",
+      "text": "【拾取"
+    },
+    {
+      "name": "AC_PICK_UPNAME_I_B_02",
+      "src": "【【狩猟用狙撃銃の弾】を拾う",
+      "text": "【拾取【狩猎用狙击枪子弹】"
+    },
+    {
+      "name": "AC_PICK_UPNAME_I_EV_10",
+      "src": "【【缶切り】を拾う",
+      "text": "【拾取【开罐器】"
+    },
+    {
+      "name": "AC_PICK_UPNAME_I_L_99",
+      "src": "【【懐中電灯】を拾う",
+      "text": "【拾取【手电筒】"
+    },
+    {
+      "name": "AC_PICK_UPNAME_I_W_HH_06",
+      "src": "【【バール】を拾う",
+      "text": "【拾取【撬棍】"
+    },
+    {
+      "name": "AC_PICK_UPNAME_I_W_LH_01",
+      "src": "【【スバナ】を拾う",
+      "text": "【拾取【扳手】"
+    },
+    {
+      "name": "AC_PICK_UPNAME_I_W_LK_03",
+      "src": "【【ドス】を拾う",
+      "text": "【拾取【短刀】"
+    },
+    {
+      "name": "AC_PICK_UPNAME_I_W_SG_03",
+      "src": "【【狩猟用狙撃銃】を拾う",
+      "text": "【拾取【狩猎用狙击枪】"
+    },
+    {
+      "name": "AC_PUSH_TRUCK",
+      "src": "〈长按〉トロッコを押す",
+      "text": "长按 推矿车"
+    },
+    {
+      "name": "AC_RIDE_TRUCK",
+      "src": "【飛び乗る",
+      "text": "【跳上"
+    },
+    {
+      "name": "AC_ROLL_LEVER",
+      "src": "〈长按〉レバーを回す",
+      "text": "长按 转动拉杆"
+    },
+    {
+      "name": "CHA_BATTLE_GKK_0",
+      "src": "「娘ハドコダ……？」",
+      "text": "「女儿在哪儿……？」"
+    },
+    {
+      "name": "CHA_BATTLE_GKK_1",
+      "src": "「楽シイナア！」",
+      "text": "「好开心啊！」"
+    },
+    {
+      "name": "CHA_CAUTION1_GKK_0",
+      "src": "「ドコダイ？」",
+      "text": "「在哪儿？」"
+    },
+    {
+      "name": "CHA_CAUTION1_GKK_1",
+      "src": "「ベラ……オ前カイ？」",
+      "text": "「贝拉……是你吗？」"
+    },
+    {
+      "name": "CHA_CAUTION1_GKK_2",
+      "src": "「返事シテクレヨ……」",
+      "text": "「回个话啊……」"
+    },
+    {
+      "name": "CHA_CAUTION1_KAF_0",
+      "src": "「ナア～ニィ～？」",
+      "text": "「哪～儿～？」"
+    },
+    {
+      "name": "CHA_CAUTION1_KAF_1",
+      "src": "「誰カシラア？」",
+      "text": "「是谁呀～？」"
+    },
+    {
+      "name": "CHA_CAUTION1_KAF_2",
+      "src": "「ニオイ ガ スルワネエ～」",
+      "text": "「有东西在动呢～」"
+    },
+    {
+      "name": "CHA_CAUTION1_KMF_0",
+      "src": "「ソコニイルノオ？」",
+      "text": "「那边有人吗？」"
+    },
+    {
+      "name": "CHA_CAUTION1_KMF_1",
+      "src": "「ドコニイルノオ？」",
+      "text": "「哪里有人吗？」"
+    },
+    {
+      "name": "CHA_CAUTION1_KMF_2",
+      "src": "「誰カシラア？」",
+      "text": "「是谁呀？」"
+    },
+    {
+      "name": "CHA_CAUTION1_KMM_0",
+      "src": "「誰ダア？」",
+      "text": "「是谁啊？」"
+    },
+    {
+      "name": "CHA_CAUTION1_KMM_1",
+      "src": "「ドコニイルウ？」",
+      "text": "「在哪儿？」"
+    },
+    {
+      "name": "CHA_CAUTION1_KMM_2",
+      "src": "「今行クジオ！」",
+      "text": "「这就过去！」"
+    },
+    {
+      "name": "CHA_CAUTION2_GKK_0",
+      "src": "「スバシッコイナ」",
+      "text": "「真机灵啊」"
+    },
+    {
+      "name": "CHA_CAUTION2_GKK_1",
+      "src": "「ヤレヤレ……」",
+      "text": "「真是的……」"
+    },
+    {
+      "name": "CHA_CAUTION2_GKK_2",
+      "src": "「マタ カクレンボ カイ？」",
+      "text": "「又要玩捉迷藏吗？」"
+    },
+    {
+      "name": "CHA_CAUTION2_KAF_0",
+      "src": "「ネエ……ドコナノオ？」",
+      "text": "「喂……哪里有人吗？」"
+    },
+    {
+      "name": "CHA_CAUTION2_KAF_1",
+      "src": "「帰ッテ来テヨオ～」",
+      "text": "「快回来啊～」"
+    },
+    {
+      "name": "CHA_CAUTION2_KAF_2",
+      "src": "「淋シイワア～」",
+      "text": "「好寂寞啊～」"
+    },
+    {
+      "name": "CHA_CAUTION2_KMF_0",
+      "src": "「ドコニ行ッタノヨオ！」",
+      "text": "「人去哪儿了！」"
+    },
+    {
+      "name": "CHA_CAUTION2_KMF_1",
+      "src": "「ドコ隠レタノヨオ！」",
+      "text": "「藏哪儿了！」"
+    },
+    {
+      "name": "CHA_CAUTION2_KMF_2",
+      "src": "「戻ッテキナサイヨオ！」",
+      "text": "「快回来！」"
+    },
+    {
+      "name": "CHA_CAUTION2_KMM_0",
+      "src": "「ドコダッ！ ドコダッ」",
+      "text": "「在哪儿！在哪儿！」"
+    },
+    {
+      "name": "CHA_CAUTION2_KMM_1",
+      "src": "「出テ来イ！ 出テ来イ！」",
+      "text": "「出来！出来！」"
+    },
+    {
+      "name": "CHA_CAUTION2_KMM_2",
+      "src": "「隠レテモ無駄ダジオ！」",
+      "text": "「躲着也没用哦！」"
+    },
+    {
+      "name": "CHA_FINISH_SHU_0",
+      "src": "「くたばれ！」",
+      "text": "「去死吧！」"
+    },
+    {
+      "name": "CHA_FINISH_SHU_1",
+      "src": "「二度と起き上がるなよ」",
+      "text": "「别再爬起来了。」"
+    },
+    {
+      "name": "CHA_FINISH_SHU_2",
+      "src": "「どうだっ！？」",
+      "text": "「怎么样！？」"
+    },
+    {
+      "name": "CHA_FINISH_SHU_3",
+      "src": "「くそったれ！」",
+      "text": "「混蛋！」"
+    },
+    {
+      "name": "CHA_FINISH_SHU_4",
+      "src": "「そのまま消えてくれ……」",
+      "text": "「就那样消失吧……」"
+    },
+    {
+      "name": "CHA_PATROL_GKK_0",
+      "src": "「ベラ……メリッサ……」",
+      "text": "「贝拉……梅丽莎……」"
+    },
+    {
+      "name": "CHA_PATROL_GKK_1",
+      "src": "「ダディガ助ケニキタヨ」",
+      "text": "「爸爸来救你们了。」"
+    },
+    {
+      "name": "CHA_PATROL_GKK_2",
+      "src": "「シャレニナラン」",
+      "text": "这可不是闹着玩"
+    },
+    {
+      "name": "CHA_PATROL_GKK_3",
+      "src": "「全テノ力ガ……ココニ」",
+      "text": "「所有人都在……这里」"
+    },
+    {
+      "name": "CHA_PATROL_GKK_4",
+      "src": "「素晴ラシイ世界ダ」",
+      "text": "真是美好的世界啊"
+    },
+    {
+      "name": "CHA_SCREAM_SHU_0",
+      "src": "「お おい！」",
+      "text": "「喂、喂！」"
+    },
+    {
+      "name": "CHA_SCREAM_SHU_1",
+      "src": "「おい！ しっかりしてくれ！」",
+      "text": "「喂！振作点！」"
+    },
+    {
+      "name": "CHA_SCREAM_SHU_2",
+      "src": "「ちくしよう！ 何で……！？」",
+      "text": "「可恶！为什么……！？」"
+    },
+    {
+      "name": "CHA_SCREAM_SHU_3",
+      "src": "「ミヤコ！」",
+      "text": "「美耶古！」"
+    },
+    {
+      "name": "CHA_SPEAK_MSB_0",
+      "src": "「お願い……誰か来てよ……」",
+      "text": "「求你了……谁来啊……」"
+    },
+    {
+      "name": "CHA_SPEAK_MSB_1",
+      "src": "「ダディ……マミィ……」",
+      "text": "「爸爸……妈妈……」"
+    },
+    {
+      "name": "CHA_STARTST12_SHU_0",
+      "src": "「さっきのは……何なんだ？」",
+      "text": "「刚才那是……什么？」"
+    },
+    {
+      "name": "CHA_STARTST12_SHU_1",
+      "src": "「俺は……生きているのか……？」",
+      "text": "「我……还活着吗……？」"
+    },
+    {
+      "name": "CHA_STARTST12_SHU_2",
+      "src": "「ミヤコ……」",
+      "text": "「美耶古……」"
+    },
+    {
+      "name": "DOOR_BLOCKED",
+      "src": "この扉は開かないようだ。",
+      "text": "这扇门似乎打不开。"
+    },
+    {
+      "name": "DOOR_EVENT_LOCKED",
+      "src": "ここに合う鍵を持っていない。",
+      "text": "没有能打开这里的钥匙。"
+    },
+    {
+      "name": "DOOR_INNER_LOCK",
+      "src": "反対側から内鍵が掛かっている。",
+      "text": "内侧上了锁。"
+    },
+    {
+      "name": "DOOR_INNER_UNLOCKED",
+      "src": "内鍵を開けた。",
+      "text": "打开了内锁。"
+    },
+    {
+      "name": "DOOR_UNLOCKED",
+      "src": "鍵を開けた。",
+      "text": "打开了锁。"
+    },
+    {
+      "name": "ELEVATOR_BLOCK",
+      "src": "動かないようだ。",
+      "text": "似乎不动。"
+    },
+    {
+      "name": "EMPTY_LABEL",
+      "src": "空テキストです",
+      "text": "空文本"
+    },
+    {
+      "name": "EP07_CP4_1_01",
+      "src": "「参った 参った……」",
+      "text": "「服了，服了……」"
+    },
+    {
+      "name": "EP07_CP4_1_02",
+      "src": "「娘が又いなくなっちまったシャレにならん」",
+      "text": "「女儿又不见了，\n这可不是闹着玩的。」"
+    },
+    {
+      "name": "GET_ARCHIVE2ARCHIVE029",
+      "src": "アーカイブ【うらないのカンヅメ】既に入手済み。",
+      "text": "该档案【占卜罐头】\n已经获得过了。"
+    },
+    {
+      "name": "GET_ARCHIVEARCHIVE029",
+      "src": "【うらないのカンヅメ】がアーカイブに追加された。",
+      "text": "【占卜罐头】\n已添加到档案中。"
+    },
+    {
+      "name": "GET_ARCHIVE_KEY2ARCHIVE029",
+      "src": "【うらないのカンヅメ】アーカイブ入手の必要行動。既に達成済み。",
+      "text": "【占卜罐头】\n获得档案所需的行动。已经完成过了。"
+    },
+    {
+      "name": "GET_ARCHIVE_KEYARCHIVE029",
+      "src": "【うらないのカンヅメ】アーカイブ入手の必要行動を達成した。",
+      "text": "达成了获得【占卜罐头】\n档案所需的行动。"
+    },
+    {
+      "name": "GET_ITEMNAME_I_B_02",
+      "src": "【狩猟用狙撃銃の弾】を入手した。",
+      "text": "获得了【猎用狙击枪的子弹】。"
+    },
+    {
+      "name": "GET_ITEMNAME_I_EV_10",
+      "src": "【缶切り】を入手した。",
+      "text": "获得了【开罐器】。"
+    },
+    {
+      "name": "GET_ITEMNAME_I_L_99",
+      "src": "【懐中電灯】を入手した。",
+      "text": "获得了【手电筒】。"
+    },
+    {
+      "name": "GET_ITEMNAME_I_W_HH_06",
+      "src": "【バール】を入手した。",
+      "text": "获得了【撬棍】。"
+    },
+    {
+      "name": "GET_ITEMNAME_I_W_LH_01",
+      "src": "【スバナ】を入手した。",
+      "text": "获得了【扳手】。"
+    },
+    {
+      "name": "GET_ITEMNAME_I_W_LK_03",
+      "src": "【ドス】を入手した。",
+      "text": "获得了【短刀】。"
+    },
+    {
+      "name": "GET_ITEMNAME_I_W_SG_03",
+      "src": "【狩猟用狙撃銃】を入手した。",
+      "text": "获得了【猎用狙击枪】。"
+    },
+    {
+      "name": "NO_TEXT_LABEL",
+      "src": "ＮＯ＿ＴＥＸＴ＿ＬＡＢＥＬ",
+      "text": "NO_TEXT_LABEL"
+    },
+    {
+      "name": "S12_AC_CUT",
+      "src": "【缶を開ける",
+      "text": "【开罐"
+    },
+    {
+      "name": "S12_AC_PUSH",
+      "src": "【押す",
+      "text": "【推"
+    },
+    {
+      "name": "S12_MESSAGE002",
+      "src": "「うらない」と書かれた缶詰が放置されている。缶切りがないので開けられない。",
+      "text": "写着「占卜」的罐头被放在那里。\n因为没有开罐器，打不开。"
+    },
+    {
+      "name": "S12_MESSAGE004",
+      "src": "占いの結果が入っている。",
+      "text": "里面装着占卜的结果。"
+    },
+    {
+      "name": "S12_MESSAGE005",
+      "src": "錆びた南京錠だ。衝撃を与えれば壊ぜそうだ。",
+      "text": "生锈的挂锁。\n似乎只要弄坏锁就能打开。"
+    },
+    {
+      "name": "S99_AREA_OVER1",
+      "src": "戻る訳にはいかない。",
+      "text": "不能回头。"
+    },
+    {
+      "name": "S99_AREA_OVER10",
+      "src": "サムを置いていく訳にはいかない……。",
+      "text": "不能丢下山姆……。"
+    },
+    {
+      "name": "S99_AREA_OVER11",
+      "src": "この先には用がない……。",
+      "text": "前方没有事情要办……。"
+    },
+    {
+      "name": "S99_AREA_OVER2",
+      "src": "この先は危険だ……。",
+      "text": "前面很危险……。"
+    },
+    {
+      "name": "S99_AREA_OVER3",
+      "src": "目的を果たさなければならない。",
+      "text": "必须达成目的。"
+    },
+    {
+      "name": "S99_AREA_OVER4",
+      "src": "美耶古を置いていく訳にはいかない……。",
+      "text": "不能丢下美耶古……。"
+    },
+    {
+      "name": "S99_AREA_OVER5",
+      "src": "メリッサを置いていく訳にはいかない……。",
+      "text": "不能丢下梅丽莎……。"
+    },
+    {
+      "name": "S99_AREA_OVER6",
+      "src": "アマナを置いていく訳にはいかない……。",
+      "text": "不能丢下阿玛娜……。"
+    },
+    {
+      "name": "S99_AREA_OVER7",
+      "src": "ベラを置いていく訳にはいかない……。",
+      "text": "不能丢下贝拉……。"
+    },
+    {
+      "name": "S99_AREA_OVER8",
+      "src": "ベラを探さなければ……。",
+      "text": "必须去找贝拉……。"
+    },
+    {
+      "name": "S99_AREA_OVER9",
+      "src": "技が折れている。ここからは戻れそうにない。",
+      "text": "树枝断了。从这里似乎回不去了。"
+    },
+    {
+      "name": "S99_BUSY",
+      "src": "今はそれどころではない。",
+      "text": "现在不是做这个的时候。"
+    },
+    {
+      "name": "S99_MESSAGE001",
+      "src": "扉は固く閉じられている。中からは物音も聞こえない。",
+      "text": "门紧闭着。\n里面也听不到任何声响。"
+    },
+    {
+      "name": "S99_MESSAGE002",
+      "src": "番号を間違えたようだ。",
+      "text": "好像拨错号码了。"
+    },
+    {
+      "name": "S99_MESSAGE003",
+      "src": "話し中のようだ。",
+      "text": "好像正在通话中。"
+    },
+    {
+      "name": "S99_NPCOUTOFRANGE",
+      "src": "声が届かない。",
+      "text": "声音传达不到。"
+    },
+    {
+      "name": "SUB_COM_CANCEL_TRAP",
+      "src": "罠解除",
+      "text": "拆陷阱"
+    },
+    {
+      "name": "SUB_COM_COME",
+      "src": "「来い」",
+      "text": "「过来」"
+    },
+    {
+      "name": "SUB_COM_HIDE",
+      "src": "「隠れろ」",
+      "text": "「躲起来」"
+    },
+    {
+      "name": "SUB_COM_LIGHT1",
+      "src": "懐中電灯ＯＮ",
+      "text": "手电筒ON"
+    },
+    {
+      "name": "SUB_COM_LIGHT2",
+      "src": "懐中電灯ＯＦＦ",
+      "text": "手电筒OFF"
+    },
+    {
+      "name": "SUB_COM_NO",
+      "src": "いいえ",
+      "text": "否"
+    },
+    {
+      "name": "SUB_COM_SET_TRAP",
+      "src": "罠設置",
+      "text": "设陷阱"
+    },
+    {
+      "name": "SUB_COM_SHOUT",
+      "src": "叫ぶ",
+      "text": "呼喊"
+    },
+    {
+      "name": "SUB_COM_SMOKE",
+      "src": "発煙筒",
+      "text": "发烟筒"
+    },
+    {
+      "name": "SUB_COM_WAIT",
+      "src": "「待て」",
+      "text": "「等待」"
+    },
+    {
+      "name": "SUB_COM_YES",
+      "src": "はい",
+      "text": "是"
+    }
+  ]
+}

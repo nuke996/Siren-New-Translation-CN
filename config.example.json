@@ -1,0 +1,25 @@
+﻿{
+  "_comment": "Copy this file to config.local.json and edit the paths. config.local.json is git-ignored. If no config.local.json exists, the tools fall back to the original developer paths (legacy mode).",
+
+  "_locale": "Target locale directory under locales/.",
+  "locale": "zh-CN",
+
+  "_gameRoot": "Root of an extracted/decrypted disc image: the folder that CONTAINS PS3_GAME/ and PS3_DISC.SFB. The tools read original game data from <gameRoot>/PS3_GAME/USRDIR/sirenx/data.",
+  "gameRoot": "D:/path/to/disc-root",
+
+  "_hddData": "RPCS3 HDD install data dir (dev_hdd0/game/BCJS30020/USRDIR/sirenx/data). Required for deployment and for regenerating chapter 9. Optional for pure build.",
+  "hddData": "D:/path/to/rpcs3/dev_hdd0/game/BCJS30020/USRDIR/sirenx/data",
+
+  "_workDir": "Build workspace. Leave empty to use <repo>/work. Copy locales/<locale>/work/* here before a portable build (see BUILDING.md).",
+  "workDir": "",
+
+  "_mirrorDir": "Hardlink mirror of the disc tree used for dual-write deployment. Leave empty for <repo>/build/mirror/...",
+  "mirrorDir": "",
+
+  "_distDir": "Output directory for the repacked disc data (a container that receives USRDIR/sirenx/data). Leave empty for <repo>/dist.",
+  "distDir": "",
+
+  "_font": "Recorded for reference only. The effective font is set by `build.ps1 -Task rebuild -Font <name>` (writes work/font_cfg.json) or the ZH_FONT env var.",
+  "font": "SimHei",
+  "fontBold": 0
+}

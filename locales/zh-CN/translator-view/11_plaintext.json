@@ -1,0 +1,163 @@
+{
+  "_kind": "plaintext",
+  "_note": "UTF-8 纯文本容器（走全局字库 font01.dds 渲染，不是图集）。jp=原文，zh=现用译文。改 zh 即可；行数请保持一致。",
+  "_how_to_edit": "只修改每条记录的 \"zh\" 字段（jp/ref/meta 请勿改）。保存后运行 导入汉化.bat 即可重新生成并部署；运行 导出汉化.bat 可再次导出覆盖本文件。",
+  "_count": 31,
+  "entries": [
+    {
+      "id": "pt::system::0",
+      "jp": "SIREN: New Translation (ダウンロード版)",
+      "zh": "SIREN: New Translation (下载版)"
+    },
+    {
+      "id": "pt::system::1",
+      "jp": "SIREN: New Translation (ダウンロード版)",
+      "zh": "SIREN: New Translation (下载版)"
+    },
+    {
+      "id": "pt::system::2",
+      "jp": "SIREN: New Translation",
+      "zh": "SIREN: New Translation"
+    },
+    {
+      "id": "pt::system::3",
+      "jp": "SIREN: New Translation",
+      "zh": "SIREN: New Translation"
+    },
+    {
+      "id": "pt::system::4",
+      "jp": "セーブデータ",
+      "zh": "存档数据"
+    },
+    {
+      "id": "pt::system::5",
+      "jp": "エピソード１をインストールしてください",
+      "zh": "请安装第一章"
+    },
+    {
+      "id": "pt::system::6",
+      "jp": "ゲームデータのインストール中です。\\n本体の電源を切ったり、ディスクを取り出したりしないでください。",
+      "zh": "正在安装游戏数据。\\n请勿关闭主机电源，也不要取出光盘。"
+    },
+    {
+      "id": "pt::music::0",
+      "jp": "genocide(SIREN ENDING EDITION)",
+      "zh": "genocide(SIREN ENDING EDITION)"
+    },
+    {
+      "id": "pt::music::1",
+      "jp": "SIREN NEW TRANSLATION",
+      "zh": "SIREN NEW TRANSLATION"
+    },
+    {
+      "id": "pt::music::2",
+      "jp": "ikd-sj",
+      "zh": "ikd-sj"
+    },
+    {
+      "id": "pt::music::3",
+      "jp": "H.A.G",
+      "zh": "H.A.G"
+    },
+    {
+      "id": "pt::music::4",
+      "jp": "曲名　　「genocide」",
+      "zh": "曲名　　「genocide」"
+    },
+    {
+      "id": "pt::music::5",
+      "jp": "作詞　　ogiishi akira",
+      "zh": "作词　　ogiishi akira"
+    },
+    {
+      "id": "pt::music::6",
+      "jp": "作曲　　sakagchi hirokads",
+      "zh": "作曲　　sakagchi hirokads"
+    },
+    {
+      "id": "pt::music::7",
+      "jp": "編曲　　ikd-sj",
+      "zh": "编曲　　ikd-sj"
+    },
+    {
+      "id": "pt::music::8",
+      "jp": "実演　　ikd-sj",
+      "zh": "演奏　　ikd-sj"
+    },
+    {
+      "id": "pt::photo::0",
+      "jp": "ハワード・ライトの写真",
+      "zh": "霍华德·莱特的照片"
+    },
+    {
+      "id": "pt::photo::1",
+      "jp": "ハワード・ライトの携帯電話に残されていた写真",
+      "zh": "留在霍华德·莱特手机里的照片"
+    },
+    {
+      "id": "pt::etxt::0",
+      "jp": "【カラーフィルタ】",
+      "zh": "【颜色滤镜】"
+    },
+    {
+      "id": "pt::etxt::1",
+      "jp": "【視界ジャック】",
+      "zh": "【视界劫持】"
+    },
+    {
+      "id": "pt::etxt::2",
+      "jp": "【解像度】",
+      "zh": "【分辨率】"
+    },
+    {
+      "id": "pt::etxt::3",
+      "jp": "レンダリングの初期設定",
+      "zh": "渲染初始设置"
+    },
+    {
+      "id": "pt::etxt::4",
+      "jp": "メイン画面の描画解像度",
+      "zh": "主画面渲染分辨率"
+    },
+    {
+      "id": "pt::etxt::5",
+      "jp": "視界ジャックのレンダリングプライオリティ制御",
+      "zh": "视界劫持渲染优先级控制"
+    },
+    {
+      "id": "pt::etxt::6",
+      "jp": "視界ジャック描画面解像度",
+      "zh": "视界劫持渲染画面分辨率"
+    },
+    {
+      "id": "pt::etxt::7",
+      "jp": "カラーフィルタ",
+      "zh": "颜色滤镜"
+    },
+    {
+      "id": "pt::etxt::8",
+      "jp": "TSAAスイッチ",
+      "zh": "TSAA开关"
+    },
+    {
+      "id": "pt::etxt::9",
+      "jp": "ワイヤーフレーム表示",
+      "zh": "线框显示"
+    },
+    {
+      "id": "pt::etxt::10",
+      "jp": "クリップ球の表示",
+      "zh": "裁剪球显示"
+    },
+    {
+      "id": "pt::etxt::11",
+      "jp": "パフォーマンス詳細の表示",
+      "zh": "性能详细信息显示"
+    },
+    {
+      "id": "pt::etxt::12",
+      "jp": "メモリ状況",
+      "zh": "内存情况"
+    }
+  ]
+}

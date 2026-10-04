@@ -1,0 +1,780 @@
+{
+  "note": "s22 章节系统文本简体中文草稿（AI 起草，待用户审校）。已跳过第二张表未解码的 GUIDE/TUTORIAL 条目。◇为译码缺字，※ 标注不确定处。",
+  "glossary": {
+    "ハワート・ライト": "霍华德·莱特",
+    "メリッサ・ゲイル": "梅丽莎·盖尔",
+    "サム・モンロー": "山姆·门罗",
+    "ベラ・モンロー": "贝拉·门罗",
+    "ソル・ジャクソン": "索尔·杰克逊",
+    "美耶古": "美耶古",
+    "アマナ": "阿玛娜",
+    "羽生蛇村": "羽生蛇村"
+  },
+  "lines": [
+    {
+      "name": "AC_CHANGENAME_I_B_01",
+      "src": "【【猟銃用銃弾】に持ち替える",
+      "text": "【切换为【猎枪用子弹】"
+    },
+    {
+      "name": "AC_CHANGENAME_I_L_99",
+      "src": "【【懐中電灯】に持ち替える",
+      "text": "【切换为【手电筒】"
+    },
+    {
+      "name": "AC_CHANGENAME_I_SP_04",
+      "src": "【【アンテナ】に持ち替える",
+      "text": "【切换为【天线】"
+    },
+    {
+      "name": "AC_CHANGENAME_I_SP_04",
+      "src": "【【アンテナ】に持ち替える",
+      "text": "【切换为【天线】"
+    },
+    {
+      "name": "AC_CHANGENAME_I_SP_04",
+      "src": "【【アンテナ】に持ち替える",
+      "text": "【切换为【天线】"
+    },
+    {
+      "name": "AC_CHANGENAME_I_SP_04",
+      "src": "【【アンテナ】に持ち替える",
+      "text": "【切换为【天线】"
+    },
+    {
+      "name": "AC_CHANGENAME_I_W_HH_07",
+      "src": "【【ハンマー】に持ち替える",
+      "text": "【切换为【锤子】"
+    },
+    {
+      "name": "AC_CHANGENAME_I_W_LH_01",
+      "src": "【【スバナ】に持ち替える",
+      "text": "【切换为【扳手】"
+    },
+    {
+      "name": "AC_CHANGENAME_I_W_SG_01",
+      "src": "【【狩猟用散弾銃】に持ち替える",
+      "text": "【切换为【狩猎用散弹枪】"
+    },
+    {
+      "name": "AC_CHECK",
+      "src": "【調べる",
+      "text": "【调查"
+    },
+    {
+      "name": "AC_DOOR_CLOSE",
+      "src": "【閉める",
+      "text": "【关闭"
+    },
+    {
+      "name": "AC_DOOR_HOLD",
+      "src": "〈长按〉押さえる",
+      "text": "长按 按住"
+    },
+    {
+      "name": "AC_DOOR_INNER_LOCK",
+      "src": "〈长按〉内鍵をかける",
+      "text": "长按 上内锁"
+    },
+    {
+      "name": "AC_DOOR_INNER_UNLOCK",
+      "src": "【内鍵を開ける",
+      "text": "【打开内锁"
+    },
+    {
+      "name": "AC_DOOR_OPEN",
+      "src": "【開ける",
+      "text": "【打开"
+    },
+    {
+      "name": "AC_DOOR_UNLOCK",
+      "src": "【鍵を開ける",
+      "text": "【开锁"
+    },
+    {
+      "name": "AC_ELEVATOR_CALL",
+      "src": "【エレベータを呼ぶ",
+      "text": "【呼叫电梯"
+    },
+    {
+      "name": "AC_ELEVATOR_DOWN",
+      "src": "【下へ",
+      "text": "【向下"
+    },
+    {
+      "name": "AC_ELEVATOR_MOVE",
+      "src": "【ボタンを押す",
+      "text": "【按下按钮"
+    },
+    {
+      "name": "AC_ELEVATOR_UP",
+      "src": "【上へ",
+      "text": "【向上"
+    },
+    {
+      "name": "AC_EXIT",
+      "src": "【出る",
+      "text": "【出去"
+    },
+    {
+      "name": "AC_HIDE",
+      "src": "【隠れる",
+      "text": "【躲藏"
+    },
+    {
+      "name": "AC_JUMP_TRUCK",
+      "src": "【飛び降りる",
+      "text": "【跳下"
+    },
+    {
+      "name": "AC_LIFTUP",
+      "src": "【引き上げる",
+      "text": "【拉起"
+    },
+    {
+      "name": "AC_PICKUP_ANTENNA",
+      "src": "【アンテナを投げる",
+      "text": "【投掷天线"
+    },
+    {
+      "name": "AC_PICK_UP2",
+      "src": "【拾う",
+      "text": "【拾取"
+    },
+    {
+      "name": "AC_PICK_UPNAME_I_B_01",
+      "src": "【【猟銃用銃弾】を拾う",
+      "text": "【拾取【猎枪用子弹】"
+    },
+    {
+      "name": "AC_PICK_UPNAME_I_L_99",
+      "src": "【【懐中電灯】を拾う",
+      "text": "【拾取【手电筒】"
+    },
+    {
+      "name": "AC_PICK_UPNAME_I_SP_04",
+      "src": "【【アンテナ】を拾う",
+      "text": "【拾取【天线】"
+    },
+    {
+      "name": "AC_PICK_UPNAME_I_SP_04",
+      "src": "【【アンテナ】を拾う",
+      "text": "【拾取【天线】"
+    },
+    {
+      "name": "AC_PICK_UPNAME_I_SP_04",
+      "src": "【【アンテナ】を拾う",
+      "text": "【拾取【天线】"
+    },
+    {
+      "name": "AC_PICK_UPNAME_I_SP_04",
+      "src": "【【アンテナ】を拾う",
+      "text": "【拾取【天线】"
+    },
+    {
+      "name": "AC_PICK_UPNAME_I_W_HH_07",
+      "src": "【【ハンマー】を拾う",
+      "text": "【拾取【锤子】"
+    },
+    {
+      "name": "AC_PICK_UPNAME_I_W_LH_01",
+      "src": "【【スバナ】を拾う",
+      "text": "【拾取【扳手】"
+    },
+    {
+      "name": "AC_PICK_UPNAME_I_W_SG_01",
+      "src": "【【狩猟用散弾銃】を拾う",
+      "text": "【拾取【狩猎用散弹枪】"
+    },
+    {
+      "name": "AC_PUSH_TRUCK",
+      "src": "〈长按〉トロッコを押す",
+      "text": "长按 推矿车"
+    },
+    {
+      "name": "AC_RIDE_TRUCK",
+      "src": "【飛び乗る",
+      "text": "【跳上"
+    },
+    {
+      "name": "AC_ROLL_LEVER",
+      "src": "〈长按〉レバーを回す",
+      "text": "长按 转动拉杆"
+    },
+    {
+      "name": "CHA_BATTLE_CMK_0",
+      "src": "「早ク 仲間ニナッテクレヨ！」",
+      "text": "「快点成为同伴吧！」"
+    },
+    {
+      "name": "CHA_BATTLE_CMK_1",
+      "src": "「シブトイネエ！」",
+      "text": "「真顽固啊！」"
+    },
+    {
+      "name": "CHA_BATTLE_RPK_0",
+      "src": "「ベラ！ ベラ ラ返シテ！」",
+      "text": "「贝拉！把贝拉还给我！」"
+    },
+    {
+      "name": "CHA_BATTLE_RPK_1",
+      "src": "「頭ラ潰シテアゲルッ！」",
+      "text": "「我来把你的脑袋砸烂！」"
+    },
+    {
+      "name": "CHA_CAUTION1_CMK_0",
+      "src": "「ソコダア～！」",
+      "text": "「在那边～！」"
+    },
+    {
+      "name": "CHA_CAUTION1_CMK_1",
+      "src": "「聞コエルジオ……」",
+      "text": "「听得见哦……」"
+    },
+    {
+      "name": "CHA_CAUTION1_CMK_2",
+      "src": "「ソコニイルンダネエ～」",
+      "text": "「你在那儿吧～」"
+    },
+    {
+      "name": "CHA_CAUTION1_KMM_0",
+      "src": "「誰ダア？」",
+      "text": "「谁呀？」"
+    },
+    {
+      "name": "CHA_CAUTION1_KMM_1",
+      "src": "「ドコニイルウ？」",
+      "text": "「在哪呢？」"
+    },
+    {
+      "name": "CHA_CAUTION1_KMM_2",
+      "src": "「今行クジオ！」",
+      "text": "「现在过去哦！」"
+    },
+    {
+      "name": "CHA_CAUTION1_RPK_0",
+      "src": "「イタア～！」",
+      "text": "「好痛～！」"
+    },
+    {
+      "name": "CHA_CAUTION1_RPK_1",
+      "src": "「ソコニイルノ誰～？」",
+      "text": "「那边的人是谁～？」"
+    },
+    {
+      "name": "CHA_CAUTION1_RPK_2",
+      "src": "「ベラ？ ベラ ナノオ！？」",
+      "text": "「贝拉？是贝拉吗！？」"
+    },
+    {
+      "name": "CHA_CAUTION2_CMK_0",
+      "src": "「逃ゲナイデクレヨ」",
+      "text": "「别逃啊」"
+    },
+    {
+      "name": "CHA_CAUTION2_CMK_1",
+      "src": "「眺ズガシガリ屋サンダネ？」",
+      "text": "「还挺害羞的呢？」"
+    },
+    {
+      "name": "CHA_CAUTION2_CMK_2",
+      "src": "「出テオイデ！」",
+      "text": "「出来啊！」"
+    },
+    {
+      "name": "CHA_CAUTION2_KMM_0",
+      "src": "「ドコダッ！ ドコダッ」",
+      "text": "「在哪！在哪」"
+    },
+    {
+      "name": "CHA_CAUTION2_KMM_1",
+      "src": "「出テ来イ！ 出テ来イ！」",
+      "text": "「出来！出来！」"
+    },
+    {
+      "name": "CHA_CAUTION2_KMM_2",
+      "src": "「隠レテモ無駄ダジオ！」",
+      "text": "「躲也没用哦！」"
+    },
+    {
+      "name": "CHA_CAUTION2_RPK_0",
+      "src": "「ドコニ隠レタノオ～？」",
+      "text": "「你躲哪了～？」"
+    },
+    {
+      "name": "CHA_CAUTION2_RPK_1",
+      "src": "「チヨコマカ ウットオシィワネエ……」",
+      "text": "「这么东躲西窜的，真是可惜呢……」"
+    },
+    {
+      "name": "CHA_CAUTION2_RPK_2",
+      "src": "「カクレンボ ハ オシマイヨオ！」",
+      "text": "「捉迷藏到此结束哦！」"
+    },
+    {
+      "name": "CHA_DEAD_RPK_0",
+      "src": "「ベラ！」",
+      "text": "「贝拉！」"
+    },
+    {
+      "name": "CHA_DIE_MUS",
+      "src": "「いやあ一一！」",
+      "text": "「不要啊——！」"
+    },
+    {
+      "name": "CHA_FINISH_GAK_0",
+      "src": "「どうだ！？」",
+      "text": "「怎么样！？」"
+    },
+    {
+      "name": "CHA_FINISH_GAK_1",
+      "src": "「悪く思うな……！」",
+      "text": "「别怪我……！」"
+    },
+    {
+      "name": "CHA_PATROL_CMK_0",
+      "src": "「ベラ～！ メリッサ～！」",
+      "text": "「贝拉～！梅丽莎～！」"
+    },
+    {
+      "name": "CHA_PATROL_CMK_1",
+      "src": "「ボク ダヨ……ソル ダヨ……」",
+      "text": "「是我呀……是索尔呀……」"
+    },
+    {
+      "name": "CHA_PATROL_CMK_2",
+      "src": "「アイツサエイナケレバ……」",
+      "text": "「要是那家伙不在就好了……」"
+    },
+    {
+      "name": "CHA_PATROL_CMK_3",
+      "src": "「良イ感ジダゼ」",
+      "text": "「感觉不错哦」"
+    },
+    {
+      "name": "CHA_PATROL_CMK_4",
+      "src": "「イカシタトコダゼ……」",
+      "text": "「真是个好地方啊……」"
+    },
+    {
+      "name": "CHA_PATROL_RPK_0",
+      "src": "「ドコニイルノオ～？」",
+      "text": "「人在哪呢～？」"
+    },
+    {
+      "name": "CHA_PATROL_RPK_1",
+      "src": "「ベラ ラ ドコニ隠シタノ！？」",
+      "text": "「你把贝拉藏哪了！？」"
+    },
+    {
+      "name": "CHA_PATROL_RPK_2",
+      "src": "「ベラ～！ ベラ～！」",
+      "text": "「贝拉～！贝拉～！」"
+    },
+    {
+      "name": "CHA_PATROL_RPK_3",
+      "src": "「娘ラ返シテヨオ！」",
+      "text": "「把女儿还给我！」"
+    },
+    {
+      "name": "CHA_PATROL_RPK_4",
+      "src": "「邪鬼シナイデヨオ！」",
+      "text": "「别碍事啊！」"
+    },
+    {
+      "name": "CHA_SCREAM_GAK_0",
+      "src": "「おい！ 大丈夫か！？」",
+      "text": "「喂！没事吧！？」"
+    },
+    {
+      "name": "CHA_SCREAM_GAK_1",
+      "src": "「立て！ 逃げるんだ！」",
+      "text": "「站起来！快逃！」"
+    },
+    {
+      "name": "CHA_SCREAM_GAK_2",
+      "src": "「おい！ ふざけてる場合じやないそ！？」",
+      "text": "「喂！这不是开玩笑的时候吧！？」"
+    },
+    {
+      "name": "CHA_SCREAM_GAK_3",
+      "src": "「ソル！」",
+      "text": "「索尔！」"
+    },
+    {
+      "name": "CHA_SCREAM_GAK_4",
+      "src": "「メリッサ！」",
+      "text": "「梅丽莎！」"
+    },
+    {
+      "name": "CHA_ST22EVENT1_CMK_0",
+      "src": "「マミィ ハ モウ ボクラノ ナカマダヨ……」",
+      "text": "「妈妈和森他们，都是我们的同伴哦……」"
+    },
+    {
+      "name": "CHA_ST22EVENT1_CMK_1",
+      "src": "「メリッサ ガ マミィ……ボク ガ ダディ……」",
+      "text": "「梅丽莎是妈妈……我就是爸爸……」"
+    },
+    {
+      "name": "CHA_ST22EVENT1_CMK_2",
+      "src": "「ボクノ娘ニ ナルンダ……」",
+      "text": "「我要变成女儿了……」"
+    },
+    {
+      "name": "CHA_ST22EVENT1_MUS_0",
+      "src": "「たすけて！ ダディ！」",
+      "text": "「救命！爸爸！」"
+    },
+    {
+      "name": "CHA_ST22EVENT1_MUS_1",
+      "src": "「マミィ……！」",
+      "text": "「妈妈……！」"
+    },
+    {
+      "name": "CHA_ST22EVENT1_MUS_2",
+      "src": "「お化けにつかまっちやう……」",
+      "text": "「会被怪物抓住的……」"
+    },
+    {
+      "name": "CHA_ST22EVENT1_RPK_0",
+      "src": "「邪鬼シナイデッ！」",
+      "text": "「别碍事！」"
+    },
+    {
+      "name": "CHA_ST22EVENT1_RPK_1",
+      "src": "「ソコニイタア～！」",
+      "text": "「你在这儿～！」"
+    },
+    {
+      "name": "CHA_ST22EVENT1_RPK_2",
+      "src": "「見ツケタワ！」",
+      "text": "「找到你了！」"
+    },
+    {
+      "name": "CHA_ST22EVENT2_MUS_0",
+      "src": "「あっち行け！」",
+      "text": "「走开！」"
+    },
+    {
+      "name": "CHA_ST22EVENT2_MUS_1",
+      "src": "「助けて！」",
+      "text": "「救救我！」"
+    },
+    {
+      "name": "CHA_ST22EVENT2_MUS_2",
+      "src": "「ダディ！ 助けて一！」",
+      "text": "「爸爸！救救我！」"
+    },
+    {
+      "name": "CHA_ST22EVENT2_RPK_0",
+      "src": "「見ナイデエ！」",
+      "text": "「别看啊！」"
+    },
+    {
+      "name": "CHA_STARTST22_GAK_0",
+      "src": "「頼む 無事でいてくれ」",
+      "text": "「希望大家都平安无事」"
+    },
+    {
+      "name": "CHA_STARTST22_GAK_1",
+      "src": "「ベラ……ああ……ベラ……」",
+      "text": "「贝拉……啊啊……贝拉……」"
+    },
+    {
+      "name": "CHA_STARTST22_GAK_2",
+      "src": "「迷宮だな……ここは」",
+      "text": "「这里……是座迷宫啊」"
+    },
+    {
+      "name": "DOOR_BLOCKED",
+      "src": "この扉は開かないようだ。",
+      "text": "这扇门打不开。"
+    },
+    {
+      "name": "DOOR_EVENT_LOCKED",
+      "src": "ここに合う鍵を持っていない。",
+      "text": "没有能打开这里的钥匙。"
+    },
+    {
+      "name": "DOOR_INNER_LOCK",
+      "src": "反対側から内鍵が掛かっている。",
+      "text": "另一侧上了内锁。"
+    },
+    {
+      "name": "DOOR_INNER_UNLOCKED",
+      "src": "内鍵を開けた。",
+      "text": "打开了内锁。"
+    },
+    {
+      "name": "DOOR_UNLOCKED",
+      "src": "鍵を開けた。",
+      "text": "打开了锁。"
+    },
+    {
+      "name": "ELEVATOR_BLOCK",
+      "src": "動かないようだ。",
+      "text": "好像动不了。"
+    },
+    {
+      "name": "EMPTY_LABEL",
+      "src": "空テキストです",
+      "text": "空文本"
+    },
+    {
+      "name": "EP12_CP2_1_01",
+      "src": "「メリッサ？ メリッサなのか？」",
+      "text": "「梅丽莎？是梅丽莎吗？」"
+    },
+    {
+      "name": "EP12_CP2_2_01",
+      "src": "「いやっ！」",
+      "text": "「不要！」"
+    },
+    {
+      "name": "EP12_CP2_2_02",
+      "src": "「ベラ……ベラ……ベラ一一！」",
+      "text": "「贝拉……贝拉……贝拉——！」"
+    },
+    {
+      "name": "EP12_CP2_3_01",
+      "src": "「来ないで！ いやああ一一！」",
+      "text": "「别过来！不要啊——！」"
+    },
+    {
+      "name": "EP12_CP2_3_02",
+      "src": "「ベラ！」",
+      "text": "「贝拉！」"
+    },
+    {
+      "name": "GET_ARCHIVE2ARCHIVE047",
+      "src": "アーカイブ【羽生蛇村民話集】既に入手済み。",
+      "text": "档案【羽生蛇村民间故事集】\n已获得。"
+    },
+    {
+      "name": "GET_ARCHIVEARCHIVE047",
+      "src": "【羽生蛇村民話集】がアーカイブに追加された。",
+      "text": "【羽生蛇村民间故事集】\n已添加到档案。"
+    },
+    {
+      "name": "GET_ARCHIVE_KEY2ARCHIVE047",
+      "src": "【羽生蛇村民話集】アーカイブ入手の必要行動。既に達成済み。",
+      "text": "【羽生蛇村民间故事集】\n取得档案所需行动。已经完成。"
+    },
+    {
+      "name": "GET_ARCHIVE_KEYARCHIVE047",
+      "src": "【羽生蛇村民話集】アーカイブ入手の必要行動を達成した。",
+      "text": "【羽生蛇村民间故事集】\n已完成取得档案所需行动。"
+    },
+    {
+      "name": "GET_ITEMNAME_I_B_01",
+      "src": "【猟銃用銃弾】を入手した。",
+      "text": "【猎枪用子弹】已入手。"
+    },
+    {
+      "name": "GET_ITEMNAME_I_L_99",
+      "src": "【懐中電灯】を入手した。",
+      "text": "【手电筒】已入手。"
+    },
+    {
+      "name": "GET_ITEMNAME_I_SP_04",
+      "src": "【アンテナ】を入手した。",
+      "text": "【天线】已入手。"
+    },
+    {
+      "name": "GET_ITEMNAME_I_SP_04",
+      "src": "【アンテナ】を入手した。",
+      "text": "【天线】已入手。"
+    },
+    {
+      "name": "GET_ITEMNAME_I_SP_04",
+      "src": "【アンテナ】を入手した。",
+      "text": "【天线】已入手。"
+    },
+    {
+      "name": "GET_ITEMNAME_I_SP_04",
+      "src": "【アンテナ】を入手した。",
+      "text": "【天线】已入手。"
+    },
+    {
+      "name": "GET_ITEMNAME_I_W_HH_07",
+      "src": "【ハンマー】を入手した。",
+      "text": "【锤子】已入手。"
+    },
+    {
+      "name": "GET_ITEMNAME_I_W_LH_01",
+      "src": "【スバナ】を入手した。",
+      "text": "【扳手】已入手。"
+    },
+    {
+      "name": "GET_ITEMNAME_I_W_SG_01",
+      "src": "【狩猟用散弾銃】を入手した。",
+      "text": "【狩猎用散弹枪】已入手。"
+    },
+    {
+      "name": "NO_TEXT_LABEL",
+      "src": "ＮＯ＿ＴＥＸＴ＿ＬＡＢＥＬ",
+      "text": "NO_TEXT_LABEL"
+    },
+    {
+      "name": "S22_ACTION_COMMAND001",
+      "src": "【調べる",
+      "text": "【调查"
+    },
+    {
+      "name": "S22_ACTION_COMMAND002",
+      "src": "【押す",
+      "text": "【推"
+    },
+    {
+      "name": "S22_ACTION_COMMAND003",
+      "src": "〈长按〉ねじ鍵を回す",
+      "text": "长按 转动螺丝钥匙"
+    },
+    {
+      "name": "S22_MESSAGE001",
+      "src": "羽生……蛇？ 何かの本が落ちている。",
+      "text": "羽生……蛇？有一本书掉在地上。"
+    },
+    {
+      "name": "S22_MESSAGE002",
+      "src": "ベラ……。",
+      "text": "贝拉……。"
+    },
+    {
+      "name": "S99_AREA_OVER1",
+      "src": "戻る訳にはいかない。",
+      "text": "不能回头。"
+    },
+    {
+      "name": "S99_AREA_OVER10",
+      "src": "サムを置いていく訳にはいかない……。",
+      "text": "不能丢下山姆……"
+    },
+    {
+      "name": "S99_AREA_OVER11",
+      "src": "この先には用がない……。",
+      "text": "前方没有要找的东西……"
+    },
+    {
+      "name": "S99_AREA_OVER2",
+      "src": "この先は危険だ……。",
+      "text": "前方很危险……"
+    },
+    {
+      "name": "S99_AREA_OVER3",
+      "src": "目的を果たさなければならない。",
+      "text": "必须完成目的。"
+    },
+    {
+      "name": "S99_AREA_OVER4",
+      "src": "美耶古を置いていく訳にはいかない……。",
+      "text": "不能丢下美耶古……"
+    },
+    {
+      "name": "S99_AREA_OVER5",
+      "src": "メリッサを置いていく訳にはいかない……。",
+      "text": "不能丢下梅丽莎……"
+    },
+    {
+      "name": "S99_AREA_OVER6",
+      "src": "アマナを置いていく訳にはいかない……。",
+      "text": "不能丢下阿玛娜……"
+    },
+    {
+      "name": "S99_AREA_OVER7",
+      "src": "ベラを置いていく訳にはいかない……。",
+      "text": "不能丢下贝拉……"
+    },
+    {
+      "name": "S99_AREA_OVER8",
+      "src": "ベラを探さなければ……。",
+      "text": "必须找到贝拉……"
+    },
+    {
+      "name": "S99_AREA_OVER9",
+      "src": "技が折れている。ここからは戻れそうにない。",
+      "text": "树枝折断，看来无法从这里返回。"
+    },
+    {
+      "name": "S99_BUSY",
+      "src": "今はそれどころではない。",
+      "text": "现在不是做这个的时候。"
+    },
+    {
+      "name": "S99_MESSAGE001",
+      "src": "扉は固く閉じられている。中からは物音も聞こえない。",
+      "text": "门紧紧关闭着。\n里面听不到任何声响。"
+    },
+    {
+      "name": "S99_MESSAGE002",
+      "src": "番号を間違えたようだ。",
+      "text": "好像拨错号码了。"
+    },
+    {
+      "name": "S99_MESSAGE003",
+      "src": "話し中のようだ。",
+      "text": "好像正在通话中。"
+    },
+    {
+      "name": "S99_NPCOUTOFRANGE",
+      "src": "声が届かない。",
+      "text": "声音传不到。"
+    },
+    {
+      "name": "SUB_COM_CANCEL_TRAP",
+      "src": "罠解除",
+      "text": "拆陷阱"
+    },
+    {
+      "name": "SUB_COM_COME",
+      "src": "「来い」",
+      "text": "「过来」"
+    },
+    {
+      "name": "SUB_COM_HIDE",
+      "src": "「隠れろ」",
+      "text": "「躲起来」"
+    },
+    {
+      "name": "SUB_COM_LIGHT1",
+      "src": "懐中電灯ＯＮ",
+      "text": "手电筒ON"
+    },
+    {
+      "name": "SUB_COM_LIGHT2",
+      "src": "懐中電灯ＯＦＦ",
+      "text": "手电筒OFF"
+    },
+    {
+      "name": "SUB_COM_NO",
+      "src": "いいえ",
+      "text": "否"
+    },
+    {
+      "name": "SUB_COM_SET_TRAP",
+      "src": "罠設置",
+      "text": "设陷阱"
+    },
+    {
+      "name": "SUB_COM_SHOUT",
+      "src": "叫ぶ",
+      "text": "呼喊"
+    },
+    {
+      "name": "SUB_COM_SMOKE",
+      "src": "発煙筒",
+      "text": "发烟筒"
+    },
+    {
+      "name": "SUB_COM_WAIT",
+      "src": "「待て」",
+      "text": "「等待」"
+    },
+    {
+      "name": "SUB_COM_YES",
+      "src": "はい",
+      "text": "是"
+    }
+  ]
+}

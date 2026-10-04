@@ -1,0 +1,90 @@
+{
+  "arch": "common",
+  "font": "SimHei",
+  "items": [
+    { "name": "menu/jp/launcher_results/element/results_parts_01.dds", "size": 21, "bold": 1, "align": "right",
+      "lines": [
+        { "text": "时间：", "y": 0 }, { "text": "地点：", "y": 32 }, { "text": "人物：", "y": 64 },
+        { "text": "通关条件：", "y": 96 }, { "text": "最佳记录：", "y": 129 }, { "text": "已获称号：", "y": 160 },
+        { "text": "总游玩时间：", "y": 192 }, { "text": "最佳记录合计：", "y": 224 }, { "text": "获得称号：", "y": 256 },
+        { "text": "击倒敌人：", "y": 288 }, { "text": "被发现次数：", "y": 320 }, { "text": "死亡次数：", "y": 352 },
+        { "text": "同伴死亡次数：", "y": 384 }, { "text": "总移动距离：", "y": 416 }, { "text": "被擒抱次数：", "y": 448 },
+        { "text": "一击擒杀次数：", "y": 480 }
+      ] },
+    { "name": "menu/jp/launcher_results/element/results_parts_07.dds", "size": 21, "bold": 1, "align": "right",
+      "lines": [ { "text": "当前难度", "y": 0 } ] },
+
+    { "name": "menu/jp/launcher_results/place/menu_timecount_s01_spot1.dds", "size": 24, "bold": 1, "align": "left", "lines": [ { "text": "下粗户", "y": 0 } ] },
+    { "name": "menu/jp/launcher_results/place/menu_timecount_s02_spot1.dds", "size": 24, "bold": 1, "align": "left", "lines": [ { "text": "合石岳　羽生蛇矿山", "y": 0 } ] },
+    { "name": "menu/jp/launcher_results/place/menu_timecount_s03_spot1.dds", "size": 24, "bold": 1, "align": "left", "lines": [ { "text": "波罗宿村落", "y": 0 } ] },
+    { "name": "menu/jp/launcher_results/place/menu_timecount_s04_spot1.dds", "size": 24, "bold": 1, "align": "left", "lines": [ { "text": "比良境　犀贺医院", "y": 0 } ] },
+    { "name": "menu/jp/launcher_results/place/menu_timecount_s05_spot1.dds", "size": 24, "bold": 1, "align": "left", "lines": [ { "text": "刈割", "y": 0 } ] },
+    { "name": "menu/jp/launcher_results/place/menu_timecount_s06_spot1.dds", "size": 24, "bold": 1, "align": "left", "lines": [ { "text": "波罗宿村落", "y": 0 } ] },
+    { "name": "menu/jp/launcher_results/place/menu_timecount_s07_spot1.dds", "size": 24, "bold": 1, "align": "left", "lines": [ { "text": "田堀　伊东家", "y": 0 } ] },
+    { "name": "menu/jp/launcher_results/place/menu_timecount_s08_spot1.dds", "size": 24, "bold": 1, "align": "left", "lines": [ { "text": "比良境　犀贺医院", "y": 0 } ] },
+    { "name": "menu/jp/launcher_results/place/menu_timecount_s09_spot1.dds", "size": 24, "bold": 1, "align": "left", "lines": [ { "text": "合石岳　羽生蛇矿山", "y": 0 } ] },
+    { "name": "menu/jp/launcher_results/place/menu_timecount_s10_spot1.dds", "size": 24, "bold": 1, "align": "left", "lines": [ { "text": "刈割", "y": 0 } ] },
+    { "name": "menu/jp/launcher_results/place/menu_timecount_s11_spot1.dds", "size": 24, "bold": 1, "align": "left", "lines": [ { "text": "上粗户　尸人之巢", "y": 0 } ] },
+    { "name": "menu/jp/launcher_results/place/menu_timecount_s12_spot1.dds", "size": 24, "bold": 1, "align": "left", "lines": [ { "text": "尸人之巢　中枢", "y": 0 } ] },
+    { "name": "menu/jp/launcher_results/place/menu_timecount_s13_spot1.dds", "size": 24, "bold": 1, "align": "left", "lines": [ { "text": "合石岳　羽生蛇矿山", "y": 0 } ] },
+    { "name": "menu/jp/launcher_results/place/menu_timecount_s14_spot1.dds", "size": 24, "bold": 1, "align": "left", "lines": [ { "text": "比良境　犀贺医院", "y": 0 } ] },
+    { "name": "menu/jp/launcher_results/place/menu_timecount_s15_spot1.dds", "size": 24, "bold": 1, "align": "left", "lines": [ { "text": "刈割", "y": 0 } ] },
+    { "name": "menu/jp/launcher_results/place/menu_timecount_s16_spot1.dds", "size": 24, "bold": 1, "align": "left", "lines": [ { "text": "刈割", "y": 0 } ] },
+    { "name": "menu/jp/launcher_results/place/menu_timecount_s17_spot1.dds", "size": 24, "bold": 1, "align": "left", "lines": [ { "text": "波罗宿村落", "y": 0 } ] },
+    { "name": "menu/jp/launcher_results/place/menu_timecount_s18_spot1.dds", "size": 24, "bold": 1, "align": "left", "lines": [ { "text": "波罗宿村落", "y": 0 } ] },
+    { "name": "menu/jp/launcher_results/place/menu_timecount_s19_spot1.dds", "size": 24, "bold": 1, "align": "left", "lines": [ { "text": "田堀　伊东家", "y": 0 } ] },
+    { "name": "menu/jp/launcher_results/place/menu_timecount_s20_spot1.dds", "size": 24, "bold": 1, "align": "left", "lines": [ { "text": "合石岳　羽生蛇矿山", "y": 0 } ] },
+    { "name": "menu/jp/launcher_results/place/menu_timecount_s21_spot1.dds", "size": 24, "bold": 1, "align": "left", "lines": [ { "text": "上粗户　尸人之巢", "y": 0 } ] },
+    { "name": "menu/jp/launcher_results/place/menu_timecount_s22_spot1.dds", "size": 24, "bold": 1, "align": "left", "lines": [ { "text": "尸人之巢　中枢", "y": 0 } ] },
+    { "name": "menu/jp/launcher_results/place/menu_timecount_s23_spot1.dds", "size": 24, "bold": 1, "align": "left", "lines": [ { "text": "炼狱", "y": 0 } ] },
+    { "name": "menu/jp/launcher_results/place/menu_timecount_s24_spot1.dds", "size": 24, "bold": 1, "align": "left", "lines": [ { "text": "数据缺失", "y": 0 } ] },
+    { "name": "menu/jp/launcher_results/place/menu_timecount_s25_spot1.dds", "size": 24, "bold": 1, "align": "left", "lines": [ { "text": "合石岳　羽生蛇矿山", "y": 0 } ] },
+
+    { "name": "menu/jp/main_archive/element/menu_archive_head_chr.dds", "size": 26, "bold": 1, "align": "left",
+      "lines": [ { "text": "获得人物／", "y": 0 }, { "text": "获得时间／", "y": 32 }, { "text": "获得地点／", "y": 65 }, { "text": "获得条件／", "y": 96 } ] },
+    { "name": "menu/jp/main_archive/element/menu_archive_head_group.dds", "size": 26, "bold": 1, "align": "left",
+      "lines": [ { "text": "分类／", "y": 0 }, { "text": "强度／", "y": 33 } ] },
+
+    { "name": "menu/jp/main_archive/strength/menu_archive_str_max.dds", "size": 26, "bold": 1, "align": "left", "lines": [ { "text": "无法估量", "y": 0 } ] },
+    { "name": "menu/jp/main_archive/strength/menu_archive_str_h.dds", "size": 26, "bold": 1, "align": "left", "lines": [ { "text": "非常强", "y": 0 } ] },
+    { "name": "menu/jp/main_archive/strength/menu_archive_str_mh.dds", "size": 26, "bold": 1, "align": "left", "lines": [ { "text": "值得信赖", "y": 0 } ] },
+    { "name": "menu/jp/main_archive/strength/menu_archive_str_m.dds", "size": 26, "bold": 1, "align": "left", "lines": [ { "text": "平凡", "y": 0 } ] },
+    { "name": "menu/jp/main_archive/strength/menu_archive_str_ml.dds", "size": 26, "bold": 1, "align": "left", "lines": [ { "text": "不太可靠", "y": 0 } ] },
+    { "name": "menu/jp/main_archive/strength/menu_archive_str_ll.dds", "size": 26, "bold": 1, "align": "left", "lines": [ { "text": "毫无用处", "y": 0 } ] },
+    { "name": "menu/jp/main_archive/strength/menu_archive_str_sp.dds", "size": 26, "bold": 1, "align": "left", "lines": [ { "text": "特殊", "y": 0 } ] },
+
+    { "name": "menu/jp/etc_mission/element/menu_map_head_object_main1.dds", "size": 22, "bold": 1, "align": "center", "lines": [ { "text": "通关条件", "y": 0 } ] },
+    { "name": "menu/jp/main_map/element/menu_map_head_object_main1.dds", "size": 21, "bold": 1, "align": "right",
+      "lines": [ { "text": "通关条件：", "y": 0 }, { "text": "目标：", "y": 32 }, { "text": "小目标：", "y": 64 } ] },
+
+    { "name": "menu/jp/launcher_store/element/store_parts_01.dds", "size": 21, "bold": 1, "align": "left",
+      "lines": [
+        { "text": "品名：", "y": 0 }, { "text": "内容：", "y": 32 }, { "text": "价格(含税)：", "y": 64 },
+        { "text": "游玩解锁时间：", "y": 96 }, { "text": "发售日：", "y": 129 }, { "text": "已加入购物车的合计金额", "y": 160 }
+      ] },
+
+    { "name": "menu/jp/etc_mission_miss/japanese/menu_mission_miss_main.dds", "size": 48, "bold": 1, "align": "center", "lines": [ { "text": "未达成通关条件。", "y": 1 } ] },
+    { "name": "menu/jp/etc_mission_comp/japanese/menu_mission_comp_main.dds", "size": 48, "bold": 1, "align": "center", "lines": [ { "text": "已达成通关条件。", "y": 1 } ] },
+
+    { "name": "menu/jp/launcher_episode/state_a/episode_parts_02.dds", "size": 21, "bold": 1, "align": "right", "lines": [ { "text": "已安装", "y": 0 } ] },
+    { "name": "menu/jp/launcher_episode/state_a/episode_parts_03.dds", "size": 21, "bold": 1, "align": "right", "lines": [ { "text": "已下载", "y": 0 } ] },
+    { "name": "menu/jp/launcher_episode/state_a/episode_parts_04.dds", "size": 21, "bold": 1, "align": "right", "lines": [ { "text": "下载中", "y": 0 } ] },
+    { "name": "menu/jp/launcher_episode/state_a/episode_parts_05.dds", "size": 21, "bold": 1, "align": "right", "lines": [ { "text": "无章节数据", "y": 0 } ] },
+    { "name": "menu/jp/launcher_episode/state_b/episode_parts_06.dds", "size": 21, "bold": 1, "align": "right", "lines": [ { "text": "距解锁", "y": 0 } ] },
+    { "name": "menu/jp/launcher_episode/state_b/episode_parts_07.dds", "size": 21, "bold": 1, "align": "right", "lines": [ { "text": "距解锁", "y": 0 } ] },
+
+    { "name": "menu/jp/main_archive/element/rdown/menu_archive_etc_1.dds", "size": 22, "bold": 1, "keep": true, "clear": [ { "x": 24, "y": 0, "w": 232, "h": 64 } ], "lines": [ { "text": "查看更多", "y": 19, "x": 24 } ] },
+    { "name": "menu/jp/main_archive/element/rdown/menu_archive_etc_2.dds", "size": 22, "bold": 1, "keep": true, "clear": [ { "x": 24, "y": 0, "w": 232, "h": 64 } ], "lines": [ { "text": "播放影像", "y": 19, "x": 24 } ] },
+    { "name": "menu/jp/main_archive/element/rdown/menu_archive_etc_3.dds", "size": 22, "bold": 1, "keep": true, "clear": [ { "x": 24, "y": 0, "w": 232, "h": 64 } ], "lines": [ { "text": "播放声音", "y": 19, "x": 24 } ] },
+    { "name": "menu/jp/main_archive/element/rdown/menu_archive_etc_4.dds", "size": 22, "bold": 1, "keep": true, "clear": [ { "x": 24, "y": 0, "w": 232, "h": 64 } ], "lines": [ { "text": "显示下一页", "y": 19, "x": 24 } ] },
+    { "name": "menu/jp/main_archive/element/rdown/menu_archive_etc_5.dds", "size": 22, "bold": 1, "keep": true, "clear": [ { "x": 24, "y": 0, "w": 232, "h": 64 } ], "lines": [ { "text": "播放声音", "y": 0, "x": 24 }, { "text": "保存声音", "y": 19, "x": 24 } ] },
+    { "name": "menu/jp/main_archive/element/rdown/menu_archive_etc_6.dds", "size": 22, "bold": 1, "keep": true, "clear": [ { "x": 24, "y": 0, "w": 232, "h": 64 } ], "lines": [ { "text": "播放声音", "y": 0, "x": 24 }, { "text": "保存图像", "y": 19, "x": 24 } ] },
+
+    { "name": "menu/jp/main_archive/element/rright/menu_archive_etc_1.dds", "size": 22, "bold": 1, "keep": true, "clear": [ { "x": 24, "y": 0, "w": 232, "h": 64 } ], "lines": [ { "text": "查看更多", "y": 19, "x": 24 } ] },
+    { "name": "menu/jp/main_archive/element/rright/menu_archive_etc_2.dds", "size": 22, "bold": 1, "keep": true, "clear": [ { "x": 24, "y": 0, "w": 232, "h": 64 } ], "lines": [ { "text": "播放影像", "y": 19, "x": 24 } ] },
+    { "name": "menu/jp/main_archive/element/rright/menu_archive_etc_3.dds", "size": 22, "bold": 1, "keep": true, "clear": [ { "x": 24, "y": 0, "w": 232, "h": 64 } ], "lines": [ { "text": "播放声音", "y": 19, "x": 24 } ] },
+    { "name": "menu/jp/main_archive/element/rright/menu_archive_etc_4.dds", "size": 22, "bold": 1, "keep": true, "clear": [ { "x": 24, "y": 0, "w": 232, "h": 64 } ], "lines": [ { "text": "显示下一页", "y": 19, "x": 24 } ] },
+    { "name": "menu/jp/main_archive/element/rright/menu_archive_etc_5.dds", "size": 22, "bold": 1, "keep": true, "clear": [ { "x": 24, "y": 0, "w": 232, "h": 64 } ], "lines": [ { "text": "播放声音", "y": 0, "x": 24 }, { "text": "保存声音", "y": 19, "x": 24 } ] },
+    { "name": "menu/jp/main_archive/element/rright/menu_archive_etc_6.dds", "size": 22, "bold": 1, "keep": true, "clear": [ { "x": 24, "y": 0, "w": 232, "h": 64 } ], "lines": [ { "text": "播放声音", "y": 0, "x": 24 }, { "text": "保存图像", "y": 19, "x": 24 } ] }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "arch": "common",
+  "font": "SimHei",
+  "size": 21,
+  "bold": 1,
+  "align": "center",
+  "note": "暂停菜单说明（menu/jp/etc_pause/pause_text/*_exp.dds，1024x32 A8，居中）。",
+  "items": [
+    { "name": "menu/jp/etc_pause/pause_text/menu_pause_chapterselect_exp.dds", "lines": [ { "text": "退出游戏，进入章节选择画面", "y": 0 } ] },
+    { "name": "menu/jp/etc_pause/pause_text/menu_pause_checkpoint_exp.dds", "lines": [ { "text": "从最后的检查点重新开始游戏", "y": 0 } ] },
+    { "name": "menu/jp/etc_pause/pause_text/menu_pause_restart_exp.dds", "lines": [ { "text": "从章节开头重新开始游戏", "y": 0 } ] },
+    { "name": "menu/jp/etc_pause/pause_text/menu_pause_resume_exp.dds", "lines": [ { "text": "返回游戏", "y": 0 } ] },
+    { "name": "menu/jp/etc_pause/pause_text/menu_pause_title_exp.dds", "lines": [ { "text": "返回标题画面", "y": 0 } ] }
+  ]
+}

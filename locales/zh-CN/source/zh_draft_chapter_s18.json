@@ -1,0 +1,875 @@
+{
+  "note": "s18 章节系统文本简体中文草稿（AI 起草，待用户审校）。已跳过第二张表未解码的 GUIDE/TUTORIAL 条目。◇为译码缺字，※ 标注不确定处。",
+  "glossary": {
+    "ハワート・ライト": "霍华德·莱特",
+    "メリッサ・ゲイル": "梅丽莎·盖尔",
+    "サム・モンロー": "山姆·门罗",
+    "ベラ・モンロー": "贝拉·门罗",
+    "ソル・ジャクソン": "索尔·杰克逊",
+    "美耶古": "美耶古",
+    "アマナ": "阿玛娜",
+    "羽生蛇村": "羽生蛇村"
+  },
+  "lines": [
+    {
+      "name": "AC_CHANGENAME_I_EV_08",
+      "src": "【【ブローチ】に持ち替える",
+      "text": "【切换为【胸针】"
+    },
+    {
+      "name": "AC_CHANGENAME_I_SP_02",
+      "src": "【【発煙筒】に持ち替える",
+      "text": "【切换为【发烟筒】"
+    },
+    {
+      "name": "AC_CHANGENAME_I_W_BK_01",
+      "src": "【【一升瓶】に持ち替える",
+      "text": "【切换为【一升瓶】"
+    },
+    {
+      "name": "AC_CHANGENAME_I_W_BK_02",
+      "src": "【【ビール瓶】に持ち替える",
+      "text": "【切换为【啤酒瓶】"
+    },
+    {
+      "name": "AC_CHANGENAME_I_W_HH_09",
+      "src": "【【杵(きね)】に持ち替える",
+      "text": "【切换为【杵】"
+    },
+    {
+      "name": "AC_CHANGENAME_I_W_LC_05",
+      "src": "【【そば切り包丁】に持ち替える",
+      "text": "【切换为【荞麦切刀】"
+    },
+    {
+      "name": "AC_CHANGENAME_I_W_LH_08",
+      "src": "【【ふとん卯き】に持ち替える",
+      "text": "【切换为【拍被棒】"
+    },
+    {
+      "name": "AC_CHANGENAME_I_W_LH_09",
+      "src": "【【鬼法瓶】に持ち替える",
+      "text": "【切换为【保温瓶】"
+    },
+    {
+      "name": "AC_CHANGENAME_I_W_LK_02",
+      "src": "【【包丁】に持ち替える",
+      "text": "【切换为【菜刀】"
+    },
+    {
+      "name": "AC_CHANGENAME_I_W_LK_03",
+      "src": "【【ドス】に持ち替える",
+      "text": "【切换为【短刀】"
+    },
+    {
+      "name": "AC_CHANGENAME_I_W_LK_04",
+      "src": "【【割れたビール瓶】に持ち替える",
+      "text": "【切换为【破碎的啤酒瓶】"
+    },
+    {
+      "name": "AC_CHECK",
+      "src": "【調べる",
+      "text": "【调查"
+    },
+    {
+      "name": "AC_DOOR_CLOSE",
+      "src": "【閉める",
+      "text": "【关闭"
+    },
+    {
+      "name": "AC_DOOR_HOLD",
+      "src": "〈长按〉押さえる",
+      "text": "长按 按住"
+    },
+    {
+      "name": "AC_DOOR_INNER_LOCK",
+      "src": "〈长按〉内鍵をかける",
+      "text": "长按 上内锁"
+    },
+    {
+      "name": "AC_DOOR_INNER_UNLOCK",
+      "src": "【内鍵を開ける",
+      "text": "【打开内锁"
+    },
+    {
+      "name": "AC_DOOR_OPEN",
+      "src": "【開ける",
+      "text": "【打开"
+    },
+    {
+      "name": "AC_DOOR_UNLOCK",
+      "src": "【鍵を開ける",
+      "text": "【开锁"
+    },
+    {
+      "name": "AC_ELEVATOR_CALL",
+      "src": "【エレベータを呼ぶ",
+      "text": "【呼叫电梯"
+    },
+    {
+      "name": "AC_ELEVATOR_DOWN",
+      "src": "【下へ",
+      "text": "【向下"
+    },
+    {
+      "name": "AC_ELEVATOR_MOVE",
+      "src": "【ボタンを押す",
+      "text": "【按下按钮"
+    },
+    {
+      "name": "AC_ELEVATOR_UP",
+      "src": "【上へ",
+      "text": "【向上"
+    },
+    {
+      "name": "AC_EXIT",
+      "src": "【出る",
+      "text": "【出去"
+    },
+    {
+      "name": "AC_HIDE",
+      "src": "【隠れる",
+      "text": "【躲藏"
+    },
+    {
+      "name": "AC_JUMP_TRUCK",
+      "src": "【飛び降りる",
+      "text": "【跳下"
+    },
+    {
+      "name": "AC_LIFTUP",
+      "src": "【引き上げる",
+      "text": "【拉起"
+    },
+    {
+      "name": "AC_PICKUP_ANTENNA",
+      "src": "【アンテナを投げる",
+      "text": "【投掷天线"
+    },
+    {
+      "name": "AC_PICK_UP2",
+      "src": "【拾う",
+      "text": "【拾取"
+    },
+    {
+      "name": "AC_PICK_UPNAME_I_EV_08",
+      "src": "【【ブローチ】を拾う",
+      "text": "【拾取【胸针】"
+    },
+    {
+      "name": "AC_PICK_UPNAME_I_SP_02",
+      "src": "【【発煙筒】を拾う",
+      "text": "【拾取【发烟筒】"
+    },
+    {
+      "name": "AC_PICK_UPNAME_I_W_BK_01",
+      "src": "【【一升瓶】を拾う",
+      "text": "【拾取【一升瓶】"
+    },
+    {
+      "name": "AC_PICK_UPNAME_I_W_BK_02",
+      "src": "【【ビール瓶】を拾う",
+      "text": "【拾取【啤酒瓶】"
+    },
+    {
+      "name": "AC_PICK_UPNAME_I_W_HH_09",
+      "src": "【【杵(きね)】を拾う",
+      "text": "【拾取【杵】"
+    },
+    {
+      "name": "AC_PICK_UPNAME_I_W_LC_05",
+      "src": "【【そば切り包丁】を拾う",
+      "text": "【拾取【荞麦切刀】"
+    },
+    {
+      "name": "AC_PICK_UPNAME_I_W_LH_08",
+      "src": "【【ふとん卯き】を拾う",
+      "text": "【拾取【拍被棒】"
+    },
+    {
+      "name": "AC_PICK_UPNAME_I_W_LH_09",
+      "src": "【【鬼法瓶】を拾う",
+      "text": "【拾取【保温瓶】"
+    },
+    {
+      "name": "AC_PICK_UPNAME_I_W_LK_02",
+      "src": "【【包丁】を拾う",
+      "text": "【拾取【菜刀】"
+    },
+    {
+      "name": "AC_PICK_UPNAME_I_W_LK_03",
+      "src": "【【ドス】を拾う",
+      "text": "【拾取【短刀】"
+    },
+    {
+      "name": "AC_PICK_UPNAME_I_W_LK_04",
+      "src": "【【割れたビール瓶】を拾う",
+      "text": "【拾取【破碎的啤酒瓶】"
+    },
+    {
+      "name": "AC_PUSH_TRUCK",
+      "src": "〈长按〉トロッコを押す",
+      "text": "长按 推矿车"
+    },
+    {
+      "name": "AC_RIDE_TRUCK",
+      "src": "【飛び乗る",
+      "text": "【跳上"
+    },
+    {
+      "name": "AC_ROLL_LEVER",
+      "src": "〈长按〉レバーを回す",
+      "text": "长按 转动拉杆"
+    },
+    {
+      "name": "CHA_CAUTION1_HNM_1",
+      "src": "「怪シィジオオ？」",
+      "text": "「好奇怪啊？」"
+    },
+    {
+      "name": "CHA_CAUTION1_HNM_2",
+      "src": "「誰ダ？ 誰ダア！」",
+      "text": "「谁？谁啊！」"
+    },
+    {
+      "name": "CHA_CAUTION1_SM1_0",
+      "src": "「誰かいるのかあ？」",
+      "text": "「有人吗？」"
+    },
+    {
+      "name": "CHA_CAUTION1_SM1_1",
+      "src": "「ん？ 誰だあ？」",
+      "text": "「嗯？是谁？」"
+    },
+    {
+      "name": "CHA_CAUTION1_SM1_2",
+      "src": "「ああ？ 何だあ？」",
+      "text": "「啊？干什么？」"
+    },
+    {
+      "name": "CHA_CAUTION1_SM2_0",
+      "src": "「ん～？ 誰だあ～？」",
+      "text": "「嗯～？是谁呀～？」"
+    },
+    {
+      "name": "CHA_CAUTION1_SM2_1",
+      "src": "「おい……誰かいるのかあ？」",
+      "text": "「喂……有人吗？」"
+    },
+    {
+      "name": "CHA_CAUTION1_SM2_2",
+      "src": "「何だあ？ おい？」",
+      "text": "「干什么？喂？」"
+    },
+    {
+      "name": "CHA_CAUTION1_SM4_1",
+      "src": "「そこかあ～？」",
+      "text": "「在那边吗～？」"
+    },
+    {
+      "name": "CHA_CAUTION1_SM4_2",
+      "src": "「ああ？ 誰だあ？」",
+      "text": "「啊？是谁？」"
+    },
+    {
+      "name": "CHA_CAUTION2_HNM_0",
+      "src": "「イナイ！ イナイジオ！」",
+      "text": "「不在！不在这儿啊！」"
+    },
+    {
+      "name": "CHA_CAUTION2_HNM_1",
+      "src": "「オイ！ ドコダア！」",
+      "text": "「喂！在哪儿啊！」"
+    },
+    {
+      "name": "CHA_CAUTION2_HNM_2",
+      "src": "「戻レ！ 卑怯ダジオ！」",
+      "text": "「回来！卑怯的达里奥！」"
+    },
+    {
+      "name": "CHA_CAUTION2_SM1_0",
+      "src": "「出てこいよお～」",
+      "text": "「出来呀～」"
+    },
+    {
+      "name": "CHA_CAUTION2_SM1_1",
+      "src": "「どこ行ったあ？」",
+      "text": "「跑哪去了？」"
+    },
+    {
+      "name": "CHA_CAUTION2_SM1_2",
+      "src": "「隠れても無駄だそお～」",
+      "text": "「躲起来也没用哦～」"
+    },
+    {
+      "name": "CHA_CAUTION2_SM2_0",
+      "src": "「戻って……来いよお」",
+      "text": "「回来……啊」"
+    },
+    {
+      "name": "CHA_CAUTION2_SM2_1",
+      "src": "「どこ……行ったあ？」",
+      "text": "「跑哪……去了？」"
+    },
+    {
+      "name": "CHA_CAUTION2_SM2_2",
+      "src": "「無駄だよお」",
+      "text": "「没用的」"
+    },
+    {
+      "name": "CHA_CAUTION2_SM4_0",
+      "src": "「こらあ！ 出て来いい！」",
+      "text": "「喂！出来！」"
+    },
+    {
+      "name": "CHA_CAUTION2_SM4_1",
+      "src": "「どこ行ったあ……」",
+      "text": "「跑哪去了……」"
+    },
+    {
+      "name": "CHA_CAUTION2_SM4_2",
+      "src": "「くそお……逃げ足の早い……」",
+      "text": "「可恶……跑得真快……」"
+    },
+    {
+      "name": "CHA_FINISH_KYU_0",
+      "src": "「許して……」",
+      "text": "「原谅我……」"
+    },
+    {
+      "name": "CHA_FINISH_KYU_1",
+      "src": "「どうか安らかに……」",
+      "text": "「愿你安息……」"
+    },
+    {
+      "name": "CHA_FINISH_KYU_2",
+      "src": "「許して……」",
+      "text": "「原谅我……」"
+    },
+    {
+      "name": "CHA_ST18EVENT1_HNM_0",
+      "src": "「泥棒ガ出タジオ～」",
+      "text": "「小偷出现啦～」"
+    },
+    {
+      "name": "CHA_ST18EVENT1_HNM_1",
+      "src": "「マナ字架サマラ盗セエ～」",
+      "text": "玛娜字架大人被偷走啦～"
+    },
+    {
+      "name": "CHA_ST18EVENT1_HNM_2",
+      "src": "「大変ダア！ 大変ダア～！」",
+      "text": "「不好啦！不好啦～！」"
+    },
+    {
+      "name": "CHA_ST18EVENT1_KYU",
+      "src": "「過去の幻？ でも……なせ？」",
+      "text": "过去的幻影？可是……为何？"
+    },
+    {
+      "name": "CHA_ST18EVENT1_SF1_0",
+      "src": "「無いわ……無いわ……」",
+      "text": "「不见了……不见了……」"
+    },
+    {
+      "name": "CHA_ST18EVENT1_SF1_1",
+      "src": "「マナ字架さまが無いわ……」",
+      "text": "「玛娜字架大人不见了……」"
+    },
+    {
+      "name": "CHA_ST18EVENT1_SF1_2",
+      "src": "「どうしよう……困ったわ……」",
+      "text": "「怎么办……真伤脑筋……」"
+    },
+    {
+      "name": "CHA_ST18EVENT1_SF2_0",
+      "src": "「ああ大変だあ……大変だあ……」",
+      "text": "「啊啊不好啦……不好啦……」"
+    },
+    {
+      "name": "CHA_ST18EVENT1_SF2_1",
+      "src": "「マナ字架さまがあ盗まれちまったよお……」",
+      "text": "「玛娜字架大人被人偷走了呀……」"
+    },
+    {
+      "name": "CHA_ST18EVENT1_SF2_2",
+      "src": "「どこじやあ……マナ字架さまあ……どこじやあ……」",
+      "text": "「在哪里呀……玛娜字架大人……在哪里呀……」"
+    },
+    {
+      "name": "CHA_ST18EVENT1_SM1_0",
+      "src": "「ああ……大変だ……大変だ……マナ字架さまがねえよお……」",
+      "text": "「啊啊……不好啦……不好啦……玛娜字架大人不见了呀……」"
+    },
+    {
+      "name": "CHA_ST18EVENT1_SM1_1",
+      "src": "「くそお……盗人め……マナ字架さまを返ぜえ……」",
+      "text": "「可恶……小偷……把玛娜字架大人还回来……」"
+    },
+    {
+      "name": "CHA_ST18EVENT1_SM1_2",
+      "src": "「誰だよお……マナ字架さま盗んだのはよお……」",
+      "text": "「到底是谁……偷了玛娜字架大人啊……」"
+    },
+    {
+      "name": "CHA_ST18EVENT1_SM2_0",
+      "src": "「マナ字架さまがねえよお」",
+      "text": "「玛娜字架大人不见了呀」"
+    },
+    {
+      "name": "CHA_ST18EVENT1_SM2_1",
+      "src": "「誰だあ……マナ字架さま盗ったのはあ……」",
+      "text": "「是谁啊……偷了玛娜字架大人的……」"
+    },
+    {
+      "name": "CHA_ST18EVENT1_SM2_2",
+      "src": "「罰当たりな盗人めえ……」",
+      "text": "「遭报应的小偷……」"
+    },
+    {
+      "name": "CHA_ST18EVENT1_SM3_0",
+      "src": "「大変だあ……大変だあ……」",
+      "text": "「不好啦……不好啦……」"
+    },
+    {
+      "name": "CHA_ST18EVENT1_SM3_1",
+      "src": "「盗人めえ……マナ字架さまをどこにやったあ……」",
+      "text": "「小偷……你把玛娜字架大人弄哪去了……」"
+    },
+    {
+      "name": "CHA_ST18EVENT1_SM3_2",
+      "src": "「マナ字架さまはどこじやあ……」",
+      "text": "「玛娜字架大人在哪里呀……」"
+    },
+    {
+      "name": "CHA_ST18EVENT1_SM4_0",
+      "src": "「盗人めえ！ 許さんそお！」",
+      "text": "「小偷！饶不了你！」"
+    },
+    {
+      "name": "CHA_ST18EVENT1_SM4_1",
+      "src": "「マナ字架さまあがねえよお……」",
+      "text": "「玛娜字架大人不见了啊……」"
+    },
+    {
+      "name": "CHA_ST18EVENT1_SM4_2",
+      "src": "「どこ行ったあ……マナ字架さまあ……」",
+      "text": "「跑哪去了……玛娜字架大人啊……」"
+    },
+    {
+      "name": "CHA_ST18EVENT2_KYU",
+      "src": "「地図に禁断の地への扉が一一」",
+      "text": "「地图上通往禁地之门——」"
+    },
+    {
+      "name": "CHA_ST18EVENT3_KYU",
+      "src": "「あと一つ」",
+      "text": "「还差一个」"
+    },
+    {
+      "name": "CHA_ST18EVENT4_KYU",
+      "src": "「これで扉が開く」",
+      "text": "「这样门就会打开」"
+    },
+    {
+      "name": "CHA_ST18EVENT5_KYU",
+      "src": "「この扉を開く時 再び輪は回り始める」",
+      "text": "当这扇门开启时，轮回将再次转动"
+    },
+    {
+      "name": "CHA_START_KYU_0",
+      "src": "「私のブローチ！ いつのまに？」",
+      "text": "「我的胸针！什么时候？」"
+    },
+    {
+      "name": "CHA_START_KYU_1",
+      "src": "「ああ 神よ どうかご加護を一一」",
+      "text": "「啊啊，神啊，请您赐予加护——」"
+    },
+    {
+      "name": "CHA_START_KYU_2",
+      "src": "「神よ 救いを……」",
+      "text": "神啊，请救救我…"
+    },
+    {
+      "name": "DOOR_BLOCKED",
+      "src": "この扉は開かないようだ。",
+      "text": "这扇门打不开。"
+    },
+    {
+      "name": "DOOR_EVENT_LOCKED",
+      "src": "ここに合う鍵を持っていない。",
+      "text": "没有能打开这里的钥匙。"
+    },
+    {
+      "name": "DOOR_INNER_LOCK",
+      "src": "反対側から内鍵が掛かっている。",
+      "text": "另一侧上了内锁。"
+    },
+    {
+      "name": "DOOR_INNER_UNLOCKED",
+      "src": "内鍵を開けた。",
+      "text": "打开了内锁。"
+    },
+    {
+      "name": "DOOR_UNLOCKED",
+      "src": "鍵を開けた。",
+      "text": "打开了锁。"
+    },
+    {
+      "name": "ELEVATOR_BLOCK",
+      "src": "動かないようだ。",
+      "text": "好像动不了。"
+    },
+    {
+      "name": "EMPTY_LABEL",
+      "src": "空テキストです",
+      "text": "空文本"
+    },
+    {
+      "name": "EP05_CP4_1_01",
+      "src": "「ああ 神よ…… 私に何をお求めなのですか？」",
+      "text": "「啊啊，神啊……您要我做什么呢？」"
+    },
+    {
+      "name": "EP05_CP4_2_01",
+      "src": "「これは……私宛に書かれた言業」",
+      "text": "「这是……写给我的话语」"
+    },
+    {
+      "name": "GET_ARCHIVE2ARCHIVE022",
+      "src": "アーカイブ【マナ字架のブローチ】既に入手済み。",
+      "text": "档案【玛娜字架的胸针】\n已获得。"
+    },
+    {
+      "name": "GET_ARCHIVE2ARCHIVE023",
+      "src": "アーカイブ【奇妙な図形の木片】既に入手済み。",
+      "text": "档案【奇妙图形的木片】\n已获得。"
+    },
+    {
+      "name": "GET_ARCHIVEARCHIVE022",
+      "src": "【マナ字架のブローチ】がアーカイブに追加された。",
+      "text": "【玛娜字架的胸针】\n已添加到档案。"
+    },
+    {
+      "name": "GET_ARCHIVEARCHIVE023",
+      "src": "【奇妙な図形の木片】がアーカイブに追加された。",
+      "text": "【奇妙图形的木片】\n已添加到档案。"
+    },
+    {
+      "name": "GET_ARCHIVE_KEY2ARCHIVE022",
+      "src": "【マナ字架のブローチ】アーカイブ入手の必要行動。既に達成済み。",
+      "text": "【玛娜字架的胸针】\n取得档案所需行动。已经完成。"
+    },
+    {
+      "name": "GET_ARCHIVE_KEY2ARCHIVE023",
+      "src": "【奇妙な図形の木片】アーカイブ入手の必要行動。既に達成済み。",
+      "text": "【奇妙图形的木片】\n取得档案所需行动。已经完成。"
+    },
+    {
+      "name": "GET_ARCHIVE_KEYARCHIVE022",
+      "src": "【マナ字架のブローチ】アーカイブ入手の必要行動を達成した。",
+      "text": "【玛娜字架的胸针】\n已完成取得档案所需行动。"
+    },
+    {
+      "name": "GET_ARCHIVE_KEYARCHIVE023",
+      "src": "【奇妙な図形の木片】アーカイブ入手の必要行動を達成した。",
+      "text": "【奇妙图形的木片】\n已完成取得档案所需行动。"
+    },
+    {
+      "name": "GET_ITEMNAME_I_EV_08",
+      "src": "【ブローチ】を入手した。",
+      "text": "【胸针】已入手。"
+    },
+    {
+      "name": "GET_ITEMNAME_I_SP_02",
+      "src": "【発煙筒】を入手した。",
+      "text": "【发烟筒】已入手。"
+    },
+    {
+      "name": "GET_ITEMNAME_I_W_BK_01",
+      "src": "【一升瓶】を入手した。",
+      "text": "【一升瓶】已入手。"
+    },
+    {
+      "name": "GET_ITEMNAME_I_W_BK_02",
+      "src": "【ビール瓶】を入手した。",
+      "text": "【啤酒瓶】已入手。"
+    },
+    {
+      "name": "GET_ITEMNAME_I_W_HH_09",
+      "src": "【杵(きね)】を入手した。",
+      "text": "【杵】已入手。"
+    },
+    {
+      "name": "GET_ITEMNAME_I_W_LC_05",
+      "src": "【そば切り包丁】を入手した。",
+      "text": "【荞麦切刀】已入手。"
+    },
+    {
+      "name": "GET_ITEMNAME_I_W_LH_08",
+      "src": "【ふとん卯き】を入手した。",
+      "text": "【拍被棒】已入手。"
+    },
+    {
+      "name": "GET_ITEMNAME_I_W_LH_09",
+      "src": "【鬼法瓶】を入手した。",
+      "text": "【保温瓶】已入手。"
+    },
+    {
+      "name": "GET_ITEMNAME_I_W_LK_02",
+      "src": "【包丁】を入手した。",
+      "text": "【菜刀】已入手。"
+    },
+    {
+      "name": "GET_ITEMNAME_I_W_LK_03",
+      "src": "【ドス】を入手した。",
+      "text": "【短刀】已入手。"
+    },
+    {
+      "name": "GET_ITEMNAME_I_W_LK_04",
+      "src": "【割れたビール瓶】を入手した。",
+      "text": "【破碎的啤酒瓶】已入手。"
+    },
+    {
+      "name": "NO_TEXT_LABEL",
+      "src": "ＮＯ＿ＴＥＸＴ＿ＬＡＢＥＬ",
+      "text": "NO_TEXT_LABEL"
+    },
+    {
+      "name": "S18_ACTION_COMMAND001",
+      "src": "【看板を落とす",
+      "text": "【推落招牌"
+    },
+    {
+      "name": "S18_ACTION_COMMAND002",
+      "src": "【封印を解く",
+      "text": "【解开封印"
+    },
+    {
+      "name": "S18_ACTION_COMMAND003",
+      "src": "【発煙筒を投げ入れる",
+      "text": "【投入发烟筒"
+    },
+    {
+      "name": "S18_MESSAGE001",
+      "src": "見覚えのある扉だ。だがはっきりと思い出ぜない……。",
+      "text": "似曾相识的门。\n但却想不清楚……"
+    },
+    {
+      "name": "S18_MESSAGE002",
+      "src": "封印の中央で何かが光っている。どこかで見たことがある気がするが、思い出ぜない。",
+      "text": "封印中央有什么在发光。\n总觉得在哪儿见过，却想不起来。"
+    },
+    {
+      "name": "S18_MESSAGE003",
+      "src": "【記録者:三田村秀人】",
+      "text": "【记录者：三田村秀人】"
+    },
+    {
+      "name": "S18_MESSAGE004",
+      "src": "墓の下には何もない。",
+      "text": "墓下什么都没有。"
+    },
+    {
+      "name": "S18_MESSAGE005",
+      "src": "何かの名薄のようだ。【竹元孝市】の名前に印が付けられている。",
+      "text": "似乎是某种名册。\n【竹元孝市】的名字上做了标记。"
+    },
+    {
+      "name": "S18_MESSAGE006",
+      "src": "何かの名薄のようだ。【双木次雄】の名前に印が付けられている。",
+      "text": "似乎是某种名册。\n【双木次雄】的名字上做了标记。"
+    },
+    {
+      "name": "S18_MESSAGE007",
+      "src": "何かの名薄のようだ。【三田村貴人】の名前に印が付けられている。",
+      "text": "似乎是某种名册。\n【三田村贵人】的名字上做了标记。"
+    },
+    {
+      "name": "S18_MESSAGE008",
+      "src": "何かの名薄のようだ。【卯川滋】の名前に印が付けられている。",
+      "text": "似乎是某种名册。\n【卯川滋】的名字上做了标记。"
+    },
+    {
+      "name": "S18_MESSAGE009",
+      "src": "何かの名薄のようだ。【陸井榛助】の名前に印が付けられている。",
+      "text": "似乎是某种名册。\n【陆井榛助】的名字上做了标记。"
+    },
+    {
+      "name": "S18_MESSAGE010",
+      "src": "【竹元孝市】",
+      "text": "【竹元孝市】"
+    },
+    {
+      "name": "S18_MESSAGE011",
+      "src": "【双木次雄】",
+      "text": "【双木次雄】"
+    },
+    {
+      "name": "S18_MESSAGE012",
+      "src": "【三田村貴人】",
+      "text": "【三田村贵人】"
+    },
+    {
+      "name": "S18_MESSAGE013",
+      "src": "【卯川滋】",
+      "text": "【卯川滋】"
+    },
+    {
+      "name": "S18_MESSAGE014",
+      "src": "【陸井榛助】",
+      "text": "【陆井榛助】"
+    },
+    {
+      "name": "S18_MESSAGE015",
+      "src": "【辰野清江】",
+      "text": "【辰野清江】"
+    },
+    {
+      "name": "S18_MESSAGE016",
+      "src": "奇妙な文字が書かれている。しかし何故か見覚えがある……。",
+      "text": "写着奇怪的文字。\n但不知为何有种似曾相识的感觉……"
+    },
+    {
+      "name": "S18_MESSAGE017",
+      "src": "何かが違っているような気がする。扉のイメージが頭に浮かぶが、はっきりと思い出ぜない……。",
+      "text": "总觉得有什么不对劲。\n脑海中浮现出门的影像，却想不清楚……"
+    },
+    {
+      "name": "S99_AREA_OVER1",
+      "src": "戻る訳にはいかない。",
+      "text": "不能回头。"
+    },
+    {
+      "name": "S99_AREA_OVER10",
+      "src": "サムを置いていく訳にはいかない……。",
+      "text": "不能丢下山姆……"
+    },
+    {
+      "name": "S99_AREA_OVER11",
+      "src": "この先には用がない……。",
+      "text": "前方没有要找的东西……"
+    },
+    {
+      "name": "S99_AREA_OVER2",
+      "src": "この先は危険だ……。",
+      "text": "前方很危险……"
+    },
+    {
+      "name": "S99_AREA_OVER3",
+      "src": "目的を果たさなければならない。",
+      "text": "必须完成目的。"
+    },
+    {
+      "name": "S99_AREA_OVER4",
+      "src": "美耶古を置いていく訳にはいかない……。",
+      "text": "不能丢下美耶古……"
+    },
+    {
+      "name": "S99_AREA_OVER5",
+      "src": "メリッサを置いていく訳にはいかない……。",
+      "text": "不能丢下梅丽莎……"
+    },
+    {
+      "name": "S99_AREA_OVER6",
+      "src": "アマナを置いていく訳にはいかない……。",
+      "text": "不能丢下阿玛娜……"
+    },
+    {
+      "name": "S99_AREA_OVER7",
+      "src": "ベラを置いていく訳にはいかない……。",
+      "text": "不能丢下贝拉……"
+    },
+    {
+      "name": "S99_AREA_OVER8",
+      "src": "ベラを探さなければ……。",
+      "text": "必须找到贝拉……"
+    },
+    {
+      "name": "S99_AREA_OVER9",
+      "src": "技が折れている。ここからは戻れそうにない。",
+      "text": "树枝折断，看来无法从这里返回。"
+    },
+    {
+      "name": "S99_BUSY",
+      "src": "今はそれどころではない。",
+      "text": "现在不是做这个的时候。"
+    },
+    {
+      "name": "S99_MESSAGE001",
+      "src": "扉は固く閉じられている。中からは物音も聞こえない。",
+      "text": "门紧紧关闭着。\n里面听不到任何声响。"
+    },
+    {
+      "name": "S99_MESSAGE002",
+      "src": "番号を間違えたようだ。",
+      "text": "好像拨错号码了。"
+    },
+    {
+      "name": "S99_MESSAGE003",
+      "src": "話し中のようだ。",
+      "text": "好像正在通话中。"
+    },
+    {
+      "name": "S99_NPCOUTOFRANGE",
+      "src": "声が届かない。",
+      "text": "声音传不到。"
+    },
+    {
+      "name": "SUB_COM_CANCEL_TRAP",
+      "src": "罠解除",
+      "text": "拆陷阱"
+    },
+    {
+      "name": "SUB_COM_COME",
+      "src": "「来い」",
+      "text": "「过来」"
+    },
+    {
+      "name": "SUB_COM_HIDE",
+      "src": "「隠れろ」",
+      "text": "「躲起来」"
+    },
+    {
+      "name": "SUB_COM_LIGHT1",
+      "src": "懐中電灯ＯＮ",
+      "text": "手电筒ON"
+    },
+    {
+      "name": "SUB_COM_LIGHT2",
+      "src": "懐中電灯ＯＦＦ",
+      "text": "手电筒OFF"
+    },
+    {
+      "name": "SUB_COM_NO",
+      "src": "いいえ",
+      "text": "否"
+    },
+    {
+      "name": "SUB_COM_SET_TRAP",
+      "src": "罠設置",
+      "text": "设陷阱"
+    },
+    {
+      "name": "SUB_COM_SHOUT",
+      "src": "叫ぶ",
+      "text": "呼喊"
+    },
+    {
+      "name": "SUB_COM_SMOKE",
+      "src": "発煙筒",
+      "text": "发烟筒"
+    },
+    {
+      "name": "SUB_COM_WAIT",
+      "src": "「待て」",
+      "text": "「等待」"
+    },
+    {
+      "name": "SUB_COM_YES",
+      "src": "はい",
+      "text": "是"
+    }
+  ]
+}

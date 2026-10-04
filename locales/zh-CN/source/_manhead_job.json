@@ -1,0 +1,354 @@
+{
+ "arch": "common",
+ "font": "SimHei",
+ "items": [
+  {
+   "name": "menu/jp/main_manual/small_subject/menu_manual_archive_001.dds",
+   "size": 24,
+   "bold": 1,
+   "align": "left",
+   "y": 5,
+   "lines": [
+    {
+     "text": "剧情档案",
+     "y": 5
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_manual/small_subject/menu_manual_archive_003.dds",
+   "size": 24,
+   "bold": 1,
+   "align": "left",
+   "y": 5,
+   "lines": [
+    {
+     "text": "武器档案",
+     "y": 5
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_manual/small_subject/menu_manual_battle_001.dds",
+   "size": 24,
+   "bold": 1,
+   "align": "left",
+   "y": 5,
+   "lines": [
+    {
+     "text": "近身攻击",
+     "y": 5
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_manual/small_subject/menu_manual_battle_003.dds",
+   "size": 24,
+   "bold": 1,
+   "align": "left",
+   "y": 5,
+   "lines": [
+    {
+     "text": "持枪状态的通用操作",
+     "y": 5
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_manual/small_subject/menu_manual_battle_005.dds",
+   "size": 24,
+   "bold": 1,
+   "align": "left",
+   "y": 5,
+   "lines": [
+    {
+     "text": "持枪时（未锁定目标）",
+     "y": 5
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_manual/small_subject/menu_manual_battle_007.dds",
+   "size": 24,
+   "bold": 1,
+   "align": "left",
+   "y": 5,
+   "lines": [
+    {
+     "text": "持枪时（已锁定目标）",
+     "y": 5
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_manual/small_subject/menu_manual_battle_009.dds",
+   "size": 24,
+   "bold": 1,
+   "align": "left",
+   "y": 5,
+   "lines": [
+    {
+     "text": "持枪时（狙击模式）",
+     "y": 5
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_manual/small_subject/menu_manual_battle_011.dds",
+   "size": 24,
+   "bold": 1,
+   "align": "left",
+   "y": 5,
+   "lines": [
+    {
+     "text": "被击倒、被抓取攻击时",
+     "y": 5
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_manual/small_subject/menu_manual_battletips_001.dds",
+   "size": 24,
+   "bold": 1,
+   "align": "left",
+   "y": 5,
+   "lines": [
+    {
+     "text": "警戒系统",
+     "y": 5
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_manual/small_subject/menu_manual_battletips_003.dds",
+   "size": 24,
+   "bold": 1,
+   "align": "left",
+   "y": 5,
+   "lines": [
+    {
+     "text": "敌人进入警戒模式时",
+     "y": 5
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_manual/small_subject/menu_manual_battletips_005.dds",
+   "size": 24,
+   "bold": 1,
+   "align": "left",
+   "y": 5,
+   "lines": [
+    {
+     "text": "枪械命中率",
+     "y": 5
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_manual/small_subject/menu_manual_control_001.dds",
+   "size": 24,
+   "bold": 1,
+   "align": "left",
+   "y": 5,
+   "lines": [
+    {
+     "text": "基本操作",
+     "y": 5
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_manual/small_subject/menu_manual_control_003.dds",
+   "size": 24,
+   "bold": 1,
+   "align": "left",
+   "y": 5,
+   "lines": [
+    {
+     "text": "副指令",
+     "y": 5
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_manual/small_subject/menu_manual_control_005.dds",
+   "size": 24,
+   "bold": 1,
+   "align": "left",
+   "y": 5,
+   "lines": [
+    {
+     "text": "菜单",
+     "y": 5
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_manual/small_subject/menu_manual_control_007.dds",
+   "size": 24,
+   "bold": 1,
+   "align": "left",
+   "y": 5,
+   "lines": [
+    {
+     "text": "梯子",
+     "y": 5
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_manual/small_subject/menu_manual_control_009.dds",
+   "size": 24,
+   "bold": 1,
+   "align": "left",
+   "y": 5,
+   "lines": [
+    {
+     "text": "门",
+     "y": 5
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_manual/small_subject/menu_manual_map_001.dds",
+   "size": 24,
+   "bold": 1,
+   "align": "left",
+   "y": 5,
+   "lines": [
+    {
+     "text": "地图画面",
+     "y": 5
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_manual/small_subject/menu_manual_sightjack1_001.dds",
+   "size": 24,
+   "bold": 1,
+   "align": "left",
+   "y": 5,
+   "lines": [
+    {
+     "text": "模式切换",
+     "y": 5
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_manual/small_subject/menu_manual_sightjack1_003.dds",
+   "size": 24,
+   "bold": 1,
+   "align": "left",
+   "y": 5,
+   "lines": [
+    {
+     "text": "视界劫持搜索模式中的操作",
+     "y": 5
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_manual/small_subject/menu_manual_sightjack1_005.dds",
+   "size": 24,
+   "bold": 1,
+   "align": "left",
+   "y": 5,
+   "lines": [
+    {
+     "text": "移动模式（视界固定状态）的特殊操作",
+     "y": 5
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_manual/small_subject/menu_manual_sightjack1_007.dds",
+   "size": 24,
+   "bold": 1,
+   "align": "left",
+   "y": 5,
+   "lines": [
+    {
+     "text": "十字图标",
+     "y": 5
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_manual/small_subject/menu_manual_sightjack2_001.dds",
+   "size": 24,
+   "bold": 1,
+   "align": "left",
+   "y": 5,
+   "lines": [
+    {
+     "text": "视界登记",
+     "y": 5
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_manual/small_subject/menu_manual_sightjack2_003.dds",
+   "size": 24,
+   "bold": 1,
+   "align": "left",
+   "y": 5,
+   "lines": [
+    {
+     "text": "视界搜索",
+     "y": 5
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_manual/small_subject/menu_manual_sightjack2_005.dds",
+   "size": 24,
+   "bold": 1,
+   "align": "left",
+   "y": 5,
+   "lines": [
+    {
+     "text": "紧急搜索",
+     "y": 5
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_manual/big_subject/menu_manual_head_control.dds",
+   "size": 30,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "基本操作",
+     "y": 1
+    },
+    {
+     "text": "战斗",
+     "y": 33
+    },
+    {
+     "text": "战斗技巧",
+     "y": 65
+    },
+    {
+     "text": "视界劫持（基本）",
+     "y": 96
+    },
+    {
+     "text": "视界劫持（详细）",
+     "y": 128
+    },
+    {
+     "text": "地图",
+     "y": 160
+    },
+    {
+     "text": "档案",
+     "y": 192
+    }
+   ]
+  }
+ ]
+}

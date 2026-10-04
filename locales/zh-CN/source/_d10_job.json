@@ -1,0 +1,390 @@
+{
+ "arch": "common",
+ "font": "SimHei",
+ "items": [
+  {
+   "name": "menu/jp/main_option/big_choice/menu_option_aim_a.dds",
+   "size": 19,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "最快",
+     "y": 2
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_option/big_choice/menu_option_aim_b.dds",
+   "size": 19,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "快",
+     "y": 2
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_option/big_choice/menu_option_aim_c.dds",
+   "size": 19,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "普通",
+     "y": 2
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_option/big_choice/menu_option_aim_d.dds",
+   "size": 19,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "慢",
+     "y": 2
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_option/big_choice/menu_option_aim_e.dds",
+   "size": 19,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "最慢",
+     "y": 2
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_option/big_choice/menu_option_alerteffect_off.dds",
+   "size": 19,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "关闭",
+     "y": 2
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_option/big_choice/menu_option_alerteffect_on.dds",
+   "size": 19,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "开启",
+     "y": 2
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_option/big_choice/menu_option_caption_off.dds",
+   "size": 19,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "关闭",
+     "y": 2
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_option/big_choice/menu_option_caption_on.dds",
+   "size": 19,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "开启",
+     "y": 2
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_option/big_choice/menu_option_difc_easy.dds",
+   "size": 19,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "简单",
+     "y": 2
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_option/big_choice/menu_option_difc_hard.dds",
+   "size": 19,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "困难",
+     "y": 2
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_option/big_choice/menu_option_difc_normal.dds",
+   "size": 19,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "普通",
+     "y": 2
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_option/big_choice/menu_option_fphorizontal_nor.dds",
+   "size": 19,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "普通",
+     "y": 2
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_option/big_choice/menu_option_fphorizontal_rev.dds",
+   "size": 19,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "反转",
+     "y": 2
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_option/big_choice/menu_option_fpvertical_nor.dds",
+   "size": 19,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "普通",
+     "y": 2
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_option/big_choice/menu_option_fpvertical_rev.dds",
+   "size": 19,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "反转",
+     "y": 2
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_option/big_choice/menu_option_mapdirection_hup.dds",
+   "size": 19,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "玩家",
+     "y": 2
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_option/big_choice/menu_option_mapdirection_nup.dds",
+   "size": 19,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "北",
+     "y": 2
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_option/big_choice/menu_option_midnight_off.dds",
+   "size": 19,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "关闭",
+     "y": 2
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_option/big_choice/menu_option_midnight_on.dds",
+   "size": 19,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "开启",
+     "y": 2
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_option/big_choice/menu_option_reset_no.dds",
+   "size": 19,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "否",
+     "y": 2
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_option/big_choice/menu_option_reset_yes.dds",
+   "size": 19,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "是",
+     "y": 2
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_option/big_choice/menu_option_screensepa_off.dds",
+   "size": 19,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "关闭",
+     "y": 2
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_option/big_choice/menu_option_screensepa_on.dds",
+   "size": 19,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "开启",
+     "y": 2
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_option/big_choice/menu_option_subcom_off.dds",
+   "size": 19,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "关闭",
+     "y": 2
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_option/big_choice/menu_option_subcom_on.dds",
+   "size": 19,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "开启",
+     "y": 2
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_option/big_choice/menu_option_tphorizontal_nor.dds",
+   "size": 19,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "普通",
+     "y": 2
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_option/big_choice/menu_option_tphorizontal_rev.dds",
+   "size": 19,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "反转",
+     "y": 2
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_option/big_choice/menu_option_tpvertical_nor.dds",
+   "size": 19,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "普通",
+     "y": 2
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_option/big_choice/menu_option_tpvertical_rev.dds",
+   "size": 19,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "反转",
+     "y": 2
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_option/big_choice/menu_option_viewpoint_a.dds",
+   "size": 19,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "A型",
+     "y": 2
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_option/big_choice/menu_option_viewpoint_b.dds",
+   "size": 19,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "B型",
+     "y": 2
+    }
+   ]
+  }
+ ]
+}

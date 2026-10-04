@@ -1,0 +1,288 @@
+{
+  "_kind": "fontdata",
+  "_note": "共享档案物品名/档案章节名。archive_names 的 jp 为日文原名(同时是工具内部键，请勿改 jp)，zh=现用中文名。",
+  "_how_to_edit": "只修改每条记录的 \"zh\" 字段（jp/ref/meta 请勿改）。保存后运行 导入汉化.bat 即可重新生成并部署；运行 导出汉化.bat 可再次导出覆盖本文件。",
+  "_count": 56,
+  "entries": [
+    {
+      "id": "common::archive_names::天地救之伝",
+      "jp": "天地救之伝",
+      "zh": "天地救之传"
+    },
+    {
+      "id": "common::archive_names::ビデオカメラ",
+      "jp": "ビデオカメラ",
+      "zh": "摄像机"
+    },
+    {
+      "id": "common::archive_names::ハワード・ライトの学生証",
+      "jp": "ハワード・ライトの学生証",
+      "zh": "霍华德·莱特的学生证"
+    },
+    {
+      "id": "common::archive_names::嶋田習次の警察手帳",
+      "jp": "嶋田習次の警察手帳",
+      "zh": "岛田习次的警察手册"
+    },
+    {
+      "id": "common::archive_names::テレビ番組企画書",
+      "jp": "テレビ番組企画書",
+      "zh": "电视节目企划书"
+    },
+    {
+      "id": "common::archive_names::メリッサ・ゲイルの携帯電話",
+      "jp": "メリッサ・ゲイルの携帯電話",
+      "zh": "梅丽莎·盖尔的手机"
+    },
+    {
+      "id": "common::archive_names::サム・モンローの職員証",
+      "jp": "サム・モンローの職員証",
+      "zh": "山姆·门罗的职员证"
+    },
+    {
+      "id": "common::archive_names::デジタルビデオテープ",
+      "jp": "デジタルビデオテープ",
+      "zh": "数码录像带"
+    },
+    {
+      "id": "common::archive_names::奇妙な図形の文字盤",
+      "jp": "奇妙な図形の文字盤",
+      "zh": "奇妙图形的文字盘"
+    },
+    {
+      "id": "common::archive_names::鉱山職員の日誌",
+      "jp": "鉱山職員の日誌",
+      "zh": "矿山职员的日志"
+    },
+    {
+      "id": "common::archive_names::ベラ・モンローの日記",
+      "jp": "ベラ・モンローの日記",
+      "zh": "贝拉·门罗的日记"
+    },
+    {
+      "id": "common::archive_names::入院患者の手紙",
+      "jp": "入院患者の手紙",
+      "zh": "住院患者的信"
+    },
+    {
+      "id": "common::archive_names::メリッサ・ゲイルのロケットペンダント",
+      "jp": "メリッサ・ゲイルのロケットペンダント",
+      "zh": "梅丽莎·盖尔的吊坠"
+    },
+    {
+      "id": "common::archive_names::ソル・ジャクソンの社員証",
+      "jp": "ソル・ジャクソンの社員証",
+      "zh": "索尔·杰克逊的员工证"
+    },
+    {
+      "id": "common::archive_names::羽生蛇村郷土誌",
+      "jp": "羽生蛇村郷土誌",
+      "zh": "羽生蛇村乡土志"
+    },
+    {
+      "id": "common::archive_names::アマナの日記",
+      "jp": "アマナの日記",
+      "zh": "阿玛娜的日记"
+    },
+    {
+      "id": "common::archive_names::犀賀省悟の免許証",
+      "jp": "犀賀省悟の免許証",
+      "zh": "犀贺省悟的驾照"
+    },
+    {
+      "id": "common::archive_names::はにゅうめん",
+      "jp": "はにゅうめん",
+      "zh": "羽生面"
+    },
+    {
+      "id": "common::archive_names::祭壇の偶像",
+      "jp": "祭壇の偶像",
+      "zh": "祭坛的偶像"
+    },
+    {
+      "id": "common::archive_names::犀賀省悟の手帳",
+      "jp": "犀賀省悟の手帳",
+      "zh": "犀贺省悟的手帐"
+    },
+    {
+      "id": "common::archive_names::河辺幸江の手帳",
+      "jp": "河辺幸江の手帳",
+      "zh": "河边幸江的手帐"
+    },
+    {
+      "id": "common::archive_names::マナ字架のブローチ",
+      "jp": "マナ字架のブローチ",
+      "zh": "玛娜字架的胸针"
+    },
+    {
+      "id": "common::archive_names::奇妙な図形の木片",
+      "jp": "奇妙な図形の木片",
+      "zh": "奇妙图形的木片"
+    },
+    {
+      "id": "common::archive_names::聖画一尊体拝領一",
+      "jp": "聖画一尊体拝領一",
+      "zh": "圣画 -尊体拜领-"
+    },
+    {
+      "id": "common::archive_names::十尺ノ異人ノ事",
+      "jp": "十尺ノ異人ノ事",
+      "zh": "十尺异人之事"
+    },
+    {
+      "id": "common::archive_names::サム・モンローの手帳",
+      "jp": "サム・モンローの手帳",
+      "zh": "山姆·门罗的手帐"
+    },
+    {
+      "id": "common::archive_names::美耶古祭文",
+      "jp": "美耶古祭文",
+      "zh": "美耶古祭文"
+    },
+    {
+      "id": "common::archive_names::８ミリフィルム",
+      "jp": "８ミリフィルム",
+      "zh": "8毫米胶片"
+    },
+    {
+      "id": "common::archive_names::うらないのカンヅメ",
+      "jp": "うらないのカンヅメ",
+      "zh": "占卜罐头"
+    },
+    {
+      "id": "common::archive_names::聖画一虚母ろ主一",
+      "jp": "聖画一虚母ろ主一",
+      "zh": "圣画 -虚母ろ主-"
+    },
+    {
+      "id": "common::archive_names::アトランティス創刊号",
+      "jp": "アトランティス創刊号",
+      "zh": "亚特兰蒂斯创刊号"
+    },
+    {
+      "id": "common::archive_names::JＯＹＬiＮK 一ウルトラネットワークキング一",
+      "jp": "JＯＹＬiＮK 一ウルトラネットワークキング一",
+      "zh": "JOYLINK -超级网络之王-"
+    },
+    {
+      "id": "common::archive_names::犀賀省悟の絵日記",
+      "jp": "犀賀省悟の絵日記",
+      "zh": "犀贺省悟的图画日记"
+    },
+    {
+      "id": "common::archive_names::ハワード・ライトの携帯電話",
+      "jp": "ハワード・ライトの携帯電話",
+      "zh": "霍华德·莱特的手机"
+    },
+    {
+      "id": "common::archive_names::オイルライター",
+      "jp": "オイルライター",
+      "zh": "煤油打火机"
+    },
+    {
+      "id": "common::archive_names::三田村家のアルバム",
+      "jp": "三田村家のアルバム",
+      "zh": "三田村家的相册"
+    },
+    {
+      "id": "common::archive_names::合石岳異記",
+      "jp": "合石岳異記",
+      "zh": "合石岳异记"
+    },
+    {
+      "id": "common::archive_names::バミューダ３のレコード",
+      "jp": "バミューダ３のレコード",
+      "zh": "百慕大3的唱片"
+    },
+    {
+      "id": "common::archive_names::リリアン",
+      "jp": "リリアン",
+      "zh": "莉莉安"
+    },
+    {
+      "id": "common::archive_names::虫取りセット",
+      "jp": "虫取りセット",
+      "zh": "捉虫套装"
+    },
+    {
+      "id": "common::archive_names::ハニュウダカブト",
+      "jp": "ハニュウダカブト",
+      "zh": "羽生独角仙"
+    },
+    {
+      "id": "common::archive_names::世界UMＡ大百科事典",
+      "jp": "世界UMＡ大百科事典",
+      "zh": "世界UMA大百科事典"
+    },
+    {
+      "id": "common::archive_names::合石岳壁画",
+      "jp": "合石岳壁画",
+      "zh": "合石岳壁画"
+    },
+    {
+      "id": "common::archive_names::サム・モンローのボイスレコーダー",
+      "jp": "サム・モンローのボイスレコーダー",
+      "zh": "山姆·门罗的录音笔"
+    },
+    {
+      "id": "common::archive_names::カセットテープ",
+      "jp": "カセットテープ",
+      "zh": "盒式磁带"
+    },
+    {
+      "id": "common::archive_names::サム・モンローからのメッセージ",
+      "jp": "サム・モンローからのメッセージ",
+      "zh": "来自山姆·门罗的讯息"
+    },
+    {
+      "id": "common::archive_names::羽生蛇村民話集",
+      "jp": "羽生蛇村民話集",
+      "zh": "羽生蛇村民间故事集"
+    },
+    {
+      "id": "common::archive_names::焔薙秘録",
+      "jp": "焔薙秘録",
+      "zh": "焰薙秘录"
+    },
+    {
+      "id": "common::archive_names::サム・モンローの日記",
+      "jp": "サム・モンローの日記",
+      "zh": "山姆·门罗的日记"
+    },
+    {
+      "id": "common::archive_names::ポータブルオーディオプレーヤー",
+      "jp": "ポータブルオーディオプレーヤー",
+      "zh": "便携式音频播放器"
+    },
+    {
+      "id": "common::archive_episodes::ARCHIVE105",
+      "jp": "",
+      "zh": "第6集第4章"
+    },
+    {
+      "id": "common::archive_episodes::ARCHIVE106",
+      "jp": "",
+      "zh": "第7集第2章"
+    },
+    {
+      "id": "common::archive_episodes::ARCHIVE113",
+      "jp": "",
+      "zh": "第11集第2章"
+    },
+    {
+      "id": "common::archive_episodes::ARCHIVE114",
+      "jp": "",
+      "zh": "第12集第2章"
+    },
+    {
+      "id": "common::archive_episodes::ARCHIVE119",
+      "jp": "",
+      "zh": "第11集第4章"
+    },
+    {
+      "id": "common::archive_episodes::ARCHIVE125",
+      "jp": "",
+      "zh": "第7集第4章"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "_note": "说明书标题掩膜文本。small=各小节标题(记录名->中文)；head=大标题 menu_manual_head_control 的7行。",
+  "small": {
+    "menu_manual_archive_001": "剧情档案",
+    "menu_manual_archive_003": "武器档案",
+    "menu_manual_battle_001": "近身攻击",
+    "menu_manual_battle_003": "持枪状态的通用操作",
+    "menu_manual_battle_005": "持枪时（未锁定目标）",
+    "menu_manual_battle_007": "持枪时（已锁定目标）",
+    "menu_manual_battle_009": "持枪时（狙击模式）",
+    "menu_manual_battle_011": "被击倒、被抓取攻击时",
+    "menu_manual_battletips_001": "警戒系统",
+    "menu_manual_battletips_003": "敌人进入警戒模式时",
+    "menu_manual_battletips_005": "枪械命中率",
+    "menu_manual_control_001": "基本操作",
+    "menu_manual_control_003": "副指令",
+    "menu_manual_control_005": "菜单",
+    "menu_manual_control_007": "梯子",
+    "menu_manual_control_009": "门",
+    "menu_manual_map_001": "地图画面",
+    "menu_manual_sightjack1_001": "模式切换",
+    "menu_manual_sightjack1_003": "视界劫持搜索模式中的操作",
+    "menu_manual_sightjack1_005": "移动模式（视界固定状态）的特殊操作",
+    "menu_manual_sightjack1_007": "十字图标",
+    "menu_manual_sightjack2_001": "视界登记",
+    "menu_manual_sightjack2_003": "视界搜索",
+    "menu_manual_sightjack2_005": "紧急搜索"
+  },
+  "head": [
+    "基本操作",
+    "战斗",
+    "战斗技巧",
+    "视界劫持（基本）",
+    "视界劫持（详细）",
+    "地图",
+    "档案"
+  ]
+}

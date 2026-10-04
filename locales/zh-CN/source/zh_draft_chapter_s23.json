@@ -1,0 +1,695 @@
+{
+  "note": "s23 章节系统文本简体中文草稿（AI 起草，待用户审校）。已跳过第二张表未解码的 GUIDE/TUTORIAL 条目。◇为译码缺字，※ 标注不确定处。",
+  "glossary": {
+    "ハワート・ライト": "霍华德·莱特",
+    "メリッサ・ゲイル": "梅丽莎·盖尔",
+    "サム・モンロー": "山姆·门罗",
+    "ベラ・モンロー": "贝拉·门罗",
+    "ソル・ジャクソン": "索尔·杰克逊",
+    "美耶古": "美耶古",
+    "アマナ": "阿玛娜",
+    "羽生蛇村": "羽生蛇村"
+  },
+  "lines": [
+    {
+      "name": "AC_CHANGENAME_I_B_02",
+      "src": "【【狩猟用狙撃銃の弾】に持ち替える",
+      "text": "【切换为【狩猎用狙击枪子弹】"
+    },
+    {
+      "name": "AC_CHANGENAME_I_EV_12",
+      "src": "【【巻物】に持ち替える",
+      "text": "【切换为【卷轴】"
+    },
+    {
+      "name": "AC_CHANGENAME_I_SP_03",
+      "src": "【【宇理炎】に持ち替える",
+      "text": "【切换为【宇理炎】"
+    },
+    {
+      "name": "AC_CHANGENAME_I_W_HC_02",
+      "src": "【【焔薙】に持ち替える",
+      "text": "【切换为【焰薙】"
+    },
+    {
+      "name": "AC_CHANGENAME_I_W_SG_02",
+      "src": "【【改造散弾銃】に持ち替える",
+      "text": "【切换为【改造散弹枪】"
+    },
+    {
+      "name": "AC_CHANGENAME_I_W_SG_03",
+      "src": "【【狩猟用狙撃銃】に持ち替える",
+      "text": "【切换为【狩猎用狙击枪】"
+    },
+    {
+      "name": "AC_CHECK",
+      "src": "【調べる",
+      "text": "【调查"
+    },
+    {
+      "name": "AC_DOOR_CLOSE",
+      "src": "【閉める",
+      "text": "【关闭"
+    },
+    {
+      "name": "AC_DOOR_HOLD",
+      "src": "〈长按〉押さえる",
+      "text": "长按 按住"
+    },
+    {
+      "name": "AC_DOOR_INNER_LOCK",
+      "src": "〈长按〉内鍵をかける",
+      "text": "长按 上内锁"
+    },
+    {
+      "name": "AC_DOOR_INNER_UNLOCK",
+      "src": "【内鍵を開ける",
+      "text": "【打开内锁"
+    },
+    {
+      "name": "AC_DOOR_OPEN",
+      "src": "【開ける",
+      "text": "【打开"
+    },
+    {
+      "name": "AC_DOOR_UNLOCK",
+      "src": "【鍵を開ける",
+      "text": "【开锁"
+    },
+    {
+      "name": "AC_ELEVATOR_CALL",
+      "src": "【エレベータを呼ぶ",
+      "text": "【呼叫电梯"
+    },
+    {
+      "name": "AC_ELEVATOR_DOWN",
+      "src": "【下へ",
+      "text": "【向下"
+    },
+    {
+      "name": "AC_ELEVATOR_MOVE",
+      "src": "【ボタンを押す",
+      "text": "【按下按钮"
+    },
+    {
+      "name": "AC_ELEVATOR_UP",
+      "src": "【上へ",
+      "text": "【向上"
+    },
+    {
+      "name": "AC_EXIT",
+      "src": "【出る",
+      "text": "【出去"
+    },
+    {
+      "name": "AC_HIDE",
+      "src": "【隠れる",
+      "text": "【躲藏"
+    },
+    {
+      "name": "AC_JUMP_TRUCK",
+      "src": "【飛び降りる",
+      "text": "【跳下"
+    },
+    {
+      "name": "AC_LIFTUP",
+      "src": "【引き上げる",
+      "text": "【拉起"
+    },
+    {
+      "name": "AC_PICKUP_ANTENNA",
+      "src": "【アンテナを投げる",
+      "text": "【投掷天线"
+    },
+    {
+      "name": "AC_PICK_UP2",
+      "src": "【拾う",
+      "text": "【拾取"
+    },
+    {
+      "name": "AC_PICK_UPNAME_I_B_02",
+      "src": "【【狩猟用狙撃銃の弾】を拾う",
+      "text": "【拾取【狩猎用狙击枪子弹】"
+    },
+    {
+      "name": "AC_PICK_UPNAME_I_EV_12",
+      "src": "【【巻物】を拾う",
+      "text": "【拾取【卷轴】"
+    },
+    {
+      "name": "AC_PICK_UPNAME_I_SP_03",
+      "src": "【【宇理炎】を拾う",
+      "text": "【拾取【宇理炎】"
+    },
+    {
+      "name": "AC_PICK_UPNAME_I_W_HC_02",
+      "src": "【【焔薙】を拾う",
+      "text": "【拾取【焰薙】"
+    },
+    {
+      "name": "AC_PICK_UPNAME_I_W_SG_02",
+      "src": "【【改造散弾銃】を拾う",
+      "text": "【拾取【改造散弹枪】"
+    },
+    {
+      "name": "AC_PICK_UPNAME_I_W_SG_03",
+      "src": "【【狩猟用狙撃銃】を拾う",
+      "text": "【拾取【狩猎用狙击枪】"
+    },
+    {
+      "name": "AC_PUSH_TRUCK",
+      "src": "〈长按〉トロッコを押す",
+      "text": "长按 推矿车"
+    },
+    {
+      "name": "AC_RIDE_TRUCK",
+      "src": "【飛び乗る",
+      "text": "【跳上"
+    },
+    {
+      "name": "AC_ROLL_LEVER",
+      "src": "〈长按〉レバーを回す",
+      "text": "长按 转动拉杆"
+    },
+    {
+      "name": "CHA_FINISH_DOC_0",
+      "src": "「どうした？」",
+      "text": "「怎么了？」"
+    },
+    {
+      "name": "CHA_FINISH_DOC_1",
+      "src": "「こんなものか？」",
+      "text": "「就这样而已吗？」"
+    },
+    {
+      "name": "CHA_FINISH_SHU_0",
+      "src": "「くたばれ！」",
+      "text": "「去死吧！」"
+    },
+    {
+      "name": "CHA_FINISH_SHU_1",
+      "src": "「二度と起き上がるなよ」",
+      "text": "「别再爬起来了」"
+    },
+    {
+      "name": "CHA_FINISH_SHU_2",
+      "src": "「どうだっ！？」",
+      "text": "「怎么样！？」"
+    },
+    {
+      "name": "CHA_FINISH_SHU_3",
+      "src": "「くそったれ！」",
+      "text": "「混蛋！」"
+    },
+    {
+      "name": "CHA_FINISH_SHU_4",
+      "src": "「そのまま消えてくれ……」",
+      "text": "「就这样消失吧……」"
+    },
+    {
+      "name": "CHA_SCREAM_DOC_0",
+      "src": "「良い気はしないな」",
+      "text": "「真让人不舒服啊」"
+    },
+    {
+      "name": "CHA_SCREAM_DOC_1",
+      "src": "「運が無かったようだな」",
+      "text": "「看来是运气不好啊」"
+    },
+    {
+      "name": "CHA_SCREAM_DOC_2",
+      "src": "「ここまでか」",
+      "text": "到此为止了吗"
+    },
+    {
+      "name": "CHA_SCREAM_SHU_0",
+      "src": "「お おい！」",
+      "text": "「喂、喂！」"
+    },
+    {
+      "name": "CHA_SCREAM_SHU_1",
+      "src": "「おい！ しっかりしてくれ！」",
+      "text": "「喂！振作点！」"
+    },
+    {
+      "name": "CHA_SCREAM_SHU_2",
+      "src": "「ちくしよう！ 何で……！？」",
+      "text": "「可恶！为什么……！？」"
+    },
+    {
+      "name": "CHA_SCREAM_SHU_3",
+      "src": "「ミヤコ！」",
+      "text": "「美耶古！」"
+    },
+    {
+      "name": "CHA_ST23EVENT1_DOC_0",
+      "src": "「どこへ行った？」",
+      "text": "「去哪了？」"
+    },
+    {
+      "name": "CHA_ST23EVENT1_DOC_1",
+      "src": "「運命からは逃げ出ぜない」",
+      "text": "「无法逃脱命运」"
+    },
+    {
+      "name": "CHA_ST23EVENT1_DOC_2",
+      "src": "「期待に応えてくれよ」",
+      "text": "「别辜负我的期待啊」"
+    },
+    {
+      "name": "CHA_ST23EVENT1_MIY_0",
+      "src": "「ねえ 気づいて？ 私はここにいるよ……」",
+      "text": "「喂，你发现了吗？我就在这里哦……」"
+    },
+    {
+      "name": "CHA_ST23EVENT2_DOC_0",
+      "src": "「さあ これで最後だ」",
+      "text": "来吧，就到最后了"
+    },
+    {
+      "name": "CHA_ST23EVENT2_DOC_1",
+      "src": "「戦え」",
+      "text": "战斗"
+    },
+    {
+      "name": "CHA_ST23EVENT2_DOC_2",
+      "src": "「戦え」",
+      "text": "战斗"
+    },
+    {
+      "name": "CHA_ST23EVENT2_MIY_0",
+      "src": "「お願い 私の目を使って！」",
+      "text": "「求你了，用我的眼睛！」"
+    },
+    {
+      "name": "CHA_ST23EVENT2_MIY_1",
+      "src": "「ねえ 私の目を通して見て」",
+      "text": "「喂，透过我的眼睛看」"
+    },
+    {
+      "name": "CHA_ST23EVENT2_MIY_2",
+      "src": "「私の目を使うの お願い！」",
+      "text": "「用我的眼睛，求你了！」"
+    },
+    {
+      "name": "CHA_ST23EVENT3_MIY_0",
+      "src": "「私はいつでも傍にいるよ……◇お願い！ 私と一緒に依り代を探して」",
+      "text": "「我随时都在你身边哦…\n…求你了！和我一起寻找凭依体」"
+    },
+    {
+      "name": "CHA_ST23EVENT3_MIY_1",
+      "src": "「私の目を使って 依り代を探すの」",
+      "text": "「用我的眼睛，去寻找凭依体」"
+    },
+    {
+      "name": "CHA_ST23EVENT3_MIY_2",
+      "src": "「依り代を探して！ 私の目で……お願い！」",
+      "text": "「去寻找凭依体！用我的眼睛……求你了！」"
+    },
+    {
+      "name": "CHA_ST23EVENT3_MIY_3",
+      "src": "「私には見える……依り代がこのどこかに……」",
+      "text": "「我能看见……凭依体就在这里的某处……」"
+    },
+    {
+      "name": "CHA_ST23EVENT4_MIY_0",
+      "src": "「石碑へと炎を放って！」",
+      "text": "「朝石碑放出火焰！」"
+    },
+    {
+      "name": "CHA_ST23EVENT4_MIY_1",
+      "src": "「依り代に炎を放って！」",
+      "text": "「朝凭依体放出火焰！」"
+    },
+    {
+      "name": "CHA_ST23EVENT4_MIY_2",
+      "src": "「その炎で封印を解くの！」",
+      "text": "「用那火焰解开封印！」"
+    },
+    {
+      "name": "CHA_ST23EVENT5_MIY_0",
+      "src": "「騙されないで！ 本物は一つ！」",
+      "text": "「别被迷惑！真的只有一个！」"
+    },
+    {
+      "name": "CHA_ST23EVENT5_MIY_1",
+      "src": "「私には見える……あいつの本当の姿が……」",
+      "text": "「我能看见……那家伙真正的样子……」"
+    },
+    {
+      "name": "CHA_ST23EVENT5_MIY_2",
+      "src": "「私の目で見て！ あいつの正体を見破って！」",
+      "text": "「用我的眼睛看！看穿那家伙的真身！」"
+    },
+    {
+      "name": "CHA_ST23EVENT6_MIY_0",
+      "src": "「騙されないで！ それは偽物！」",
+      "text": "「别被迷惑！那是冒牌货！」"
+    },
+    {
+      "name": "CHA_ST23EVENT6_MIY_1",
+      "src": "「幻影に騙されないで！」",
+      "text": "「别被幻影迷惑！」"
+    },
+    {
+      "name": "CHA_ST23EVENT6_MIY_2",
+      "src": "「違う！ それは実体じやない！」",
+      "text": "「不对！那没有实体！」"
+    },
+    {
+      "name": "CHA_ST23EVENT7_MIY_0",
+      "src": "「それよ！」",
+      "text": "就是那个"
+    },
+    {
+      "name": "CHA_ST23EVENT7_MIY_1",
+      "src": "「近くにいる！」",
+      "text": "「就在附近！」"
+    },
+    {
+      "name": "CHA_ST23EVENT7_MIY_2",
+      "src": "「こいつよ！」",
+      "text": "「就是这个！」"
+    },
+    {
+      "name": "CHA_ST23EVENT8_MIY_0",
+      "src": "「今よ！」",
+      "text": "就现在"
+    },
+    {
+      "name": "CHA_ST23EVENT8_MIY_1",
+      "src": "「消し去って！」",
+      "text": "「抹消掉它！」"
+    },
+    {
+      "name": "CHA_ST23EVENT8_MIY_2",
+      "src": "「炎を放って！ 焼き払って！」",
+      "text": "「放出火焰！烧尽它！」"
+    },
+    {
+      "name": "CHA_ST23EVENT9_MIY_0",
+      "src": "「今よ！ 炎を薙き払うの！」",
+      "text": "「就是现在！用火焰烧尽它！」"
+    },
+    {
+      "name": "CHA_ST23EVENT9_MIY_1",
+      "src": "「あいつが害しんでる 早く炎を薙き払って！」",
+      "text": "「那家伙在痛苦挣扎，快点用火焰烧尽它！」"
+    },
+    {
+      "name": "CHA_ST23EVENT9_MIY_2",
+      "src": "「炎を薙き払って！ お願い！」",
+      "text": "「用火焰烧尽它！求你了！」"
+    },
+    {
+      "name": "DOOR_BLOCKED",
+      "src": "この扉は開かないようだ。",
+      "text": "这扇门打不开。"
+    },
+    {
+      "name": "DOOR_EVENT_LOCKED",
+      "src": "ここに合う鍵を持っていない。",
+      "text": "没有能打开这里的钥匙。"
+    },
+    {
+      "name": "DOOR_INNER_LOCK",
+      "src": "反対側から内鍵が掛かっている。",
+      "text": "另一侧上了内锁。"
+    },
+    {
+      "name": "DOOR_INNER_UNLOCKED",
+      "src": "内鍵を開けた。",
+      "text": "打开了内锁。"
+    },
+    {
+      "name": "DOOR_UNLOCKED",
+      "src": "鍵を開けた。",
+      "text": "打开了锁。"
+    },
+    {
+      "name": "ELEVATOR_BLOCK",
+      "src": "動かないようだ。",
+      "text": "好像动不了。"
+    },
+    {
+      "name": "EMPTY_LABEL",
+      "src": "空テキストです",
+      "text": "空文本"
+    },
+    {
+      "name": "EP12_CP4_1_01",
+      "src": "「あんた！？」",
+      "text": "「是你！？」"
+    },
+    {
+      "name": "EP12_CP4_1_02",
+      "src": "「お前の役目だよ」",
+      "text": "「这是你的职责」"
+    },
+    {
+      "name": "EP12_CP4_1_03",
+      "src": "「俺には少しばかり荷が重い」",
+      "text": "「对我来说有点太沉重了」"
+    },
+    {
+      "name": "EP12_CP4_2_01",
+      "src": "「俺はダンテではない◇ベアトリーチエの導きは期待出来ない」",
+      "text": "「我不是但丁\n无法期待贝阿特丽切的指引」"
+    },
+    {
+      "name": "EP12_CP4_3_01",
+      "src": "「私の血 私の命を使って力を解き放って」",
+      "text": "「用我的血、我的命，释放力量吧」"
+    },
+    {
+      "name": "EP12_CP4_3_02",
+      "src": "「ミヤコ？」",
+      "text": "「美耶古？」"
+    },
+    {
+      "name": "EP12_CP4_4_01",
+      "src": "「そう これで良い これで俺は退場だ」",
+      "text": "「对，这样就好，这样我就该退场了」"
+    },
+    {
+      "name": "EP12_CP4_4_02",
+      "src": "「……幸江」",
+      "text": "「……幸江」"
+    },
+    {
+      "name": "EP12_CP4_4_03",
+      "src": "「本当に実を盗んだのはあなたの方だったとはね」",
+      "text": "「真正偷走果实的人竟然是你啊」"
+    },
+    {
+      "name": "EP12_CP4_4_04",
+      "src": "「神よ 盗まれし実の贖いとしてこの身を捧げます」",
+      "text": "「神啊，作为被盗走之果实的赎罪，我献上此身」"
+    },
+    {
+      "name": "EP12_CP4_6_01",
+      "src": "「解き放たれた力が新しい依り代に宿った」",
+      "text": "「被释放的力量寄宿到了新的凭依体上」"
+    },
+    {
+      "name": "EP12_CP4_6_02",
+      "src": "「炎を放ち その炎を薙き払って」",
+      "text": "「放出火焰，将那火焰烧尽」"
+    },
+    {
+      "name": "GET_ARCHIVE2ARCHIVE048",
+      "src": "アーカイブ【焔薙秘録】既に入手済み。",
+      "text": "档案【焰薙秘录】\n已获得。"
+    },
+    {
+      "name": "GET_ARCHIVEARCHIVE048",
+      "src": "【焔薙秘録】がアーカイブに追加された。",
+      "text": "【焰薙秘录】\n已添加到档案。"
+    },
+    {
+      "name": "GET_ARCHIVE_KEY2ARCHIVE048",
+      "src": "【焔薙秘録】アーカイブ入手の必要行動。既に達成済み。",
+      "text": "获得档案【焰薙秘录】\n所需的条件已达成。"
+    },
+    {
+      "name": "GET_ARCHIVE_KEYARCHIVE048",
+      "src": "【焔薙秘録】アーカイブ入手の必要行動を達成した。",
+      "text": "已达成获得档案【焰薙秘录】\n所需的条件。"
+    },
+    {
+      "name": "GET_ITEMNAME_I_B_02",
+      "src": "【狩猟用狙撃銃の弾】を入手した。",
+      "text": "【狩猎用狙击枪子弹】已入手。"
+    },
+    {
+      "name": "GET_ITEMNAME_I_EV_12",
+      "src": "【巻物】を入手した。",
+      "text": "【卷轴】已入手。"
+    },
+    {
+      "name": "GET_ITEMNAME_I_SP_03",
+      "src": "【宇理炎】を入手した。",
+      "text": "【宇理炎】已入手。"
+    },
+    {
+      "name": "GET_ITEMNAME_I_W_HC_02",
+      "src": "【焔薙】を入手した。",
+      "text": "【焰薙】已入手。"
+    },
+    {
+      "name": "GET_ITEMNAME_I_W_SG_02",
+      "src": "【改造散弾銃】を入手した。",
+      "text": "【改造散弹枪】已入手。"
+    },
+    {
+      "name": "GET_ITEMNAME_I_W_SG_03",
+      "src": "【狩猟用狙撃銃】を入手した。",
+      "text": "【狩猎用狙击枪】已入手。"
+    },
+    {
+      "name": "NO_TEXT_LABEL",
+      "src": "ＮＯ＿ＴＥＸＴ＿ＬＡＢＥＬ",
+      "text": "NO_TEXT_LABEL"
+    },
+    {
+      "name": "S23_ACTION_COMMAND001",
+      "src": "【煉獄の炎を放つ",
+      "text": "【放出炼狱之焰"
+    },
+    {
+      "name": "S99_AREA_OVER1",
+      "src": "戻る訳にはいかない。",
+      "text": "不能回头。"
+    },
+    {
+      "name": "S99_AREA_OVER10",
+      "src": "サムを置いていく訳にはいかない……。",
+      "text": "不能丢下山姆……"
+    },
+    {
+      "name": "S99_AREA_OVER11",
+      "src": "この先には用がない……。",
+      "text": "前方没有要找的东西……"
+    },
+    {
+      "name": "S99_AREA_OVER2",
+      "src": "この先は危険だ……。",
+      "text": "前方很危险……"
+    },
+    {
+      "name": "S99_AREA_OVER3",
+      "src": "目的を果たさなければならない。",
+      "text": "必须完成目的。"
+    },
+    {
+      "name": "S99_AREA_OVER4",
+      "src": "美耶古を置いていく訳にはいかない……。",
+      "text": "不能丢下美耶古……"
+    },
+    {
+      "name": "S99_AREA_OVER5",
+      "src": "メリッサを置いていく訳にはいかない……。",
+      "text": "不能丢下梅丽莎……"
+    },
+    {
+      "name": "S99_AREA_OVER6",
+      "src": "アマナを置いていく訳にはいかない……。",
+      "text": "不能丢下阿玛娜……"
+    },
+    {
+      "name": "S99_AREA_OVER7",
+      "src": "ベラを置いていく訳にはいかない……。",
+      "text": "不能丢下贝拉……"
+    },
+    {
+      "name": "S99_AREA_OVER8",
+      "src": "ベラを探さなければ……。",
+      "text": "必须找到贝拉……"
+    },
+    {
+      "name": "S99_AREA_OVER9",
+      "src": "技が折れている。ここからは戻れそうにない。",
+      "text": "树枝折断，看来无法从这里返回。"
+    },
+    {
+      "name": "S99_BUSY",
+      "src": "今はそれどころではない。",
+      "text": "现在不是做这个的时候。"
+    },
+    {
+      "name": "S99_MESSAGE001",
+      "src": "扉は固く閉じられている。中からは物音も聞こえない。",
+      "text": "门紧紧关闭着。\n里面听不到任何声响。"
+    },
+    {
+      "name": "S99_MESSAGE002",
+      "src": "番号を間違えたようだ。",
+      "text": "好像拨错号码了。"
+    },
+    {
+      "name": "S99_MESSAGE003",
+      "src": "話し中のようだ。",
+      "text": "好像正在通话中。"
+    },
+    {
+      "name": "S99_NPCOUTOFRANGE",
+      "src": "声が届かない。",
+      "text": "声音传不到。"
+    },
+    {
+      "name": "SUB_COM_CANCEL_TRAP",
+      "src": "罠解除",
+      "text": "拆陷阱"
+    },
+    {
+      "name": "SUB_COM_COME",
+      "src": "「来い」",
+      "text": "「过来」"
+    },
+    {
+      "name": "SUB_COM_HIDE",
+      "src": "「隠れろ」",
+      "text": "「躲起来」"
+    },
+    {
+      "name": "SUB_COM_LIGHT1",
+      "src": "懐中電灯ＯＮ",
+      "text": "手电筒ON"
+    },
+    {
+      "name": "SUB_COM_LIGHT2",
+      "src": "懐中電灯ＯＦＦ",
+      "text": "手电筒OFF"
+    },
+    {
+      "name": "SUB_COM_NO",
+      "src": "いいえ",
+      "text": "否"
+    },
+    {
+      "name": "SUB_COM_SET_TRAP",
+      "src": "罠設置",
+      "text": "设陷阱"
+    },
+    {
+      "name": "SUB_COM_SHOUT",
+      "src": "叫ぶ",
+      "text": "呼喊"
+    },
+    {
+      "name": "SUB_COM_SMOKE",
+      "src": "発煙筒",
+      "text": "发烟筒"
+    },
+    {
+      "name": "SUB_COM_WAIT",
+      "src": "「待て」",
+      "text": "「等待」"
+    },
+    {
+      "name": "SUB_COM_YES",
+      "src": "はい",
+      "text": "是"
+    }
+  ]
+}

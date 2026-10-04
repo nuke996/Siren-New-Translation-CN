@@ -1,0 +1,36 @@
+#
+# 渲染初始设置
+#
+#
+#	【分辨率】
+#	 1280x720
+#	 1024x512
+#	 640x360
+#	 512x512
+#	 512x256
+#	 256x256
+#	 256x128
+#	 256x128
+#	 128x128
+#	 64x64
+#	 32x32
+#
+#	【视界劫持】
+#	 Rote
+#	 All
+#
+#	【颜色滤镜】
+#	 On
+#	 Off
+#
+
+MainDrawScreen				1024x512	# 主画面渲染分辨率
+SubDrawScreen				512x512		# 视界劫持渲染画面分辨率
+SubRenderingPriorityPolicy	Rote		# 视界劫持渲染优先级控制
+ColorFilterMode				On			# 颜色滤镜
+HDR							On			# HDR
+UseTSAA						On			# TSAA开关
+WireFrame					Off			# 线框显示
+DrawClipShere				Off			# 裁剪球显示
+PerfomanceDetail			Off			# 性能详细信息显示
+ShowMemoryStatus			Off			# 内存情况

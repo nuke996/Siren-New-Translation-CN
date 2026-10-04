@@ -1,0 +1,3656 @@
+{
+  "_kind": "texture",
+  "_note": "菜单/UI 掩膜图片文字（A8/DXT 贴图）。jp 无文本原文处请对照 refs/ 下同名原图 PNG。改 zh 即可。",
+  "_how_to_edit": "只修改每条记录的 \"zh\" 字段（jp/ref/meta 请勿改）。保存后运行 导入汉化.bat 即可重新生成并部署；运行 导出汉化.bat 可再次导出覆盖本文件。",
+  "_count": 608,
+  "entries": [
+    {
+      "id": "ui::d5::brief::1::0",
+      "jp": "",
+      "zh": "不明",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_01_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::1::1",
+      "jp": "",
+      "zh": "8月2日／23:00",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_01_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::1::2",
+      "jp": "",
+      "zh": "羽生蛇村／山中",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_01_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::1::3",
+      "jp": "",
+      "zh": "偷看仪式",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_01_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::2::0",
+      "jp": "",
+      "zh": "索尔·杰克逊",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_02_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::2::1",
+      "jp": "",
+      "zh": "8月2日／23:00",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_02_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::2::2",
+      "jp": "",
+      "zh": "羽生蛇村／山中",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_02_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::2::3",
+      "jp": "",
+      "zh": "误操作摄像机",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_02_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::3::0",
+      "jp": "",
+      "zh": "霍华德·莱特",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_03_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::3::1",
+      "jp": "",
+      "zh": "8月2日／23:00",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_03_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::3::2",
+      "jp": "",
+      "zh": "羽生蛇村／山中",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_03_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::3::3",
+      "jp": "",
+      "zh": "妨碍仪式",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_03_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::4::0",
+      "jp": "",
+      "zh": "霍华德·莱特",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_04_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::4::1",
+      "jp": "",
+      "zh": "8月2日／23:00",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_04_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::4::2",
+      "jp": "",
+      "zh": "羽生蛇村／下粗户",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_04_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::4::3",
+      "jp": "",
+      "zh": "用一升瓶殴打警官",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_04_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::5::0",
+      "jp": "",
+      "zh": "索尔·杰克逊",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_05_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::5::1",
+      "jp": "",
+      "zh": "8月3日／0:00",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_05_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::5::2",
+      "jp": "",
+      "zh": "羽生蛇村／山中",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_05_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::5::3",
+      "jp": "",
+      "zh": "造访羽生蛇村",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_05_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::6::0",
+      "jp": "",
+      "zh": "梅丽莎·盖尔",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_06_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::6::1",
+      "jp": "",
+      "zh": "8月3日／0:00",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_06_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::6::2",
+      "jp": "",
+      "zh": "羽生蛇村／山中",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_06_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::6::3",
+      "jp": "",
+      "zh": "造访羽生蛇村",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_06_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::7::0",
+      "jp": "",
+      "zh": "山姆·门罗",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_07_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::7::1",
+      "jp": "",
+      "zh": "8月3日／1:00",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_07_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::7::2",
+      "jp": "",
+      "zh": "合石岳／羽生蛇矿山",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_07_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::7::3",
+      "jp": "",
+      "zh": "在合石岳醒来",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_07_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::8::0",
+      "jp": "",
+      "zh": "山姆·门罗",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_08_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::8::1",
+      "jp": "",
+      "zh": "8月3日／1:00",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_08_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::8::2",
+      "jp": "",
+      "zh": "羽生蛇矿山／塞壬小屋",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_08_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::8::3",
+      "jp": "",
+      "zh": "调查塞壬小屋屋顶",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_08_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::9::0",
+      "jp": "",
+      "zh": "霍华德·莱特",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_09_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::9::1",
+      "jp": "",
+      "zh": "8月3日／2:00",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_09_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::9::2",
+      "jp": "",
+      "zh": "波罗宿村落／火警瞭望塔",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_09_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::9::3",
+      "jp": "",
+      "zh": "调查火警瞭望塔顶",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_09_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::10::0",
+      "jp": "",
+      "zh": "山姆·门罗",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_10_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::10::1",
+      "jp": "",
+      "zh": "8月3日／2:00",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_10_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::10::2",
+      "jp": "",
+      "zh": "羽生蛇矿山／合石上部东坑",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_10_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::10::3",
+      "jp": "",
+      "zh": "调查纸箱上",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_10_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::11::0",
+      "jp": "",
+      "zh": "贝拉·门罗",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_11_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::11::1",
+      "jp": "",
+      "zh": "8月3日／3:00",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_11_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::11::2",
+      "jp": "",
+      "zh": "犀贺医院／206号",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_11_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::11::3",
+      "jp": "",
+      "zh": "逃入犀贺医院",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_11_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::12::0",
+      "jp": "",
+      "zh": "贝拉·门罗",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_12_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::12::1",
+      "jp": "",
+      "zh": "8月3日／3:00",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_12_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::12::2",
+      "jp": "",
+      "zh": "犀贺医院／3F育婴室",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_12_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::12::3",
+      "jp": "",
+      "zh": "调查桌上",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_12_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::13::0",
+      "jp": "",
+      "zh": "梅丽莎·盖尔",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_13_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::13::1",
+      "jp": "",
+      "zh": "8月3日／3:00",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_13_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::13::2",
+      "jp": "",
+      "zh": "羽生蛇村／合石岳山中",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_13_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::13::3",
+      "jp": "",
+      "zh": "收听贝拉的医院广播",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_13_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::14::0",
+      "jp": "",
+      "zh": "索尔·杰克逊",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_14_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::14::1",
+      "jp": "",
+      "zh": "8月3日／3:00",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_14_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::14::2",
+      "jp": "",
+      "zh": "犀贺医院／自动门",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_14_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::14::3",
+      "jp": "",
+      "zh": "收听贝拉的医院广播",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_14_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::15::0",
+      "jp": "",
+      "zh": "霍华德·莱特",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_15_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::15::1",
+      "jp": "",
+      "zh": "8月3日／5:00",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_15_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::15::2",
+      "jp": "",
+      "zh": "刈割东地区",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_15_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::15::3",
+      "jp": "",
+      "zh": "调查祠堂",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_15_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::16::0",
+      "jp": "",
+      "zh": "阿玛娜",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_16_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::16::1",
+      "jp": "",
+      "zh": "8月3日／6:00",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_16_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::16::2",
+      "jp": "",
+      "zh": "刈割／不入谷圣堂",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_16_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::16::3",
+      "jp": "",
+      "zh": "在圣堂内醒来",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_16_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::17::0",
+      "jp": "",
+      "zh": "犀贺省悟",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_17_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::17::1",
+      "jp": "",
+      "zh": "8月3日／12:00",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_17_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::17::2",
+      "jp": "",
+      "zh": "波罗宿村落／火警瞭望塔",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_17_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::17::3",
+      "jp": "",
+      "zh": "狙击掩护山姆",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_17_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::18::0",
+      "jp": "",
+      "zh": "犀贺省悟",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_18_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::18::1",
+      "jp": "",
+      "zh": "8月3日／12:00",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_18_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::18::2",
+      "jp": "",
+      "zh": "波罗宿村落／狩武食堂",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_18_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::18::3",
+      "jp": "",
+      "zh": "调查餐桌上",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_18_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::19::0",
+      "jp": "",
+      "zh": "霍华德·莱特",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_19_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::19::1",
+      "jp": "",
+      "zh": "8月4日／0:00",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_19_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::19::2",
+      "jp": "",
+      "zh": "伊东家／内室",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_19_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::19::3",
+      "jp": "",
+      "zh": "解开祭坛封印",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_19_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::20::0",
+      "jp": "",
+      "zh": "梅丽莎·盖尔",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_20_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::20::1",
+      "jp": "",
+      "zh": "8月4日／0:00",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_20_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::20::2",
+      "jp": "",
+      "zh": "犀贺医院／实验室",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_20_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::20::3",
+      "jp": "",
+      "zh": "调查推车上",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_20_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::21::0",
+      "jp": "",
+      "zh": "河边幸江",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_21_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::21::1",
+      "jp": "",
+      "zh": "8月4日／5:00",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_21_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::21::2",
+      "jp": "",
+      "zh": "犀贺医院／中庭",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_21_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::21::3",
+      "jp": "",
+      "zh": "被犀贺杀死两次",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_21_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::22::0",
+      "jp": "",
+      "zh": "阿玛娜",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_22_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::22::1",
+      "jp": "",
+      "zh": "8月4日／6:00",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_22_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::22::2",
+      "jp": "",
+      "zh": "波罗宿村落／波罗宿祈祷所地下",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_22_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::22::3",
+      "jp": "",
+      "zh": "在石像脚下拾取",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_22_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::23::0",
+      "jp": "",
+      "zh": "阿玛娜",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_23_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::23::1",
+      "jp": "",
+      "zh": "8月4日／6:00",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_23_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::23::2",
+      "jp": "",
+      "zh": "波罗宿村落／墓地",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_23_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::23::3",
+      "jp": "",
+      "zh": "调查坟墓",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_23_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::24::0",
+      "jp": "",
+      "zh": "阿玛娜",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_24_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::24::1",
+      "jp": "",
+      "zh": "8月4日／7:00",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_24_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::24::2",
+      "jp": "",
+      "zh": "波罗宿村落／禁地",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_24_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::24::3",
+      "jp": "",
+      "zh": "想起真正的记忆",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_24_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::25::0",
+      "jp": "",
+      "zh": "霍华德·莱特",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_25_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::25::1",
+      "jp": "",
+      "zh": "8月4日／8:00",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_25_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::25::2",
+      "jp": "",
+      "zh": "羽生蛇矿山／合石3号西坑",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_25_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::25::3",
+      "jp": "",
+      "zh": "用铁锹挖墙",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_25_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::26::0",
+      "jp": "",
+      "zh": "山姆·门罗",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_26_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::26::1",
+      "jp": "",
+      "zh": "8月4日／9:00",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_26_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::26::2",
+      "jp": "",
+      "zh": "刈割／不入谷圣堂",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_26_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::26::3",
+      "jp": "",
+      "zh": "查看圣堂内部",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_26_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::27::0",
+      "jp": "",
+      "zh": "贝拉·门罗",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_27_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::27::1",
+      "jp": "",
+      "zh": "8月4日／17:00",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_27_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::27::2",
+      "jp": "",
+      "zh": "刈割／不入谷圣堂后侧",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_27_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::27::3",
+      "jp": "",
+      "zh": "调查坟墓",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_27_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::28::0",
+      "jp": "",
+      "zh": "霍华德·莱特",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_28_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::28::1",
+      "jp": "",
+      "zh": "8月4日／19:00",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_28_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::28::2",
+      "jp": "",
+      "zh": "尸人之巢／御福屋",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_28_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::28::3",
+      "jp": "",
+      "zh": "调查柜台",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_28_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::29::0",
+      "jp": "",
+      "zh": "霍华德·莱特",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_29_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::29::1",
+      "jp": "",
+      "zh": "8月4日／23:00",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_29_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::29::2",
+      "jp": "",
+      "zh": "尸人之巢中枢／富三烟草店",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_29_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::29::3",
+      "jp": "",
+      "zh": "调查冰箱内",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_29_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::30::0",
+      "jp": "",
+      "zh": "阿玛娜",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_30_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::30::1",
+      "jp": "",
+      "zh": "8月5日／0:00",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_30_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::30::2",
+      "jp": "",
+      "zh": "尸人之巢／水镜",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_30_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::30::3",
+      "jp": "",
+      "zh": "仪式失败",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_30_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::31::0",
+      "jp": "",
+      "zh": "索尔·杰克逊",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_31_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::31::1",
+      "jp": "",
+      "zh": "8月3日／1:00",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_31_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::31::2",
+      "jp": "",
+      "zh": "羽生蛇矿山／仓库",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_31_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::31::3",
+      "jp": "",
+      "zh": "调查桌上",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_31_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::32::0",
+      "jp": "",
+      "zh": "梅丽莎·盖尔",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_32_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::32::1",
+      "jp": "",
+      "zh": "8月3日／3:00",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_32_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::32::2",
+      "jp": "",
+      "zh": "犀贺医院／焚烧炉",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_32_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::32::3",
+      "jp": "",
+      "zh": "把贝拉藏在焚烧炉内",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_32_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::33::0",
+      "jp": "",
+      "zh": "犀贺省悟",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_33_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::33::1",
+      "jp": "",
+      "zh": "8月3日／4:00",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_33_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::33::2",
+      "jp": "",
+      "zh": "羽生蛇村／下粗户",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_33_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::33::3",
+      "jp": "",
+      "zh": "梦见过去",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_33_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::34::0",
+      "jp": "",
+      "zh": "梅丽莎·盖尔",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_34_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::34::1",
+      "jp": "",
+      "zh": "8月3日／5:00",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_34_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::34::2",
+      "jp": "",
+      "zh": "刈割",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_34_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::34::3",
+      "jp": "",
+      "zh": "调查地面",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_34_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::35::0",
+      "jp": "",
+      "zh": "梅丽莎·盖尔",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_35_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::35::1",
+      "jp": "",
+      "zh": "8月3日／5:00",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_35_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::35::2",
+      "jp": "",
+      "zh": "刈割西地区",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_35_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::35::3",
+      "jp": "",
+      "zh": "拾取贝拉掉落的东西",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_35_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::36::0",
+      "jp": "",
+      "zh": "犀贺省悟",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_36_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::36::1",
+      "jp": "",
+      "zh": "8月3日／12:00",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_36_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::36::2",
+      "jp": "",
+      "zh": "波罗宿村落／三田村家",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_36_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::36::3",
+      "jp": "",
+      "zh": "调查掉在炉子上的相册",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_36_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::37::0",
+      "jp": "",
+      "zh": "犀贺省悟",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_37_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::37::1",
+      "jp": "",
+      "zh": "8月3日／12:00",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_37_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::37::2",
+      "jp": "",
+      "zh": "波罗宿村落／波罗宿祈祷所",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_37_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::37::3",
+      "jp": "",
+      "zh": "调查书架",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_37_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::38::0",
+      "jp": "",
+      "zh": "贝拉·门罗",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_38_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::38::1",
+      "jp": "",
+      "zh": "8月4日／0:00",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_38_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::38::2",
+      "jp": "",
+      "zh": "伊东家／儿童房",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_38_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::38::3",
+      "jp": "",
+      "zh": "调查收录机",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_38_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::39::0",
+      "jp": "",
+      "zh": "贝拉·门罗",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_39_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::39::1",
+      "jp": "",
+      "zh": "8月4日／0:00",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_39_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::39::2",
+      "jp": "",
+      "zh": "伊东家／儿童房",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_39_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::39::3",
+      "jp": "",
+      "zh": "调查柜子上",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_39_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::40::0",
+      "jp": "",
+      "zh": "贝拉·门罗",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_40_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::40::1",
+      "jp": "",
+      "zh": "8月4日／0:00",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_40_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::40::2",
+      "jp": "",
+      "zh": "伊东家／储物间",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_40_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::40::3",
+      "jp": "",
+      "zh": "调查架子",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_40_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::41::0",
+      "jp": "",
+      "zh": "贝拉·门罗",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_41_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::41::1",
+      "jp": "",
+      "zh": "8月4日／0:00",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_41_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::41::2",
+      "jp": "",
+      "zh": "伊东家／庭院",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_41_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::41::3",
+      "jp": "",
+      "zh": "在树上涂抹黑糖蜜",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_41_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::42::0",
+      "jp": "",
+      "zh": "霍华德·莱特",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_42_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::42::1",
+      "jp": "",
+      "zh": "8月4日／10:00",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_42_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::42::2",
+      "jp": "",
+      "zh": "刈割／不入谷圣堂后侧",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_42_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::42::3",
+      "jp": "",
+      "zh": "调查UMA的痕迹",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_42_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::43::0",
+      "jp": "",
+      "zh": "犀贺省悟",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_43_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::43::1",
+      "jp": "",
+      "zh": "8月4日／18:00",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_43_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::43::2",
+      "jp": "",
+      "zh": "羽生蛇矿山／合石2号西坑",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_43_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::43::3",
+      "jp": "",
+      "zh": "炸毁坑道壁",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_43_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::44::0",
+      "jp": "",
+      "zh": "山姆·门罗",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_44_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::44::1",
+      "jp": "",
+      "zh": "8月4日／19:00",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_44_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::44::2",
+      "jp": "",
+      "zh": "波罗宿村落／波罗宿祈祷所地下",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_44_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::44::3",
+      "jp": "",
+      "zh": "在羽生蛇村徘徊",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_44_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::45::0",
+      "jp": "",
+      "zh": "霍华德·莱特",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_45_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::45::1",
+      "jp": "",
+      "zh": "8月4日／19:00",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_45_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::45::2",
+      "jp": "",
+      "zh": "尸人之巢／御福屋",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_45_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::45::3",
+      "jp": "",
+      "zh": "调查地板缝隙",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_45_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::46::0",
+      "jp": "",
+      "zh": "霍华德·莱特",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_46_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::46::1",
+      "jp": "",
+      "zh": "8月5日／2:00",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_46_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::46::2",
+      "jp": "",
+      "zh": "尸人之巢中枢／红色水洼",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_46_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::46::3",
+      "jp": "",
+      "zh": "与山姆·门罗相遇",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_46_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::47::0",
+      "jp": "",
+      "zh": "山姆·门罗",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_47_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::47::1",
+      "jp": "",
+      "zh": "8月5日／2:00",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_47_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::47::2",
+      "jp": "",
+      "zh": "尸人之巢中枢／杂物间",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_47_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::47::3",
+      "jp": "",
+      "zh": "调查桌上",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_47_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::48::0",
+      "jp": "",
+      "zh": "霍华德·莱特",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_48_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::48::1",
+      "jp": "",
+      "zh": "8月5日／3:00",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_48_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::48::2",
+      "jp": "",
+      "zh": "炼狱",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_48_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::48::3",
+      "jp": "",
+      "zh": "射击犀贺的头部",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_48_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::49::0",
+      "jp": "",
+      "zh": "山姆·门罗",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_49_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::49::1",
+      "jp": "",
+      "zh": "2007年",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_49_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::49::2",
+      "jp": "",
+      "zh": "东京／垃圾收集站",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_49_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::49::3",
+      "jp": "",
+      "zh": "给霍华德发送讯息",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_49_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::50::0",
+      "jp": "",
+      "zh": "霍华德·莱特",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_50_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::50::1",
+      "jp": "",
+      "zh": "8月5日／3:00",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_50_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::50::2",
+      "jp": "",
+      "zh": "羽生蛇村",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_50_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::brief::50::3",
+      "jp": "",
+      "zh": "歼灭尸人",
+      "ref": "refs/menu_jp_main_archive_story_brief_archive_50_chr_dds.png"
+    },
+    {
+      "id": "ui::d5::cat::gun",
+      "jp": "",
+      "zh": "手枪",
+      "ref": "refs/menu_jp_main_archive_category_menu_archive_group_gun_dds.png"
+    },
+    {
+      "id": "ui::d5::cat::hc",
+      "jp": "",
+      "zh": "重斩武器",
+      "ref": "refs/menu_jp_main_archive_category_menu_archive_group_hc_dds.png"
+    },
+    {
+      "id": "ui::d5::cat::hh",
+      "jp": "",
+      "zh": "重击武器",
+      "ref": "refs/menu_jp_main_archive_category_menu_archive_group_hh_dds.png"
+    },
+    {
+      "id": "ui::d5::cat::lc",
+      "jp": "",
+      "zh": "轻斩武器",
+      "ref": "refs/menu_jp_main_archive_category_menu_archive_group_lc_dds.png"
+    },
+    {
+      "id": "ui::d5::cat::lh",
+      "jp": "",
+      "zh": "轻击武器",
+      "ref": "refs/menu_jp_main_archive_category_menu_archive_group_lh_dds.png"
+    },
+    {
+      "id": "ui::d5::cat::sg",
+      "jp": "",
+      "zh": "步枪",
+      "ref": "refs/menu_jp_main_archive_category_menu_archive_group_sg_dds.png"
+    },
+    {
+      "id": "ui::d5::cat::sp",
+      "jp": "",
+      "zh": "特殊",
+      "ref": "refs/menu_jp_main_archive_category_menu_archive_group_sp_dds.png"
+    },
+    {
+      "id": "ui::d5::cat::trap",
+      "jp": "",
+      "zh": "陷阱",
+      "ref": "refs/menu_jp_main_archive_category_menu_archive_group_trap_dds.png"
+    },
+    {
+      "id": "ui::d6::place_jp::1",
+      "jp": "",
+      "zh": "下粗户",
+      "ref": "refs/menu_jp_etc_timecount_place_jp_menu_timecount_s01_spot1_dds.png"
+    },
+    {
+      "id": "ui::d6::place_other::1",
+      "jp": "",
+      "zh": "下粗户",
+      "ref": "refs/menu_jp_etc_timecount_place_other_menu_timecount_s01_spot2_dds.png"
+    },
+    {
+      "id": "ui::d6::place_jp::2",
+      "jp": "",
+      "zh": "合石岳　羽生蛇矿山",
+      "ref": "refs/menu_jp_etc_timecount_place_jp_menu_timecount_s02_spot1_dds.png"
+    },
+    {
+      "id": "ui::d6::place_other::2",
+      "jp": "",
+      "zh": "合石岳　羽生蛇矿山",
+      "ref": "refs/menu_jp_etc_timecount_place_other_menu_timecount_s02_spot2_dds.png"
+    },
+    {
+      "id": "ui::d6::place_jp::3",
+      "jp": "",
+      "zh": "波罗宿村落",
+      "ref": "refs/menu_jp_etc_timecount_place_jp_menu_timecount_s03_spot1_dds.png"
+    },
+    {
+      "id": "ui::d6::place_other::3",
+      "jp": "",
+      "zh": "波罗宿村落",
+      "ref": "refs/menu_jp_etc_timecount_place_other_menu_timecount_s03_spot2_dds.png"
+    },
+    {
+      "id": "ui::d6::place_jp::4",
+      "jp": "",
+      "zh": "比良境　犀贺医院",
+      "ref": "refs/menu_jp_etc_timecount_place_jp_menu_timecount_s04_spot1_dds.png"
+    },
+    {
+      "id": "ui::d6::place_other::4",
+      "jp": "",
+      "zh": "比良境　犀贺医院",
+      "ref": "refs/menu_jp_etc_timecount_place_other_menu_timecount_s04_spot2_dds.png"
+    },
+    {
+      "id": "ui::d6::place_jp::5",
+      "jp": "",
+      "zh": "刈割",
+      "ref": "refs/menu_jp_etc_timecount_place_jp_menu_timecount_s05_spot1_dds.png"
+    },
+    {
+      "id": "ui::d6::place_other::5",
+      "jp": "",
+      "zh": "刈割",
+      "ref": "refs/menu_jp_etc_timecount_place_other_menu_timecount_s05_spot2_dds.png"
+    },
+    {
+      "id": "ui::d6::place_jp::6",
+      "jp": "",
+      "zh": "波罗宿村落",
+      "ref": "refs/menu_jp_etc_timecount_place_jp_menu_timecount_s06_spot1_dds.png"
+    },
+    {
+      "id": "ui::d6::place_other::6",
+      "jp": "",
+      "zh": "波罗宿村落",
+      "ref": "refs/menu_jp_etc_timecount_place_other_menu_timecount_s06_spot2_dds.png"
+    },
+    {
+      "id": "ui::d6::place_jp::7",
+      "jp": "",
+      "zh": "田堀　伊东家",
+      "ref": "refs/menu_jp_etc_timecount_place_jp_menu_timecount_s07_spot1_dds.png"
+    },
+    {
+      "id": "ui::d6::place_other::7",
+      "jp": "",
+      "zh": "田堀　伊东家",
+      "ref": "refs/menu_jp_etc_timecount_place_other_menu_timecount_s07_spot2_dds.png"
+    },
+    {
+      "id": "ui::d6::place_jp::8",
+      "jp": "",
+      "zh": "比良境　犀贺医院",
+      "ref": "refs/menu_jp_etc_timecount_place_jp_menu_timecount_s08_spot1_dds.png"
+    },
+    {
+      "id": "ui::d6::place_other::8",
+      "jp": "",
+      "zh": "比良境　犀贺医院",
+      "ref": "refs/menu_jp_etc_timecount_place_other_menu_timecount_s08_spot2_dds.png"
+    },
+    {
+      "id": "ui::d6::place_jp::9",
+      "jp": "",
+      "zh": "合石岳　羽生蛇矿山",
+      "ref": "refs/menu_jp_etc_timecount_place_jp_menu_timecount_s09_spot1_dds.png"
+    },
+    {
+      "id": "ui::d6::place_other::9",
+      "jp": "",
+      "zh": "合石岳　羽生蛇矿山",
+      "ref": "refs/menu_jp_etc_timecount_place_other_menu_timecount_s09_spot2_dds.png"
+    },
+    {
+      "id": "ui::d6::place_jp::10",
+      "jp": "",
+      "zh": "刈割",
+      "ref": "refs/menu_jp_etc_timecount_place_jp_menu_timecount_s10_spot1_dds.png"
+    },
+    {
+      "id": "ui::d6::place_other::10",
+      "jp": "",
+      "zh": "刈割",
+      "ref": "refs/menu_jp_etc_timecount_place_other_menu_timecount_s10_spot2_dds.png"
+    },
+    {
+      "id": "ui::d6::place_jp::11",
+      "jp": "",
+      "zh": "上粗户　尸人之巢",
+      "ref": "refs/menu_jp_etc_timecount_place_jp_menu_timecount_s11_spot1_dds.png"
+    },
+    {
+      "id": "ui::d6::place_other::11",
+      "jp": "",
+      "zh": "上粗户　尸人之巢",
+      "ref": "refs/menu_jp_etc_timecount_place_other_menu_timecount_s11_spot2_dds.png"
+    },
+    {
+      "id": "ui::d6::place_jp::12",
+      "jp": "",
+      "zh": "尸人之巢　中枢",
+      "ref": "refs/menu_jp_etc_timecount_place_jp_menu_timecount_s12_spot1_dds.png"
+    },
+    {
+      "id": "ui::d6::place_other::12",
+      "jp": "",
+      "zh": "尸人之巢　中枢",
+      "ref": "refs/menu_jp_etc_timecount_place_other_menu_timecount_s12_spot2_dds.png"
+    },
+    {
+      "id": "ui::d6::place_jp::13",
+      "jp": "",
+      "zh": "合石岳　羽生蛇矿山",
+      "ref": "refs/menu_jp_etc_timecount_place_jp_menu_timecount_s13_spot1_dds.png"
+    },
+    {
+      "id": "ui::d6::place_other::13",
+      "jp": "",
+      "zh": "合石岳　羽生蛇矿山",
+      "ref": "refs/menu_jp_etc_timecount_place_other_menu_timecount_s13_spot2_dds.png"
+    },
+    {
+      "id": "ui::d6::place_jp::14",
+      "jp": "",
+      "zh": "比良境　犀贺医院",
+      "ref": "refs/menu_jp_etc_timecount_place_jp_menu_timecount_s14_spot1_dds.png"
+    },
+    {
+      "id": "ui::d6::place_other::14",
+      "jp": "",
+      "zh": "比良境　犀贺医院",
+      "ref": "refs/menu_jp_etc_timecount_place_other_menu_timecount_s14_spot2_dds.png"
+    },
+    {
+      "id": "ui::d6::place_jp::15",
+      "jp": "",
+      "zh": "刈割",
+      "ref": "refs/menu_jp_etc_timecount_place_jp_menu_timecount_s15_spot1_dds.png"
+    },
+    {
+      "id": "ui::d6::place_other::15",
+      "jp": "",
+      "zh": "刈割",
+      "ref": "refs/menu_jp_etc_timecount_place_other_menu_timecount_s15_spot2_dds.png"
+    },
+    {
+      "id": "ui::d6::place_jp::16",
+      "jp": "",
+      "zh": "刈割",
+      "ref": "refs/menu_jp_etc_timecount_place_jp_menu_timecount_s16_spot1_dds.png"
+    },
+    {
+      "id": "ui::d6::place_other::16",
+      "jp": "",
+      "zh": "刈割",
+      "ref": "refs/menu_jp_etc_timecount_place_other_menu_timecount_s16_spot2_dds.png"
+    },
+    {
+      "id": "ui::d6::place_jp::17",
+      "jp": "",
+      "zh": "波罗宿村落",
+      "ref": "refs/menu_jp_etc_timecount_place_jp_menu_timecount_s17_spot1_dds.png"
+    },
+    {
+      "id": "ui::d6::place_other::17",
+      "jp": "",
+      "zh": "波罗宿村落",
+      "ref": "refs/menu_jp_etc_timecount_place_other_menu_timecount_s17_spot2_dds.png"
+    },
+    {
+      "id": "ui::d6::place_jp::18",
+      "jp": "",
+      "zh": "波罗宿村落",
+      "ref": "refs/menu_jp_etc_timecount_place_jp_menu_timecount_s18_spot1_dds.png"
+    },
+    {
+      "id": "ui::d6::place_other::18",
+      "jp": "",
+      "zh": "波罗宿村落",
+      "ref": "refs/menu_jp_etc_timecount_place_other_menu_timecount_s18_spot2_dds.png"
+    },
+    {
+      "id": "ui::d6::place_jp::19",
+      "jp": "",
+      "zh": "田堀　伊东家",
+      "ref": "refs/menu_jp_etc_timecount_place_jp_menu_timecount_s19_spot1_dds.png"
+    },
+    {
+      "id": "ui::d6::place_other::19",
+      "jp": "",
+      "zh": "田堀　伊东家",
+      "ref": "refs/menu_jp_etc_timecount_place_other_menu_timecount_s19_spot2_dds.png"
+    },
+    {
+      "id": "ui::d6::place_jp::20",
+      "jp": "",
+      "zh": "合石岳　羽生蛇矿山",
+      "ref": "refs/menu_jp_etc_timecount_place_jp_menu_timecount_s20_spot1_dds.png"
+    },
+    {
+      "id": "ui::d6::place_other::20",
+      "jp": "",
+      "zh": "合石岳　羽生蛇矿山",
+      "ref": "refs/menu_jp_etc_timecount_place_other_menu_timecount_s20_spot2_dds.png"
+    },
+    {
+      "id": "ui::d6::place_jp::21",
+      "jp": "",
+      "zh": "上粗户　尸人之巢",
+      "ref": "refs/menu_jp_etc_timecount_place_jp_menu_timecount_s21_spot1_dds.png"
+    },
+    {
+      "id": "ui::d6::place_other::21",
+      "jp": "",
+      "zh": "上粗户　尸人之巢",
+      "ref": "refs/menu_jp_etc_timecount_place_other_menu_timecount_s21_spot2_dds.png"
+    },
+    {
+      "id": "ui::d6::place_jp::22",
+      "jp": "",
+      "zh": "尸人之巢　中枢",
+      "ref": "refs/menu_jp_etc_timecount_place_jp_menu_timecount_s22_spot1_dds.png"
+    },
+    {
+      "id": "ui::d6::place_other::22",
+      "jp": "",
+      "zh": "尸人之巢　中枢",
+      "ref": "refs/menu_jp_etc_timecount_place_other_menu_timecount_s22_spot2_dds.png"
+    },
+    {
+      "id": "ui::d6::place_jp::23",
+      "jp": "",
+      "zh": "炼狱",
+      "ref": "refs/menu_jp_etc_timecount_place_jp_menu_timecount_s23_spot1_dds.png"
+    },
+    {
+      "id": "ui::d6::place_other::23",
+      "jp": "",
+      "zh": "炼狱",
+      "ref": "refs/menu_jp_etc_timecount_place_other_menu_timecount_s23_spot2_dds.png"
+    },
+    {
+      "id": "ui::d6::place_jp::24",
+      "jp": "",
+      "zh": "数据缺失",
+      "ref": "refs/menu_jp_etc_timecount_place_jp_menu_timecount_s24_spot1_dds.png"
+    },
+    {
+      "id": "ui::d6::place_other::24",
+      "jp": "",
+      "zh": "数据缺失",
+      "ref": "refs/menu_jp_etc_timecount_place_other_menu_timecount_s24_spot2_dds.png"
+    },
+    {
+      "id": "ui::d6::place_jp::25",
+      "jp": "",
+      "zh": "合石岳　羽生蛇矿山",
+      "ref": "refs/menu_jp_etc_timecount_place_jp_menu_timecount_s25_spot1_dds.png"
+    },
+    {
+      "id": "ui::d6::place_other::25",
+      "jp": "",
+      "zh": "合石岳　羽生蛇矿山",
+      "ref": "refs/menu_jp_etc_timecount_place_other_menu_timecount_s25_spot2_dds.png"
+    },
+    {
+      "id": "ui::d6::name::menu_status_name_amana",
+      "jp": "",
+      "zh": "阿玛娜",
+      "ref": "refs/menu_jp_etc_timecount_name_menu_status_name_amana_dds.png"
+    },
+    {
+      "id": "ui::d6::name::menu_status_name_bella",
+      "jp": "",
+      "zh": "贝拉·门罗",
+      "ref": "refs/menu_jp_etc_timecount_name_menu_status_name_bella_dds.png"
+    },
+    {
+      "id": "ui::d6::name::menu_status_name_howard",
+      "jp": "",
+      "zh": "霍华德·莱特",
+      "ref": "refs/menu_jp_etc_timecount_name_menu_status_name_howard_dds.png"
+    },
+    {
+      "id": "ui::d6::name::menu_status_name_kobe",
+      "jp": "",
+      "zh": "河边幸江",
+      "ref": "refs/menu_jp_etc_timecount_name_menu_status_name_kobe_dds.png"
+    },
+    {
+      "id": "ui::d6::name::menu_status_name_melissa",
+      "jp": "",
+      "zh": "梅丽莎·盖尔",
+      "ref": "refs/menu_jp_etc_timecount_name_menu_status_name_melissa_dds.png"
+    },
+    {
+      "id": "ui::d6::name::menu_status_name_miyako",
+      "jp": "",
+      "zh": "美耶古",
+      "ref": "refs/menu_jp_etc_timecount_name_menu_status_name_miyako_dds.png"
+    },
+    {
+      "id": "ui::d6::name::menu_status_name_saiga",
+      "jp": "",
+      "zh": "犀贺省悟",
+      "ref": "refs/menu_jp_etc_timecount_name_menu_status_name_saiga_dds.png"
+    },
+    {
+      "id": "ui::d6::name::menu_status_name_sam",
+      "jp": "",
+      "zh": "山姆·门罗",
+      "ref": "refs/menu_jp_etc_timecount_name_menu_status_name_sam_dds.png"
+    },
+    {
+      "id": "ui::d6::name::menu_status_name_shimada",
+      "jp": "",
+      "zh": "岛田习次",
+      "ref": "refs/menu_jp_etc_timecount_name_menu_status_name_shimada_dds.png"
+    },
+    {
+      "id": "ui::d6::name::menu_status_name_sol",
+      "jp": "",
+      "zh": "索尔·杰克逊",
+      "ref": "refs/menu_jp_etc_timecount_name_menu_status_name_sol_dds.png"
+    },
+    {
+      "id": "ui::d8::title::e02",
+      "jp": "",
+      "zh": "章节2",
+      "ref": "refs/menu_jp_launcher_store_products_pjp_e02_pjp_e02_title_dds.png"
+    },
+    {
+      "id": "ui::d8::text::e02::0",
+      "jp": "",
+      "zh": "被警笛吞噬的人们身上，显现出「幻视」之力……。",
+      "ref": "refs/menu_jp_launcher_store_products_pjp_e02_pjp_e02_text_dds.png"
+    },
+    {
+      "id": "ui::d8::text::e02::1",
+      "jp": "",
+      "zh": "SIREN: New Translation 困惑·第2章。",
+      "ref": "refs/menu_jp_launcher_store_products_pjp_e02_pjp_e02_text_dds.png"
+    },
+    {
+      "id": "ui::d8::text::e02::2",
+      "jp": "",
+      "zh": "※本商品也包含在优惠套装之中。",
+      "ref": "refs/menu_jp_launcher_store_products_pjp_e02_pjp_e02_text_dds.png"
+    },
+    {
+      "id": "ui::d8::title::e03",
+      "jp": "",
+      "zh": "章节3",
+      "ref": "refs/menu_jp_launcher_store_products_pjp_e03_pjp_e03_title_dds.png"
+    },
+    {
+      "id": "ui::d8::text::e03::0",
+      "jp": "",
+      "zh": "寻找逃出村子之路的少年，遇见了惊慌奔逃的少女……。",
+      "ref": "refs/menu_jp_launcher_store_products_pjp_e03_pjp_e03_text_dds.png"
+    },
+    {
+      "id": "ui::d8::text::e03::1",
+      "jp": "",
+      "zh": "SIREN: New Translation 怪奇·第3章。",
+      "ref": "refs/menu_jp_launcher_store_products_pjp_e03_pjp_e03_text_dds.png"
+    },
+    {
+      "id": "ui::d8::text::e03::2",
+      "jp": "",
+      "zh": "※本商品也包含在优惠套装之中。",
+      "ref": "refs/menu_jp_launcher_store_products_pjp_e03_pjp_e03_text_dds.png"
+    },
+    {
+      "id": "ui::d8::title::e04",
+      "jp": "",
+      "zh": "章节4",
+      "ref": "refs/menu_jp_launcher_store_products_pjp_e04_pjp_e04_title_dds.png"
+    },
+    {
+      "id": "ui::d8::text::e04::0",
+      "jp": "",
+      "zh": "异境的邂逅。疑惑与不信层层交叠……。",
+      "ref": "refs/menu_jp_launcher_store_products_pjp_e04_pjp_e04_text_dds.png"
+    },
+    {
+      "id": "ui::d8::text::e04::1",
+      "jp": "",
+      "zh": "SIREN: New Translation 疑念·第4章。",
+      "ref": "refs/menu_jp_launcher_store_products_pjp_e04_pjp_e04_text_dds.png"
+    },
+    {
+      "id": "ui::d8::text::e04::2",
+      "jp": "",
+      "zh": "※本商品也包含在优惠套装之中。",
+      "ref": "refs/menu_jp_launcher_store_products_pjp_e04_pjp_e04_text_dds.png"
+    },
+    {
+      "id": "ui::d8::title::e05",
+      "jp": "",
+      "zh": "章节5",
+      "ref": "refs/menu_jp_launcher_store_products_pjp_e05_pjp_e05_title_dds.png"
+    },
+    {
+      "id": "ui::d8::text::e05::0",
+      "jp": "",
+      "zh": "擦肩而过、终又重逢的人们，寻得了微弱的希望……。",
+      "ref": "refs/menu_jp_launcher_store_products_pjp_e05_pjp_e05_text_dds.png"
+    },
+    {
+      "id": "ui::d8::text::e05::1",
+      "jp": "",
+      "zh": "SIREN: New Translation 焦躁·第5章。",
+      "ref": "refs/menu_jp_launcher_store_products_pjp_e05_pjp_e05_text_dds.png"
+    },
+    {
+      "id": "ui::d8::text::e05::2",
+      "jp": "",
+      "zh": "※本商品也包含在优惠套装之中。",
+      "ref": "refs/menu_jp_launcher_store_products_pjp_e05_pjp_e05_text_dds.png"
+    },
+    {
+      "id": "ui::d8::title::e06",
+      "jp": "",
+      "zh": "章节6",
+      "ref": "refs/menu_jp_launcher_store_products_pjp_e06_pjp_e06_title_dds.png"
+    },
+    {
+      "id": "ui::d8::text::e06::0",
+      "jp": "",
+      "zh": "受伤倒下的人们。以及，再度站起身来的人……。",
+      "ref": "refs/menu_jp_launcher_store_products_pjp_e06_pjp_e06_text_dds.png"
+    },
+    {
+      "id": "ui::d8::text::e06::1",
+      "jp": "",
+      "zh": "SIREN: New Translation 混沌·第6章。",
+      "ref": "refs/menu_jp_launcher_store_products_pjp_e06_pjp_e06_text_dds.png"
+    },
+    {
+      "id": "ui::d8::text::e06::2",
+      "jp": "",
+      "zh": "※本商品也包含在优惠套装之中。",
+      "ref": "refs/menu_jp_launcher_store_products_pjp_e06_pjp_e06_text_dds.png"
+    },
+    {
+      "id": "ui::d8::title::e07",
+      "jp": "",
+      "zh": "章节7",
+      "ref": "refs/menu_jp_launcher_store_products_pjp_e07_pjp_e07_title_dds.png"
+    },
+    {
+      "id": "ui::d8::text::e07::0",
+      "jp": "",
+      "zh": "潜入尸人筑成的「巢」。等待着的是灾厄的根源……。",
+      "ref": "refs/menu_jp_launcher_store_products_pjp_e07_pjp_e07_text_dds.png"
+    },
+    {
+      "id": "ui::d8::text::e07::1",
+      "jp": "",
+      "zh": "SIREN: New Translation 迷宫·第7章。",
+      "ref": "refs/menu_jp_launcher_store_products_pjp_e07_pjp_e07_text_dds.png"
+    },
+    {
+      "id": "ui::d8::text::e07::2",
+      "jp": "",
+      "zh": "※本商品也包含在优惠套装之中。",
+      "ref": "refs/menu_jp_launcher_store_products_pjp_e07_pjp_e07_text_dds.png"
+    },
+    {
+      "id": "ui::d8::title::e08",
+      "jp": "",
+      "zh": "章节8",
+      "ref": "refs/menu_jp_launcher_store_products_pjp_e08_pjp_e08_title_dds.png"
+    },
+    {
+      "id": "ui::d8::text::e08::0",
+      "jp": "",
+      "zh": "被玩弄的命运。在循环往复的时光尽头等待着的……。",
+      "ref": "refs/menu_jp_launcher_store_products_pjp_e08_pjp_e08_text_dds.png"
+    },
+    {
+      "id": "ui::d8::text::e08::1",
+      "jp": "",
+      "zh": "SIREN: New Translation 混乱·第8章。",
+      "ref": "refs/menu_jp_launcher_store_products_pjp_e08_pjp_e08_text_dds.png"
+    },
+    {
+      "id": "ui::d8::text::e08::2",
+      "jp": "",
+      "zh": "※本商品也包含在优惠套装之中。",
+      "ref": "refs/menu_jp_launcher_store_products_pjp_e08_pjp_e08_text_dds.png"
+    },
+    {
+      "id": "ui::d8::title::e09",
+      "jp": "",
+      "zh": "章节9",
+      "ref": "refs/menu_jp_launcher_store_products_pjp_e09_pjp_e09_title_dds.png"
+    },
+    {
+      "id": "ui::d8::text::e09::0",
+      "jp": "",
+      "zh": "牺牲自己，将希望托付给留下之人的他们……。",
+      "ref": "refs/menu_jp_launcher_store_products_pjp_e09_pjp_e09_text_dds.png"
+    },
+    {
+      "id": "ui::d8::text::e09::1",
+      "jp": "",
+      "zh": "SIREN: New Translation 绝望·第9章。",
+      "ref": "refs/menu_jp_launcher_store_products_pjp_e09_pjp_e09_text_dds.png"
+    },
+    {
+      "id": "ui::d8::text::e09::2",
+      "jp": "",
+      "zh": "※本商品也包含在优惠套装之中。",
+      "ref": "refs/menu_jp_launcher_store_products_pjp_e09_pjp_e09_text_dds.png"
+    },
+    {
+      "id": "ui::d8::title::e10",
+      "jp": "",
+      "zh": "章节10",
+      "ref": "refs/menu_jp_launcher_store_products_pjp_e10_pjp_e10_title_dds.png"
+    },
+    {
+      "id": "ui::d8::text::e10::0",
+      "jp": "",
+      "zh": "在废屋中醒来时，已被尸人一家所支配……。",
+      "ref": "refs/menu_jp_launcher_store_products_pjp_e10_pjp_e10_text_dds.png"
+    },
+    {
+      "id": "ui::d8::text::e10::1",
+      "jp": "",
+      "zh": "SIREN: New Translation 噩梦·第10章。",
+      "ref": "refs/menu_jp_launcher_store_products_pjp_e10_pjp_e10_text_dds.png"
+    },
+    {
+      "id": "ui::d8::text::e10::2",
+      "jp": "",
+      "zh": "※本商品也包含在优惠套装之中。",
+      "ref": "refs/menu_jp_launcher_store_products_pjp_e10_pjp_e10_text_dds.png"
+    },
+    {
+      "id": "ui::d8::title::e11",
+      "jp": "",
+      "zh": "章节11",
+      "ref": "refs/menu_jp_launcher_store_products_pjp_e11_pjp_e11_title_dds.png"
+    },
+    {
+      "id": "ui::d8::text::e11::0",
+      "jp": "",
+      "zh": "再次辗转抵达尸人之巢。不愿重逢的重逢……。",
+      "ref": "refs/menu_jp_launcher_store_products_pjp_e11_pjp_e11_text_dds.png"
+    },
+    {
+      "id": "ui::d8::text::e11::1",
+      "jp": "",
+      "zh": "SIREN: New Translation 死斗·第11章。",
+      "ref": "refs/menu_jp_launcher_store_products_pjp_e11_pjp_e11_text_dds.png"
+    },
+    {
+      "id": "ui::d8::text::e11::2",
+      "jp": "",
+      "zh": "※本商品也包含在优惠套装之中。",
+      "ref": "refs/menu_jp_launcher_store_products_pjp_e11_pjp_e11_text_dds.png"
+    },
+    {
+      "id": "ui::d8::title::e12",
+      "jp": "",
+      "zh": "章节12",
+      "ref": "refs/menu_jp_launcher_store_products_pjp_e12_pjp_e12_title_dds.png"
+    },
+    {
+      "id": "ui::d8::text::e12::0",
+      "jp": "",
+      "zh": "命运的轮回被斩断，最后留下的是冲击性的事实……。",
+      "ref": "refs/menu_jp_launcher_store_products_pjp_e12_pjp_e12_text_dds.png"
+    },
+    {
+      "id": "ui::d8::text::e12::1",
+      "jp": "",
+      "zh": "SIREN: New Translation 惊愕·最终章。",
+      "ref": "refs/menu_jp_launcher_store_products_pjp_e12_pjp_e12_text_dds.png"
+    },
+    {
+      "id": "ui::d8::text::e12::2",
+      "jp": "",
+      "zh": "※本商品也包含在优惠套装之中。",
+      "ref": "refs/menu_jp_launcher_store_products_pjp_e12_pjp_e12_text_dds.png"
+    },
+    {
+      "id": "ui::d8::title::full",
+      "jp": "",
+      "zh": "全章节套装",
+      "ref": "refs/menu_jp_launcher_store_products_pjp_full_pjp_full_title_dds.png"
+    },
+    {
+      "id": "ui::d8::text::full::0",
+      "jp": "",
+      "zh": "收录全部章节的优惠商品。",
+      "ref": "refs/menu_jp_launcher_store_products_pjp_full_pjp_full_text_dds.png"
+    },
+    {
+      "id": "ui::d8::text::full::1",
+      "jp": "",
+      "zh": "※本商品为章节2～12的全部章节组成的套装。",
+      "ref": "refs/menu_jp_launcher_store_products_pjp_full_pjp_full_text_dds.png"
+    },
+    {
+      "id": "ui::d8::text::full::2",
+      "jp": "",
+      "zh": "请注意不要重复购买。",
+      "ref": "refs/menu_jp_launcher_store_products_pjp_full_pjp_full_text_dds.png"
+    },
+    {
+      "id": "ui::d9::01::0",
+      "jp": "",
+      "zh": "HDD可用空间不足。",
+      "ref": "refs/menu_jp_caution_caution_01_dds.png"
+    },
+    {
+      "id": "ui::d9::01::1",
+      "jp": "",
+      "zh": "保存本游戏的数据需要60KB以上的可用空间。",
+      "ref": "refs/menu_jp_caution_caution_01_dds.png"
+    },
+    {
+      "id": "ui::d9::01::2",
+      "jp": "",
+      "zh": "请按PS键结束游戏，并删除HDD中不需要的文件。",
+      "ref": "refs/menu_jp_caution_caution_01_dds.png"
+    },
+    {
+      "id": "ui::d9::02::0",
+      "jp": "",
+      "zh": "本游戏支持自动保存功能。",
+      "ref": "refs/menu_jp_caution_caution_02_dds.png"
+    },
+    {
+      "id": "ui::d9::02::1",
+      "jp": "",
+      "zh": "自动保存期间HDD存取指示灯会闪烁，此时请勿关闭主机电源。",
+      "ref": "refs/menu_jp_caution_caution_02_dds.png"
+    },
+    {
+      "id": "ui::d9::03::0",
+      "jp": "",
+      "zh": "使用无线控制器的动作感应功能时的注意事项",
+      "ref": "refs/menu_jp_caution_caution_03_dds.png"
+    },
+    {
+      "id": "ui::d9::03::1",
+      "jp": "",
+      "zh": "注意",
+      "ref": "refs/menu_jp_caution_caution_03_dds.png"
+    },
+    {
+      "id": "ui::d9::03::2",
+      "jp": "",
+      "zh": "● 使用前，请确认周围已确保有充足的空间。",
+      "ref": "refs/menu_jp_caution_caution_03_dds.png"
+    },
+    {
+      "id": "ui::d9::03::3",
+      "jp": "",
+      "zh": "● 使用中请握紧控制器，注意不要从手中甩出。",
+      "ref": "refs/menu_jp_caution_caution_03_dds.png"
+    },
+    {
+      "id": "ui::d9::03::4",
+      "jp": "",
+      "zh": "● 将控制器通过USB线连接使用时，请注意线缆不要碰到周围的物品或人。",
+      "ref": "refs/menu_jp_caution_caution_03_dds.png"
+    },
+    {
+      "id": "ui::d9::03::5",
+      "jp": "",
+      "zh": "　另外，请注意不要让线缆从PLAYSTATION®3主机上脱落。",
+      "ref": "refs/menu_jp_caution_caution_03_dds.png"
+    },
+    {
+      "id": "ui::d9::04::0",
+      "jp": "",
+      "zh": "无法从PLAYSTATION 3主机获取时间。",
+      "ref": "refs/menu_jp_caution_caution_04_dds.png"
+    },
+    {
+      "id": "ui::d9::04::1",
+      "jp": "",
+      "zh": "请按PS键结束游戏，并在日期与时间设定中设置时间。",
+      "ref": "refs/menu_jp_caution_caution_04_dds.png"
+    },
+    {
+      "id": "ui::d9::05::0",
+      "jp": "",
+      "zh": "HDD可用空间不足。",
+      "ref": "refs/menu_jp_caution_caution_05_dds.png"
+    },
+    {
+      "id": "ui::d9::05::1",
+      "jp": "",
+      "zh": "游玩本游戏需要2600MB以上的可用空间。",
+      "ref": "refs/menu_jp_caution_caution_05_dds.png"
+    },
+    {
+      "id": "ui::d9::05::2",
+      "jp": "",
+      "zh": "请按PS键结束游戏，并删除HDD中不需要的文件。",
+      "ref": "refs/menu_jp_caution_caution_05_dds.png"
+    },
+    {
+      "id": "ui::d9::06::0",
+      "jp": "",
+      "zh": "游玩本游戏需要安装游戏数据。",
+      "ref": "refs/menu_jp_caution_caution_06_dds.png"
+    },
+    {
+      "id": "ui::d9::06::1",
+      "jp": "",
+      "zh": "请按○键开始安装。",
+      "ref": "refs/menu_jp_caution_caution_06_dds.png"
+    },
+    {
+      "id": "ui::d9::06::2",
+      "jp": "",
+      "zh": "不安装时，请按PS键结束游戏。",
+      "ref": "refs/menu_jp_caution_caution_06_dds.png"
+    },
+    {
+      "id": "ui::d9::06::3",
+      "jp": "",
+      "zh": "安装容量:2600MB",
+      "ref": "refs/menu_jp_caution_caution_06_dds.png"
+    },
+    {
+      "id": "ui::d9::07::0",
+      "jp": "",
+      "zh": "游玩本游戏需要安装游戏数据。",
+      "ref": "refs/menu_jp_caution_caution_07_dds.png"
+    },
+    {
+      "id": "ui::d9::07::1",
+      "jp": "",
+      "zh": "请按×键开始安装。",
+      "ref": "refs/menu_jp_caution_caution_07_dds.png"
+    },
+    {
+      "id": "ui::d9::07::2",
+      "jp": "",
+      "zh": "不安装时，请按PS键结束游戏。",
+      "ref": "refs/menu_jp_caution_caution_07_dds.png"
+    },
+    {
+      "id": "ui::d9::07::3",
+      "jp": "",
+      "zh": "安装容量:2600MB",
+      "ref": "refs/menu_jp_caution_caution_07_dds.png"
+    },
+    {
+      "id": "ui::d9::08::0",
+      "jp": "",
+      "zh": "使用本软件前，请仔细阅读本软件的注意事项、说明书以及",
+      "ref": "refs/menu_jp_caution_caution_08_dds.png"
+    },
+    {
+      "id": "ui::d9::08::1",
+      "jp": "",
+      "zh": "PLAYSTATION®3使用说明书中所记载的注意事项，",
+      "ref": "refs/menu_jp_caution_caution_08_dds.png"
+    },
+    {
+      "id": "ui::d9::08::2",
+      "jp": "",
+      "zh": "并以正确的方法使用。",
+      "ref": "refs/menu_jp_caution_caution_08_dds.png"
+    },
+    {
+      "id": "ui::d9::08::3",
+      "jp": "",
+      "zh": "幼小儿童请在监护人阅读后，在确保安全的情况下使用。",
+      "ref": "refs/menu_jp_caution_caution_08_dds.png"
+    },
+    {
+      "id": "ui::d9::09::0",
+      "jp": "",
+      "zh": "安装已完成。",
+      "ref": "refs/menu_jp_caution_caution_09_dds.png"
+    },
+    {
+      "id": "ui::d10::aim_a",
+      "jp": "",
+      "zh": "最快",
+      "ref": "refs/menu_jp_main_option_big_choice_menu_option_aim_a_dds.png"
+    },
+    {
+      "id": "ui::d10::aim_b",
+      "jp": "",
+      "zh": "快",
+      "ref": "refs/menu_jp_main_option_big_choice_menu_option_aim_b_dds.png"
+    },
+    {
+      "id": "ui::d10::aim_c",
+      "jp": "",
+      "zh": "普通",
+      "ref": "refs/menu_jp_main_option_big_choice_menu_option_aim_c_dds.png"
+    },
+    {
+      "id": "ui::d10::aim_d",
+      "jp": "",
+      "zh": "慢",
+      "ref": "refs/menu_jp_main_option_big_choice_menu_option_aim_d_dds.png"
+    },
+    {
+      "id": "ui::d10::aim_e",
+      "jp": "",
+      "zh": "最慢",
+      "ref": "refs/menu_jp_main_option_big_choice_menu_option_aim_e_dds.png"
+    },
+    {
+      "id": "ui::d10::alerteffect_off",
+      "jp": "",
+      "zh": "关闭",
+      "ref": "refs/menu_jp_main_option_big_choice_menu_option_alerteffect_off_dds.png"
+    },
+    {
+      "id": "ui::d10::alerteffect_on",
+      "jp": "",
+      "zh": "开启",
+      "ref": "refs/menu_jp_main_option_big_choice_menu_option_alerteffect_on_dds.png"
+    },
+    {
+      "id": "ui::d10::caption_off",
+      "jp": "",
+      "zh": "关闭",
+      "ref": "refs/menu_jp_main_option_big_choice_menu_option_caption_off_dds.png"
+    },
+    {
+      "id": "ui::d10::caption_on",
+      "jp": "",
+      "zh": "开启",
+      "ref": "refs/menu_jp_main_option_big_choice_menu_option_caption_on_dds.png"
+    },
+    {
+      "id": "ui::d10::difc_easy",
+      "jp": "",
+      "zh": "简单",
+      "ref": "refs/menu_jp_main_option_big_choice_menu_option_difc_easy_dds.png"
+    },
+    {
+      "id": "ui::d10::difc_hard",
+      "jp": "",
+      "zh": "困难",
+      "ref": "refs/menu_jp_main_option_big_choice_menu_option_difc_hard_dds.png"
+    },
+    {
+      "id": "ui::d10::difc_normal",
+      "jp": "",
+      "zh": "普通",
+      "ref": "refs/menu_jp_main_option_big_choice_menu_option_difc_normal_dds.png"
+    },
+    {
+      "id": "ui::d10::fphorizontal_nor",
+      "jp": "",
+      "zh": "普通",
+      "ref": "refs/menu_jp_main_option_big_choice_menu_option_fphorizontal_nor_dds.png"
+    },
+    {
+      "id": "ui::d10::fphorizontal_rev",
+      "jp": "",
+      "zh": "反转",
+      "ref": "refs/menu_jp_main_option_big_choice_menu_option_fphorizontal_rev_dds.png"
+    },
+    {
+      "id": "ui::d10::fpvertical_nor",
+      "jp": "",
+      "zh": "普通",
+      "ref": "refs/menu_jp_main_option_big_choice_menu_option_fpvertical_nor_dds.png"
+    },
+    {
+      "id": "ui::d10::fpvertical_rev",
+      "jp": "",
+      "zh": "反转",
+      "ref": "refs/menu_jp_main_option_big_choice_menu_option_fpvertical_rev_dds.png"
+    },
+    {
+      "id": "ui::d10::mapdirection_hup",
+      "jp": "",
+      "zh": "玩家",
+      "ref": "refs/menu_jp_main_option_big_choice_menu_option_mapdirection_hup_dds.png"
+    },
+    {
+      "id": "ui::d10::mapdirection_nup",
+      "jp": "",
+      "zh": "北",
+      "ref": "refs/menu_jp_main_option_big_choice_menu_option_mapdirection_nup_dds.png"
+    },
+    {
+      "id": "ui::d10::midnight_off",
+      "jp": "",
+      "zh": "关闭",
+      "ref": "refs/menu_jp_main_option_big_choice_menu_option_midnight_off_dds.png"
+    },
+    {
+      "id": "ui::d10::midnight_on",
+      "jp": "",
+      "zh": "开启",
+      "ref": "refs/menu_jp_main_option_big_choice_menu_option_midnight_on_dds.png"
+    },
+    {
+      "id": "ui::d10::reset_no",
+      "jp": "",
+      "zh": "否",
+      "ref": "refs/menu_jp_main_option_big_choice_menu_option_reset_no_dds.png"
+    },
+    {
+      "id": "ui::d10::reset_yes",
+      "jp": "",
+      "zh": "是",
+      "ref": "refs/menu_jp_main_option_big_choice_menu_option_reset_yes_dds.png"
+    },
+    {
+      "id": "ui::d10::screensepa_off",
+      "jp": "",
+      "zh": "关闭",
+      "ref": "refs/menu_jp_main_option_big_choice_menu_option_screensepa_off_dds.png"
+    },
+    {
+      "id": "ui::d10::screensepa_on",
+      "jp": "",
+      "zh": "开启",
+      "ref": "refs/menu_jp_main_option_big_choice_menu_option_screensepa_on_dds.png"
+    },
+    {
+      "id": "ui::d10::subcom_off",
+      "jp": "",
+      "zh": "关闭",
+      "ref": "refs/menu_jp_main_option_big_choice_menu_option_subcom_off_dds.png"
+    },
+    {
+      "id": "ui::d10::subcom_on",
+      "jp": "",
+      "zh": "开启",
+      "ref": "refs/menu_jp_main_option_big_choice_menu_option_subcom_on_dds.png"
+    },
+    {
+      "id": "ui::d10::tphorizontal_nor",
+      "jp": "",
+      "zh": "普通",
+      "ref": "refs/menu_jp_main_option_big_choice_menu_option_tphorizontal_nor_dds.png"
+    },
+    {
+      "id": "ui::d10::tphorizontal_rev",
+      "jp": "",
+      "zh": "反转",
+      "ref": "refs/menu_jp_main_option_big_choice_menu_option_tphorizontal_rev_dds.png"
+    },
+    {
+      "id": "ui::d10::tpvertical_nor",
+      "jp": "",
+      "zh": "普通",
+      "ref": "refs/menu_jp_main_option_big_choice_menu_option_tpvertical_nor_dds.png"
+    },
+    {
+      "id": "ui::d10::tpvertical_rev",
+      "jp": "",
+      "zh": "反转",
+      "ref": "refs/menu_jp_main_option_big_choice_menu_option_tpvertical_rev_dds.png"
+    },
+    {
+      "id": "ui::d10::viewpoint_a",
+      "jp": "",
+      "zh": "A型",
+      "ref": "refs/menu_jp_main_option_big_choice_menu_option_viewpoint_a_dds.png"
+    },
+    {
+      "id": "ui::d10::viewpoint_b",
+      "jp": "",
+      "zh": "B型",
+      "ref": "refs/menu_jp_main_option_big_choice_menu_option_viewpoint_b_dds.png"
+    },
+    {
+      "id": "ui::d11::rdown::archive1",
+      "jp": "",
+      "zh": "方向键：选择　○：返回",
+      "ref": "refs/menu_jp_common_rdown_menu_linehelp_archive1_dds.png"
+    },
+    {
+      "id": "ui::d11::rdown::archive2",
+      "jp": "",
+      "zh": "方向键：选择　×：详情　○：返回",
+      "ref": "refs/menu_jp_common_rdown_menu_linehelp_archive2_dds.png"
+    },
+    {
+      "id": "ui::d11::rdown::archive3",
+      "jp": "",
+      "zh": "方向键←→：前往上/下个档案　○：返回",
+      "ref": "refs/menu_jp_common_rdown_menu_linehelp_archive3_dds.png"
+    },
+    {
+      "id": "ui::d11::rdown::episode1",
+      "jp": "",
+      "zh": "方向键←→：选择　×：确定　○：返回　△：关于重新下载",
+      "ref": "refs/menu_jp_common_rdown_menu_linehelp_episode1_dds.png"
+    },
+    {
+      "id": "ui::d11::rdown::episode_bd1",
+      "jp": "",
+      "zh": "方向键←→：选择　×：确定　○：返回",
+      "ref": "refs/menu_jp_common_rdown_menu_linehelp_episode_bd1_dds.png"
+    },
+    {
+      "id": "ui::d11::rdown::manual1",
+      "jp": "",
+      "zh": "方向键↑↓：选择　×：确定　○：返回",
+      "ref": "refs/menu_jp_common_rdown_menu_linehelp_manual1_dds.png"
+    },
+    {
+      "id": "ui::d11::rdown::manual2",
+      "jp": "",
+      "zh": "○：返回",
+      "ref": "refs/menu_jp_common_rdown_menu_linehelp_manual2_dds.png"
+    },
+    {
+      "id": "ui::d11::rdown::map1",
+      "jp": "",
+      "zh": "左摇杆：移动　右摇杆：旋转·倾斜　方向键↑↓：切换楼层　方向键←→：缩放　△：重置　□：地名显示开关　○：返回",
+      "ref": "refs/menu_jp_common_rdown_menu_linehelp_map1_dds.png"
+    },
+    {
+      "id": "ui::d11::rdown::option1",
+      "jp": "",
+      "zh": "方向键：选择　×：确定　○：返回",
+      "ref": "refs/menu_jp_common_rdown_menu_linehelp_option1_dds.png"
+    },
+    {
+      "id": "ui::d11::rdown::option2",
+      "jp": "",
+      "zh": "方向键←→：选择　×：确定　○：返回",
+      "ref": "refs/menu_jp_common_rdown_menu_linehelp_option2_dds.png"
+    },
+    {
+      "id": "ui::d11::rdown::option3",
+      "jp": "",
+      "zh": "方向键：位置调整　L2 R2：亮度调整　×：确定　○：取消",
+      "ref": "refs/menu_jp_common_rdown_menu_linehelp_option3_dds.png"
+    },
+    {
+      "id": "ui::d11::rdown::result1",
+      "jp": "",
+      "zh": "×：前往各章节成绩　○：返回",
+      "ref": "refs/menu_jp_common_rdown_menu_linehelp_result1_dds.png"
+    },
+    {
+      "id": "ui::d11::rdown::result2",
+      "jp": "",
+      "zh": "方向键↑↓：选择　○：返回",
+      "ref": "refs/menu_jp_common_rdown_menu_linehelp_result2_dds.png"
+    },
+    {
+      "id": "ui::d11::rdown::status1",
+      "jp": "",
+      "zh": "方向键：选择　○：返回",
+      "ref": "refs/menu_jp_common_rdown_menu_linehelp_status1_dds.png"
+    },
+    {
+      "id": "ui::d11::rdown::store1",
+      "jp": "",
+      "zh": "方向键←→：选择商品　×：加入购物车　○：返回",
+      "ref": "refs/menu_jp_common_rdown_menu_linehelp_store1_dds.png"
+    },
+    {
+      "id": "ui::d11::rdown::store2",
+      "jp": "",
+      "zh": "方向键←→：选择商品　×：加入购物车　△：前往购物车　○：返回",
+      "ref": "refs/menu_jp_common_rdown_menu_linehelp_store2_dds.png"
+    },
+    {
+      "id": "ui::d11::rdown::store3",
+      "jp": "",
+      "zh": "方向键↑↓：选择商品　×：删除　△：前往购买手续　○：继续购物",
+      "ref": "refs/menu_jp_common_rdown_menu_linehelp_store3_dds.png"
+    },
+    {
+      "id": "ui::d11::rright::archive1",
+      "jp": "",
+      "zh": "方向键：选择　×：返回",
+      "ref": "refs/menu_jp_common_rright_menu_linehelp_archive1_dds.png"
+    },
+    {
+      "id": "ui::d11::rright::archive2",
+      "jp": "",
+      "zh": "方向键：选择　○：详情　×：返回",
+      "ref": "refs/menu_jp_common_rright_menu_linehelp_archive2_dds.png"
+    },
+    {
+      "id": "ui::d11::rright::archive3",
+      "jp": "",
+      "zh": "方向键←→：前往上/下个档案　×：返回",
+      "ref": "refs/menu_jp_common_rright_menu_linehelp_archive3_dds.png"
+    },
+    {
+      "id": "ui::d11::rright::episode1",
+      "jp": "",
+      "zh": "方向键←→：选择　○：确定　×：返回　△：关于重新下载",
+      "ref": "refs/menu_jp_common_rright_menu_linehelp_episode1_dds.png"
+    },
+    {
+      "id": "ui::d11::rright::episode_bd1",
+      "jp": "",
+      "zh": "方向键←→：选择　○：确定　×：返回",
+      "ref": "refs/menu_jp_common_rright_menu_linehelp_episode_bd1_dds.png"
+    },
+    {
+      "id": "ui::d11::rright::manual1",
+      "jp": "",
+      "zh": "方向键↑↓：选择　○：确定　×：返回",
+      "ref": "refs/menu_jp_common_rright_menu_linehelp_manual1_dds.png"
+    },
+    {
+      "id": "ui::d11::rright::manual2",
+      "jp": "",
+      "zh": "×：返回",
+      "ref": "refs/menu_jp_common_rright_menu_linehelp_manual2_dds.png"
+    },
+    {
+      "id": "ui::d11::rright::map1",
+      "jp": "",
+      "zh": "左摇杆：移动　右摇杆：旋转·倾斜　方向键↑↓：切换楼层　方向键←→：缩放　△：重置　□：地名显示开关　×：返回",
+      "ref": "refs/menu_jp_common_rright_menu_linehelp_map1_dds.png"
+    },
+    {
+      "id": "ui::d11::rright::option1",
+      "jp": "",
+      "zh": "方向键：选择　○：确定　×：返回",
+      "ref": "refs/menu_jp_common_rright_menu_linehelp_option1_dds.png"
+    },
+    {
+      "id": "ui::d11::rright::option2",
+      "jp": "",
+      "zh": "方向键←→：选择　○：确定　×：返回",
+      "ref": "refs/menu_jp_common_rright_menu_linehelp_option2_dds.png"
+    },
+    {
+      "id": "ui::d11::rright::option3",
+      "jp": "",
+      "zh": "方向键：位置调整　L2 R2：亮度调整　○：确定　×：取消",
+      "ref": "refs/menu_jp_common_rright_menu_linehelp_option3_dds.png"
+    },
+    {
+      "id": "ui::d11::rright::result1",
+      "jp": "",
+      "zh": "○：前往各章节成绩　×：返回",
+      "ref": "refs/menu_jp_common_rright_menu_linehelp_result1_dds.png"
+    },
+    {
+      "id": "ui::d11::rright::result2",
+      "jp": "",
+      "zh": "方向键↑↓：选择　×：返回",
+      "ref": "refs/menu_jp_common_rright_menu_linehelp_result2_dds.png"
+    },
+    {
+      "id": "ui::d11::rright::status1",
+      "jp": "",
+      "zh": "方向键：选择　×：返回",
+      "ref": "refs/menu_jp_common_rright_menu_linehelp_status1_dds.png"
+    },
+    {
+      "id": "ui::d11::rright::store1",
+      "jp": "",
+      "zh": "方向键←→：选择商品　○：加入购物车　×：返回",
+      "ref": "refs/menu_jp_common_rright_menu_linehelp_store1_dds.png"
+    },
+    {
+      "id": "ui::d11::rright::store2",
+      "jp": "",
+      "zh": "方向键←→：选择商品　○：加入购物车　△：前往购物车　×：返回",
+      "ref": "refs/menu_jp_common_rright_menu_linehelp_store2_dds.png"
+    },
+    {
+      "id": "ui::d11::rright::store3",
+      "jp": "",
+      "zh": "方向键↑↓：选择商品　○：删除　△：前往购买手续　×：继续购物",
+      "ref": "refs/menu_jp_common_rright_menu_linehelp_store3_dds.png"
+    },
+    {
+      "id": "ui::d13::text",
+      "jp": "",
+      "zh": "载入中",
+      "ref": "refs/hud_s99_now_loading_dds.png"
+    },
+    {
+      "id": "ui::manhead::small::menu_manual_archive_001",
+      "jp": "",
+      "zh": "剧情档案",
+      "ref": "refs/menu_jp_main_manual_small_subject_menu_manual_archive_001_dds.png"
+    },
+    {
+      "id": "ui::manhead::small::menu_manual_archive_003",
+      "jp": "",
+      "zh": "武器档案",
+      "ref": "refs/menu_jp_main_manual_small_subject_menu_manual_archive_003_dds.png"
+    },
+    {
+      "id": "ui::manhead::small::menu_manual_battle_001",
+      "jp": "",
+      "zh": "近身攻击",
+      "ref": "refs/menu_jp_main_manual_small_subject_menu_manual_battle_001_dds.png"
+    },
+    {
+      "id": "ui::manhead::small::menu_manual_battle_003",
+      "jp": "",
+      "zh": "持枪状态的通用操作",
+      "ref": "refs/menu_jp_main_manual_small_subject_menu_manual_battle_003_dds.png"
+    },
+    {
+      "id": "ui::manhead::small::menu_manual_battle_005",
+      "jp": "",
+      "zh": "持枪时（未锁定目标）",
+      "ref": "refs/menu_jp_main_manual_small_subject_menu_manual_battle_005_dds.png"
+    },
+    {
+      "id": "ui::manhead::small::menu_manual_battle_007",
+      "jp": "",
+      "zh": "持枪时（已锁定目标）",
+      "ref": "refs/menu_jp_main_manual_small_subject_menu_manual_battle_007_dds.png"
+    },
+    {
+      "id": "ui::manhead::small::menu_manual_battle_009",
+      "jp": "",
+      "zh": "持枪时（狙击模式）",
+      "ref": "refs/menu_jp_main_manual_small_subject_menu_manual_battle_009_dds.png"
+    },
+    {
+      "id": "ui::manhead::small::menu_manual_battle_011",
+      "jp": "",
+      "zh": "被击倒、被抓取攻击时",
+      "ref": "refs/menu_jp_main_manual_small_subject_menu_manual_battle_011_dds.png"
+    },
+    {
+      "id": "ui::manhead::small::menu_manual_battletips_001",
+      "jp": "",
+      "zh": "警戒系统",
+      "ref": "refs/menu_jp_main_manual_small_subject_menu_manual_battletips_001_dds.png"
+    },
+    {
+      "id": "ui::manhead::small::menu_manual_battletips_003",
+      "jp": "",
+      "zh": "敌人进入警戒模式时",
+      "ref": "refs/menu_jp_main_manual_small_subject_menu_manual_battletips_003_dds.png"
+    },
+    {
+      "id": "ui::manhead::small::menu_manual_battletips_005",
+      "jp": "",
+      "zh": "枪械命中率",
+      "ref": "refs/menu_jp_main_manual_small_subject_menu_manual_battletips_005_dds.png"
+    },
+    {
+      "id": "ui::manhead::small::menu_manual_control_001",
+      "jp": "",
+      "zh": "基本操作",
+      "ref": "refs/menu_jp_main_manual_small_subject_menu_manual_control_001_dds.png"
+    },
+    {
+      "id": "ui::manhead::small::menu_manual_control_003",
+      "jp": "",
+      "zh": "副指令",
+      "ref": "refs/menu_jp_main_manual_small_subject_menu_manual_control_003_dds.png"
+    },
+    {
+      "id": "ui::manhead::small::menu_manual_control_005",
+      "jp": "",
+      "zh": "菜单",
+      "ref": "refs/menu_jp_main_manual_small_subject_menu_manual_control_005_dds.png"
+    },
+    {
+      "id": "ui::manhead::small::menu_manual_control_007",
+      "jp": "",
+      "zh": "梯子",
+      "ref": "refs/menu_jp_main_manual_small_subject_menu_manual_control_007_dds.png"
+    },
+    {
+      "id": "ui::manhead::small::menu_manual_control_009",
+      "jp": "",
+      "zh": "门",
+      "ref": "refs/menu_jp_main_manual_small_subject_menu_manual_control_009_dds.png"
+    },
+    {
+      "id": "ui::manhead::small::menu_manual_map_001",
+      "jp": "",
+      "zh": "地图画面",
+      "ref": "refs/menu_jp_main_manual_small_subject_menu_manual_map_001_dds.png"
+    },
+    {
+      "id": "ui::manhead::small::menu_manual_sightjack1_001",
+      "jp": "",
+      "zh": "模式切换",
+      "ref": "refs/menu_jp_main_manual_small_subject_menu_manual_sightjack1_001_dds.png"
+    },
+    {
+      "id": "ui::manhead::small::menu_manual_sightjack1_003",
+      "jp": "",
+      "zh": "视界劫持搜索模式中的操作",
+      "ref": "refs/menu_jp_main_manual_small_subject_menu_manual_sightjack1_003_dds.png"
+    },
+    {
+      "id": "ui::manhead::small::menu_manual_sightjack1_005",
+      "jp": "",
+      "zh": "移动模式（视界固定状态）的特殊操作",
+      "ref": "refs/menu_jp_main_manual_small_subject_menu_manual_sightjack1_005_dds.png"
+    },
+    {
+      "id": "ui::manhead::small::menu_manual_sightjack1_007",
+      "jp": "",
+      "zh": "十字图标",
+      "ref": "refs/menu_jp_main_manual_small_subject_menu_manual_sightjack1_007_dds.png"
+    },
+    {
+      "id": "ui::manhead::small::menu_manual_sightjack2_001",
+      "jp": "",
+      "zh": "视界登记",
+      "ref": "refs/menu_jp_main_manual_small_subject_menu_manual_sightjack2_001_dds.png"
+    },
+    {
+      "id": "ui::manhead::small::menu_manual_sightjack2_003",
+      "jp": "",
+      "zh": "视界搜索",
+      "ref": "refs/menu_jp_main_manual_small_subject_menu_manual_sightjack2_003_dds.png"
+    },
+    {
+      "id": "ui::manhead::small::menu_manual_sightjack2_005",
+      "jp": "",
+      "zh": "紧急搜索",
+      "ref": "refs/menu_jp_main_manual_small_subject_menu_manual_sightjack2_005_dds.png"
+    },
+    {
+      "id": "ui::manhead::head::0",
+      "jp": "",
+      "zh": "基本操作",
+      "ref": "refs/menu_jp_main_manual_big_subject_menu_manual_head_control_dds.png"
+    },
+    {
+      "id": "ui::manhead::head::1",
+      "jp": "",
+      "zh": "战斗",
+      "ref": "refs/menu_jp_main_manual_big_subject_menu_manual_head_control_dds.png"
+    },
+    {
+      "id": "ui::manhead::head::2",
+      "jp": "",
+      "zh": "战斗技巧",
+      "ref": "refs/menu_jp_main_manual_big_subject_menu_manual_head_control_dds.png"
+    },
+    {
+      "id": "ui::manhead::head::3",
+      "jp": "",
+      "zh": "视界劫持（基本）",
+      "ref": "refs/menu_jp_main_manual_big_subject_menu_manual_head_control_dds.png"
+    },
+    {
+      "id": "ui::manhead::head::4",
+      "jp": "",
+      "zh": "视界劫持（详细）",
+      "ref": "refs/menu_jp_main_manual_big_subject_menu_manual_head_control_dds.png"
+    },
+    {
+      "id": "ui::manhead::head::5",
+      "jp": "",
+      "zh": "地图",
+      "ref": "refs/menu_jp_main_manual_big_subject_menu_manual_head_control_dds.png"
+    },
+    {
+      "id": "ui::manhead::head::6",
+      "jp": "",
+      "zh": "档案",
+      "ref": "refs/menu_jp_main_manual_big_subject_menu_manual_head_control_dds.png"
+    },
+    {
+      "id": "ui::icon::0",
+      "jp": "",
+      "zh": "右摇杆",
+      "ref": "refs/hud_font_02_icon_jp_dds.png"
+    },
+    {
+      "id": "ui::icon::1",
+      "jp": "",
+      "zh": "左摇杆",
+      "ref": "refs/hud_font_02_icon_jp_dds.png"
+    },
+    {
+      "id": "ui::icon::2",
+      "jp": "",
+      "zh": "方向键",
+      "ref": "refs/hud_font_02_icon_jp_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_mission::menu/jp/etc_mission/japanese/s01_object_main.dds::0",
+      "jp": "",
+      "zh": "逃离驻守警官。",
+      "ref": "refs/menu_jp_etc_mission_japanese_s01_object_main_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_mission::menu/jp/etc_mission/japanese/s02_object_main.dds::0",
+      "jp": "",
+      "zh": "搜索同行者。",
+      "ref": "refs/menu_jp_etc_mission_japanese_s02_object_main_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_mission::menu/jp/etc_mission/japanese/s03_object_main.dds::0",
+      "jp": "",
+      "zh": "与阿玛娜一同逃往「刈割」方向。",
+      "ref": "refs/menu_jp_etc_mission_japanese_s03_object_main_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_mission::menu/jp/etc_mission/japanese/s04_object_main.dds::0",
+      "jp": "",
+      "zh": "逃离「犀贺医院」。",
+      "ref": "refs/menu_jp_etc_mission_japanese_s04_object_main_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_mission::menu/jp/etc_mission/japanese/s05_object_main.dds::0",
+      "jp": "",
+      "zh": "与美耶古一同逃往「田堀」方向。",
+      "ref": "refs/menu_jp_etc_mission_japanese_s05_object_main_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_mission::menu/jp/etc_mission/japanese/s06_object_main.dds::0",
+      "jp": "",
+      "zh": "与山姆·门罗一同逃往「比良境」方向。",
+      "ref": "refs/menu_jp_etc_mission_japanese_s06_object_main_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_mission::menu/jp/etc_mission/japanese/s07_object_main.dds::0",
+      "jp": "",
+      "zh": "与美耶古一同逃往「刈割」方向。",
+      "ref": "refs/menu_jp_etc_mission_japanese_s07_object_main_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_mission::menu/jp/etc_mission/japanese/s08_object_main.dds::0",
+      "jp": "",
+      "zh": "获得贝拉·门罗的线索。",
+      "ref": "refs/menu_jp_etc_mission_japanese_s08_object_main_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_mission::menu/jp/etc_mission/japanese/s09_object_main.dds::0",
+      "jp": "",
+      "zh": "击退「追随者」。",
+      "ref": "refs/menu_jp_etc_mission_japanese_s09_object_main_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_mission::menu/jp/etc_mission/japanese/s10_object_main.dds::0",
+      "jp": "",
+      "zh": "抵达「不入谷圣堂」。",
+      "ref": "refs/menu_jp_etc_mission_japanese_s10_object_main_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_mission::menu/jp/etc_mission/japanese/s11_object_main.dds::0",
+      "jp": "",
+      "zh": "抵达「尸人之巢」中枢。",
+      "ref": "refs/menu_jp_etc_mission_japanese_s11_object_main_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_mission::menu/jp/etc_mission/japanese/s12_object_main.dds::0",
+      "jp": "",
+      "zh": "击退「头脑尸人」。",
+      "ref": "refs/menu_jp_etc_mission_japanese_s12_object_main_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_mission::menu/jp/etc_mission/japanese/s13_object_main.dds::0",
+      "jp": "",
+      "zh": "两人会合。",
+      "ref": "refs/menu_jp_etc_mission_japanese_s13_object_main_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_mission::menu/jp/etc_mission/japanese/s14_object_main.dds::0",
+      "jp": "",
+      "zh": "与贝拉·门罗一同逃往「刈割」方向。",
+      "ref": "refs/menu_jp_etc_mission_japanese_s14_object_main_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_mission::menu/jp/etc_mission/japanese/s15_object_main.dds::0",
+      "jp": "",
+      "zh": "解开四道封印。",
+      "ref": "refs/menu_jp_etc_mission_japanese_s15_object_main_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_mission::menu/jp/etc_mission/japanese/s16_object_main.dds::0",
+      "jp": "",
+      "zh": "贝拉·门罗逃脱。",
+      "ref": "refs/menu_jp_etc_mission_japanese_s16_object_main_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_mission::menu/jp/etc_mission/japanese/s17_object_main.dds::0",
+      "jp": "",
+      "zh": "贝拉·门罗逃脱、获取「古文书」。",
+      "ref": "refs/menu_jp_etc_mission_japanese_s17_object_main_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_mission::menu/jp/etc_mission/japanese/s18_object_main.dds::0",
+      "jp": "",
+      "zh": "取回记忆。",
+      "ref": "refs/menu_jp_etc_mission_japanese_s18_object_main_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_mission::menu/jp/etc_mission/japanese/s19_object_main.dds::0",
+      "jp": "",
+      "zh": "逃离「田堀」。",
+      "ref": "refs/menu_jp_etc_mission_japanese_s19_object_main_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_mission::menu/jp/etc_mission/japanese/s20_object_main.dds::0",
+      "jp": "",
+      "zh": "获取「宇理炎」。",
+      "ref": "refs/menu_jp_etc_mission_japanese_s20_object_main_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_mission::menu/jp/etc_mission/japanese/s21_object_main.dds::0",
+      "jp": "",
+      "zh": "与贝拉·门罗潜入「尸人之巢」中枢。",
+      "ref": "refs/menu_jp_etc_mission_japanese_s21_object_main_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_mission::menu/jp/etc_mission/japanese/s22_object_main.dds::0",
+      "jp": "",
+      "zh": "抵达真相。",
+      "ref": "refs/menu_jp_etc_mission_japanese_s22_object_main_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_mission::menu/jp/etc_mission/japanese/s23_object_main.dds::0",
+      "jp": "",
+      "zh": "打倒「蚕子」。",
+      "ref": "refs/menu_jp_etc_mission_japanese_s23_object_main_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_mission::menu/jp/etc_mission/japanese/s24_object_main.dds::0",
+      "jp": "",
+      "zh": "消灭所有尸人。",
+      "ref": "refs/menu_jp_etc_mission_japanese_s24_object_main_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_mission::menu/jp/etc_mission/japanese/s25_object_main.dds::0",
+      "jp": "",
+      "zh": "与梅丽莎·盖尔一同逃往「比良境」方向。",
+      "ref": "refs/menu_jp_etc_mission_japanese_s25_object_main_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_pause::menu/jp/etc_pause/pause_text/menu_pause_chapterselect_exp.dds::0",
+      "jp": "",
+      "zh": "退出游戏，进入章节选择画面",
+      "ref": "refs/menu_jp_etc_pause_pause_text_menu_pause_chapterselect_exp_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_pause::menu/jp/etc_pause/pause_text/menu_pause_checkpoint_exp.dds::0",
+      "jp": "",
+      "zh": "从最后的检查点重新开始游戏",
+      "ref": "refs/menu_jp_etc_pause_pause_text_menu_pause_checkpoint_exp_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_pause::menu/jp/etc_pause/pause_text/menu_pause_restart_exp.dds::0",
+      "jp": "",
+      "zh": "从章节开头重新开始游戏",
+      "ref": "refs/menu_jp_etc_pause_pause_text_menu_pause_restart_exp_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_pause::menu/jp/etc_pause/pause_text/menu_pause_resume_exp.dds::0",
+      "jp": "",
+      "zh": "返回游戏",
+      "ref": "refs/menu_jp_etc_pause_pause_text_menu_pause_resume_exp_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_pause::menu/jp/etc_pause/pause_text/menu_pause_title_exp.dds::0",
+      "jp": "",
+      "zh": "返回标题画面",
+      "ref": "refs/menu_jp_etc_pause_pause_text_menu_pause_title_exp_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_results::menu/jp/launcher_results/mission/s01_object_main.dds::0",
+      "jp": "",
+      "zh": "逃离驻守警官",
+      "ref": "refs/menu_jp_launcher_results_mission_s01_object_main_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_results::menu/jp/launcher_results/mission/s02_object_main.dds::0",
+      "jp": "",
+      "zh": "搜索同行者",
+      "ref": "refs/menu_jp_launcher_results_mission_s02_object_main_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_results::menu/jp/launcher_results/mission/s03_object_main.dds::0",
+      "jp": "",
+      "zh": "与阿玛娜一同逃往「刈割」方向",
+      "ref": "refs/menu_jp_launcher_results_mission_s03_object_main_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_results::menu/jp/launcher_results/mission/s04_object_main.dds::0",
+      "jp": "",
+      "zh": "逃离「犀贺医院」",
+      "ref": "refs/menu_jp_launcher_results_mission_s04_object_main_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_results::menu/jp/launcher_results/mission/s05_object_main.dds::0",
+      "jp": "",
+      "zh": "与美耶古一同逃往「田堀」方向",
+      "ref": "refs/menu_jp_launcher_results_mission_s05_object_main_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_results::menu/jp/launcher_results/mission/s06_object_main.dds::0",
+      "jp": "",
+      "zh": "与山姆·门罗一同逃往「比良境」方向",
+      "ref": "refs/menu_jp_launcher_results_mission_s06_object_main_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_results::menu/jp/launcher_results/mission/s07_object_main.dds::0",
+      "jp": "",
+      "zh": "与美耶古一同逃往「刈割」方向",
+      "ref": "refs/menu_jp_launcher_results_mission_s07_object_main_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_results::menu/jp/launcher_results/mission/s08_object_main.dds::0",
+      "jp": "",
+      "zh": "获得贝拉·门罗的线索",
+      "ref": "refs/menu_jp_launcher_results_mission_s08_object_main_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_results::menu/jp/launcher_results/mission/s09_object_main.dds::0",
+      "jp": "",
+      "zh": "击退「追随者」",
+      "ref": "refs/menu_jp_launcher_results_mission_s09_object_main_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_results::menu/jp/launcher_results/mission/s10_object_main.dds::0",
+      "jp": "",
+      "zh": "抵达「不入谷圣堂」",
+      "ref": "refs/menu_jp_launcher_results_mission_s10_object_main_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_results::menu/jp/launcher_results/mission/s11_object_main.dds::0",
+      "jp": "",
+      "zh": "抵达「尸人之巢」中枢",
+      "ref": "refs/menu_jp_launcher_results_mission_s11_object_main_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_results::menu/jp/launcher_results/mission/s12_object_main.dds::0",
+      "jp": "",
+      "zh": "击退「头脑尸人」",
+      "ref": "refs/menu_jp_launcher_results_mission_s12_object_main_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_results::menu/jp/launcher_results/mission/s13_object_main.dds::0",
+      "jp": "",
+      "zh": "两人会合",
+      "ref": "refs/menu_jp_launcher_results_mission_s13_object_main_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_results::menu/jp/launcher_results/mission/s14_object_main.dds::0",
+      "jp": "",
+      "zh": "与贝拉·门罗一同逃往「刈割」方向",
+      "ref": "refs/menu_jp_launcher_results_mission_s14_object_main_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_results::menu/jp/launcher_results/mission/s15_object_main.dds::0",
+      "jp": "",
+      "zh": "解开四道封印",
+      "ref": "refs/menu_jp_launcher_results_mission_s15_object_main_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_results::menu/jp/launcher_results/mission/s16_object_main.dds::0",
+      "jp": "",
+      "zh": "贝拉·门罗逃脱",
+      "ref": "refs/menu_jp_launcher_results_mission_s16_object_main_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_results::menu/jp/launcher_results/mission/s17_object_main.dds::0",
+      "jp": "",
+      "zh": "贝拉·门罗逃脱、获取「古文书」",
+      "ref": "refs/menu_jp_launcher_results_mission_s17_object_main_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_results::menu/jp/launcher_results/mission/s18_object_main.dds::0",
+      "jp": "",
+      "zh": "取回记忆",
+      "ref": "refs/menu_jp_launcher_results_mission_s18_object_main_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_results::menu/jp/launcher_results/mission/s19_object_main.dds::0",
+      "jp": "",
+      "zh": "逃离「田堀」",
+      "ref": "refs/menu_jp_launcher_results_mission_s19_object_main_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_results::menu/jp/launcher_results/mission/s20_object_main.dds::0",
+      "jp": "",
+      "zh": "获取「宇理炎」",
+      "ref": "refs/menu_jp_launcher_results_mission_s20_object_main_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_results::menu/jp/launcher_results/mission/s21_object_main.dds::0",
+      "jp": "",
+      "zh": "与贝拉·门罗潜入「尸人之巢」中枢",
+      "ref": "refs/menu_jp_launcher_results_mission_s21_object_main_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_results::menu/jp/launcher_results/mission/s22_object_main.dds::0",
+      "jp": "",
+      "zh": "抵达真相",
+      "ref": "refs/menu_jp_launcher_results_mission_s22_object_main_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_results::menu/jp/launcher_results/mission/s23_object_main.dds::0",
+      "jp": "",
+      "zh": "打倒「蚕子」",
+      "ref": "refs/menu_jp_launcher_results_mission_s23_object_main_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_results::menu/jp/launcher_results/mission/s24_object_main.dds::0",
+      "jp": "",
+      "zh": "消灭所有尸人",
+      "ref": "refs/menu_jp_launcher_results_mission_s24_object_main_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_results::menu/jp/launcher_results/mission/s25_object_main.dds::0",
+      "jp": "",
+      "zh": "与梅丽莎·盖尔一同逃往「比良境」方向",
+      "ref": "refs/menu_jp_launcher_results_mission_s25_object_main_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/launcher_results/element/results_parts_01.dds::0",
+      "jp": "",
+      "zh": "时间：",
+      "ref": "refs/menu_jp_launcher_results_element_results_parts_01_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/launcher_results/element/results_parts_01.dds::1",
+      "jp": "",
+      "zh": "地点：",
+      "ref": "refs/menu_jp_launcher_results_element_results_parts_01_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/launcher_results/element/results_parts_01.dds::2",
+      "jp": "",
+      "zh": "人物：",
+      "ref": "refs/menu_jp_launcher_results_element_results_parts_01_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/launcher_results/element/results_parts_01.dds::3",
+      "jp": "",
+      "zh": "通关条件：",
+      "ref": "refs/menu_jp_launcher_results_element_results_parts_01_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/launcher_results/element/results_parts_01.dds::4",
+      "jp": "",
+      "zh": "最佳记录：",
+      "ref": "refs/menu_jp_launcher_results_element_results_parts_01_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/launcher_results/element/results_parts_01.dds::5",
+      "jp": "",
+      "zh": "已获称号：",
+      "ref": "refs/menu_jp_launcher_results_element_results_parts_01_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/launcher_results/element/results_parts_01.dds::6",
+      "jp": "",
+      "zh": "总游玩时间：",
+      "ref": "refs/menu_jp_launcher_results_element_results_parts_01_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/launcher_results/element/results_parts_01.dds::7",
+      "jp": "",
+      "zh": "最佳记录合计：",
+      "ref": "refs/menu_jp_launcher_results_element_results_parts_01_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/launcher_results/element/results_parts_01.dds::8",
+      "jp": "",
+      "zh": "获得称号：",
+      "ref": "refs/menu_jp_launcher_results_element_results_parts_01_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/launcher_results/element/results_parts_01.dds::9",
+      "jp": "",
+      "zh": "击倒敌人：",
+      "ref": "refs/menu_jp_launcher_results_element_results_parts_01_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/launcher_results/element/results_parts_01.dds::10",
+      "jp": "",
+      "zh": "被发现次数：",
+      "ref": "refs/menu_jp_launcher_results_element_results_parts_01_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/launcher_results/element/results_parts_01.dds::11",
+      "jp": "",
+      "zh": "死亡次数：",
+      "ref": "refs/menu_jp_launcher_results_element_results_parts_01_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/launcher_results/element/results_parts_01.dds::12",
+      "jp": "",
+      "zh": "同伴死亡次数：",
+      "ref": "refs/menu_jp_launcher_results_element_results_parts_01_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/launcher_results/element/results_parts_01.dds::13",
+      "jp": "",
+      "zh": "总移动距离：",
+      "ref": "refs/menu_jp_launcher_results_element_results_parts_01_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/launcher_results/element/results_parts_01.dds::14",
+      "jp": "",
+      "zh": "被擒抱次数：",
+      "ref": "refs/menu_jp_launcher_results_element_results_parts_01_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/launcher_results/element/results_parts_01.dds::15",
+      "jp": "",
+      "zh": "一击擒杀次数：",
+      "ref": "refs/menu_jp_launcher_results_element_results_parts_01_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/launcher_results/element/results_parts_07.dds::0",
+      "jp": "",
+      "zh": "当前难度",
+      "ref": "refs/menu_jp_launcher_results_element_results_parts_07_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/launcher_results/place/menu_timecount_s01_spot1.dds::0",
+      "jp": "",
+      "zh": "下粗户",
+      "ref": "refs/menu_jp_launcher_results_place_menu_timecount_s01_spot1_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/launcher_results/place/menu_timecount_s02_spot1.dds::0",
+      "jp": "",
+      "zh": "合石岳　羽生蛇矿山",
+      "ref": "refs/menu_jp_launcher_results_place_menu_timecount_s02_spot1_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/launcher_results/place/menu_timecount_s03_spot1.dds::0",
+      "jp": "",
+      "zh": "波罗宿村落",
+      "ref": "refs/menu_jp_launcher_results_place_menu_timecount_s03_spot1_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/launcher_results/place/menu_timecount_s04_spot1.dds::0",
+      "jp": "",
+      "zh": "比良境　犀贺医院",
+      "ref": "refs/menu_jp_launcher_results_place_menu_timecount_s04_spot1_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/launcher_results/place/menu_timecount_s05_spot1.dds::0",
+      "jp": "",
+      "zh": "刈割",
+      "ref": "refs/menu_jp_launcher_results_place_menu_timecount_s05_spot1_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/launcher_results/place/menu_timecount_s06_spot1.dds::0",
+      "jp": "",
+      "zh": "波罗宿村落",
+      "ref": "refs/menu_jp_launcher_results_place_menu_timecount_s06_spot1_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/launcher_results/place/menu_timecount_s07_spot1.dds::0",
+      "jp": "",
+      "zh": "田堀　伊东家",
+      "ref": "refs/menu_jp_launcher_results_place_menu_timecount_s07_spot1_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/launcher_results/place/menu_timecount_s08_spot1.dds::0",
+      "jp": "",
+      "zh": "比良境　犀贺医院",
+      "ref": "refs/menu_jp_launcher_results_place_menu_timecount_s08_spot1_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/launcher_results/place/menu_timecount_s09_spot1.dds::0",
+      "jp": "",
+      "zh": "合石岳　羽生蛇矿山",
+      "ref": "refs/menu_jp_launcher_results_place_menu_timecount_s09_spot1_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/launcher_results/place/menu_timecount_s10_spot1.dds::0",
+      "jp": "",
+      "zh": "刈割",
+      "ref": "refs/menu_jp_launcher_results_place_menu_timecount_s10_spot1_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/launcher_results/place/menu_timecount_s11_spot1.dds::0",
+      "jp": "",
+      "zh": "上粗户　尸人之巢",
+      "ref": "refs/menu_jp_launcher_results_place_menu_timecount_s11_spot1_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/launcher_results/place/menu_timecount_s12_spot1.dds::0",
+      "jp": "",
+      "zh": "尸人之巢　中枢",
+      "ref": "refs/menu_jp_launcher_results_place_menu_timecount_s12_spot1_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/launcher_results/place/menu_timecount_s13_spot1.dds::0",
+      "jp": "",
+      "zh": "合石岳　羽生蛇矿山",
+      "ref": "refs/menu_jp_launcher_results_place_menu_timecount_s13_spot1_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/launcher_results/place/menu_timecount_s14_spot1.dds::0",
+      "jp": "",
+      "zh": "比良境　犀贺医院",
+      "ref": "refs/menu_jp_launcher_results_place_menu_timecount_s14_spot1_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/launcher_results/place/menu_timecount_s15_spot1.dds::0",
+      "jp": "",
+      "zh": "刈割",
+      "ref": "refs/menu_jp_launcher_results_place_menu_timecount_s15_spot1_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/launcher_results/place/menu_timecount_s16_spot1.dds::0",
+      "jp": "",
+      "zh": "刈割",
+      "ref": "refs/menu_jp_launcher_results_place_menu_timecount_s16_spot1_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/launcher_results/place/menu_timecount_s17_spot1.dds::0",
+      "jp": "",
+      "zh": "波罗宿村落",
+      "ref": "refs/menu_jp_launcher_results_place_menu_timecount_s17_spot1_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/launcher_results/place/menu_timecount_s18_spot1.dds::0",
+      "jp": "",
+      "zh": "波罗宿村落",
+      "ref": "refs/menu_jp_launcher_results_place_menu_timecount_s18_spot1_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/launcher_results/place/menu_timecount_s19_spot1.dds::0",
+      "jp": "",
+      "zh": "田堀　伊东家",
+      "ref": "refs/menu_jp_launcher_results_place_menu_timecount_s19_spot1_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/launcher_results/place/menu_timecount_s20_spot1.dds::0",
+      "jp": "",
+      "zh": "合石岳　羽生蛇矿山",
+      "ref": "refs/menu_jp_launcher_results_place_menu_timecount_s20_spot1_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/launcher_results/place/menu_timecount_s21_spot1.dds::0",
+      "jp": "",
+      "zh": "上粗户　尸人之巢",
+      "ref": "refs/menu_jp_launcher_results_place_menu_timecount_s21_spot1_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/launcher_results/place/menu_timecount_s22_spot1.dds::0",
+      "jp": "",
+      "zh": "尸人之巢　中枢",
+      "ref": "refs/menu_jp_launcher_results_place_menu_timecount_s22_spot1_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/launcher_results/place/menu_timecount_s23_spot1.dds::0",
+      "jp": "",
+      "zh": "炼狱",
+      "ref": "refs/menu_jp_launcher_results_place_menu_timecount_s23_spot1_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/launcher_results/place/menu_timecount_s24_spot1.dds::0",
+      "jp": "",
+      "zh": "数据缺失",
+      "ref": "refs/menu_jp_launcher_results_place_menu_timecount_s24_spot1_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/launcher_results/place/menu_timecount_s25_spot1.dds::0",
+      "jp": "",
+      "zh": "合石岳　羽生蛇矿山",
+      "ref": "refs/menu_jp_launcher_results_place_menu_timecount_s25_spot1_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/main_archive/element/menu_archive_head_chr.dds::0",
+      "jp": "",
+      "zh": "获得人物／",
+      "ref": "refs/menu_jp_main_archive_element_menu_archive_head_chr_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/main_archive/element/menu_archive_head_chr.dds::1",
+      "jp": "",
+      "zh": "获得时间／",
+      "ref": "refs/menu_jp_main_archive_element_menu_archive_head_chr_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/main_archive/element/menu_archive_head_chr.dds::2",
+      "jp": "",
+      "zh": "获得地点／",
+      "ref": "refs/menu_jp_main_archive_element_menu_archive_head_chr_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/main_archive/element/menu_archive_head_chr.dds::3",
+      "jp": "",
+      "zh": "获得条件／",
+      "ref": "refs/menu_jp_main_archive_element_menu_archive_head_chr_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/main_archive/element/menu_archive_head_group.dds::0",
+      "jp": "",
+      "zh": "分类／",
+      "ref": "refs/menu_jp_main_archive_element_menu_archive_head_group_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/main_archive/element/menu_archive_head_group.dds::1",
+      "jp": "",
+      "zh": "强度／",
+      "ref": "refs/menu_jp_main_archive_element_menu_archive_head_group_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/main_archive/strength/menu_archive_str_max.dds::0",
+      "jp": "",
+      "zh": "无法估量",
+      "ref": "refs/menu_jp_main_archive_strength_menu_archive_str_max_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/main_archive/strength/menu_archive_str_h.dds::0",
+      "jp": "",
+      "zh": "非常强",
+      "ref": "refs/menu_jp_main_archive_strength_menu_archive_str_h_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/main_archive/strength/menu_archive_str_mh.dds::0",
+      "jp": "",
+      "zh": "值得信赖",
+      "ref": "refs/menu_jp_main_archive_strength_menu_archive_str_mh_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/main_archive/strength/menu_archive_str_m.dds::0",
+      "jp": "",
+      "zh": "平凡",
+      "ref": "refs/menu_jp_main_archive_strength_menu_archive_str_m_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/main_archive/strength/menu_archive_str_ml.dds::0",
+      "jp": "",
+      "zh": "不太可靠",
+      "ref": "refs/menu_jp_main_archive_strength_menu_archive_str_ml_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/main_archive/strength/menu_archive_str_ll.dds::0",
+      "jp": "",
+      "zh": "毫无用处",
+      "ref": "refs/menu_jp_main_archive_strength_menu_archive_str_ll_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/main_archive/strength/menu_archive_str_sp.dds::0",
+      "jp": "",
+      "zh": "特殊",
+      "ref": "refs/menu_jp_main_archive_strength_menu_archive_str_sp_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/etc_mission/element/menu_map_head_object_main1.dds::0",
+      "jp": "",
+      "zh": "通关条件",
+      "ref": "refs/menu_jp_etc_mission_element_menu_map_head_object_main1_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/main_map/element/menu_map_head_object_main1.dds::0",
+      "jp": "",
+      "zh": "通关条件：",
+      "ref": "refs/menu_jp_main_map_element_menu_map_head_object_main1_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/main_map/element/menu_map_head_object_main1.dds::1",
+      "jp": "",
+      "zh": "目标：",
+      "ref": "refs/menu_jp_main_map_element_menu_map_head_object_main1_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/main_map/element/menu_map_head_object_main1.dds::2",
+      "jp": "",
+      "zh": "小目标：",
+      "ref": "refs/menu_jp_main_map_element_menu_map_head_object_main1_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/launcher_store/element/store_parts_01.dds::0",
+      "jp": "",
+      "zh": "品名：",
+      "ref": "refs/menu_jp_launcher_store_element_store_parts_01_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/launcher_store/element/store_parts_01.dds::1",
+      "jp": "",
+      "zh": "内容：",
+      "ref": "refs/menu_jp_launcher_store_element_store_parts_01_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/launcher_store/element/store_parts_01.dds::2",
+      "jp": "",
+      "zh": "价格(含税)：",
+      "ref": "refs/menu_jp_launcher_store_element_store_parts_01_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/launcher_store/element/store_parts_01.dds::3",
+      "jp": "",
+      "zh": "游玩解锁时间：",
+      "ref": "refs/menu_jp_launcher_store_element_store_parts_01_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/launcher_store/element/store_parts_01.dds::4",
+      "jp": "",
+      "zh": "发售日：",
+      "ref": "refs/menu_jp_launcher_store_element_store_parts_01_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/launcher_store/element/store_parts_01.dds::5",
+      "jp": "",
+      "zh": "已加入购物车的合计金额",
+      "ref": "refs/menu_jp_launcher_store_element_store_parts_01_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/etc_mission_miss/japanese/menu_mission_miss_main.dds::0",
+      "jp": "",
+      "zh": "未达成通关条件。",
+      "ref": "refs/menu_jp_etc_mission_miss_japanese_menu_mission_miss_main_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/etc_mission_comp/japanese/menu_mission_comp_main.dds::0",
+      "jp": "",
+      "zh": "已达成通关条件。",
+      "ref": "refs/menu_jp_etc_mission_comp_japanese_menu_mission_comp_main_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/launcher_episode/state_a/episode_parts_02.dds::0",
+      "jp": "",
+      "zh": "已安装",
+      "ref": "refs/menu_jp_launcher_episode_state_a_episode_parts_02_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/launcher_episode/state_a/episode_parts_03.dds::0",
+      "jp": "",
+      "zh": "已下载",
+      "ref": "refs/menu_jp_launcher_episode_state_a_episode_parts_03_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/launcher_episode/state_a/episode_parts_04.dds::0",
+      "jp": "",
+      "zh": "下载中",
+      "ref": "refs/menu_jp_launcher_episode_state_a_episode_parts_04_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/launcher_episode/state_a/episode_parts_05.dds::0",
+      "jp": "",
+      "zh": "无章节数据",
+      "ref": "refs/menu_jp_launcher_episode_state_a_episode_parts_05_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/launcher_episode/state_b/episode_parts_06.dds::0",
+      "jp": "",
+      "zh": "距解锁",
+      "ref": "refs/menu_jp_launcher_episode_state_b_episode_parts_06_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/launcher_episode/state_b/episode_parts_07.dds::0",
+      "jp": "",
+      "zh": "距解锁",
+      "ref": "refs/menu_jp_launcher_episode_state_b_episode_parts_07_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/main_archive/element/rdown/menu_archive_etc_1.dds::0",
+      "jp": "",
+      "zh": "查看更多",
+      "ref": "refs/menu_jp_main_archive_element_rdown_menu_archive_etc_1_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/main_archive/element/rdown/menu_archive_etc_2.dds::0",
+      "jp": "",
+      "zh": "播放影像",
+      "ref": "refs/menu_jp_main_archive_element_rdown_menu_archive_etc_2_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/main_archive/element/rdown/menu_archive_etc_3.dds::0",
+      "jp": "",
+      "zh": "播放声音",
+      "ref": "refs/menu_jp_main_archive_element_rdown_menu_archive_etc_3_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/main_archive/element/rdown/menu_archive_etc_4.dds::0",
+      "jp": "",
+      "zh": "显示下一页",
+      "ref": "refs/menu_jp_main_archive_element_rdown_menu_archive_etc_4_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/main_archive/element/rdown/menu_archive_etc_5.dds::0",
+      "jp": "",
+      "zh": "播放声音",
+      "ref": "refs/menu_jp_main_archive_element_rdown_menu_archive_etc_5_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/main_archive/element/rdown/menu_archive_etc_5.dds::1",
+      "jp": "",
+      "zh": "保存声音",
+      "ref": "refs/menu_jp_main_archive_element_rdown_menu_archive_etc_5_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/main_archive/element/rdown/menu_archive_etc_6.dds::0",
+      "jp": "",
+      "zh": "播放声音",
+      "ref": "refs/menu_jp_main_archive_element_rdown_menu_archive_etc_6_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/main_archive/element/rdown/menu_archive_etc_6.dds::1",
+      "jp": "",
+      "zh": "保存图像",
+      "ref": "refs/menu_jp_main_archive_element_rdown_menu_archive_etc_6_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/main_archive/element/rright/menu_archive_etc_1.dds::0",
+      "jp": "",
+      "zh": "查看更多",
+      "ref": "refs/menu_jp_main_archive_element_rright_menu_archive_etc_1_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/main_archive/element/rright/menu_archive_etc_2.dds::0",
+      "jp": "",
+      "zh": "播放影像",
+      "ref": "refs/menu_jp_main_archive_element_rright_menu_archive_etc_2_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/main_archive/element/rright/menu_archive_etc_3.dds::0",
+      "jp": "",
+      "zh": "播放声音",
+      "ref": "refs/menu_jp_main_archive_element_rright_menu_archive_etc_3_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/main_archive/element/rright/menu_archive_etc_4.dds::0",
+      "jp": "",
+      "zh": "显示下一页",
+      "ref": "refs/menu_jp_main_archive_element_rright_menu_archive_etc_4_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/main_archive/element/rright/menu_archive_etc_5.dds::0",
+      "jp": "",
+      "zh": "播放声音",
+      "ref": "refs/menu_jp_main_archive_element_rright_menu_archive_etc_5_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/main_archive/element/rright/menu_archive_etc_5.dds::1",
+      "jp": "",
+      "zh": "保存声音",
+      "ref": "refs/menu_jp_main_archive_element_rright_menu_archive_etc_5_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/main_archive/element/rright/menu_archive_etc_6.dds::0",
+      "jp": "",
+      "zh": "播放声音",
+      "ref": "refs/menu_jp_main_archive_element_rright_menu_archive_etc_6_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_ui2::menu/jp/main_archive/element/rright/menu_archive_etc_6.dds::1",
+      "jp": "",
+      "zh": "保存图像",
+      "ref": "refs/menu_jp_main_archive_element_rright_menu_archive_etc_6_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_archhead::menu/jp/main_archive/element/menu_archive_head_chr.dds::0",
+      "jp": "",
+      "zh": "获得人物／",
+      "ref": "refs/menu_jp_main_archive_element_menu_archive_head_chr_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_archhead::menu/jp/main_archive/element/menu_archive_head_chr.dds::1",
+      "jp": "",
+      "zh": "获得时间／",
+      "ref": "refs/menu_jp_main_archive_element_menu_archive_head_chr_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_archhead::menu/jp/main_archive/element/menu_archive_head_chr.dds::2",
+      "jp": "",
+      "zh": "获得地点／",
+      "ref": "refs/menu_jp_main_archive_element_menu_archive_head_chr_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_archhead::menu/jp/main_archive/element/menu_archive_head_chr.dds::3",
+      "jp": "",
+      "zh": "获得条件／",
+      "ref": "refs/menu_jp_main_archive_element_menu_archive_head_chr_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_archhead::menu/jp/main_archive/element/menu_archive_head_group.dds::0",
+      "jp": "",
+      "zh": "分类／",
+      "ref": "refs/menu_jp_main_archive_element_menu_archive_head_group_dds.png"
+    },
+    {
+      "id": "ui_job::mask_job_archhead::menu/jp/main_archive/element/menu_archive_head_group.dds::1",
+      "jp": "",
+      "zh": "强度／",
+      "ref": "refs/menu_jp_main_archive_element_menu_archive_head_group_dds.png"
+    },
+    {
+      "id": "ui_job::_d7_job::menu/jp/launcher_episode/ep_text/episode_text_01.dds::0",
+      "jp": "",
+      "zh": "进入章节选择画面。",
+      "ref": "refs/menu_jp_launcher_episode_ep_text_episode_text_01_dds.png"
+    },
+    {
+      "id": "ui_job::_d7_job::menu/jp/launcher_episode/ep_text/episode_text_02.dds::0",
+      "jp": "",
+      "zh": "将删除此章节数据（存档数据不会消失）。",
+      "ref": "refs/menu_jp_launcher_episode_ep_text_episode_text_02_dds.png"
+    },
+    {
+      "id": "ui_job::_d7_job::menu/jp/launcher_episode/ep_text/episode_text_02.dds::1",
+      "jp": "",
+      "zh": "已删除的章节数据随时可以重新下载。",
+      "ref": "refs/menu_jp_launcher_episode_ep_text_episode_text_02_dds.png"
+    },
+    {
+      "id": "ui_job::_d7_job::menu/jp/launcher_episode/ep_text/episode_text_02.dds::2",
+      "jp": "",
+      "zh": "关于重新下载，可按△按钮查看方法详情。",
+      "ref": "refs/menu_jp_launcher_episode_ep_text_episode_text_02_dds.png"
+    },
+    {
+      "id": "ui_job::_d7_job::menu/jp/launcher_episode/element/type_episode_window.dds::0",
+      "jp": "",
+      "zh": "章节",
+      "ref": "refs/menu_jp_launcher_episode_element_type_episode_window_dds.png"
+    },
+    {
+      "id": "ui_job::_d7_job::menu/jp/launcher_title/choice/title_parts_01.dds::0",
+      "jp": "",
+      "zh": "章节",
+      "ref": "refs/menu_jp_launcher_title_choice_title_parts_01_dds.png"
+    },
+    {
+      "id": "ui_job::_d7_job::menu/jp/launcher_title/choice/title_parts_02.dds::0",
+      "jp": "",
+      "zh": "档案",
+      "ref": "refs/menu_jp_launcher_title_choice_title_parts_02_dds.png"
+    },
+    {
+      "id": "ui_job::_d7_job::menu/jp/launcher_title/choice/title_parts_03.dds::0",
+      "jp": "",
+      "zh": "战绩",
+      "ref": "refs/menu_jp_launcher_title_choice_title_parts_03_dds.png"
+    },
+    {
+      "id": "ui_job::_d7_job::menu/jp/launcher_title/choice/title_parts_04.dds::0",
+      "jp": "",
+      "zh": "选项",
+      "ref": "refs/menu_jp_launcher_title_choice_title_parts_04_dds.png"
+    },
+    {
+      "id": "ui_job::_d7_job::menu/jp/launcher_title/choice/title_parts_05.dds::0",
+      "jp": "",
+      "zh": "在线手册",
+      "ref": "refs/menu_jp_launcher_title_choice_title_parts_05_dds.png"
+    },
+    {
+      "id": "ui_job::_d7_job::menu/jp/launcher_title/choice/title_parts_06.dds::0",
+      "jp": "",
+      "zh": "新游戏",
+      "ref": "refs/menu_jp_launcher_title_choice_title_parts_06_dds.png"
+    },
+    {
+      "id": "ui_job::_d7_job::menu/jp/launcher_title/choice/title_parts_07.dds::0",
+      "jp": "",
+      "zh": "迷你游戏",
+      "ref": "refs/menu_jp_launcher_title_choice_title_parts_07_dds.png"
+    }
+  ]
+}

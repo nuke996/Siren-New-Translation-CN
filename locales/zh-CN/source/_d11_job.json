@@ -1,0 +1,414 @@
+{
+ "arch": "common",
+ "font": "SimHei",
+ "items": [
+  {
+   "name": "menu/jp/common/rdown/menu_linehelp_archive1.dds",
+   "size": 18,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "方向键：选择　○：返回",
+     "y": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/common/rdown/menu_linehelp_archive2.dds",
+   "size": 18,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "方向键：选择　×：详情　○：返回",
+     "y": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/common/rdown/menu_linehelp_archive3.dds",
+   "size": 18,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "方向键←→：前往上/下个档案　○：返回",
+     "y": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/common/rdown/menu_linehelp_episode1.dds",
+   "size": 18,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "方向键←→：选择　×：确定　○：返回　△：关于重新下载",
+     "y": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/common/rdown/menu_linehelp_episode_bd1.dds",
+   "size": 18,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "方向键←→：选择　×：确定　○：返回",
+     "y": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/common/rdown/menu_linehelp_manual1.dds",
+   "size": 18,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "方向键↑↓：选择　×：确定　○：返回",
+     "y": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/common/rdown/menu_linehelp_manual2.dds",
+   "size": 18,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "○：返回",
+     "y": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/common/rdown/menu_linehelp_map1.dds",
+   "size": 18,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "左摇杆：移动　右摇杆：旋转·倾斜　方向键↑↓：切换楼层　方向键←→：缩放　△：重置　□：地名显示开关　○：返回",
+     "y": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/common/rdown/menu_linehelp_option1.dds",
+   "size": 18,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "方向键：选择　×：确定　○：返回",
+     "y": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/common/rdown/menu_linehelp_option2.dds",
+   "size": 18,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "方向键←→：选择　×：确定　○：返回",
+     "y": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/common/rdown/menu_linehelp_option3.dds",
+   "size": 18,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "方向键：位置调整　L2 R2：亮度调整　×：确定　○：取消",
+     "y": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/common/rdown/menu_linehelp_result1.dds",
+   "size": 18,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "×：前往各章节成绩　○：返回",
+     "y": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/common/rdown/menu_linehelp_result2.dds",
+   "size": 18,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "方向键↑↓：选择　○：返回",
+     "y": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/common/rdown/menu_linehelp_status1.dds",
+   "size": 18,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "方向键：选择　○：返回",
+     "y": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/common/rdown/menu_linehelp_store1.dds",
+   "size": 18,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "方向键←→：选择商品　×：加入购物车　○：返回",
+     "y": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/common/rdown/menu_linehelp_store2.dds",
+   "size": 18,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "方向键←→：选择商品　×：加入购物车　△：前往购物车　○：返回",
+     "y": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/common/rdown/menu_linehelp_store3.dds",
+   "size": 18,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "方向键↑↓：选择商品　×：删除　△：前往购买手续　○：继续购物",
+     "y": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/common/rright/menu_linehelp_archive1.dds",
+   "size": 18,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "方向键：选择　×：返回",
+     "y": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/common/rright/menu_linehelp_archive2.dds",
+   "size": 18,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "方向键：选择　○：详情　×：返回",
+     "y": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/common/rright/menu_linehelp_archive3.dds",
+   "size": 18,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "方向键←→：前往上/下个档案　×：返回",
+     "y": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/common/rright/menu_linehelp_episode1.dds",
+   "size": 18,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "方向键←→：选择　○：确定　×：返回　△：关于重新下载",
+     "y": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/common/rright/menu_linehelp_episode_bd1.dds",
+   "size": 18,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "方向键←→：选择　○：确定　×：返回",
+     "y": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/common/rright/menu_linehelp_manual1.dds",
+   "size": 18,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "方向键↑↓：选择　○：确定　×：返回",
+     "y": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/common/rright/menu_linehelp_manual2.dds",
+   "size": 18,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "×：返回",
+     "y": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/common/rright/menu_linehelp_map1.dds",
+   "size": 18,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "左摇杆：移动　右摇杆：旋转·倾斜　方向键↑↓：切换楼层　方向键←→：缩放　△：重置　□：地名显示开关　×：返回",
+     "y": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/common/rright/menu_linehelp_option1.dds",
+   "size": 18,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "方向键：选择　○：确定　×：返回",
+     "y": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/common/rright/menu_linehelp_option2.dds",
+   "size": 18,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "方向键←→：选择　○：确定　×：返回",
+     "y": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/common/rright/menu_linehelp_option3.dds",
+   "size": 18,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "方向键：位置调整　L2 R2：亮度调整　○：确定　×：取消",
+     "y": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/common/rright/menu_linehelp_result1.dds",
+   "size": 18,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "○：前往各章节成绩　×：返回",
+     "y": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/common/rright/menu_linehelp_result2.dds",
+   "size": 18,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "方向键↑↓：选择　×：返回",
+     "y": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/common/rright/menu_linehelp_status1.dds",
+   "size": 18,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "方向键：选择　×：返回",
+     "y": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/common/rright/menu_linehelp_store1.dds",
+   "size": 18,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "方向键←→：选择商品　○：加入购物车　×：返回",
+     "y": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/common/rright/menu_linehelp_store2.dds",
+   "size": 18,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "方向键←→：选择商品　○：加入购物车　△：前往购物车　×：返回",
+     "y": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/common/rright/menu_linehelp_store3.dds",
+   "size": 18,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "方向键↑↓：选择商品　○：删除　△：前往购买手续　×：继续购物",
+     "y": 0
+    }
+   ]
+  }
+ ]
+}

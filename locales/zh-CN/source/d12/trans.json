@@ -1,0 +1,3410 @@
+{
+  "defaults": {
+    "menu/jp/main_map/text_mission": {
+      "size": 22,
+      "bold": 1,
+      "align": "left",
+      "x": 0,
+      "y": 0
+    },
+    "menu/jp/main_map/place_jp": {
+      "size": 22,
+      "bold": 1,
+      "align": "left",
+      "x": 0,
+      "y": 0
+    },
+    "menu/jp/main_map/place_other": {
+      "size": 22,
+      "bold": 1,
+      "align": "left",
+      "x": 0,
+      "y": 0
+    },
+    "menu/jp/main_map/time_jp": {
+      "size": 17,
+      "bold": 1,
+      "align": "left",
+      "x": 0,
+      "y": 0
+    },
+    "menu/jp/main_map/time_other": {
+      "size": 18,
+      "bold": 1,
+      "align": "left",
+      "x": 0,
+      "y": 0
+    },
+    "menu/jp/main_map/landmark": {
+      "size": 18,
+      "bold": 1,
+      "align": "left",
+      "x": 0,
+      "y": 0
+    },
+    "menu/jp/main_map/text_smallaim": {
+      "size": 18,
+      "bold": 1,
+      "align": "left",
+      "x": 0,
+      "y": 0
+    },
+    "menu/jp/main_status/item_name": {
+      "size": 22,
+      "bold": 1,
+      "align": "left",
+      "x": 0,
+      "y": 0
+    },
+    "menu/jp/main_status/item_text": {
+      "size": 22,
+      "bold": 1,
+      "align": "left",
+      "x": 0,
+      "y": 0,
+      "lh": 26
+    },
+    "menu/jp/main_status/weapon_name": {
+      "size": 22,
+      "bold": 1,
+      "align": "left",
+      "x": 0,
+      "y": 0
+    },
+    "menu/jp/main_status/weapon_text": {
+      "size": 22,
+      "bold": 1,
+      "align": "left",
+      "x": 0,
+      "y": 0,
+      "lh": 26
+    },
+    "menu/jp/main_map/text_aim": {
+      "size": 18,
+      "bold": 1,
+      "align": "left",
+      "x": 1,
+      "y": 0
+    },
+    "menu/jp/main_status/profile/element": {
+      "size": 19,
+      "bold": 1,
+      "align": "left",
+      "x": 0,
+      "y": 1
+    },
+    "menu/jp/main_status/profile/sex": {
+      "size": 19,
+      "bold": 1,
+      "align": "left",
+      "x": 0,
+      "y": 1
+    },
+    "menu/jp/main_status/profile/work": {
+      "size": 19,
+      "bold": 1,
+      "align": "left",
+      "x": 0,
+      "y": 1
+    },
+    "menu/jp/main_option/small_choice": {
+      "size": 19,
+      "bold": 1,
+      "align": "left",
+      "x": 0,
+      "y": 2
+    },
+    "menu/jp/main_option/index": {
+      "size": 20,
+      "bold": 1,
+      "align": "left",
+      "x": 0,
+      "y": 2,
+      "lh": 32
+    },
+    "menu/jp/main_option/detail_text": {
+      "size": 20,
+      "bold": 1,
+      "align": "left",
+      "x": 0,
+      "y": 0,
+      "lh": 26
+    }
+  },
+  "items": {
+    "menu/jp/main_map/text_mission/s01_object_main.dds": {
+      "text": "逃离驻守警官。"
+    },
+    "menu/jp/main_map/text_mission/s02_object_main.dds": {
+      "text": "搜索同行者。"
+    },
+    "menu/jp/main_map/text_mission/s03_object_main.dds": {
+      "text": "与阿玛娜一同逃往「刈割」方向。"
+    },
+    "menu/jp/main_map/text_mission/s04_object_main.dds": {
+      "text": "逃离「犀贺医院」。"
+    },
+    "menu/jp/main_map/text_mission/s05_object_main.dds": {
+      "text": "与美耶古一同逃往「田堀」方向。"
+    },
+    "menu/jp/main_map/text_mission/s06_object_main.dds": {
+      "text": "与山姆·门罗一同逃往「比良境」方向。"
+    },
+    "menu/jp/main_map/text_mission/s07_object_main.dds": {
+      "text": "与美耶古一同逃往「刈割」方向。"
+    },
+    "menu/jp/main_map/text_mission/s08_object_main.dds": {
+      "text": "获得贝拉·门罗的线索。"
+    },
+    "menu/jp/main_map/text_mission/s09_object_main.dds": {
+      "text": "击退「追随者」。"
+    },
+    "menu/jp/main_map/text_mission/s10_object_main.dds": {
+      "text": "抵达「不入谷圣堂」。"
+    },
+    "menu/jp/main_map/text_mission/s11_object_main.dds": {
+      "text": "抵达「尸人之巢」中枢。"
+    },
+    "menu/jp/main_map/text_mission/s12_object_main.dds": {
+      "text": "击退「头脑尸人」。"
+    },
+    "menu/jp/main_map/text_mission/s13_object_main.dds": {
+      "text": "两人会合。"
+    },
+    "menu/jp/main_map/text_mission/s14_object_main.dds": {
+      "text": "与贝拉·门罗一同逃往「刈割」方向。"
+    },
+    "menu/jp/main_map/text_mission/s15_object_main.dds": {
+      "text": "解开四道封印。"
+    },
+    "menu/jp/main_map/text_mission/s16_object_main.dds": {
+      "text": "贝拉·门罗逃脱。"
+    },
+    "menu/jp/main_map/text_mission/s17_object_main.dds": {
+      "text": "贝拉·门罗逃脱、获取「古文书」。"
+    },
+    "menu/jp/main_map/text_mission/s18_object_main.dds": {
+      "text": "取回记忆。"
+    },
+    "menu/jp/main_map/text_mission/s19_object_main.dds": {
+      "text": "逃离「田堀」。"
+    },
+    "menu/jp/main_map/text_mission/s20_object_main.dds": {
+      "text": "获取「宇理炎」。"
+    },
+    "menu/jp/main_map/text_mission/s21_object_main.dds": {
+      "text": "与贝拉·门罗潜入「尸人之巢」中枢。"
+    },
+    "menu/jp/main_map/text_mission/s22_object_main.dds": {
+      "text": "抵达真相。"
+    },
+    "menu/jp/main_map/text_mission/s23_object_main.dds": {
+      "text": "打倒「蚕子」。"
+    },
+    "menu/jp/main_map/text_mission/s24_object_main.dds": {
+      "text": "消灭所有尸人。"
+    },
+    "menu/jp/main_map/text_mission/s25_object_main.dds": {
+      "text": "与梅丽莎·盖尔一同逃往「比良境」方向。"
+    },
+    "menu/jp/main_map/place_jp/menu_timecount_s01_spot1.dds": {
+      "text": "下粗户"
+    },
+    "menu/jp/main_map/place_other/menu_timecount_s01_spot2.dds": {
+      "text": "下粗户"
+    },
+    "menu/jp/main_map/place_jp/menu_timecount_s02_spot1.dds": {
+      "text": "合石岳　羽生蛇矿山"
+    },
+    "menu/jp/main_map/place_other/menu_timecount_s02_spot2.dds": {
+      "text": "合石岳　羽生蛇矿山"
+    },
+    "menu/jp/main_map/place_jp/menu_timecount_s03_spot1.dds": {
+      "text": "波罗宿村落"
+    },
+    "menu/jp/main_map/place_other/menu_timecount_s03_spot2.dds": {
+      "text": "波罗宿村落"
+    },
+    "menu/jp/main_map/place_jp/menu_timecount_s04_spot1.dds": {
+      "text": "比良境　犀贺医院"
+    },
+    "menu/jp/main_map/place_other/menu_timecount_s04_spot2.dds": {
+      "text": "比良境　犀贺医院"
+    },
+    "menu/jp/main_map/place_jp/menu_timecount_s05_spot1.dds": {
+      "text": "刈割"
+    },
+    "menu/jp/main_map/place_other/menu_timecount_s05_spot2.dds": {
+      "text": "刈割"
+    },
+    "menu/jp/main_map/place_jp/menu_timecount_s06_spot1.dds": {
+      "text": "波罗宿村落"
+    },
+    "menu/jp/main_map/place_other/menu_timecount_s06_spot2.dds": {
+      "text": "波罗宿村落"
+    },
+    "menu/jp/main_map/place_jp/menu_timecount_s07_spot1.dds": {
+      "text": "田堀　伊东家"
+    },
+    "menu/jp/main_map/place_other/menu_timecount_s07_spot2.dds": {
+      "text": "田堀　伊东家"
+    },
+    "menu/jp/main_map/place_jp/menu_timecount_s08_spot1.dds": {
+      "text": "比良境　犀贺医院"
+    },
+    "menu/jp/main_map/place_other/menu_timecount_s08_spot2.dds": {
+      "text": "比良境　犀贺医院"
+    },
+    "menu/jp/main_map/place_jp/menu_timecount_s09_spot1.dds": {
+      "text": "合石岳　羽生蛇矿山"
+    },
+    "menu/jp/main_map/place_other/menu_timecount_s09_spot2.dds": {
+      "text": "合石岳　羽生蛇矿山"
+    },
+    "menu/jp/main_map/place_jp/menu_timecount_s10_spot1.dds": {
+      "text": "刈割"
+    },
+    "menu/jp/main_map/place_other/menu_timecount_s10_spot2.dds": {
+      "text": "刈割"
+    },
+    "menu/jp/main_map/place_jp/menu_timecount_s11_spot1.dds": {
+      "text": "上粗户　尸人之巢"
+    },
+    "menu/jp/main_map/place_other/menu_timecount_s11_spot2.dds": {
+      "text": "上粗户　尸人之巢"
+    },
+    "menu/jp/main_map/place_jp/menu_timecount_s12_spot1.dds": {
+      "text": "尸人之巢　中枢"
+    },
+    "menu/jp/main_map/place_other/menu_timecount_s12_spot2.dds": {
+      "text": "尸人之巢　中枢"
+    },
+    "menu/jp/main_map/place_jp/menu_timecount_s13_spot1.dds": {
+      "text": "合石岳　羽生蛇矿山"
+    },
+    "menu/jp/main_map/place_other/menu_timecount_s13_spot2.dds": {
+      "text": "合石岳　羽生蛇矿山"
+    },
+    "menu/jp/main_map/place_jp/menu_timecount_s14_spot1.dds": {
+      "text": "比良境　犀贺医院"
+    },
+    "menu/jp/main_map/place_other/menu_timecount_s14_spot2.dds": {
+      "text": "比良境　犀贺医院"
+    },
+    "menu/jp/main_map/place_jp/menu_timecount_s15_spot1.dds": {
+      "text": "刈割"
+    },
+    "menu/jp/main_map/place_other/menu_timecount_s15_spot2.dds": {
+      "text": "刈割"
+    },
+    "menu/jp/main_map/place_jp/menu_timecount_s16_spot1.dds": {
+      "text": "刈割"
+    },
+    "menu/jp/main_map/place_other/menu_timecount_s16_spot2.dds": {
+      "text": "刈割"
+    },
+    "menu/jp/main_map/place_jp/menu_timecount_s17_spot1.dds": {
+      "text": "波罗宿村落"
+    },
+    "menu/jp/main_map/place_other/menu_timecount_s17_spot2.dds": {
+      "text": "波罗宿村落"
+    },
+    "menu/jp/main_map/place_jp/menu_timecount_s18_spot1.dds": {
+      "text": "波罗宿村落"
+    },
+    "menu/jp/main_map/place_other/menu_timecount_s18_spot2.dds": {
+      "text": "波罗宿村落"
+    },
+    "menu/jp/main_map/place_jp/menu_timecount_s19_spot1.dds": {
+      "text": "田堀　伊东家"
+    },
+    "menu/jp/main_map/place_other/menu_timecount_s19_spot2.dds": {
+      "text": "田堀　伊东家"
+    },
+    "menu/jp/main_map/place_jp/menu_timecount_s20_spot1.dds": {
+      "text": "合石岳　羽生蛇矿山"
+    },
+    "menu/jp/main_map/place_other/menu_timecount_s20_spot2.dds": {
+      "text": "合石岳　羽生蛇矿山"
+    },
+    "menu/jp/main_map/place_jp/menu_timecount_s21_spot1.dds": {
+      "text": "上粗户　尸人之巢"
+    },
+    "menu/jp/main_map/place_other/menu_timecount_s21_spot2.dds": {
+      "text": "上粗户　尸人之巢"
+    },
+    "menu/jp/main_map/place_jp/menu_timecount_s22_spot1.dds": {
+      "text": "尸人之巢　中枢"
+    },
+    "menu/jp/main_map/place_other/menu_timecount_s22_spot2.dds": {
+      "text": "尸人之巢　中枢"
+    },
+    "menu/jp/main_map/place_jp/menu_timecount_s23_spot1.dds": {
+      "text": "炼狱"
+    },
+    "menu/jp/main_map/place_other/menu_timecount_s23_spot2.dds": {
+      "text": "炼狱"
+    },
+    "menu/jp/main_map/place_jp/menu_timecount_s24_spot1.dds": {
+      "text": "数据缺失"
+    },
+    "menu/jp/main_map/place_other/menu_timecount_s24_spot2.dds": {
+      "text": "数据缺失"
+    },
+    "menu/jp/main_map/place_jp/menu_timecount_s25_spot1.dds": {
+      "text": "合石岳　羽生蛇矿山"
+    },
+    "menu/jp/main_map/place_other/menu_timecount_s25_spot2.dds": {
+      "text": "合石岳　羽生蛇矿山"
+    },
+    "menu/jp/main_map/time_jp/menu_map_s01_time.dds": {
+      "text": "8月2日 23:33:33"
+    },
+    "menu/jp/main_map/time_other/menu_map_s01_date.dds": {
+      "text": "8月2日 23:33:33"
+    },
+    "menu/jp/main_map/time_jp/menu_map_s02_time.dds": {
+      "text": "8月3日 01:18:04"
+    },
+    "menu/jp/main_map/time_other/menu_map_s02_date.dds": {
+      "text": "8月3日 01:18:04"
+    },
+    "menu/jp/main_map/time_jp/menu_map_s03_time.dds": {
+      "text": "8月3日 02:00:36"
+    },
+    "menu/jp/main_map/time_other/menu_map_s03_date.dds": {
+      "text": "8月3日 02:00:36"
+    },
+    "menu/jp/main_map/time_jp/menu_map_s04_time.dds": {
+      "text": "8月3日 03:09:39"
+    },
+    "menu/jp/main_map/time_other/menu_map_s04_date.dds": {
+      "text": "8月3日 03:09:39"
+    },
+    "menu/jp/main_map/time_jp/menu_map_s05_time.dds": {
+      "text": "8月3日 05:13:56"
+    },
+    "menu/jp/main_map/time_other/menu_map_s05_date.dds": {
+      "text": "8月3日 05:13:56"
+    },
+    "menu/jp/main_map/time_jp/menu_map_s06_time.dds": {
+      "text": "8月3日 12:22:58"
+    },
+    "menu/jp/main_map/time_other/menu_map_s06_date.dds": {
+      "text": "8月3日 12:22:58"
+    },
+    "menu/jp/main_map/time_jp/menu_map_s07_time.dds": {
+      "text": "8月4日 00:09:33"
+    },
+    "menu/jp/main_map/time_other/menu_map_s07_date.dds": {
+      "text": "8月4日 00:09:33"
+    },
+    "menu/jp/main_map/time_jp/menu_map_s08_time.dds": {
+      "text": "8月4日 00:10:41"
+    },
+    "menu/jp/main_map/time_other/menu_map_s08_date.dds": {
+      "text": "8月4日 00:10:41"
+    },
+    "menu/jp/main_map/time_jp/menu_map_s09_time.dds": {
+      "text": "8月4日 08:08:08"
+    },
+    "menu/jp/main_map/time_other/menu_map_s09_date.dds": {
+      "text": "8月4日 08:08:08"
+    },
+    "menu/jp/main_map/time_jp/menu_map_s10_time.dds": {
+      "text": "8月4日 17:04:44"
+    },
+    "menu/jp/main_map/time_other/menu_map_s10_date.dds": {
+      "text": "8月4日 17:04:44"
+    },
+    "menu/jp/main_map/time_jp/menu_map_s11_time.dds": {
+      "text": "8月4日 19:11:01"
+    },
+    "menu/jp/main_map/time_other/menu_map_s11_date.dds": {
+      "text": "8月4日 19:11:01"
+    },
+    "menu/jp/main_map/time_jp/menu_map_s12_time.dds": {
+      "text": "8月4日 23:24:24"
+    },
+    "menu/jp/main_map/time_other/menu_map_s12_date.dds": {
+      "text": "8月4日 23:24:24"
+    },
+    "menu/jp/main_map/time_jp/menu_map_s13_time.dds": {
+      "text": "8月3日 01:28:04"
+    },
+    "menu/jp/main_map/time_other/menu_map_s13_date.dds": {
+      "text": "8月3日 01:28:04"
+    },
+    "menu/jp/main_map/time_jp/menu_map_s14_time.dds": {
+      "text": "8月3日 03:09:39"
+    },
+    "menu/jp/main_map/time_other/menu_map_s14_date.dds": {
+      "text": "8月3日 03:09:39"
+    },
+    "menu/jp/main_map/time_jp/menu_map_s15_time.dds": {
+      "text": "8月4日 10:00:02"
+    },
+    "menu/jp/main_map/time_other/menu_map_s15_date.dds": {
+      "text": "8月4日 10:00:02"
+    },
+    "menu/jp/main_map/time_jp/menu_map_s16_time.dds": {
+      "text": "8月3日 05:29:43"
+    },
+    "menu/jp/main_map/time_other/menu_map_s16_date.dds": {
+      "text": "8月3日 05:29:43"
+    },
+    "menu/jp/main_map/time_jp/menu_map_s17_time.dds": {
+      "text": "8月3日 12:22:58"
+    },
+    "menu/jp/main_map/time_other/menu_map_s17_date.dds": {
+      "text": "8月3日 12:22:58"
+    },
+    "menu/jp/main_map/time_jp/menu_map_s18_time.dds": {
+      "text": "8月4日 06:06:06"
+    },
+    "menu/jp/main_map/time_other/menu_map_s18_date.dds": {
+      "text": "8月4日 06:06:06"
+    },
+    "menu/jp/main_map/time_jp/menu_map_s19_time.dds": {
+      "text": "8月4日 00:23:03"
+    },
+    "menu/jp/main_map/time_other/menu_map_s19_date.dds": {
+      "text": "8月4日 00:23:03"
+    },
+    "menu/jp/main_map/time_jp/menu_map_s20_time.dds": {
+      "text": "8月4日 18:07:19"
+    },
+    "menu/jp/main_map/time_other/menu_map_s20_date.dds": {
+      "text": "8月4日 18:07:19"
+    },
+    "menu/jp/main_map/time_jp/menu_map_s21_time.dds": {
+      "text": "8月4日 19:01:07"
+    },
+    "menu/jp/main_map/time_other/menu_map_s21_date.dds": {
+      "text": "8月4日 19:01:07"
+    },
+    "menu/jp/main_map/time_jp/menu_map_s22_time.dds": {
+      "text": "8月5日 02:14:02"
+    },
+    "menu/jp/main_map/time_other/menu_map_s22_date.dds": {
+      "text": "8月5日 02:14:02"
+    },
+    "menu/jp/main_map/time_jp/menu_map_s23_time.dds": {
+      "text": "8月5日 03:33:33"
+    },
+    "menu/jp/main_map/time_other/menu_map_s23_date.dds": {
+      "text": "8月5日 03:33:33"
+    },
+    "menu/jp/main_map/time_jp/menu_map_s24_time.dds": {
+      "text": "？月？日 ？？:？？:？？"
+    },
+    "menu/jp/main_map/time_other/menu_map_s24_date.dds": {
+      "text": "？月？日 ？？:？？:？？"
+    },
+    "menu/jp/main_map/time_jp/menu_map_s25_time.dds": {
+      "text": "8月3日 02:03:11"
+    },
+    "menu/jp/main_map/time_other/menu_map_s25_date.dds": {
+      "text": "8月3日 02:03:11"
+    },
+    "menu/jp/main_map/landmark/landmark_bi01.dds": {
+      "text": "正门"
+    },
+    "menu/jp/main_map/landmark/landmark_bi02.dds": {
+      "text": "员工专用楼梯"
+    },
+    "menu/jp/main_map/landmark/landmark_bi03.dds": {
+      "text": "接待处"
+    },
+    "menu/jp/main_map/landmark/landmark_bi04.dds": {
+      "text": "药房"
+    },
+    "menu/jp/main_map/landmark/landmark_bi05.dds": {
+      "text": "候诊室"
+    },
+    "menu/jp/main_map/landmark/landmark_bi06.dds": {
+      "text": "洗手间"
+    },
+    "menu/jp/main_map/landmark/landmark_bi07.dds": {
+      "text": "诊察室"
+    },
+    "menu/jp/main_map/landmark/landmark_bi08.dds": {
+      "text": "手术室"
+    },
+    "menu/jp/main_map/landmark/landmark_bi09.dds": {
+      "text": "手术准备室"
+    },
+    "menu/jp/main_map/landmark/landmark_bi10.dds": {
+      "text": "A楼梯"
+    },
+    "menu/jp/main_map/landmark/landmark_bi11.dds": {
+      "text": "电梯"
+    },
+    "menu/jp/main_map/landmark/landmark_bi12.dds": {
+      "text": "院长室"
+    },
+    "menu/jp/main_map/landmark/landmark_bi13.dds": {
+      "text": "B楼梯"
+    },
+    "menu/jp/main_map/landmark/landmark_bi14.dds": {
+      "text": "C楼梯"
+    },
+    "menu/jp/main_map/landmark/landmark_bi15.dds": {
+      "text": "A楼梯"
+    },
+    "menu/jp/main_map/landmark/landmark_bi16.dds": {
+      "text": "201号"
+    },
+    "menu/jp/main_map/landmark/landmark_bi17.dds": {
+      "text": "202号"
+    },
+    "menu/jp/main_map/landmark/landmark_bi18.dds": {
+      "text": "203号"
+    },
+    "menu/jp/main_map/landmark/landmark_bi19.dds": {
+      "text": "205号"
+    },
+    "menu/jp/main_map/landmark/landmark_bi20.dds": {
+      "text": "206号"
+    },
+    "menu/jp/main_map/landmark/landmark_bi21.dds": {
+      "text": "洗手间"
+    },
+    "menu/jp/main_map/landmark/landmark_bi22.dds": {
+      "text": "电梯"
+    },
+    "menu/jp/main_map/landmark/landmark_bi23.dds": {
+      "text": "护士室"
+    },
+    "menu/jp/main_map/landmark/landmark_bi24.dds": {
+      "text": "实验室"
+    },
+    "menu/jp/main_map/landmark/landmark_bi25.dds": {
+      "text": "B楼梯"
+    },
+    "menu/jp/main_map/landmark/landmark_bi26.dds": {
+      "text": "C楼梯"
+    },
+    "menu/jp/main_map/landmark/landmark_bi27.dds": {
+      "text": "A楼梯"
+    },
+    "menu/jp/main_map/landmark/landmark_bi28.dds": {
+      "text": "301号"
+    },
+    "menu/jp/main_map/landmark/landmark_bi29.dds": {
+      "text": "302号"
+    },
+    "menu/jp/main_map/landmark/landmark_bi30.dds": {
+      "text": "303号"
+    },
+    "menu/jp/main_map/landmark/landmark_bi31.dds": {
+      "text": "护士室"
+    },
+    "menu/jp/main_map/landmark/landmark_bi32.dds": {
+      "text": "A楼梯"
+    },
+    "menu/jp/main_map/landmark/landmark_bi33.dds": {
+      "text": "西侧屋顶"
+    },
+    "menu/jp/main_map/landmark/landmark_bi34.dds": {
+      "text": "东侧屋顶"
+    },
+    "menu/jp/main_map/landmark/landmark_bi35.dds": {
+      "text": "蓄水槽"
+    },
+    "menu/jp/main_map/landmark/landmark_bi36.dds": {
+      "text": "更衣室"
+    },
+    "menu/jp/main_map/landmark/landmark_bi37.dds": {
+      "text": "焚烧炉"
+    },
+    "menu/jp/main_map/landmark/landmark_bi38.dds": {
+      "text": "事务室"
+    },
+    "menu/jp/main_map/landmark/landmark_bi39.dds": {
+      "text": "厨房"
+    },
+    "menu/jp/main_map/landmark/landmark_bi40.dds": {
+      "text": "电源室"
+    },
+    "menu/jp/main_map/landmark/landmark_bi41.dds": {
+      "text": "C楼梯"
+    },
+    "menu/jp/main_map/landmark/landmark_bi42.dds": {
+      "text": "A楼梯"
+    },
+    "menu/jp/main_map/landmark/landmark_bi43.dds": {
+      "text": "员工专用楼梯"
+    },
+    "menu/jp/main_map/landmark/landmark_bi44.dds": {
+      "text": "电梯"
+    },
+    "menu/jp/main_map/landmark/landmark_bi45.dds": {
+      "text": "C楼梯"
+    },
+    "menu/jp/main_map/landmark/landmark_hk01.dds": {
+      "text": "通往「刈割」的路"
+    },
+    "menu/jp/main_map/landmark/landmark_hk02.dds": {
+      "text": "别馆"
+    },
+    "menu/jp/main_map/landmark/landmark_hk03.dds": {
+      "text": "门"
+    },
+    "menu/jp/main_map/landmark/landmark_hk04.dds": {
+      "text": "厨房"
+    },
+    "menu/jp/main_map/landmark/landmark_hk05.dds": {
+      "text": "浴室"
+    },
+    "menu/jp/main_map/landmark/landmark_hk06.dds": {
+      "text": "厕所"
+    },
+    "menu/jp/main_map/landmark/landmark_hk07.dds": {
+      "text": "起居室"
+    },
+    "menu/jp/main_map/landmark/landmark_hk08.dds": {
+      "text": "中间房"
+    },
+    "menu/jp/main_map/landmark/landmark_hk09.dds": {
+      "text": "里间"
+    },
+    "menu/jp/main_map/landmark/landmark_hk10.dds": {
+      "text": "祭坛"
+    },
+    "menu/jp/main_map/landmark/landmark_hk11.dds": {
+      "text": "储藏室"
+    },
+    "menu/jp/main_map/landmark/landmark_hk12.dds": {
+      "text": "客房"
+    },
+    "menu/jp/main_map/landmark/landmark_hk13.dds": {
+      "text": "玄关"
+    },
+    "menu/jp/main_map/landmark/landmark_hk14.dds": {
+      "text": "空房间"
+    },
+    "menu/jp/main_map/landmark/landmark_hk15.dds": {
+      "text": "儿童房"
+    },
+    "menu/jp/main_map/landmark/landmark_hk16.dds": {
+      "text": "卧室"
+    },
+    "menu/jp/main_map/landmark/landmark_hk17.dds": {
+      "text": "阳台"
+    },
+    "menu/jp/main_map/landmark/landmark_kz01.dds": {
+      "text": "矿山事务所"
+    },
+    "menu/jp/main_map/landmark/landmark_kz02.dds": {
+      "text": "警报小屋"
+    },
+    "menu/jp/main_map/landmark/landmark_kz04.dds": {
+      "text": "通往「田堀」的路"
+    },
+    "menu/jp/main_map/landmark/landmark_kz05.dds": {
+      "text": "通往「比良境」的路"
+    },
+    "menu/jp/main_map/landmark/landmark_kz06.dds": {
+      "text": "铁桥"
+    },
+    "menu/jp/main_map/landmark/landmark_kz07.dds": {
+      "text": "排水泵房"
+    },
+    "menu/jp/main_map/landmark/landmark_kz08.dds": {
+      "text": "A号电梯"
+    },
+    "menu/jp/main_map/landmark/landmark_kz09.dds": {
+      "text": "A号电梯"
+    },
+    "menu/jp/main_map/landmark/landmark_kz10.dds": {
+      "text": "矿山事务所"
+    },
+    "menu/jp/main_map/landmark/landmark_kz11.dds": {
+      "text": "B号电梯"
+    },
+    "menu/jp/main_map/landmark/landmark_kz12.dds": {
+      "text": "合石中央竖井"
+    },
+    "menu/jp/main_map/landmark/landmark_kz13.dds": {
+      "text": "仓库"
+    },
+    "menu/jp/main_map/landmark/landmark_kz14.dds": {
+      "text": "C号电梯"
+    },
+    "menu/jp/main_map/landmark/landmark_kz15.dds": {
+      "text": "合石中央竖井"
+    },
+    "menu/jp/main_map/landmark/landmark_kz16.dds": {
+      "text": "B号电梯"
+    },
+    "menu/jp/main_map/landmark/landmark_kz17.dds": {
+      "text": "C号电梯"
+    },
+    "menu/jp/main_map/landmark/landmark_kz18.dds": {
+      "text": "合石中央竖井"
+    },
+    "menu/jp/main_map/landmark/landmark_kz19.dds": {
+      "text": "合石1号坑"
+    },
+    "menu/jp/main_map/landmark/landmark_kz22.dds": {
+      "text": "合石2号东坑"
+    },
+    "menu/jp/main_map/landmark/landmark_kz23.dds": {
+      "text": "合石2号西坑"
+    },
+    "menu/jp/main_map/landmark/landmark_kz24.dds": {
+      "text": "合石3号西坑"
+    },
+    "menu/jp/main_map/landmark/landmark_kz25.dds": {
+      "text": "合石4号东坑"
+    },
+    "menu/jp/main_map/landmark/landmark_kz26.dds": {
+      "text": "合石4号西坑"
+    },
+    "menu/jp/main_map/landmark/landmark_kz27.dds": {
+      "text": "合石5号东坑"
+    },
+    "menu/jp/main_map/landmark/landmark_kz28.dds": {
+      "text": "合石上部东坑"
+    },
+    "menu/jp/main_map/landmark/landmark_kz29.dds": {
+      "text": "合石上部西坑"
+    },
+    "menu/jp/main_map/landmark/landmark_mr01.dds": {
+      "text": "通往「刈割」的路"
+    },
+    "menu/jp/main_map/landmark/landmark_mr02.dds": {
+      "text": "通往「比良境」的路"
+    },
+    "menu/jp/main_map/landmark/landmark_mr03.dds": {
+      "text": "波罗宿车站"
+    },
+    "menu/jp/main_map/landmark/landmark_mr04.dds": {
+      "text": "波罗宿祈祷所"
+    },
+    "menu/jp/main_map/landmark/landmark_mr05.dds": {
+      "text": "八十八米店"
+    },
+    "menu/jp/main_map/landmark/landmark_mr06.dds": {
+      "text": "狩武食堂"
+    },
+    "menu/jp/main_map/landmark/landmark_mr07.dds": {
+      "text": "墓地"
+    },
+    "menu/jp/main_map/landmark/landmark_mr08.dds": {
+      "text": "陆井家"
+    },
+    "menu/jp/main_map/landmark/landmark_mr09.dds": {
+      "text": "三田村家"
+    },
+    "menu/jp/main_map/landmark/landmark_mr11.dds": {
+      "text": "火警瞭望塔"
+    },
+    "menu/jp/main_map/landmark/landmark_ss01.dds": {
+      "text": "御福屋"
+    },
+    "menu/jp/main_map/landmark/landmark_ss02.dds": {
+      "text": "废屋"
+    },
+    "menu/jp/main_map/landmark/landmark_ss03.dds": {
+      "text": "山海杂货"
+    },
+    "menu/jp/main_map/landmark/landmark_ss04.dds": {
+      "text": "通往「比良境」的路"
+    },
+    "menu/jp/main_map/landmark/landmark_ss05.dds": {
+      "text": "不入谷车站"
+    },
+    "menu/jp/main_map/landmark/landmark_ss06.dds": {
+      "text": "索兹卡桥"
+    },
+    "menu/jp/main_map/landmark/landmark_ss07.dds": {
+      "text": "通往「尸人之巢」中枢"
+    },
+    "menu/jp/main_map/landmark/landmark_ss08.dds": {
+      "text": "通往「比良境」的路"
+    },
+    "menu/jp/main_map/landmark/landmark_ss09.dds": {
+      "text": "竹元家"
+    },
+    "menu/jp/main_map/landmark/landmark_ss10.dds": {
+      "text": "上粗户隧道"
+    },
+    "menu/jp/main_map/landmark/landmark_st01.dds": {
+      "text": "老式巴士"
+    },
+    "menu/jp/main_map/landmark/landmark_st02.dds": {
+      "text": "火警瞭望塔"
+    },
+    "menu/jp/main_map/landmark/landmark_st03.dds": {
+      "text": "土仓"
+    },
+    "menu/jp/main_map/landmark/landmark_st04.dds": {
+      "text": "上粗户隧道"
+    },
+    "menu/jp/main_map/landmark/landmark_st05.dds": {
+      "text": "警车"
+    },
+    "menu/jp/main_map/landmark/landmark_st06.dds": {
+      "text": "富三烟草店"
+    },
+    "menu/jp/main_map/landmark/landmark_st07.dds": {
+      "text": "熊蚁堂"
+    },
+    "menu/jp/main_map/landmark/landmark_st08.dds": {
+      "text": "BARBER富士美"
+    },
+    "menu/jp/main_map/landmark/landmark_st09.dds": {
+      "text": "烟囱"
+    },
+    "menu/jp/main_map/landmark/landmark_td01.dds": {
+      "text": "往「波罗宿村落」的路"
+    },
+    "menu/jp/main_map/landmark/landmark_td02.dds": {
+      "text": "通往「田堀」的路"
+    },
+    "menu/jp/main_map/landmark/landmark_td03.dds": {
+      "text": "铁门"
+    },
+    "menu/jp/main_map/landmark/landmark_td04.dds": {
+      "text": "不入谷圣堂"
+    },
+    "menu/jp/main_map/landmark/landmark_td05.dds": {
+      "text": "农具房"
+    },
+    "menu/jp/main_map/landmark/landmark_td06.dds": {
+      "text": "燃料存放处"
+    },
+    "menu/jp/main_map/landmark/landmark_td07.dds": {
+      "text": "农具存放处"
+    },
+    "menu/jp/main_map/landmark/landmark_td08.dds": {
+      "text": "刈割西地区"
+    },
+    "menu/jp/main_map/landmark/landmark_td09.dds": {
+      "text": "刈割东地区"
+    },
+    "menu/jp/main_map/text_smallaim/s01_object01_01.dds": {
+      "text": "抵达民宅"
+    },
+    "menu/jp/main_map/text_smallaim/s01_object01_02.dds": {
+      "text": "抵达崖上民宅"
+    },
+    "menu/jp/main_map/text_smallaim/s01_object01_03.dds": {
+      "text": "躲藏在某处"
+    },
+    "menu/jp/main_map/text_smallaim/s01_object01_04.dds": {
+      "text": "从窗户侵入民宅"
+    },
+    "menu/jp/main_map/text_smallaim/s01_object01_05.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s01_object02_01.dds": {
+      "text": "躲藏在民宅内某处"
+    },
+    "menu/jp/main_map/text_smallaim/s01_object02_02.dds": {
+      "text": "屏息躲过警官"
+    },
+    "menu/jp/main_map/text_smallaim/s01_object02_03.dds": {
+      "text": "从后门逃脱"
+    },
+    "menu/jp/main_map/text_smallaim/s01_object02_04.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s01_object02_05.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s01_object03_01.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s01_object03_02.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s01_object03_03.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s01_object03_04.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s01_object03_05.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s02_object01_01.dds": {
+      "text": "不被尸人发现继续前进"
+    },
+    "menu/jp/main_map/text_smallaim/s02_object01_02.dds": {
+      "text": "获取武器"
+    },
+    "menu/jp/main_map/text_smallaim/s02_object01_03.dds": {
+      "text": "打倒「矿山事务所」前的尸人"
+    },
+    "menu/jp/main_map/text_smallaim/s02_object01_04.dds": {
+      "text": "破坏「矿山事务所」入口的挂锁"
+    },
+    "menu/jp/main_map/text_smallaim/s02_object01_05.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s02_object02_01.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s02_object02_02.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s02_object02_03.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s02_object02_04.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s02_object02_05.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s02_object03_01.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s02_object03_02.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s02_object03_03.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s02_object03_04.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s02_object03_05.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s03_object01_01.dds": {
+      "text": "跟随阿玛娜"
+    },
+    "menu/jp/main_map/text_smallaim/s03_object01_02.dds": {
+      "text": "躲藏在某处，躲过尸人"
+    },
+    "menu/jp/main_map/text_smallaim/s03_object01_03.dds": {
+      "text": "从后门逃脱，与阿玛娜会合"
+    },
+    "menu/jp/main_map/text_smallaim/s03_object01_04.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s03_object01_05.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s03_object02_01.dds": {
+      "text": "用「狩武食堂」招牌打倒尸人"
+    },
+    "menu/jp/main_map/text_smallaim/s03_object02_02.dds": {
+      "text": "用陷阱困住「墓地」的尸人"
+    },
+    "menu/jp/main_map/text_smallaim/s03_object02_03.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s03_object02_04.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s03_object02_05.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s03_object03_01.dds": {
+      "text": "用视界劫持固定阿玛娜视野"
+    },
+    "menu/jp/main_map/text_smallaim/s03_object03_02.dds": {
+      "text": "跟随阿玛娜"
+    },
+    "menu/jp/main_map/text_smallaim/s03_object03_03.dds": {
+      "text": "躲藏在某处，躲过尸人"
+    },
+    "menu/jp/main_map/text_smallaim/s03_object03_04.dds": {
+      "text": "从后门逃脱，与阿玛娜会合"
+    },
+    "menu/jp/main_map/text_smallaim/s03_object03_05.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s04_object01_01.dds": {
+      "text": "走「B楼梯」下到一楼"
+    },
+    "menu/jp/main_map/text_smallaim/s04_object01_02.dds": {
+      "text": "用生命监测仪引开尸人"
+    },
+    "menu/jp/main_map/text_smallaim/s04_object01_03.dds": {
+      "text": "走「C楼梯」下到地下"
+    },
+    "menu/jp/main_map/text_smallaim/s04_object01_04.dds": {
+      "text": "走「A楼梯」上到一楼"
+    },
+    "menu/jp/main_map/text_smallaim/s04_object01_05.dds": {
+      "text": "在地下「焚烧炉」获取「接待处钥匙」"
+    },
+    "menu/jp/main_map/text_smallaim/s04_object02_01.dds": {
+      "text": "用「厨房」道具引开「事务室」的尸人"
+    },
+    "menu/jp/main_map/text_smallaim/s04_object02_02.dds": {
+      "text": "穿过地下「事务所」抵达「员工专用楼梯」"
+    },
+    "menu/jp/main_map/text_smallaim/s04_object02_03.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s04_object02_04.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s04_object02_05.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s04_object03_01.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s04_object03_02.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s04_object03_03.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s04_object03_04.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s04_object03_05.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s05_object01_01.dds": {
+      "text": "寻找其他道路"
+    },
+    "menu/jp/main_map/text_smallaim/s05_object01_02.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s05_object01_03.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s05_object01_04.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s05_object01_05.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s05_object02_01.dds": {
+      "text": "在「农具放置处」获取武器"
+    },
+    "menu/jp/main_map/text_smallaim/s05_object02_02.dds": {
+      "text": "打开「铁门」"
+    },
+    "menu/jp/main_map/text_smallaim/s05_object02_03.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s05_object02_04.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s05_object02_05.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s05_object03_01.dds": {
+      "text": "放倒朽木造桥"
+    },
+    "menu/jp/main_map/text_smallaim/s05_object03_02.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s05_object03_03.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s05_object03_04.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s05_object03_05.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s06_object01_01.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s06_object01_02.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s06_object01_03.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s06_object01_04.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s06_object01_05.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s06_object02_01.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s06_object02_02.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s06_object02_03.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s06_object02_04.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s06_object02_05.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s06_object03_01.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s06_object03_02.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s06_object03_03.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s06_object03_04.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s06_object03_05.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s07_object01_01.dds": {
+      "text": "甩开尸人的追踪"
+    },
+    "menu/jp/main_map/text_smallaim/s07_object01_02.dds": {
+      "text": "发现进入「伊东家」的路径"
+    },
+    "menu/jp/main_map/text_smallaim/s07_object01_03.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s07_object01_04.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s07_object01_05.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s07_object02_01.dds": {
+      "text": "获取「卧室钥匙」"
+    },
+    "menu/jp/main_map/text_smallaim/s07_object02_02.dds": {
+      "text": "用道具引开「客厅」的尸人"
+    },
+    "menu/jp/main_map/text_smallaim/s07_object02_03.dds": {
+      "text": "寻找能让摆钟动起来的东西"
+    },
+    "menu/jp/main_map/text_smallaim/s07_object02_04.dds": {
+      "text": "在钟响前躲藏起来"
+    },
+    "menu/jp/main_map/text_smallaim/s07_object02_05.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s07_object03_01.dds": {
+      "text": "沿屋顶逃到「门」外"
+    },
+    "menu/jp/main_map/text_smallaim/s07_object03_02.dds": {
+      "text": "与美耶古会合"
+    },
+    "menu/jp/main_map/text_smallaim/s07_object03_03.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s07_object03_04.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s07_object03_05.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s08_object01_01.dds": {
+      "text": "侵入院内"
+    },
+    "menu/jp/main_map/text_smallaim/s08_object01_02.dds": {
+      "text": "获取「屋顶钥匙」"
+    },
+    "menu/jp/main_map/text_smallaim/s08_object01_03.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s08_object01_04.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s08_object01_05.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s08_object02_01.dds": {
+      "text": "从犀贺的视野得知号码"
+    },
+    "menu/jp/main_map/text_smallaim/s08_object02_02.dds": {
+      "text": "获取武器"
+    },
+    "menu/jp/main_map/text_smallaim/s08_object02_03.dds": {
+      "text": "打倒「头脑尸人」阻止「蜘蛛尸人」行动"
+    },
+    "menu/jp/main_map/text_smallaim/s08_object02_04.dds": {
+      "text": "使用「手术准备室」的内线电话"
+    },
+    "menu/jp/main_map/text_smallaim/s08_object02_05.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s08_object03_01.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s08_object03_02.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s08_object03_03.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s08_object03_04.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s08_object03_05.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s09_object01_01.dds": {
+      "text": "用矿车打倒尸人"
+    },
+    "menu/jp/main_map/text_smallaim/s09_object01_02.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s09_object01_03.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s09_object01_04.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s09_object01_05.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s09_object02_01.dds": {
+      "text": "用控制面板启动电梯"
+    },
+    "menu/jp/main_map/text_smallaim/s09_object02_02.dds": {
+      "text": "击退「头脑尸人」阻止「蜘蛛尸人」行动"
+    },
+    "menu/jp/main_map/text_smallaim/s09_object02_03.dds": {
+      "text": "获取警报启动钥匙"
+    },
+    "menu/jp/main_map/text_smallaim/s09_object02_04.dds": {
+      "text": "把「追随者」引到地面"
+    },
+    "menu/jp/main_map/text_smallaim/s09_object02_05.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s09_object03_01.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s09_object03_02.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s09_object03_03.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s09_object03_04.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s09_object03_05.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s10_object01_01.dds": {
+      "text": "抵达「刈割东地区」"
+    },
+    "menu/jp/main_map/text_smallaim/s10_object01_02.dds": {
+      "text": "穿过「铁门」"
+    },
+    "menu/jp/main_map/text_smallaim/s10_object01_03.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s10_object01_04.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s10_object01_05.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s10_object02_01.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s10_object02_02.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s10_object02_03.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s10_object02_04.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s10_object02_05.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s10_object03_01.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s10_object03_02.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s10_object03_03.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s10_object03_04.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s10_object03_05.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s11_object01_01.dds": {
+      "text": "趁雷声破坏入口"
+    },
+    "menu/jp/main_map/text_smallaim/s11_object01_02.dds": {
+      "text": "击退「头脑尸人」阻止「羽根尸人」行动"
+    },
+    "menu/jp/main_map/text_smallaim/s11_object01_03.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s11_object01_04.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s11_object01_05.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s11_object02_01.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s11_object02_02.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s11_object02_03.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s11_object02_04.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s11_object02_05.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s11_object03_01.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s11_object03_02.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s11_object03_03.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s11_object03_04.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s11_object03_05.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s12_object01_01.dds": {
+      "text": "获取武器"
+    },
+    "menu/jp/main_map/text_smallaim/s12_object01_02.dds": {
+      "text": "堵住「蜘蛛尸人」的侵入路径"
+    },
+    "menu/jp/main_map/text_smallaim/s12_object01_03.dds": {
+      "text": "抵达「火警瞭望塔」"
+    },
+    "menu/jp/main_map/text_smallaim/s12_object01_04.dds": {
+      "text": "抵达「烟囱」顶端"
+    },
+    "menu/jp/main_map/text_smallaim/s12_object01_05.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s12_object02_01.dds": {
+      "text": "抵达「土仓」"
+    },
+    "menu/jp/main_map/text_smallaim/s12_object02_02.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s12_object02_03.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s12_object02_04.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s12_object02_05.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s12_object03_01.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s12_object03_02.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s12_object03_03.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s12_object03_04.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s12_object03_05.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s13_object01_01.dds": {
+      "text": "获取武器"
+    },
+    "menu/jp/main_map/text_smallaim/s13_object01_02.dds": {
+      "text": "打倒监视的「女尸人」"
+    },
+    "menu/jp/main_map/text_smallaim/s13_object01_03.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s13_object01_04.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s13_object01_05.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s13_object02_01.dds": {
+      "text": "不被尸人发现离开「矿山事务所」"
+    },
+    "menu/jp/main_map/text_smallaim/s13_object02_02.dds": {
+      "text": "获取武器"
+    },
+    "menu/jp/main_map/text_smallaim/s13_object02_03.dds": {
+      "text": "打倒控制面板前的尸人"
+    },
+    "menu/jp/main_map/text_smallaim/s13_object02_04.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s13_object02_05.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s13_object03_01.dds": {
+      "text": "乘「A号电梯」回到地面"
+    },
+    "menu/jp/main_map/text_smallaim/s13_object03_02.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s13_object03_03.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s13_object03_04.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s13_object03_05.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s14_object01_01.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s14_object01_02.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s14_object01_03.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s14_object01_04.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s14_object01_05.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s14_object02_01.dds": {
+      "text": "恢复电源"
+    },
+    "menu/jp/main_map/text_smallaim/s14_object02_02.dds": {
+      "text": "与贝拉会合"
+    },
+    "menu/jp/main_map/text_smallaim/s14_object02_03.dds": {
+      "text": "清除自动门障碍物"
+    },
+    "menu/jp/main_map/text_smallaim/s14_object02_04.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s14_object02_05.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s14_object03_01.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s14_object03_02.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s14_object03_03.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s14_object03_04.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s14_object03_05.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s15_object01_01.dds": {
+      "text": "解除「鹫」的封印"
+    },
+    "menu/jp/main_map/text_smallaim/s15_object01_02.dds": {
+      "text": "解除「人间」的封印"
+    },
+    "menu/jp/main_map/text_smallaim/s15_object01_03.dds": {
+      "text": "解除「狮子」的封印"
+    },
+    "menu/jp/main_map/text_smallaim/s15_object01_04.dds": {
+      "text": "降低水位解除「雄牛」封印"
+    },
+    "menu/jp/main_map/text_smallaim/s15_object01_05.dds": {
+      "text": "与美耶古会合"
+    },
+    "menu/jp/main_map/text_smallaim/s15_object02_01.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s15_object02_02.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s15_object02_03.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s15_object02_04.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s15_object02_05.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s15_object03_01.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s15_object03_02.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s15_object03_03.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s15_object03_04.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s15_object03_05.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s16_object01_01.dds": {
+      "text": "获取武器"
+    },
+    "menu/jp/main_map/text_smallaim/s16_object01_02.dds": {
+      "text": "抵达「刈割东地区」"
+    },
+    "menu/jp/main_map/text_smallaim/s16_object01_03.dds": {
+      "text": "穿过「铁门」"
+    },
+    "menu/jp/main_map/text_smallaim/s16_object01_04.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s16_object01_05.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s16_object02_01.dds": {
+      "text": "推倒朽木搭桥"
+    },
+    "menu/jp/main_map/text_smallaim/s16_object02_02.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s16_object02_03.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s16_object02_04.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s16_object02_05.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s16_object03_01.dds": {
+      "text": "将「怪力尸人」引离贝拉"
+    },
+    "menu/jp/main_map/text_smallaim/s16_object03_02.dds": {
+      "text": "推倒油桶并洒油"
+    },
+    "menu/jp/main_map/text_smallaim/s16_object03_03.dds": {
+      "text": "打倒「怪力尸人」"
+    },
+    "menu/jp/main_map/text_smallaim/s16_object03_04.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s16_object03_05.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s17_object01_01.dds": {
+      "text": "从尸人手中救出贝拉"
+    },
+    "menu/jp/main_map/text_smallaim/s17_object01_02.dds": {
+      "text": "让贝拉逃离食堂"
+    },
+    "menu/jp/main_map/text_smallaim/s17_object01_03.dds": {
+      "text": "保护贝拉躲避「羽根尸人」"
+    },
+    "menu/jp/main_map/text_smallaim/s17_object01_04.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s17_object01_05.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s17_object02_01.dds": {
+      "text": "获取「祈祷所钥匙」"
+    },
+    "menu/jp/main_map/text_smallaim/s17_object02_02.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s17_object02_03.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s17_object02_04.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s17_object02_05.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s17_object03_01.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s17_object03_02.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s17_object03_03.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s17_object03_04.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s17_object03_05.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s18_object01_01.dds": {
+      "text": "尾随「女尸人」找到「胸针」"
+    },
+    "menu/jp/main_map/text_smallaim/s18_object01_02.dds": {
+      "text": "向井中投入「发烟筒」"
+    },
+    "menu/jp/main_map/text_smallaim/s18_object01_03.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s18_object01_04.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s18_object01_05.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s18_object02_01.dds": {
+      "text": "找到过去的地图"
+    },
+    "menu/jp/main_map/text_smallaim/s18_object02_02.dds": {
+      "text": "调查「三田村家」"
+    },
+    "menu/jp/main_map/text_smallaim/s18_object02_03.dds": {
+      "text": "探寻门上残留的记忆"
+    },
+    "menu/jp/main_map/text_smallaim/s18_object02_04.dds": {
+      "text": "发现「墓地」的封印"
+    },
+    "menu/jp/main_map/text_smallaim/s18_object02_05.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s18_object03_01.dds": {
+      "text": "解除「波罗宿祈祷所」封印"
+    },
+    "menu/jp/main_map/text_smallaim/s18_object03_02.dds": {
+      "text": "解除「墓地」的封印"
+    },
+    "menu/jp/main_map/text_smallaim/s18_object03_03.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s18_object03_04.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s18_object03_05.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s19_object01_01.dds": {
+      "text": "从二楼「阳台」到屋顶"
+    },
+    "menu/jp/main_map/text_smallaim/s19_object01_02.dds": {
+      "text": "观察尸人动向获取「寝室钥匙」"
+    },
+    "menu/jp/main_map/text_smallaim/s19_object01_03.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s19_object01_04.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s19_object01_05.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s19_object02_01.dds": {
+      "text": "打开门的锁"
+    },
+    "menu/jp/main_map/text_smallaim/s19_object02_02.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s19_object02_03.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s19_object02_04.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s19_object02_05.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s19_object03_01.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s19_object03_02.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s19_object03_03.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s19_object03_04.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s19_object03_05.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s20_object01_01.dds": {
+      "text": "获取「保险丝」"
+    },
+    "menu/jp/main_map/text_smallaim/s20_object01_02.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s20_object01_03.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s20_object01_04.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s20_object01_05.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s20_object02_01.dds": {
+      "text": "在「合石1号坑」获取木桩"
+    },
+    "menu/jp/main_map/text_smallaim/s20_object02_02.dds": {
+      "text": "给「头脑尸人」钉桩阻止「怪力尸人」"
+    },
+    "menu/jp/main_map/text_smallaim/s20_object02_03.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s20_object02_04.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s20_object02_05.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s20_object03_01.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s20_object03_02.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s20_object03_03.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s20_object03_04.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s20_object03_05.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s21_object01_01.dds": {
+      "text": "让贝拉先行"
+    },
+    "menu/jp/main_map/text_smallaim/s21_object01_02.dds": {
+      "text": "借雷声破坏入口"
+    },
+    "menu/jp/main_map/text_smallaim/s21_object01_03.dds": {
+      "text": "引导贝拉走安全通道"
+    },
+    "menu/jp/main_map/text_smallaim/s21_object01_04.dds": {
+      "text": "引诱「蜘蛛尸人」关进「废屋」"
+    },
+    "menu/jp/main_map/text_smallaim/s21_object01_05.dds": {
+      "text": "打倒「头脑尸人」使其他尸人停止"
+    },
+    "menu/jp/main_map/text_smallaim/s21_object02_01.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s21_object02_02.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s21_object02_03.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s21_object02_04.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s21_object02_05.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s21_object03_01.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s21_object03_02.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s21_object03_03.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s21_object03_04.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s21_object03_05.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s22_object01_01.dds": {
+      "text": "从「怪力尸人」手中逃脱"
+    },
+    "menu/jp/main_map/text_smallaim/s22_object01_02.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s22_object01_03.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s22_object01_04.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s22_object01_05.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s22_object02_01.dds": {
+      "text": "用天线攻击「怪力尸人」"
+    },
+    "menu/jp/main_map/text_smallaim/s22_object02_02.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s22_object02_03.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s22_object02_04.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s22_object02_05.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s22_object03_01.dds": {
+      "text": "扫荡「蜘蛛尸人」"
+    },
+    "menu/jp/main_map/text_smallaim/s22_object03_02.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s22_object03_03.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s22_object03_04.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s22_object03_05.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s23_object01_01.dds": {
+      "text": "用「宇理炎」消灭犀贺"
+    },
+    "menu/jp/main_map/text_smallaim/s23_object01_02.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s23_object01_03.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s23_object01_04.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s23_object01_05.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s23_object02_01.dds": {
+      "text": "破坏依附体"
+    },
+    "menu/jp/main_map/text_smallaim/s23_object02_02.dds": {
+      "text": "用「炼狱之炎」消灭虚弱「蚕子」"
+    },
+    "menu/jp/main_map/text_smallaim/s23_object02_03.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s23_object02_04.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s23_object02_05.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s23_object03_01.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s23_object03_02.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s23_object03_03.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s23_object03_04.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s23_object03_05.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s24_object01_01.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s24_object01_02.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s24_object01_03.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s24_object01_04.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s24_object01_05.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s24_object02_01.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s24_object02_02.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s24_object02_03.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s24_object02_04.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s24_object02_05.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s24_object03_01.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s24_object03_02.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s24_object03_03.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s24_object03_04.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s24_object03_05.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s25_object01_01.dds": {
+      "text": "突破尸人的袭击"
+    },
+    "menu/jp/main_map/text_smallaim/s25_object01_02.dds": {
+      "text": "获取枪支"
+    },
+    "menu/jp/main_map/text_smallaim/s25_object01_03.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s25_object01_04.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s25_object01_05.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s25_object02_01.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s25_object02_02.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s25_object02_03.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s25_object02_04.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s25_object02_05.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s25_object03_01.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s25_object03_02.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s25_object03_03.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s25_object03_04.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_map/text_smallaim/s25_object03_05.dds": {
+      "text": "无小目标"
+    },
+    "menu/jp/main_status/item_name/name_i_b_01.dds": {
+      "text": "猎枪用子弹"
+    },
+    "menu/jp/main_status/item_name/name_i_b_02.dds": {
+      "text": "狩猎用狙击枪子弹"
+    },
+    "menu/jp/main_status/item_name/name_i_b_03.dds": {
+      "text": "手枪子弹"
+    },
+    "menu/jp/main_status/item_name/name_i_ev_01.dds": {
+      "text": "损坏的钳子"
+    },
+    "menu/jp/main_status/item_name/name_i_ev_02.dds": {
+      "text": "损坏的钳子"
+    },
+    "menu/jp/main_status/item_name/name_i_ev_03.dds": {
+      "text": "钳子"
+    },
+    "menu/jp/main_status/item_name/name_i_ev_04.dds": {
+      "text": "座钟发条钥匙"
+    },
+    "menu/jp/main_status/item_name/name_i_ev_05.dds": {
+      "text": "保险丝"
+    },
+    "menu/jp/main_status/item_name/name_i_ev_06.dds": {
+      "text": "煤油打火机"
+    },
+    "menu/jp/main_status/item_name/name_i_ev_07.dds": {
+      "text": "空"
+    },
+    "menu/jp/main_status/item_name/name_i_ev_08.dds": {
+      "text": "胸针"
+    },
+    "menu/jp/main_status/item_name/name_i_ev_09.dds": {
+      "text": "木桩"
+    },
+    "menu/jp/main_status/item_name/name_i_ev_10.dds": {
+      "text": "钉剪"
+    },
+    "menu/jp/main_status/item_name/name_i_ev_11.dds": {
+      "text": "空"
+    },
+    "menu/jp/main_status/item_name/name_i_ev_12.dds": {
+      "text": "空"
+    },
+    "menu/jp/main_status/item_name/name_i_ev_13.dds": {
+      "text": "炸药点火装置"
+    },
+    "menu/jp/main_status/item_name/name_i_ev_14.dds": {
+      "text": "莉莉安"
+    },
+    "menu/jp/main_status/item_name/name_i_ev_15.dds": {
+      "text": "捕虫套装"
+    },
+    "menu/jp/main_status/item_name/name_i_ev_16.dds": {
+      "text": "羽生独角仙"
+    },
+    "menu/jp/main_status/item_name/name_i_ev_50.dds": {
+      "text": "空"
+    },
+    "menu/jp/main_status/item_name/name_i_ev_51.dds": {
+      "text": "空"
+    },
+    "menu/jp/main_status/item_name/name_i_ev_52.dds": {
+      "text": "空"
+    },
+    "menu/jp/main_status/item_name/name_i_ev_53.dds": {
+      "text": "空"
+    },
+    "menu/jp/main_status/item_name/name_i_ev_54.dds": {
+      "text": "空"
+    },
+    "menu/jp/main_status/item_name/name_i_ev_55.dds": {
+      "text": "空"
+    },
+    "menu/jp/main_status/item_name/name_i_ev_56.dds": {
+      "text": "空"
+    },
+    "menu/jp/main_status/item_name/name_i_ev_57.dds": {
+      "text": "空"
+    },
+    "menu/jp/main_status/item_name/name_i_ev_58.dds": {
+      "text": "空"
+    },
+    "menu/jp/main_status/item_name/name_i_ev_59.dds": {
+      "text": "空"
+    },
+    "menu/jp/main_status/item_name/name_i_ev_60.dds": {
+      "text": "空"
+    },
+    "menu/jp/main_status/item_name/name_i_ev_61.dds": {
+      "text": "空"
+    },
+    "menu/jp/main_status/item_name/name_i_key_01.dds": {
+      "text": "前台的钥匙"
+    },
+    "menu/jp/main_status/item_name/name_i_key_02.dds": {
+      "text": "寝室的钥匙"
+    },
+    "menu/jp/main_status/item_name/name_i_key_03.dds": {
+      "text": "储藏室的钥匙"
+    },
+    "menu/jp/main_status/item_name/name_i_key_04.dds": {
+      "text": "屋顶的钥匙"
+    },
+    "menu/jp/main_status/item_name/name_i_key_05.dds": {
+      "text": "警笛的钥匙"
+    },
+    "menu/jp/main_status/item_name/name_i_key_06.dds": {
+      "text": "水泵室的钥匙"
+    },
+    "menu/jp/main_status/item_name/name_i_key_07.dds": {
+      "text": "电源室的钥匙"
+    },
+    "menu/jp/main_status/item_name/name_i_key_08.dds": {
+      "text": "祈祷所的钥匙"
+    },
+    "menu/jp/main_status/item_name/name_i_key_09.dds": {
+      "text": "空"
+    },
+    "menu/jp/main_status/item_name/name_i_key_10.dds": {
+      "text": "空"
+    },
+    "menu/jp/main_status/item_name/name_i_l_99.dds": {
+      "text": "手电筒"
+    },
+    "menu/jp/main_status/item_name/name_i_sp_01.dds": {
+      "text": "狩猎陷阱"
+    },
+    "menu/jp/main_status/item_name/name_i_sp_02.dds": {
+      "text": "发烟筒"
+    },
+    "menu/jp/main_status/item_name/name_i_sp_03.dds": {
+      "text": "宇理炎"
+    },
+    "menu/jp/main_status/item_name/name_i_sp_04.dds": {
+      "text": "天线"
+    },
+    "menu/jp/main_status/item_text/exp_i_b_01.dds": {
+      "lines": [
+        "霰弹。属于发射不足10发、被称为鹿弹的弹丸的类型。",
+        "可装填于狩猎用散弹枪。"
+      ]
+    },
+    "menu/jp/main_status/item_text/exp_i_b_02.dds": {
+      "lines": [
+        "步枪弹。",
+        "可装填于狩猎用狙击枪。"
+      ]
+    },
+    "menu/jp/main_status/item_text/exp_i_b_03.dds": {
+      "lines": [
+        "手枪弹。",
+        "可装填于38口径短枪。"
+      ]
+    },
+    "menu/jp/main_status/item_text/exp_i_ev_01.dds": {
+      "lines": [
+        "在一楼储藏室捡到的损坏的钳子。",
+        "这样下去派不上用场。"
+      ]
+    },
+    "menu/jp/main_status/item_text/exp_i_ev_02.dds": {
+      "lines": [
+        "在二楼空房间捡到的损坏的钳子。",
+        "这样下去派不上用场。"
+      ]
+    },
+    "menu/jp/main_status/item_text/exp_i_ev_03.dds": {
+      "lines": [
+        "用于剪断金属线的工具。",
+        "将两个损坏的钳子组合而成。"
+      ]
+    },
+    "menu/jp/main_status/item_text/exp_i_ev_04.dds": {
+      "lines": [
+        "座钟的发条钥匙。",
+        "原本放在二楼儿童房的书桌上。"
+      ]
+    },
+    "menu/jp/main_status/item_text/exp_i_ev_05.dds": {
+      "lines": [
+        "在合石4号东坑捡到的保险丝。",
+        "是开启矿山电梯电源所必需的。"
+      ]
+    },
+    "menu/jp/main_status/item_text/exp_i_ev_06.dds": {
+      "lines": [
+        "以高抗风性能著称的煤油打火机。",
+        "是贝拉在抵达不入谷圣堂之前捡到的。"
+      ]
+    },
+    "menu/jp/main_status/item_text/exp_i_ev_07.dds": {
+      "text": "空"
+    },
+    "menu/jp/main_status/item_text/exp_i_ev_08.dds": {
+      "lines": [
+        "阿玛娜的胸针。在波罗宿祈祷所的地下祭坛，尸人们曾将其供奉。",
+        "取回的瞬间，脑海中浮现出神秘的影像……。"
+      ]
+    },
+    "menu/jp/main_status/item_text/exp_i_ev_09.dds": {
+      "lines": [
+        "在合石1号坑捡到的木桩。",
+        "尖锐锋利。"
+      ]
+    },
+    "menu/jp/main_status/item_text/exp_i_ev_10.dds": {
+      "lines": [
+        "在排水泵室捡到的钉剪。",
+        "矿山工人使用过的日用品。"
+      ]
+    },
+    "menu/jp/main_status/item_text/exp_i_ev_11.dds": {
+      "text": "空"
+    },
+    "menu/jp/main_status/item_text/exp_i_ev_12.dds": {
+      "text": "空"
+    },
+    "menu/jp/main_status/item_text/exp_i_ev_13.dds": {
+      "lines": [
+        "在仓库捡到的点火装置。",
+        "在引爆炸药时需要。"
+      ]
+    },
+    "menu/jp/main_status/item_text/exp_i_ev_14.dds": {
+      "lines": [
+        "在儿童房得到的玩具。",
+        "能轻松编织织物，昭和时期在女孩间大为流行。"
+      ]
+    },
+    "menu/jp/main_status/item_text/exp_i_ev_15.dds": {
+      "lines": [
+        "在储藏室捡到的捉虫游戏用具套装。",
+        "可用附带的饵料招引昆虫。"
+      ]
+    },
+    "menu/jp/main_status/item_text/exp_i_ev_16.dds": {
+      "lines": [
+        "在院子里抓到的独角仙。",
+        "是羽生蛇村特有物种，抓附力非常强。"
+      ]
+    },
+    "menu/jp/main_status/item_text/exp_i_ev_50.dds": {
+      "text": "空"
+    },
+    "menu/jp/main_status/item_text/exp_i_ev_51.dds": {
+      "text": "空"
+    },
+    "menu/jp/main_status/item_text/exp_i_ev_52.dds": {
+      "text": "空"
+    },
+    "menu/jp/main_status/item_text/exp_i_ev_53.dds": {
+      "text": "空"
+    },
+    "menu/jp/main_status/item_text/exp_i_ev_54.dds": {
+      "text": "空"
+    },
+    "menu/jp/main_status/item_text/exp_i_ev_55.dds": {
+      "text": "空"
+    },
+    "menu/jp/main_status/item_text/exp_i_ev_56.dds": {
+      "text": "空"
+    },
+    "menu/jp/main_status/item_text/exp_i_ev_57.dds": {
+      "text": "空"
+    },
+    "menu/jp/main_status/item_text/exp_i_ev_58.dds": {
+      "text": "空"
+    },
+    "menu/jp/main_status/item_text/exp_i_ev_59.dds": {
+      "text": "空"
+    },
+    "menu/jp/main_status/item_text/exp_i_ev_60.dds": {
+      "text": "空"
+    },
+    "menu/jp/main_status/item_text/exp_i_ev_61.dds": {
+      "text": "空"
+    },
+    "menu/jp/main_status/item_text/exp_i_key_01.dds": {
+      "lines": [
+        "被放置在地下焚烧炉上的钥匙。",
+        "可以打开一楼前台入口的门。"
+      ]
+    },
+    "menu/jp/main_status/item_text/exp_i_key_02.dds": {
+      "lines": [
+        "尸人随身携带的钥匙。",
+        "可以打开二楼寝室的房门。"
+      ]
+    },
+    "menu/jp/main_status/item_text/exp_i_key_03.dds": {
+      "lines": [
+        "在别屋捡到的钥匙。",
+        "可以打开一楼储藏室的门。"
+      ]
+    },
+    "menu/jp/main_status/item_text/exp_i_key_04.dds": {
+      "lines": [
+        "在一楼诊室捡到的钥匙。",
+        "可以打开通往屋顶的门。"
+      ]
+    },
+    "menu/jp/main_status/item_text/exp_i_key_05.dds": {
+      "lines": [
+        "掉落在合石2号东坑的钥匙。",
+        "在鸣响警笛时需要。"
+      ]
+    },
+    "menu/jp/main_status/item_text/exp_i_key_06.dds": {
+      "lines": [
+        "曾装在大吟酿酒「南京锁」瓶中的钥匙。",
+        "可以打开排水泵室的门。"
+      ]
+    },
+    "menu/jp/main_status/item_text/exp_i_key_07.dds": {
+      "lines": [
+        "掉落在一楼前台地板上的钥匙。",
+        "可以打开地下电源室的门。"
+      ]
+    },
+    "menu/jp/main_status/item_text/exp_i_key_08.dds": {
+      "lines": [
+        "藏在壁橱里的头脑尸人掉落的钥匙。",
+        "可以打开波罗宿祈祷所的大门。"
+      ]
+    },
+    "menu/jp/main_status/item_text/exp_i_key_09.dds": {
+      "text": "空"
+    },
+    "menu/jp/main_status/item_text/exp_i_key_10.dds": {
+      "text": "空"
+    },
+    "menu/jp/main_status/item_text/exp_i_l_99.dds": {
+      "lines": [
+        "在暗处作业时使用的手电筒。",
+        "通过方向键的副指令可以点亮・熄灭。"
+      ]
+    },
+    "menu/jp/main_status/item_text/exp_i_sp_01.dds": {
+      "lines": [
+        "狩猎时使用的铁夹陷阱。",
+        "脚被夹住后，一定时间内无法自由行动。"
+      ]
+    },
+    "menu/jp/main_status/item_text/exp_i_sp_02.dds": {
+      "lines": [
+        "以大量烟雾告知紧急情况、引起注意的器具。",
+        "不仅能吸引注意，还能用烟雾笼罩来迷惑视线。"
+      ]
+    },
+    "menu/jp/main_status/item_text/exp_i_sp_03.dds": {
+      "lines": [
+        "犀贺在羽生蛇矿山最深处发现的神秘物体。",
+        "据说部分文献中留有关于它的传承……。"
+      ]
+    },
+    "menu/jp/main_status/item_text/exp_i_sp_04.dds": {
+      "lines": [
+        "用于接收电视电波的天线。",
+        "附近没有避雷针时，可能成为雷击事故的起因。"
+      ]
+    },
+    "menu/jp/main_status/weapon_name/name_i_sp_01.dds": {
+      "text": "狩猎陷阱"
+    },
+    "menu/jp/main_status/weapon_name/name_i_sp_02.dds": {
+      "text": "发烟筒"
+    },
+    "menu/jp/main_status/weapon_name/name_i_sp_03.dds": {
+      "text": "宇理炎"
+    },
+    "menu/jp/main_status/weapon_name/name_i_w_bk_01.dds": {
+      "text": "一升瓶"
+    },
+    "menu/jp/main_status/weapon_name/name_i_w_bk_02.dds": {
+      "text": "啤酒瓶"
+    },
+    "menu/jp/main_status/weapon_name/name_i_w_bk_03.dds": {
+      "text": "尿瓶"
+    },
+    "menu/jp/main_status/weapon_name/name_i_w_bk_04.dds": {
+      "text": "荧光灯"
+    },
+    "menu/jp/main_status/weapon_name/name_i_w_bk_05.dds": {
+      "text": "威士忌酒瓶"
+    },
+    "menu/jp/main_status/weapon_name/name_i_w_bk_06.dds": {
+      "text": "空"
+    },
+    "menu/jp/main_status/weapon_name/name_i_w_gun.dds": {
+      "text": "38口径短枪"
+    },
+    "menu/jp/main_status/weapon_name/name_i_w_hc_01.dds": {
+      "text": "大镰刀"
+    },
+    "menu/jp/main_status/weapon_name/name_i_w_hc_02.dds": {
+      "text": "焰薙"
+    },
+    "menu/jp/main_status/weapon_name/name_i_w_hc_03.dds": {
+      "text": "切斧"
+    },
+    "menu/jp/main_status/weapon_name/name_i_w_hc_04.dds": {
+      "text": "刃广"
+    },
+    "menu/jp/main_status/weapon_name/name_i_w_hc_05.dds": {
+      "text": "空"
+    },
+    "menu/jp/main_status/weapon_name/name_i_w_hh_01.dds": {
+      "text": "十字镐"
+    },
+    "menu/jp/main_status/weapon_name/name_i_w_hh_02.dds": {
+      "text": "铁管"
+    },
+    "menu/jp/main_status/weapon_name/name_i_w_hh_03.dds": {
+      "text": "铁锹"
+    },
+    "menu/jp/main_status/weapon_name/name_i_w_hh_04.dds": {
+      "text": "平锹"
+    },
+    "menu/jp/main_status/weapon_name/name_i_w_hh_05.dds": {
+      "text": "三齿锹"
+    },
+    "menu/jp/main_status/weapon_name/name_i_w_hh_06.dds": {
+      "text": "撬棍"
+    },
+    "menu/jp/main_status/weapon_name/name_i_w_hh_07.dds": {
+      "text": "锤子"
+    },
+    "menu/jp/main_status/weapon_name/name_i_w_hh_08.dds": {
+      "text": "电视摄像机"
+    },
+    "menu/jp/main_status/weapon_name/name_i_w_hh_09.dds": {
+      "text": "杵"
+    },
+    "menu/jp/main_status/weapon_name/name_i_w_hh_10.dds": {
+      "text": "拐杖"
+    },
+    "menu/jp/main_status/weapon_name/name_i_w_hh_11.dds": {
+      "text": "断线钳"
+    },
+    "menu/jp/main_status/weapon_name/name_i_w_hh_12.dds": {
+      "text": "白色吉他"
+    },
+    "menu/jp/main_status/weapon_name/name_i_w_lc_01.dds": {
+      "text": "镰刀"
+    },
+    "menu/jp/main_status/weapon_name/name_i_w_lc_02.dds": {
+      "text": "柴刀"
+    },
+    "menu/jp/main_status/weapon_name/name_i_w_lc_03.dds": {
+      "text": "锯"
+    },
+    "menu/jp/main_status/weapon_name/name_i_w_lc_04.dds": {
+      "text": "目户斧"
+    },
+    "menu/jp/main_status/weapon_name/name_i_w_lc_05.dds": {
+      "text": "荞麦切刀"
+    },
+    "menu/jp/main_status/weapon_name/name_i_w_lh_01.dds": {
+      "text": "扳手"
+    },
+    "menu/jp/main_status/weapon_name/name_i_w_lh_02.dds": {
+      "text": "耙子"
+    },
+    "menu/jp/main_status/weapon_name/name_i_w_lh_03.dds": {
+      "text": "火拨棍"
+    },
+    "menu/jp/main_status/weapon_name/name_i_w_lh_04.dds": {
+      "text": "烟灰缸"
+    },
+    "menu/jp/main_status/weapon_name/name_i_w_lh_05.dds": {
+      "text": "指示牌"
+    },
+    "menu/jp/main_status/weapon_name/name_i_w_lh_06.dds": {
+      "text": "平底锅"
+    },
+    "menu/jp/main_status/weapon_name/name_i_w_lh_07.dds": {
+      "text": "中音竖笛"
+    },
+    "menu/jp/main_status/weapon_name/name_i_w_lh_08.dds": {
+      "text": "拍被棒"
+    },
+    "menu/jp/main_status/weapon_name/name_i_w_lh_09.dds": {
+      "text": "保温瓶"
+    },
+    "menu/jp/main_status/weapon_name/name_i_w_lh_10.dds": {
+      "text": "拔钉锤"
+    },
+    "menu/jp/main_status/weapon_name/name_i_w_lh_11.dds": {
+      "text": "柴火"
+    },
+    "menu/jp/main_status/weapon_name/name_i_w_lh_12.dds": {
+      "text": "空"
+    },
+    "menu/jp/main_status/weapon_name/name_i_w_lh_13.dds": {
+      "text": "水瓢"
+    },
+    "menu/jp/main_status/weapon_name/name_i_w_lh_14.dds": {
+      "text": "柴火"
+    },
+    "menu/jp/main_status/weapon_name/name_i_w_lh_15.dds": {
+      "text": "柴火"
+    },
+    "menu/jp/main_status/weapon_name/name_i_w_lh_16.dds": {
+      "text": "奖杯"
+    },
+    "menu/jp/main_status/weapon_name/name_i_w_lh_17.dds": {
+      "text": "伞"
+    },
+    "menu/jp/main_status/weapon_name/name_i_w_lh_18.dds": {
+      "text": "空"
+    },
+    "menu/jp/main_status/weapon_name/name_i_w_lk_01.dds": {
+      "text": "手术刀"
+    },
+    "menu/jp/main_status/weapon_name/name_i_w_lk_02.dds": {
+      "text": "菜刀"
+    },
+    "menu/jp/main_status/weapon_name/name_i_w_lk_03.dds": {
+      "text": "短刀"
+    },
+    "menu/jp/main_status/weapon_name/name_i_w_lk_04.dds": {
+      "text": "破碎的啤酒瓶"
+    },
+    "menu/jp/main_status/weapon_name/name_i_w_sg_01.dds": {
+      "text": "狩猎用散弹枪"
+    },
+    "menu/jp/main_status/weapon_name/name_i_w_sg_02.dds": {
+      "text": "改造散弹枪"
+    },
+    "menu/jp/main_status/weapon_name/name_i_w_sg_03.dds": {
+      "text": "狩猎用狙击枪"
+    },
+    "menu/jp/main_status/weapon_text/exp_i_sp_01.dds": {
+      "lines": [
+        "狩猎时使用的铁夹陷阱。",
+        "脚被夹住后，一定时间内无法自由行动。"
+      ]
+    },
+    "menu/jp/main_status/weapon_text/exp_i_sp_02.dds": {
+      "lines": [
+        "以大量烟雾告知紧急情况、引起注意的器具。",
+        "不仅能吸引注意，还能用烟雾笼罩来迷惑视线。"
+      ]
+    },
+    "menu/jp/main_status/weapon_text/exp_i_sp_03.dds": {
+      "lines": [
+        "犀贺在羽生蛇矿山最深处发现的神秘物体。",
+        "据说部分文献中留有关于它的传承……。"
+      ]
+    },
+    "menu/jp/main_status/weapon_text/exp_i_w_bk_01.dds": {
+      "lines": [
+        "较大的玻璃瓶。用于保存・搬运日本酒、酱油、果汁等。",
+        "因可装入一升＝1.8升液体而得名。"
+      ]
+    },
+    "menu/jp/main_status/weapon_text/exp_i_w_bk_02.dds": {
+      "lines": [
+        "啤酒用玻璃瓶中，被称为大瓶的633毫升规格之物。",
+        "偶尔也用于在烤肉前敲打使其变软等用途。"
+      ]
+    },
+    "menu/jp/main_status/weapon_text/exp_i_w_bk_03.dds": {
+      "lines": [
+        "在医疗・护理现场使用的小便用玻璃容器。",
+        "供难以去厕所的伤者或病人等使用。"
+      ]
+    },
+    "menu/jp/main_status/weapon_text/exp_i_w_bk_04.dds": {
+      "lines": [
+        "在涂有荧光涂料并低压化的玻璃管内封入水银蒸气，",
+        "是利用电弧放电产生紫外线的照明器具之一。"
+      ]
+    },
+    "menu/jp/main_status/weapon_text/exp_i_w_bk_05.dds": {
+      "lines": [
+        "用于保存・搬运威士忌的玻璃瓶。",
+        "与其他酒类的瓶子一样，为防止直射日光影响而使用了有色玻璃。"
+      ]
+    },
+    "menu/jp/main_status/weapon_text/exp_i_w_bk_06.dds": {
+      "text": "空"
+    },
+    "menu/jp/main_status/weapon_text/exp_i_w_gun.dds": {
+      "lines": [
+        "标准的38口径左轮手枪。",
+        "装弹数6。"
+      ]
+    },
+    "menu/jp/main_status/weapon_text/exp_i_w_hc_01.dds": {
+      "lines": [
+        "在新月形金属刀刃上装上长柄之物。",
+        "用于站着割草或修剪高处树枝等用途。"
+      ]
+    },
+    "menu/jp/main_status/weapon_text/exp_i_w_hc_02.dds": {
+      "lines": [
+        "犀贺持有的打刀。刻有「焰薙」的铭文。",
+        "似乎是自古流传之物，但被精心保养着。"
+      ]
+    },
+    "menu/jp/main_status/weapon_text/exp_i_w_hc_03.dds": {
+      "lines": [
+        "林业使用的一种斧头。用于伐木。",
+        "在用锯伐倒树木时，用于朝想倒下的方向刻出切口。"
+      ]
+    },
+    "menu/jp/main_status/weapon_text/exp_i_w_hc_04.dds": {
+      "lines": [
+        "刃幅宽、靠近柄的一侧收窄的斧头。也称「大斧」。",
+        "用于从原木中切出木材等用途。"
+      ]
+    },
+    "menu/jp/main_status/weapon_text/exp_i_w_hc_05.dds": {
+      "text": "空"
+    },
+    "menu/jp/main_status/weapon_text/exp_i_w_hh_01.dds": {
+      "lines": [
+        "用于砸碎岩石或挖起砂石的工具。",
+        "柄的前端装有尖端如鹤嘴般尖锐的金属。"
+      ]
+    },
+    "menu/jp/main_status/weapon_text/exp_i_w_hh_02.dds": {
+      "lines": [
+        "在土木、建筑等作业现场作为材料、临时构件使用的配管用圆管。",
+        "为防腐蚀而镀了锌，但因镀层剥落而生了锈。"
+      ]
+    },
+    "menu/jp/main_status/weapon_text/exp_i_w_hh_03.dds": {
+      "lines": [
+        "在柄的前端装上勺形金属的工具。",
+        "用于挖洞或舀起・搅拌土砂等用途。"
+      ]
+    },
+    "menu/jp/main_status/weapon_text/exp_i_w_hh_04.dds": {
+      "lines": [
+        "在木柄前端装上金属单片刀刃的农具。",
+        "用于耕作田地。"
+      ]
+    },
+    "menu/jp/main_status/weapon_text/exp_i_w_hh_05.dds": {
+      "lines": [
+        "在木柄前端装上叉状刀刃的农具。",
+        "适合耕作湿地、黏土层等沉重的土壤。"
+      ]
+    },
+    "menu/jp/main_status/weapon_text/exp_i_w_hh_06.dds": {
+      "lines": [
+        "用于拔钉等的棒状万能金属工具。",
+        "因利用杠杆原理，即使很小的力也能获得很大的力量。"
+      ]
+    },
+    "menu/jp/main_status/weapon_text/exp_i_w_hh_07.dds": {
+      "lines": [
+        "铁制的大型锤子。",
+        "用于工地的破坏作业或打桩等。"
+      ]
+    },
+    "menu/jp/main_status/weapon_text/exp_i_w_hh_08.dds": {
+      "lines": [
+        "索尔为采访羽生蛇村而特别定制的业务用摄像机。",
+        "凭借新开发的3CCD系统可进行高画质录像。"
+      ]
+    },
+    "menu/jp/main_status/weapon_text/exp_i_w_hh_09.dds": {
+      "lines": [
+        "形状类似锤子的木制工具。用于为臼中的谷物脱壳等。",
+        "在日本一般作为捣年糕的工具而为人所知。"
+      ]
+    },
+    "menu/jp/main_status/weapon_text/exp_i_w_hh_10.dds": {
+      "lines": [
+        "受伤时等使用的步行辅助器具。",
+        "因其分叉的形状让人联想到松叶而得名。"
+      ]
+    },
+    "menu/jp/main_status/weapon_text/exp_i_w_hh_11.dds": {
+      "lines": [
+        "用于切断粗钢丝或坚硬钢琴线的工具。",
+        "连普通钳子等无法对付的东西也能切断。"
+      ]
+    },
+    "menu/jp/main_status/weapon_text/exp_i_w_hh_12.dds": {
+      "lines": [
+        "70年代大为流行的白色外观的6弦吉他。",
+        "与喇叭裤、伦敦靴一同是当时年轻人憧憬的象征。"
+      ]
+    },
+    "menu/jp/main_status/weapon_text/exp_i_w_lc_01.dds": {
+      "lines": [
+        "用于割草或收割作物等作业的农具。",
+        "木柄的前端装有新月形的金属刀刃。"
+      ]
+    },
+    "menu/jp/main_status/weapon_text/exp_i_w_lc_02.dds": {
+      "lines": [
+        "在木制短柄的前端装上宽而厚的金属刀刃之物。",
+        "用于劈柴或木工作业等多用途。"
+      ]
+    },
+    "menu/jp/main_status/weapon_text/exp_i_w_lc_03.dds": {
+      "lines": [
+        "在刻有锯齿刀刃的金属板上装柄的木材切断用工具。",
+        "日本锯通过拉时施力来切断。"
+      ]
+    },
+    "menu/jp/main_status/weapon_text/exp_i_w_lc_04.dds": {
+      "lines": [
+        "细长的斧头。",
+        "主要用于在木材上开孔等用途。"
+      ]
+    },
+    "menu/jp/main_status/weapon_text/exp_i_w_lc_05.dds": {
+      "lines": [
+        "用于把擀开的荞麦面皮切开、做成面条状的菜刀。",
+        "特征是前端不尖的方形，以及延伸到柄根部的长刀刃。"
+      ]
+    },
+    "menu/jp/main_status/weapon_text/exp_i_w_lh_01.dds": {
+      "lines": [
+        "用于转动螺栓和螺母的工具。",
+        "长度被调整为能获得适当的紧固力。"
+      ]
+    },
+    "menu/jp/main_status/weapon_text/exp_i_w_lh_02.dds": {
+      "lines": [
+        "在柄的前端放射状装上爪状金属棒的园艺用具。",
+        "用于耙集落叶等。"
+      ]
+    },
+    "menu/jp/main_status/weapon_text/exp_i_w_lh_03.dds": {
+      "lines": [
+        "前端弯曲的金属棒。",
+        "用于拨动炉中的炭火或柴火、调节火势等。"
+      ]
+    },
+    "menu/jp/main_status/weapon_text/exp_i_w_lh_04.dds": {
+      "lines": [
+        "玻璃制、较重的烟灰缸。",
+        "主要用于盛放香烟的烟灰和烟蒂。"
+      ]
+    },
+    "menu/jp/main_status/weapon_text/exp_i_w_lh_05.dds": {
+      "lines": [
+        "表示禁止停车的标识。",
+        "金属板部分较软，但支柱部分相当沉重坚固。"
+      ]
+    },
+    "menu/jp/main_status/weapon_text/exp_i_w_lh_06.dds": {
+      "lines": [
+        "用于炒菜等的烹调器具。",
+        "带柄的金属浅锅。"
+      ]
+    },
+    "menu/jp/main_status/weapon_text/exp_i_w_lh_07.dds": {
+      "lines": [
+        "ABS树脂制的竖笛。属于木管乐器。",
+        "在日本的中、小学音乐课上使用。"
+      ]
+    },
+    "menu/jp/main_status/weapon_text/exp_i_w_lh_08.dds": {
+      "lines": [
+        "前端是两个环的竹制棒状器具。",
+        "用于拍打被子表面、掸落灰尘。"
+      ]
+    },
+    "menu/jp/main_status/weapon_text/exp_i_w_lh_09.dds": {
+      "lines": [
+        "内部为双层构造的壶。",
+        "在层间设置真空部分，并对内面作镜面处理以提高保温效果。"
+      ]
+    },
+    "menu/jp/main_status/weapon_text/exp_i_w_lh_10.dds": {
+      "lines": [
+        "头部为铁制、一面是锤、一面是拔钉器的欧美传来的工具。",
+        "日本自古流传的两面呈锤状的小型锤被称为「玄翁」。"
+      ]
+    },
+    "menu/jp/main_status/weapon_text/exp_i_w_lh_11.dds": {
+      "lines": [
+        "截成适当长度、粗度的燃料用木。",
+        "能源效率虽差，但易得的传统燃料。"
+      ]
+    },
+    "menu/jp/main_status/weapon_text/exp_i_w_lh_12.dds": {
+      "text": "空"
+    },
+    "menu/jp/main_status/weapon_text/exp_i_w_lh_13.dds": {
+      "lines": [
+        "在碗状容器上装柄之物。用于舀水等用途。",
+        "前端的容器由木、金属、塑料等制成，总体较轻。"
+      ]
+    },
+    "menu/jp/main_status/weapon_text/exp_i_w_lh_14.dds": {
+      "text": "空"
+    },
+    "menu/jp/main_status/weapon_text/exp_i_w_lh_15.dds": {
+      "text": "空"
+    },
+    "menu/jp/main_status/weapon_text/exp_i_w_lh_16.dds": {
+      "lines": [
+        "羽生蛇村保龄球大赛的冠军奖杯。",
+        "据说得到它的人会遭遇不幸，附有来历。"
+      ]
+    },
+    "menu/jp/main_status/weapon_text/exp_i_w_lh_17.dds": {
+      "lines": [
+        "雨具。即所谓的洋伞，在日本也被称为蝙蝠伞。",
+        "在带柄的金属骨架上张布，举于头顶遮挡雨水。"
+      ]
+    },
+    "menu/jp/main_status/weapon_text/exp_i_w_lh_18.dds": {
+      "text": "空"
+    },
+    "menu/jp/main_status/weapon_text/exp_i_w_lk_01.dds": {
+      "lines": [
+        "医疗现场使用的锋利小型刀。",
+        "一般为一次性，但过去曾煮沸・研磨后重复使用。"
+      ]
+    },
+    "menu/jp/main_status/weapon_text/exp_i_w_lk_02.dds": {
+      "lines": [
+        "俗称万能菜刀、文化菜刀类型的菜刀。",
+        "因用途广泛，在全国家庭中被普遍使用。"
+      ]
+    },
+    "menu/jp/main_status/weapon_text/exp_i_w_lk_03.dds": {
+      "lines": [
+        "装有白木柄、没有护手的短刀。也称匕首。",
+        "据说语源是「威胁」，故有亡命之徒随身之物的强烈印象。"
+      ]
+    },
+    "menu/jp/main_status/weapon_text/exp_i_w_lk_04.dds": {
+      "lines": [
+        "破碎的啤酒瓶。",
+        "经常出现在老动作片的乱斗场景等中。"
+      ]
+    },
+    "menu/jp/main_status/weapon_text/exp_i_w_sg_01.dds": {
+      "lines": [
+        "用于猎鹿等中型动物的水平双管散弹枪。",
+        "装弹数2。"
+      ]
+    },
+    "menu/jp/main_status/weapon_text/exp_i_w_sg_02.dds": {
+      "lines": [
+        "把狩猎用散弹枪的枪身与枪托截短、便于携带之物。",
+        "装弹数2。"
+      ]
+    },
+    "menu/jp/main_status/weapon_text/exp_i_w_sg_03.dds": {
+      "lines": [
+        "狩猎用的杠杆式步枪。",
+        "装弹数1。"
+      ]
+    },
+    "menu/jp/main_map/text_aim/s01_object01_00.dds": {
+      "text": "逃离驻守警官。"
+    },
+    "menu/jp/main_map/text_aim/s01_object02_00.dds": {
+      "text": "逃离驻守警官。"
+    },
+    "menu/jp/main_map/text_aim/s01_object03_00.dds": {
+      "text": "无目标"
+    },
+    "menu/jp/main_map/text_aim/s02_object01_00.dds": {
+      "text": "潜入「矿山事务所」。"
+    },
+    "menu/jp/main_map/text_aim/s02_object02_00.dds": {
+      "text": "无目标"
+    },
+    "menu/jp/main_map/text_aim/s02_object03_00.dds": {
+      "text": "无目标"
+    },
+    "menu/jp/main_map/text_aim/s03_object01_00.dds": {
+      "text": "遵从阿玛娜的指示。"
+    },
+    "menu/jp/main_map/text_aim/s03_object02_00.dds": {
+      "text": "与阿玛娜一同逃往「刈割」方向。"
+    },
+    "menu/jp/main_map/text_aim/s03_object03_00.dds": {
+      "text": "遵从阿玛娜的指示。"
+    },
+    "menu/jp/main_map/text_aim/s04_object01_00.dds": {
+      "text": "在「接待处」求助。"
+    },
+    "menu/jp/main_map/text_aim/s04_object02_00.dds": {
+      "text": "穿过地下，从「职员用楼梯」逃脱。"
+    },
+    "menu/jp/main_map/text_aim/s04_object03_00.dds": {
+      "text": "无目标"
+    },
+    "menu/jp/main_map/text_aim/s05_object01_00.dds": {
+      "text": "抵达「刈割西地区」。"
+    },
+    "menu/jp/main_map/text_aim/s05_object02_00.dds": {
+      "text": "与美耶古会合。"
+    },
+    "menu/jp/main_map/text_aim/s05_object03_00.dds": {
+      "text": "与美耶古一同逃往「田堀」方向。"
+    },
+    "menu/jp/main_map/text_aim/s06_object01_00.dds": {
+      "text": "救出山姆。"
+    },
+    "menu/jp/main_map/text_aim/s06_object02_00.dds": {
+      "text": "与山姆一同抵达通往「比良境」方向的道路。"
+    },
+    "menu/jp/main_map/text_aim/s06_object03_00.dds": {
+      "text": "无目标"
+    },
+    "menu/jp/main_map/text_aim/s07_object01_00.dds": {
+      "text": "探索逃脱路线。"
+    },
+    "menu/jp/main_map/text_aim/s07_object02_00.dds": {
+      "text": "从二楼「阳台」登上屋顶。"
+    },
+    "menu/jp/main_map/text_aim/s07_object03_00.dds": {
+      "text": "与美耶古一同逃往「刈割」方向。"
+    },
+    "menu/jp/main_map/text_aim/s08_object01_00.dds": {
+      "text": "从屋顶环视四周。"
+    },
+    "menu/jp/main_map/text_aim/s08_object02_00.dds": {
+      "text": "向山姆传达危机。"
+    },
+    "menu/jp/main_map/text_aim/s08_object03_00.dds": {
+      "text": "无目标"
+    },
+    "menu/jp/main_map/text_aim/s09_object01_00.dds": {
+      "text": "获取枪械。"
+    },
+    "menu/jp/main_map/text_aim/s09_object02_00.dds": {
+      "text": "击退「追随者」。"
+    },
+    "menu/jp/main_map/text_aim/s09_object03_00.dds": {
+      "text": "无目标"
+    },
+    "menu/jp/main_map/text_aim/s10_object01_00.dds": {
+      "text": "抵达「不入谷圣堂」。"
+    },
+    "menu/jp/main_map/text_aim/s10_object02_00.dds": {
+      "text": "无目标"
+    },
+    "menu/jp/main_map/text_aim/s10_object03_00.dds": {
+      "text": "无目标"
+    },
+    "menu/jp/main_map/text_aim/s11_object01_00.dds": {
+      "text": "抵达「尸人之巢」中枢。"
+    },
+    "menu/jp/main_map/text_aim/s11_object02_00.dds": {
+      "text": "无目标"
+    },
+    "menu/jp/main_map/text_aim/s11_object03_00.dds": {
+      "text": "无目标"
+    },
+    "menu/jp/main_map/text_aim/s12_object01_00.dds": {
+      "text": "抵达「尸人之巢」最深处。"
+    },
+    "menu/jp/main_map/text_aim/s12_object02_00.dds": {
+      "text": "发现「头脑尸人」。"
+    },
+    "menu/jp/main_map/text_aim/s12_object03_00.dds": {
+      "text": "无目标"
+    },
+    "menu/jp/main_map/text_aim/s13_object01_00.dds": {
+      "text": "抵达「合石5号东坑」。"
+    },
+    "menu/jp/main_map/text_aim/s13_object02_00.dds": {
+      "text": "用控制面板启动电梯。"
+    },
+    "menu/jp/main_map/text_aim/s13_object03_00.dds": {
+      "text": "与山姆会合。"
+    },
+    "menu/jp/main_map/text_aim/s14_object01_00.dds": {
+      "text": "带贝拉抵达一楼「候诊室」。"
+    },
+    "menu/jp/main_map/text_aim/s14_object02_00.dds": {
+      "text": "逃离「犀贺医院」。"
+    },
+    "menu/jp/main_map/text_aim/s14_object03_00.dds": {
+      "text": "无目标"
+    },
+    "menu/jp/main_map/text_aim/s15_object01_00.dds": {
+      "text": "解开四道古代石碑的封印。"
+    },
+    "menu/jp/main_map/text_aim/s15_object02_00.dds": {
+      "text": "无目标"
+    },
+    "menu/jp/main_map/text_aim/s15_object03_00.dds": {
+      "text": "无目标"
+    },
+    "menu/jp/main_map/text_aim/s16_object01_00.dds": {
+      "text": "抵达「刈割西地区」。"
+    },
+    "menu/jp/main_map/text_aim/s16_object02_00.dds": {
+      "text": "逃往通往「田堀」方向的道路。"
+    },
+    "menu/jp/main_map/text_aim/s16_object03_00.dds": {
+      "text": "救出贝拉。"
+    },
+    "menu/jp/main_map/text_aim/s17_object01_00.dds": {
+      "text": "贝拉逃脱。"
+    },
+    "menu/jp/main_map/text_aim/s17_object02_00.dds": {
+      "text": "获取「古文书」。"
+    },
+    "menu/jp/main_map/text_aim/s17_object03_00.dds": {
+      "text": "无目标"
+    },
+    "menu/jp/main_map/text_aim/s18_object01_00.dds": {
+      "text": "获取「胸针」。"
+    },
+    "menu/jp/main_map/text_aim/s18_object02_00.dds": {
+      "text": "调查过去的记忆。"
+    },
+    "menu/jp/main_map/text_aim/s18_object03_00.dds": {
+      "text": "前往通往过去之门的深处。"
+    },
+    "menu/jp/main_map/text_aim/s19_object01_00.dds": {
+      "text": "逃离「伊东家」。"
+    },
+    "menu/jp/main_map/text_aim/s19_object02_00.dds": {
+      "text": "逃往通往「刈割」方向的道路。"
+    },
+    "menu/jp/main_map/text_aim/s19_object03_00.dds": {
+      "text": "无目标"
+    },
+    "menu/jp/main_map/text_aim/s20_object01_00.dds": {
+      "text": "用控制面板启动电梯。"
+    },
+    "menu/jp/main_map/text_aim/s20_object02_00.dds": {
+      "text": "在「合石1号坑」获取宇理炎。"
+    },
+    "menu/jp/main_map/text_aim/s20_object03_00.dds": {
+      "text": "无目标"
+    },
+    "menu/jp/main_map/text_aim/s21_object01_00.dds": {
+      "text": "与贝拉一同抵达「尸人之巢」中枢。"
+    },
+    "menu/jp/main_map/text_aim/s21_object02_00.dds": {
+      "text": "无目标"
+    },
+    "menu/jp/main_map/text_aim/s21_object03_00.dds": {
+      "text": "无目标"
+    },
+    "menu/jp/main_map/text_aim/s22_object01_00.dds": {
+      "text": "抵达「尸人之巢」最深处。"
+    },
+    "menu/jp/main_map/text_aim/s22_object02_00.dds": {
+      "text": "打倒「怪力尸人」。"
+    },
+    "menu/jp/main_map/text_aim/s22_object03_00.dds": {
+      "text": "守护贝拉到最后。"
+    },
+    "menu/jp/main_map/text_aim/s23_object01_00.dds": {
+      "text": "打倒犀贺。"
+    },
+    "menu/jp/main_map/text_aim/s23_object02_00.dds": {
+      "text": "打倒「蚕子」。"
+    },
+    "menu/jp/main_map/text_aim/s23_object03_00.dds": {
+      "text": "无目标"
+    },
+    "menu/jp/main_map/text_aim/s24_object01_00.dds": {
+      "text": "无目标"
+    },
+    "menu/jp/main_map/text_aim/s24_object02_00.dds": {
+      "text": "无目标"
+    },
+    "menu/jp/main_map/text_aim/s24_object03_00.dds": {
+      "text": "无目标"
+    },
+    "menu/jp/main_map/text_aim/s25_object01_00.dds": {
+      "text": "抵达「通往比良境的道路」。"
+    },
+    "menu/jp/main_map/text_aim/s25_object02_00.dds": {
+      "text": "无目标"
+    },
+    "menu/jp/main_map/text_aim/s25_object03_00.dds": {
+      "text": "无目标"
+    },
+    "menu/jp/main_status/profile/element/menu_status_head_age.dds": {
+      "text": "年龄："
+    },
+    "menu/jp/main_status/profile/element/menu_status_head_item.dds": {
+      "text": "物品"
+    },
+    "menu/jp/main_status/profile/element/menu_status_head_job.dds": {
+      "text": "职业："
+    },
+    "menu/jp/main_status/profile/element/menu_status_head_sex.dds": {
+      "text": "性别："
+    },
+    "menu/jp/main_status/profile/element/menu_status_head_weapon.dds": {
+      "text": "武器"
+    },
+    "menu/jp/main_status/profile/sex/menu_status_sex_amana.dds": {
+      "text": "女"
+    },
+    "menu/jp/main_status/profile/sex/menu_status_sex_bella.dds": {
+      "text": "女"
+    },
+    "menu/jp/main_status/profile/sex/menu_status_sex_howard.dds": {
+      "text": "男"
+    },
+    "menu/jp/main_status/profile/sex/menu_status_sex_kobe.dds": {
+      "text": "女"
+    },
+    "menu/jp/main_status/profile/sex/menu_status_sex_melissa.dds": {
+      "text": "女"
+    },
+    "menu/jp/main_status/profile/sex/menu_status_sex_miyako.dds": {
+      "text": "女"
+    },
+    "menu/jp/main_status/profile/sex/menu_status_sex_saiga.dds": {
+      "text": "男"
+    },
+    "menu/jp/main_status/profile/sex/menu_status_sex_sam.dds": {
+      "text": "男"
+    },
+    "menu/jp/main_status/profile/sex/menu_status_sex_shimada.dds": {
+      "text": "男"
+    },
+    "menu/jp/main_status/profile/sex/menu_status_sex_sol.dds": {
+      "text": "男"
+    },
+    "menu/jp/main_status/profile/work/menu_status_job_amana.dds": {
+      "text": "修女"
+    },
+    "menu/jp/main_status/profile/work/menu_status_job_bella.dds": {
+      "text": "小学生"
+    },
+    "menu/jp/main_status/profile/work/menu_status_job_howard.dds": {
+      "text": "高中生"
+    },
+    "menu/jp/main_status/profile/work/menu_status_job_kobe.dds": {
+      "text": "护士"
+    },
+    "menu/jp/main_status/profile/work/menu_status_job_melissa.dds": {
+      "text": "电视记者"
+    },
+    "menu/jp/main_status/profile/work/menu_status_job_miyako.dds": {
+      "text": "不明"
+    },
+    "menu/jp/main_status/profile/work/menu_status_job_saiga.dds": {
+      "text": "医生"
+    },
+    "menu/jp/main_status/profile/work/menu_status_job_sam.dds": {
+      "text": "文化人类学者"
+    },
+    "menu/jp/main_status/profile/work/menu_status_job_shimada.dds": {
+      "text": "驻守警官"
+    },
+    "menu/jp/main_status/profile/work/menu_status_job_sol.dds": {
+      "text": "电视导演"
+    },
+    "menu/jp/main_option/small_choice/menu_option_aim_a.dds": {
+      "text": "最快"
+    },
+    "menu/jp/main_option/small_choice/menu_option_aim_b.dds": {
+      "text": "快"
+    },
+    "menu/jp/main_option/small_choice/menu_option_aim_c.dds": {
+      "text": "普通"
+    },
+    "menu/jp/main_option/small_choice/menu_option_aim_d.dds": {
+      "text": "慢"
+    },
+    "menu/jp/main_option/small_choice/menu_option_aim_e.dds": {
+      "text": "最慢"
+    },
+    "menu/jp/main_option/small_choice/menu_option_alerteffect_off.dds": {
+      "text": "关闭"
+    },
+    "menu/jp/main_option/small_choice/menu_option_alerteffect_on.dds": {
+      "text": "开启"
+    },
+    "menu/jp/main_option/small_choice/menu_option_caption_off.dds": {
+      "text": "关闭"
+    },
+    "menu/jp/main_option/small_choice/menu_option_caption_on.dds": {
+      "text": "开启"
+    },
+    "menu/jp/main_option/small_choice/menu_option_difc_easy.dds": {
+      "text": "简单"
+    },
+    "menu/jp/main_option/small_choice/menu_option_difc_hard.dds": {
+      "text": "困难"
+    },
+    "menu/jp/main_option/small_choice/menu_option_difc_normal.dds": {
+      "text": "普通"
+    },
+    "menu/jp/main_option/small_choice/menu_option_fphorizontal_nor.dds": {
+      "text": "普通"
+    },
+    "menu/jp/main_option/small_choice/menu_option_fphorizontal_rev.dds": {
+      "text": "反转"
+    },
+    "menu/jp/main_option/small_choice/menu_option_fpvertical_nor.dds": {
+      "text": "普通"
+    },
+    "menu/jp/main_option/small_choice/menu_option_fpvertical_rev.dds": {
+      "text": "反转"
+    },
+    "menu/jp/main_option/small_choice/menu_option_mapdirection_hup.dds": {
+      "text": "玩家"
+    },
+    "menu/jp/main_option/small_choice/menu_option_mapdirection_nup.dds": {
+      "text": "北"
+    },
+    "menu/jp/main_option/small_choice/menu_option_midnight_off.dds": {
+      "text": "关闭"
+    },
+    "menu/jp/main_option/small_choice/menu_option_midnight_on.dds": {
+      "text": "开启"
+    },
+    "menu/jp/main_option/small_choice/menu_option_reset_no.dds": {
+      "text": "否"
+    },
+    "menu/jp/main_option/small_choice/menu_option_reset_yes.dds": {
+      "text": "是"
+    },
+    "menu/jp/main_option/small_choice/menu_option_screensepa_off.dds": {
+      "text": "关闭"
+    },
+    "menu/jp/main_option/small_choice/menu_option_screensepa_on.dds": {
+      "text": "开启"
+    },
+    "menu/jp/main_option/small_choice/menu_option_subcom_off.dds": {
+      "text": "关闭"
+    },
+    "menu/jp/main_option/small_choice/menu_option_subcom_on.dds": {
+      "text": "开启"
+    },
+    "menu/jp/main_option/small_choice/menu_option_tphorizontal_nor.dds": {
+      "text": "普通"
+    },
+    "menu/jp/main_option/small_choice/menu_option_tphorizontal_rev.dds": {
+      "text": "反转"
+    },
+    "menu/jp/main_option/small_choice/menu_option_tpvertical_nor.dds": {
+      "text": "普通"
+    },
+    "menu/jp/main_option/small_choice/menu_option_tpvertical_rev.dds": {
+      "text": "反转"
+    },
+    "menu/jp/main_option/small_choice/menu_option_viewpoint_a.dds": {
+      "text": "A型"
+    },
+    "menu/jp/main_option/small_choice/menu_option_viewpoint_b.dds": {
+      "text": "B型"
+    },
+    "menu/jp/main_option/index/menu_option_head_brightness.dds": {
+      "lines": [
+        "亮度",
+        "恢复默认"
+      ]
+    },
+    "menu/jp/main_option/index/menu_option_head_difficulty.dds": {
+      "lines": [
+        "难度：",
+        "副指令指南：",
+        "第一人称纵向操作：",
+        "第一人称横向操作：",
+        "第三人称纵向操作：",
+        "第三人称横向操作：",
+        "摄像机视角：",
+        "亮度：",
+        "字幕：",
+        "地图朝向：",
+        "警戒效果：",
+        "画面分割：",
+        "深夜模式：",
+        "瞄准速度："
+      ]
+    },
+    "menu/jp/main_option/index/menu_option_title_system.dds": {
+      "size": 25,
+      "lines": [
+        "系统",
+        "摄像机",
+        "画面",
+        "音效"
+      ]
+    },
+    "menu/jp/main_option/detail_text/menu_option_aim_exp.dds": {
+      "text": "设置狙击模式下的准星移动速度。"
+    },
+    "menu/jp/main_option/detail_text/menu_option_alerteffect_exp.dds": {
+      "lines": [
+        "设置警戒效果（敌人接近、警戒时的画面效果、音效、振动）。",
+        "开启: 有警戒效果",
+        "关闭: 无警戒效果"
+      ]
+    },
+    "menu/jp/main_option/detail_text/menu_option_brightness_exp1.dds": {
+      "text": "设置画面的亮度。"
+    },
+    "menu/jp/main_option/detail_text/menu_option_brightness_exp2.dds": {
+      "text": "请选择您喜欢的亮度设置。"
+    },
+    "menu/jp/main_option/detail_text/menu_option_caption_exp.dds": {
+      "lines": [
+        "设置语音字幕的显示。",
+        "开启: 显示字幕",
+        "关闭: 不显示字幕"
+      ]
+    },
+    "menu/jp/main_option/detail_text/menu_option_difc_exp.dds": {
+      "lines": [
+        "更改游戏难度。",
+        "简单: 推荐给不习惯游戏的人",
+        "普通: 推荐给想享受动作与刺激的人"
+      ]
+    },
+    "menu/jp/main_option/detail_text/menu_option_difc_exp2.dds": {
+      "lines": [
+        "无法在章节中途更改难度。",
+        "请从顶部菜单的OPTIONS中更改。"
+      ]
+    },
+    "menu/jp/main_option/detail_text/menu_option_fphorizontal_exp.dds": {
+      "lines": [
+        "设置主观视角时摄像机的水平操作。",
+        "普通: 朝右摇杆推动的方向看",
+        "反转: 朝右摇杆推动的反方向看"
+      ]
+    },
+    "menu/jp/main_option/detail_text/menu_option_fpvertical_exp.dds": {
+      "lines": [
+        "设置主观视角时摄像机的垂直操作。",
+        "普通: 朝右摇杆推动的方向看",
+        "反转: 朝右摇杆推动的反方向看"
+      ]
+    },
+    "menu/jp/main_option/detail_text/menu_option_mapdirection_exp.dds": {
+      "lines": [
+        "设置打开地图画面时地图的朝向。",
+        "北: 以北为上显示",
+        "玩家: 以玩家面朝的方向为上显示"
+      ]
+    },
+    "menu/jp/main_option/detail_text/menu_option_midnight_exp.dds": {
+      "lines": [
+        "设置深夜模式。开启后在音量较小时也易于听清。",
+        "开启: 缩小大音量与小音量之间的差距",
+        "关闭: 使用标准平衡"
+      ]
+    },
+    "menu/jp/main_option/detail_text/menu_option_midnight_exp2.dds": {
+      "lines": [
+        "开启深夜模式后，在音量较小时也易于听清。",
+        "※在立体声环境下无法选择深夜模式。",
+        "请从「主页菜单」的「声音设置」中更改。"
+      ]
+    },
+    "menu/jp/main_option/detail_text/menu_option_reset_exp.dds": {
+      "text": "将所有设置恢复为初始状态。"
+    },
+    "menu/jp/main_option/detail_text/menu_option_screensepa_exp.dds": {
+      "lines": [
+        "设置被敌人发现时的强制视野切换。",
+        "开启: 分割画面自动显示敌人视野",
+        "关闭: 即使被敌人发现也不自动显示敌人视野"
+      ]
+    },
+    "menu/jp/main_option/detail_text/menu_option_subcom_exp.dds": {
+      "lines": [
+        "设置副指令的指南显示。",
+        "开启: 用方向键显示指南，显示中再按一次方向键执行指令",
+        "关闭: 不显示指南，一次输入即执行指令"
+      ]
+    },
+    "menu/jp/main_option/detail_text/menu_option_tphorizontal_exp.dds": {
+      "lines": [
+        "设置通常时摄像机的水平操作。",
+        "普通: 朝右摇杆推动的方向看",
+        "反转: 朝右摇杆推动的反方向看"
+      ]
+    },
+    "menu/jp/main_option/detail_text/menu_option_tpvertical_exp.dds": {
+      "lines": [
+        "设置通常时摄像机的垂直操作。",
+        "普通: 朝右摇杆推动的方向看",
+        "反转: 朝右摇杆推动的反方向看"
+      ]
+    },
+    "menu/jp/main_option/detail_text/menu_option_viewpoint_exp.dds": {
+      "lines": [
+        "设置通常时的摄像机位置。",
+        "A型: 摄像机位于角色后方并略微侧移",
+        "B型: 摄像机固定在角色后方"
+      ]
+    }
+  }
+}

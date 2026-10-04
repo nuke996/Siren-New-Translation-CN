@@ -1,0 +1,64 @@
+{
+  "font": "SimHei",
+  "size": 18,
+  "bold": 0,
+  "hint": "sbp",
+  "sheet": "font01.dds",
+  "out": "font01_zh.dds",
+  "preview": "font01_zh.png",
+  "cols": 51,
+  "cellW": 20,
+  "cellH": 20,
+  "refChar": "日",
+  "refCell": 2861,
+  "cells": [
+    {
+      "char": "载",
+      "cell": 7059
+    },
+    {
+      "char": "请",
+      "cell": 7060
+    },
+    {
+      "char": "戏",
+      "cell": 7061
+    },
+    {
+      "char": "关",
+      "cell": 7062
+    },
+    {
+      "char": "闭",
+      "cell": 7063
+    },
+    {
+      "char": "电",
+      "cell": 7064
+    },
+    {
+      "char": "盘",
+      "cell": 7065
+    },
+    {
+      "char": "词",
+      "cell": 7066
+    },
+    {
+      "char": "编",
+      "cell": 7067
+    },
+    {
+      "char": "华",
+      "cell": 7068
+    },
+    {
+      "char": "德",
+      "cell": 7069
+    },
+    {
+      "char": "·",
+      "cell": 7070
+    }
+  ]
+}

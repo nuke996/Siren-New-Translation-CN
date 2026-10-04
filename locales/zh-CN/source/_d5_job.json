@@ -1,0 +1,2160 @@
+{
+ "arch": "common",
+ "font": "SimHei",
+ "items": [
+  {
+   "name": "menu/jp/main_archive/story_brief/archive_01_chr.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "不明",
+     "y": 1,
+     "x": 0
+    },
+    {
+     "text": "8月2日／23:00",
+     "y": 33,
+     "x": 0
+    },
+    {
+     "text": "羽生蛇村／山中",
+     "y": 64,
+     "x": 0
+    },
+    {
+     "text": "偷看仪式",
+     "y": 96,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_brief/archive_02_chr.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "索尔·杰克逊",
+     "y": 1,
+     "x": 0
+    },
+    {
+     "text": "8月2日／23:00",
+     "y": 33,
+     "x": 0
+    },
+    {
+     "text": "羽生蛇村／山中",
+     "y": 64,
+     "x": 0
+    },
+    {
+     "text": "误操作摄像机",
+     "y": 96,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_brief/archive_03_chr.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "霍华德·莱特",
+     "y": 1,
+     "x": 0
+    },
+    {
+     "text": "8月2日／23:00",
+     "y": 33,
+     "x": 0
+    },
+    {
+     "text": "羽生蛇村／山中",
+     "y": 64,
+     "x": 0
+    },
+    {
+     "text": "妨碍仪式",
+     "y": 96,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_brief/archive_04_chr.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "霍华德·莱特",
+     "y": 1,
+     "x": 0
+    },
+    {
+     "text": "8月2日／23:00",
+     "y": 33,
+     "x": 0
+    },
+    {
+     "text": "羽生蛇村／下粗户",
+     "y": 64,
+     "x": 0
+    },
+    {
+     "text": "用一升瓶殴打警官",
+     "y": 96,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_brief/archive_05_chr.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "索尔·杰克逊",
+     "y": 1,
+     "x": 0
+    },
+    {
+     "text": "8月3日／0:00",
+     "y": 33,
+     "x": 0
+    },
+    {
+     "text": "羽生蛇村／山中",
+     "y": 64,
+     "x": 0
+    },
+    {
+     "text": "造访羽生蛇村",
+     "y": 96,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_brief/archive_06_chr.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "梅丽莎·盖尔",
+     "y": 1,
+     "x": 0
+    },
+    {
+     "text": "8月3日／0:00",
+     "y": 33,
+     "x": 0
+    },
+    {
+     "text": "羽生蛇村／山中",
+     "y": 64,
+     "x": 0
+    },
+    {
+     "text": "造访羽生蛇村",
+     "y": 96,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_brief/archive_07_chr.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "山姆·门罗",
+     "y": 1,
+     "x": 0
+    },
+    {
+     "text": "8月3日／1:00",
+     "y": 33,
+     "x": 0
+    },
+    {
+     "text": "合石岳／羽生蛇矿山",
+     "y": 64,
+     "x": 0
+    },
+    {
+     "text": "在合石岳醒来",
+     "y": 96,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_brief/archive_08_chr.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "山姆·门罗",
+     "y": 1,
+     "x": 0
+    },
+    {
+     "text": "8月3日／1:00",
+     "y": 33,
+     "x": 0
+    },
+    {
+     "text": "羽生蛇矿山／塞壬小屋",
+     "y": 64,
+     "x": 0
+    },
+    {
+     "text": "调查塞壬小屋屋顶",
+     "y": 96,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_brief/archive_09_chr.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "霍华德·莱特",
+     "y": 1,
+     "x": 0
+    },
+    {
+     "text": "8月3日／2:00",
+     "y": 33,
+     "x": 0
+    },
+    {
+     "text": "波罗宿村落／火警瞭望塔",
+     "y": 64,
+     "x": 0
+    },
+    {
+     "text": "调查火警瞭望塔顶",
+     "y": 96,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_brief/archive_10_chr.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "山姆·门罗",
+     "y": 1,
+     "x": 0
+    },
+    {
+     "text": "8月3日／2:00",
+     "y": 33,
+     "x": 0
+    },
+    {
+     "text": "羽生蛇矿山／合石上部东坑",
+     "y": 64,
+     "x": 0
+    },
+    {
+     "text": "调查纸箱上",
+     "y": 96,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_brief/archive_11_chr.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "贝拉·门罗",
+     "y": 1,
+     "x": 0
+    },
+    {
+     "text": "8月3日／3:00",
+     "y": 33,
+     "x": 0
+    },
+    {
+     "text": "犀贺医院／206号",
+     "y": 64,
+     "x": 0
+    },
+    {
+     "text": "逃入犀贺医院",
+     "y": 96,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_brief/archive_12_chr.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "贝拉·门罗",
+     "y": 1,
+     "x": 0
+    },
+    {
+     "text": "8月3日／3:00",
+     "y": 33,
+     "x": 0
+    },
+    {
+     "text": "犀贺医院／3F育婴室",
+     "y": 64,
+     "x": 0
+    },
+    {
+     "text": "调查桌上",
+     "y": 96,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_brief/archive_13_chr.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "梅丽莎·盖尔",
+     "y": 1,
+     "x": 0
+    },
+    {
+     "text": "8月3日／3:00",
+     "y": 33,
+     "x": 0
+    },
+    {
+     "text": "羽生蛇村／合石岳山中",
+     "y": 64,
+     "x": 0
+    },
+    {
+     "text": "收听贝拉的医院广播",
+     "y": 96,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_brief/archive_14_chr.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "索尔·杰克逊",
+     "y": 1,
+     "x": 0
+    },
+    {
+     "text": "8月3日／3:00",
+     "y": 33,
+     "x": 0
+    },
+    {
+     "text": "犀贺医院／自动门",
+     "y": 64,
+     "x": 0
+    },
+    {
+     "text": "收听贝拉的医院广播",
+     "y": 96,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_brief/archive_15_chr.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "霍华德·莱特",
+     "y": 1,
+     "x": 0
+    },
+    {
+     "text": "8月3日／5:00",
+     "y": 33,
+     "x": 0
+    },
+    {
+     "text": "刈割东地区",
+     "y": 64,
+     "x": 0
+    },
+    {
+     "text": "调查祠堂",
+     "y": 96,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_brief/archive_16_chr.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "阿玛娜",
+     "y": 1,
+     "x": 0
+    },
+    {
+     "text": "8月3日／6:00",
+     "y": 33,
+     "x": 0
+    },
+    {
+     "text": "刈割／不入谷圣堂",
+     "y": 64,
+     "x": 0
+    },
+    {
+     "text": "在圣堂内醒来",
+     "y": 96,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_brief/archive_17_chr.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "犀贺省悟",
+     "y": 1,
+     "x": 0
+    },
+    {
+     "text": "8月3日／12:00",
+     "y": 33,
+     "x": 0
+    },
+    {
+     "text": "波罗宿村落／火警瞭望塔",
+     "y": 64,
+     "x": 0
+    },
+    {
+     "text": "狙击掩护山姆",
+     "y": 96,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_brief/archive_18_chr.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "犀贺省悟",
+     "y": 1,
+     "x": 0
+    },
+    {
+     "text": "8月3日／12:00",
+     "y": 33,
+     "x": 0
+    },
+    {
+     "text": "波罗宿村落／狩武食堂",
+     "y": 64,
+     "x": 0
+    },
+    {
+     "text": "调查餐桌上",
+     "y": 96,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_brief/archive_19_chr.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "霍华德·莱特",
+     "y": 1,
+     "x": 0
+    },
+    {
+     "text": "8月4日／0:00",
+     "y": 33,
+     "x": 0
+    },
+    {
+     "text": "伊东家／内室",
+     "y": 64,
+     "x": 0
+    },
+    {
+     "text": "解开祭坛封印",
+     "y": 96,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_brief/archive_20_chr.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "梅丽莎·盖尔",
+     "y": 1,
+     "x": 0
+    },
+    {
+     "text": "8月4日／0:00",
+     "y": 33,
+     "x": 0
+    },
+    {
+     "text": "犀贺医院／实验室",
+     "y": 64,
+     "x": 0
+    },
+    {
+     "text": "调查推车上",
+     "y": 96,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_brief/archive_21_chr.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "河边幸江",
+     "y": 1,
+     "x": 0
+    },
+    {
+     "text": "8月4日／5:00",
+     "y": 33,
+     "x": 0
+    },
+    {
+     "text": "犀贺医院／中庭",
+     "y": 64,
+     "x": 0
+    },
+    {
+     "text": "被犀贺杀死两次",
+     "y": 96,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_brief/archive_22_chr.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "阿玛娜",
+     "y": 1,
+     "x": 0
+    },
+    {
+     "text": "8月4日／6:00",
+     "y": 33,
+     "x": 0
+    },
+    {
+     "text": "波罗宿村落／波罗宿祈祷所地下",
+     "y": 64,
+     "x": 0
+    },
+    {
+     "text": "在石像脚下拾取",
+     "y": 96,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_brief/archive_23_chr.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "阿玛娜",
+     "y": 1,
+     "x": 0
+    },
+    {
+     "text": "8月4日／6:00",
+     "y": 33,
+     "x": 0
+    },
+    {
+     "text": "波罗宿村落／墓地",
+     "y": 64,
+     "x": 0
+    },
+    {
+     "text": "调查坟墓",
+     "y": 96,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_brief/archive_24_chr.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "阿玛娜",
+     "y": 1,
+     "x": 0
+    },
+    {
+     "text": "8月4日／7:00",
+     "y": 33,
+     "x": 0
+    },
+    {
+     "text": "波罗宿村落／禁地",
+     "y": 64,
+     "x": 0
+    },
+    {
+     "text": "想起真正的记忆",
+     "y": 96,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_brief/archive_25_chr.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "霍华德·莱特",
+     "y": 1,
+     "x": 0
+    },
+    {
+     "text": "8月4日／8:00",
+     "y": 33,
+     "x": 0
+    },
+    {
+     "text": "羽生蛇矿山／合石3号西坑",
+     "y": 64,
+     "x": 0
+    },
+    {
+     "text": "用铁锹挖墙",
+     "y": 96,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_brief/archive_26_chr.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "山姆·门罗",
+     "y": 1,
+     "x": 0
+    },
+    {
+     "text": "8月4日／9:00",
+     "y": 33,
+     "x": 0
+    },
+    {
+     "text": "刈割／不入谷圣堂",
+     "y": 64,
+     "x": 0
+    },
+    {
+     "text": "查看圣堂内部",
+     "y": 96,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_brief/archive_27_chr.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "贝拉·门罗",
+     "y": 1,
+     "x": 0
+    },
+    {
+     "text": "8月4日／17:00",
+     "y": 33,
+     "x": 0
+    },
+    {
+     "text": "刈割／不入谷圣堂后侧",
+     "y": 64,
+     "x": 0
+    },
+    {
+     "text": "调查坟墓",
+     "y": 96,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_brief/archive_28_chr.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "霍华德·莱特",
+     "y": 1,
+     "x": 0
+    },
+    {
+     "text": "8月4日／19:00",
+     "y": 33,
+     "x": 0
+    },
+    {
+     "text": "尸人之巢／御福屋",
+     "y": 64,
+     "x": 0
+    },
+    {
+     "text": "调查柜台",
+     "y": 96,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_brief/archive_29_chr.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "霍华德·莱特",
+     "y": 1,
+     "x": 0
+    },
+    {
+     "text": "8月4日／23:00",
+     "y": 33,
+     "x": 0
+    },
+    {
+     "text": "尸人之巢中枢／富三烟草店",
+     "y": 64,
+     "x": 0
+    },
+    {
+     "text": "调查冰箱内",
+     "y": 96,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_brief/archive_30_chr.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "阿玛娜",
+     "y": 1,
+     "x": 0
+    },
+    {
+     "text": "8月5日／0:00",
+     "y": 33,
+     "x": 0
+    },
+    {
+     "text": "尸人之巢／水镜",
+     "y": 64,
+     "x": 0
+    },
+    {
+     "text": "仪式失败",
+     "y": 96,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_brief/archive_31_chr.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "索尔·杰克逊",
+     "y": 1,
+     "x": 0
+    },
+    {
+     "text": "8月3日／1:00",
+     "y": 33,
+     "x": 0
+    },
+    {
+     "text": "羽生蛇矿山／仓库",
+     "y": 64,
+     "x": 0
+    },
+    {
+     "text": "调查桌上",
+     "y": 96,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_brief/archive_32_chr.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "梅丽莎·盖尔",
+     "y": 1,
+     "x": 0
+    },
+    {
+     "text": "8月3日／3:00",
+     "y": 33,
+     "x": 0
+    },
+    {
+     "text": "犀贺医院／焚烧炉",
+     "y": 64,
+     "x": 0
+    },
+    {
+     "text": "把贝拉藏在焚烧炉内",
+     "y": 96,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_brief/archive_33_chr.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "犀贺省悟",
+     "y": 1,
+     "x": 0
+    },
+    {
+     "text": "8月3日／4:00",
+     "y": 33,
+     "x": 0
+    },
+    {
+     "text": "羽生蛇村／下粗户",
+     "y": 64,
+     "x": 0
+    },
+    {
+     "text": "梦见过去",
+     "y": 96,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_brief/archive_34_chr.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "梅丽莎·盖尔",
+     "y": 1,
+     "x": 0
+    },
+    {
+     "text": "8月3日／5:00",
+     "y": 33,
+     "x": 0
+    },
+    {
+     "text": "刈割",
+     "y": 64,
+     "x": 0
+    },
+    {
+     "text": "调查地面",
+     "y": 96,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_brief/archive_35_chr.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "梅丽莎·盖尔",
+     "y": 1,
+     "x": 0
+    },
+    {
+     "text": "8月3日／5:00",
+     "y": 33,
+     "x": 0
+    },
+    {
+     "text": "刈割西地区",
+     "y": 64,
+     "x": 0
+    },
+    {
+     "text": "拾取贝拉掉落的东西",
+     "y": 96,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_brief/archive_36_chr.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "犀贺省悟",
+     "y": 1,
+     "x": 0
+    },
+    {
+     "text": "8月3日／12:00",
+     "y": 33,
+     "x": 0
+    },
+    {
+     "text": "波罗宿村落／三田村家",
+     "y": 64,
+     "x": 0
+    },
+    {
+     "text": "调查掉在炉子上的相册",
+     "y": 96,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_brief/archive_37_chr.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "犀贺省悟",
+     "y": 1,
+     "x": 0
+    },
+    {
+     "text": "8月3日／12:00",
+     "y": 33,
+     "x": 0
+    },
+    {
+     "text": "波罗宿村落／波罗宿祈祷所",
+     "y": 64,
+     "x": 0
+    },
+    {
+     "text": "调查书架",
+     "y": 96,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_brief/archive_38_chr.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "贝拉·门罗",
+     "y": 1,
+     "x": 0
+    },
+    {
+     "text": "8月4日／0:00",
+     "y": 33,
+     "x": 0
+    },
+    {
+     "text": "伊东家／儿童房",
+     "y": 64,
+     "x": 0
+    },
+    {
+     "text": "调查收录机",
+     "y": 96,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_brief/archive_39_chr.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "贝拉·门罗",
+     "y": 1,
+     "x": 0
+    },
+    {
+     "text": "8月4日／0:00",
+     "y": 33,
+     "x": 0
+    },
+    {
+     "text": "伊东家／儿童房",
+     "y": 64,
+     "x": 0
+    },
+    {
+     "text": "调查柜子上",
+     "y": 96,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_brief/archive_40_chr.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "贝拉·门罗",
+     "y": 1,
+     "x": 0
+    },
+    {
+     "text": "8月4日／0:00",
+     "y": 33,
+     "x": 0
+    },
+    {
+     "text": "伊东家／储物间",
+     "y": 64,
+     "x": 0
+    },
+    {
+     "text": "调查架子",
+     "y": 96,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_brief/archive_41_chr.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "贝拉·门罗",
+     "y": 1,
+     "x": 0
+    },
+    {
+     "text": "8月4日／0:00",
+     "y": 33,
+     "x": 0
+    },
+    {
+     "text": "伊东家／庭院",
+     "y": 64,
+     "x": 0
+    },
+    {
+     "text": "在树上涂抹黑糖蜜",
+     "y": 96,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_brief/archive_42_chr.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "霍华德·莱特",
+     "y": 1,
+     "x": 0
+    },
+    {
+     "text": "8月4日／10:00",
+     "y": 33,
+     "x": 0
+    },
+    {
+     "text": "刈割／不入谷圣堂后侧",
+     "y": 64,
+     "x": 0
+    },
+    {
+     "text": "调查UMA的痕迹",
+     "y": 96,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_brief/archive_43_chr.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "犀贺省悟",
+     "y": 1,
+     "x": 0
+    },
+    {
+     "text": "8月4日／18:00",
+     "y": 33,
+     "x": 0
+    },
+    {
+     "text": "羽生蛇矿山／合石2号西坑",
+     "y": 64,
+     "x": 0
+    },
+    {
+     "text": "炸毁坑道壁",
+     "y": 96,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_brief/archive_44_chr.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "山姆·门罗",
+     "y": 1,
+     "x": 0
+    },
+    {
+     "text": "8月4日／19:00",
+     "y": 33,
+     "x": 0
+    },
+    {
+     "text": "波罗宿村落／波罗宿祈祷所地下",
+     "y": 64,
+     "x": 0
+    },
+    {
+     "text": "在羽生蛇村徘徊",
+     "y": 96,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_brief/archive_45_chr.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "霍华德·莱特",
+     "y": 1,
+     "x": 0
+    },
+    {
+     "text": "8月4日／19:00",
+     "y": 33,
+     "x": 0
+    },
+    {
+     "text": "尸人之巢／御福屋",
+     "y": 64,
+     "x": 0
+    },
+    {
+     "text": "调查地板缝隙",
+     "y": 96,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_brief/archive_46_chr.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "霍华德·莱特",
+     "y": 1,
+     "x": 0
+    },
+    {
+     "text": "8月5日／2:00",
+     "y": 33,
+     "x": 0
+    },
+    {
+     "text": "尸人之巢中枢／红色水洼",
+     "y": 64,
+     "x": 0
+    },
+    {
+     "text": "与山姆·门罗相遇",
+     "y": 96,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_brief/archive_47_chr.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "山姆·门罗",
+     "y": 1,
+     "x": 0
+    },
+    {
+     "text": "8月5日／2:00",
+     "y": 33,
+     "x": 0
+    },
+    {
+     "text": "尸人之巢中枢／杂物间",
+     "y": 64,
+     "x": 0
+    },
+    {
+     "text": "调查桌上",
+     "y": 96,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_brief/archive_48_chr.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "霍华德·莱特",
+     "y": 1,
+     "x": 0
+    },
+    {
+     "text": "8月5日／3:00",
+     "y": 33,
+     "x": 0
+    },
+    {
+     "text": "炼狱",
+     "y": 64,
+     "x": 0
+    },
+    {
+     "text": "射击犀贺的头部",
+     "y": 96,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_brief/archive_49_chr.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "山姆·门罗",
+     "y": 1,
+     "x": 0
+    },
+    {
+     "text": "2007年",
+     "y": 33,
+     "x": 0
+    },
+    {
+     "text": "东京／垃圾收集站",
+     "y": 64,
+     "x": 0
+    },
+    {
+     "text": "给霍华德发送讯息",
+     "y": 96,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_brief/archive_50_chr.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "霍华德·莱特",
+     "y": 1,
+     "x": 0
+    },
+    {
+     "text": "8月5日／3:00",
+     "y": 33,
+     "x": 0
+    },
+    {
+     "text": "羽生蛇村",
+     "y": 64,
+     "x": 0
+    },
+    {
+     "text": "歼灭尸人",
+     "y": 96,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_title/archive_01_name.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "天地救之传",
+     "y": 1,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_title/archive_02_name.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "摄像机",
+     "y": 1,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_title/archive_03_name.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "霍华德·莱特的学生证",
+     "y": 1,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_title/archive_04_name.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "岛田习次的警察手册",
+     "y": 1,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_title/archive_05_name.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "电视节目企划书",
+     "y": 1,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_title/archive_06_name.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "梅丽莎·盖尔的手机",
+     "y": 1,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_title/archive_07_name.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "山姆·门罗的职员证",
+     "y": 1,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_title/archive_08_name.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "数码录像带",
+     "y": 1,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_title/archive_09_name.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "奇妙图形的文字盘",
+     "y": 1,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_title/archive_10_name.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "矿山职员的日志",
+     "y": 1,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_title/archive_11_name.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "贝拉·门罗的日记",
+     "y": 1,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_title/archive_12_name.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "住院患者的信",
+     "y": 1,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_title/archive_13_name.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "梅丽莎·盖尔的吊坠",
+     "y": 1,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_title/archive_14_name.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "索尔·杰克逊的员工证",
+     "y": 1,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_title/archive_15_name.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "羽生蛇村乡土志",
+     "y": 1,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_title/archive_16_name.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "阿玛娜的日记",
+     "y": 1,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_title/archive_17_name.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "犀贺省悟的驾照",
+     "y": 1,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_title/archive_18_name.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "羽生面",
+     "y": 1,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_title/archive_19_name.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "祭坛的偶像",
+     "y": 1,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_title/archive_20_name.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "犀贺省悟的手帐",
+     "y": 1,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_title/archive_21_name.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "河边幸江的手帐",
+     "y": 1,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_title/archive_22_name.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "玛娜字架的胸针",
+     "y": 1,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_title/archive_23_name.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "奇妙图形的木片",
+     "y": 1,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_title/archive_24_name.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "圣画 -尊体拜领-",
+     "y": 1,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_title/archive_25_name.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "十尺异人之事",
+     "y": 1,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_title/archive_26_name.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "山姆·门罗的手帐",
+     "y": 1,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_title/archive_27_name.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "美耶古祭文",
+     "y": 1,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_title/archive_28_name.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "8毫米胶片",
+     "y": 1,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_title/archive_29_name.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "占卜罐头",
+     "y": 1,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_title/archive_30_name.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "圣画 -虚母ろ主-",
+     "y": 1,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_title/archive_31_name.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "亚特兰蒂斯创刊号",
+     "y": 1,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_title/archive_32_name.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "JOYLINK -超级网络之王-",
+     "y": 1,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_title/archive_33_name.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "犀贺省悟的图画日记",
+     "y": 1,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_title/archive_34_name.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "霍华德·莱特的手机",
+     "y": 1,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_title/archive_35_name.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "煤油打火机",
+     "y": 1,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_title/archive_36_name.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "三田村家的相册",
+     "y": 1,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_title/archive_37_name.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "合石岳异记",
+     "y": 1,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_title/archive_38_name.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "百慕大3的唱片",
+     "y": 1,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_title/archive_39_name.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "莉莉安",
+     "y": 1,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_title/archive_40_name.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "捉虫套装",
+     "y": 1,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_title/archive_41_name.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "羽生独角仙",
+     "y": 1,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_title/archive_42_name.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "世界UMA大百科事典",
+     "y": 1,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_title/archive_43_name.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "合石岳壁画",
+     "y": 1,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_title/archive_44_name.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "山姆·门罗的录音笔",
+     "y": 1,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_title/archive_45_name.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "盒式磁带",
+     "y": 1,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_title/archive_46_name.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "来自山姆·门罗的讯息",
+     "y": 1,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_title/archive_47_name.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "羽生蛇村民间故事集",
+     "y": 1,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_title/archive_48_name.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "焰薙秘录",
+     "y": 1,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_title/archive_49_name.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "山姆·门罗的日记",
+     "y": 1,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/story_title/archive_50_name.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "便携式音频播放器",
+     "y": 1,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/category/menu_archive_group_gun.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "手枪",
+     "y": 1,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/category/menu_archive_group_hc.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "重斩武器",
+     "y": 1,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/category/menu_archive_group_hh.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "重击武器",
+     "y": 1,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/category/menu_archive_group_lc.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "轻斩武器",
+     "y": 1,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/category/menu_archive_group_lh.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "轻击武器",
+     "y": 1,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/category/menu_archive_group_sg.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "步枪",
+     "y": 1,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/category/menu_archive_group_sp.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "特殊",
+     "y": 1,
+     "x": 0
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/main_archive/category/menu_archive_group_trap.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "陷阱",
+     "y": 1,
+     "x": 0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+#
+# レンダリングの初期設定
+#
+#
+#	【解像度】
+#	　1280x720
+#	　1024x512
+#	　640x360
+#	　512x512
+#	　512x256
+#	　256x256
+#	　256x128
+#	　256x128
+#	　128x128
+#	　64x64
+#	　32x32
+#
+#	【視界ジャック】
+#	　Rote
+#	　All
+#
+#	【カラーフィルタ】
+#	　On
+#	　Off
+#
+
+MainDrawScreen				1024x512	# メイン画面の描画解像度
+SubDrawScreen				512x512		# 視界ジャック描画面解像度
+SubRenderingPriorityPolicy	Rote		# 視界ジャックのレンダリングプライオリティ制御
+ColorFilterMode				On			# カラーフィルタ
+HDR							On			# HDR
+UseTSAA						On			# TSAAスイッチ
+WireFrame					Off			# ワイヤーフレーム表示
+DrawClipShere				Off			# クリップ球の表示
+PerfomanceDetail			Off			# パフォーマンス詳細の表示
+ShowMemoryStatus			Off			# メモリ状況

@@ -1,0 +1,980 @@
+{
+  "note": "s06 章节系统文本简体中文草稿（AI 起草，待用户审校）。已跳过第二张表未解码的 GUIDE/TUTORIAL 条目。◇为译码缺字，※ 标注不确定处。",
+  "glossary": {
+    "ハワート・ライト": "霍华德·莱特",
+    "メリッサ・ゲイル": "梅丽莎·盖尔",
+    "サム・モンロー": "山姆·门罗",
+    "ベラ・モンロー": "贝拉·门罗",
+    "ソル・ジャクソン": "索尔·杰克逊",
+    "美耶古": "美耶古",
+    "アマナ": "阿玛娜",
+    "羽生蛇村": "羽生蛇村"
+  },
+  "lines": [
+    {
+      "name": "AC_CHANGENAME_I_B_01",
+      "src": "【【猟銃用銃弾】に持ち替える",
+      "text": "【切换为【猎枪用子弹】"
+    },
+    {
+      "name": "AC_CHANGENAME_I_B_03",
+      "src": "【【拳銃の弾】に持ち替える",
+      "text": "【切换为【手枪子弹】"
+    },
+    {
+      "name": "AC_CHANGENAME_I_SP_02",
+      "src": "【【発煙筒】に持ち替える",
+      "text": "【切换为【发烟筒】"
+    },
+    {
+      "name": "AC_CHANGENAME_I_W_BK_01",
+      "src": "【【一升瓶】に持ち替える",
+      "text": "【切换为【一升瓶】"
+    },
+    {
+      "name": "AC_CHANGENAME_I_W_BK_02",
+      "src": "【【ビール瓶】に持ち替える",
+      "text": "【切换为【啤酒瓶】"
+    },
+    {
+      "name": "AC_CHANGENAME_I_W_GUN",
+      "src": "【【３８口径短銃】に持ち替える",
+      "text": "【切换为【38口径短枪】"
+    },
+    {
+      "name": "AC_CHANGENAME_I_W_HC_04",
+      "src": "【【刃広(ハビロ)】に持ち替える",
+      "text": "【切换为【刃广】"
+    },
+    {
+      "name": "AC_CHANGENAME_I_W_HH_06",
+      "src": "【【バール】に持ち替える",
+      "text": "【切换为【撬棍】"
+    },
+    {
+      "name": "AC_CHANGENAME_I_W_HH_09",
+      "src": "【【杵(きね)】に持ち替える",
+      "text": "【切换为【杵】"
+    },
+    {
+      "name": "AC_CHANGENAME_I_W_LK_04",
+      "src": "【【割れたビール瓶】に持ち替える",
+      "text": "【切换为【破碎的啤酒瓶】"
+    },
+    {
+      "name": "AC_CHANGENAME_I_W_SG_01",
+      "src": "【【狩猟用散弾銃】に持ち替える",
+      "text": "【切换为【狩猎用散弹枪】"
+    },
+    {
+      "name": "AC_CHANGENAME_I_W_SG_03",
+      "src": "【【狩猟用狙撃銃】に持ち替える",
+      "text": "【切换为【狩猎用狙击枪】"
+    },
+    {
+      "name": "AC_CHECK",
+      "src": "【調べる",
+      "text": "【调查"
+    },
+    {
+      "name": "AC_DOOR_CLOSE",
+      "src": "【閉める",
+      "text": "【关闭"
+    },
+    {
+      "name": "AC_DOOR_HOLD",
+      "src": "〈长按〉押さえる",
+      "text": "长按 按住"
+    },
+    {
+      "name": "AC_DOOR_INNER_LOCK",
+      "src": "〈长按〉内鍵をかける",
+      "text": "长按 上内锁"
+    },
+    {
+      "name": "AC_DOOR_INNER_UNLOCK",
+      "src": "【内鍵を開ける",
+      "text": "【打开内锁"
+    },
+    {
+      "name": "AC_DOOR_OPEN",
+      "src": "【開ける",
+      "text": "【打开"
+    },
+    {
+      "name": "AC_DOOR_UNLOCK",
+      "src": "【鍵を開ける",
+      "text": "【开锁"
+    },
+    {
+      "name": "AC_ELEVATOR_CALL",
+      "src": "【エレベータを呼ぶ",
+      "text": "【呼叫电梯"
+    },
+    {
+      "name": "AC_ELEVATOR_DOWN",
+      "src": "【下へ",
+      "text": "【向下"
+    },
+    {
+      "name": "AC_ELEVATOR_MOVE",
+      "src": "【ボタンを押す",
+      "text": "【按下按钮"
+    },
+    {
+      "name": "AC_ELEVATOR_UP",
+      "src": "【上へ",
+      "text": "【向上"
+    },
+    {
+      "name": "AC_EXIT",
+      "src": "【出る",
+      "text": "【出去"
+    },
+    {
+      "name": "AC_HIDE",
+      "src": "【隠れる",
+      "text": "【躲藏"
+    },
+    {
+      "name": "AC_JUMP_TRUCK",
+      "src": "【飛び降りる",
+      "text": "【跳下"
+    },
+    {
+      "name": "AC_LIFTUP",
+      "src": "【引き上げる",
+      "text": "【拉起"
+    },
+    {
+      "name": "AC_PICKUP_ANTENNA",
+      "src": "【アンテナを投げる",
+      "text": "【投掷天线"
+    },
+    {
+      "name": "AC_PICK_UP2",
+      "src": "【拾う",
+      "text": "【拾取"
+    },
+    {
+      "name": "AC_PICK_UPNAME_I_B_01",
+      "src": "【【猟銃用銃弾】を拾う",
+      "text": "【拾取【猎枪用子弹】"
+    },
+    {
+      "name": "AC_PICK_UPNAME_I_B_03",
+      "src": "【【拳銃の弾】を拾う",
+      "text": "【拾取【手枪子弹】"
+    },
+    {
+      "name": "AC_PICK_UPNAME_I_SP_02",
+      "src": "【【発煙筒】を拾う",
+      "text": "【拾取【发烟筒】"
+    },
+    {
+      "name": "AC_PICK_UPNAME_I_W_BK_01",
+      "src": "【【一升瓶】を拾う",
+      "text": "【拾取【一升瓶】"
+    },
+    {
+      "name": "AC_PICK_UPNAME_I_W_BK_02",
+      "src": "【【ビール瓶】を拾う",
+      "text": "【拾取【啤酒瓶】"
+    },
+    {
+      "name": "AC_PICK_UPNAME_I_W_GUN",
+      "src": "【【３８口径短銃】を拾う",
+      "text": "【拾取【38口径短枪】"
+    },
+    {
+      "name": "AC_PICK_UPNAME_I_W_HC_04",
+      "src": "【【刃広(ハビロ)】を拾う",
+      "text": "【拾取【刃广】"
+    },
+    {
+      "name": "AC_PICK_UPNAME_I_W_HH_06",
+      "src": "【【バール】を拾う",
+      "text": "【拾取【撬棍】"
+    },
+    {
+      "name": "AC_PICK_UPNAME_I_W_HH_09",
+      "src": "【【杵(きね)】を拾う",
+      "text": "【拾取【杵】"
+    },
+    {
+      "name": "AC_PICK_UPNAME_I_W_LK_04",
+      "src": "【【割れたビール瓶】を拾う",
+      "text": "【拾取【破碎的啤酒瓶】"
+    },
+    {
+      "name": "AC_PICK_UPNAME_I_W_SG_01",
+      "src": "【【狩猟用散弾銃】を拾う",
+      "text": "【拾取【狩猎用散弹枪】"
+    },
+    {
+      "name": "AC_PICK_UPNAME_I_W_SG_03",
+      "src": "【【狩猟用狙撃銃】を拾う",
+      "text": "【拾取【狩猎用狙击枪】"
+    },
+    {
+      "name": "AC_PUSH_TRUCK",
+      "src": "〈长按〉トロッコを押す",
+      "text": "长按 推矿车"
+    },
+    {
+      "name": "AC_RIDE_TRUCK",
+      "src": "【飛び乗る",
+      "text": "【跳上"
+    },
+    {
+      "name": "AC_ROLL_LEVER",
+      "src": "〈长按〉レバーを回す",
+      "text": "长按 转动拉杆"
+    },
+    {
+      "name": "CHA_BATTLEEND_GAK_0",
+      "src": "「総わりか？」",
+      "text": "「结束了吗？」"
+    },
+    {
+      "name": "CHA_BATTLEEND_GAK_2",
+      "src": "「ヒヤヒヤさぜやがる……」",
+      "text": "「还挺能闹腾的……」"
+    },
+    {
+      "name": "CHA_CACOMELONG_GAK_0",
+      "src": "「ああ……もう！」",
+      "text": "啊……真是的！"
+    },
+    {
+      "name": "CHA_CAHURRYUP_GAK_0",
+      "src": "「……おい！ どうする！？」",
+      "text": "「……喂！怎么办！？」"
+    },
+    {
+      "name": "CHA_CAHURRYUP_GAK_1",
+      "src": "「何してるんだ！？ 危ないそ！」",
+      "text": "「你在干什么！？危险啊！」"
+    },
+    {
+      "name": "CHA_CAHURRYUP_GAK_2",
+      "src": "「ああ……もう！」",
+      "text": "啊……真是的！"
+    },
+    {
+      "name": "CHA_CAMEET_GAK_0",
+      "src": "「お おい！ どうする！？」",
+      "text": "「喂、喂！怎么办！？」"
+    },
+    {
+      "name": "CHA_CAMEET_GAK_1",
+      "src": "「何してるんだ！？ 危ないそ！」",
+      "text": "「你在干什么！？危险啊！」"
+    },
+    {
+      "name": "CHA_CAMEET_GAK_2",
+      "src": "「ああ……もう！」",
+      "text": "啊……真是的！"
+    },
+    {
+      "name": "CHA_CAUTION1_CHU_0",
+      "src": "「大人しく出てきなさい」",
+      "text": "「乖乖出来」"
+    },
+    {
+      "name": "CHA_CAUTION1_CHU_1",
+      "src": "「そこかっ？ 動くんじやないそ」",
+      "text": "「在那儿吧？别动啊」"
+    },
+    {
+      "name": "CHA_CAUTION1_CHU_2",
+      "src": "「そこにいるのはわかってるんだそ」",
+      "text": "「我知道你在那儿」"
+    },
+    {
+      "name": "CHA_CAUTION1_GAK_2",
+      "src": "「ばれた……！？」",
+      "text": "「暴露了……！？」"
+    },
+    {
+      "name": "CHA_CAUTION1_HNM_1",
+      "src": "「怪シィジオオ？」",
+      "text": "「可疑的家伙呀？」"
+    },
+    {
+      "name": "CHA_CAUTION1_HNM_2",
+      "src": "「誰ダ？ 誰ダア！」",
+      "text": "「是谁？是谁啊！」"
+    },
+    {
+      "name": "CHA_CAUTION1_SM2_0",
+      "src": "「ん～？ 誰だあ～？」",
+      "text": "「嗯～？是谁呀～？」"
+    },
+    {
+      "name": "CHA_CAUTION1_SM2_1",
+      "src": "「おい……誰かいるのかあ？」",
+      "text": "「喂……有人吗？」"
+    },
+    {
+      "name": "CHA_CAUTION1_SM2_2",
+      "src": "「何だあ？ おい？」",
+      "text": "「干什么？喂？」"
+    },
+    {
+      "name": "CHA_CAUTION1_SM4_1",
+      "src": "「そこかあ～？」",
+      "text": "「在那边吗～？」"
+    },
+    {
+      "name": "CHA_CAUTION1_SM4_2",
+      "src": "「ああ？ 誰だあ？」",
+      "text": "「啊？是谁？」"
+    },
+    {
+      "name": "CHA_CAUTION2_CHU_0",
+      "src": "「くそっ！ 逃げ足の速いヤツだ」",
+      "text": "「可恶！跑得真快的家伙」"
+    },
+    {
+      "name": "CHA_CAUTION2_CHU_1",
+      "src": "「逃げられたか……俺もそろそろ歳かな……」",
+      "text": "「让他跑了……我也差不多该上年纪了吧……」"
+    },
+    {
+      "name": "CHA_CAUTION2_CHU_2",
+      "src": "「次は絶対捕まえるからなあ」",
+      "text": "「下次一定抓住你」"
+    },
+    {
+      "name": "CHA_CAUTION2_HNM_0",
+      "src": "「イナイ！ イナイジオ！」",
+      "text": "「不在！不在呀！」"
+    },
+    {
+      "name": "CHA_CAUTION2_HNM_1",
+      "src": "「オイ！ ドコダア！」",
+      "text": "「喂！在哪！」"
+    },
+    {
+      "name": "CHA_CAUTION2_HNM_2",
+      "src": "「戻レ！ 卑怯ダジオ！」",
+      "text": "「回来！卑怯的达里奥！」"
+    },
+    {
+      "name": "CHA_CAUTION2_SM2_0",
+      "src": "「戻って……来いよお」",
+      "text": "「回来……啊」"
+    },
+    {
+      "name": "CHA_CAUTION2_SM2_1",
+      "src": "「どこ……行ったあ？」",
+      "text": "「跑哪……去了？」"
+    },
+    {
+      "name": "CHA_CAUTION2_SM2_2",
+      "src": "「無駄だよお」",
+      "text": "「没用的」"
+    },
+    {
+      "name": "CHA_CAUTION2_SM4_0",
+      "src": "「こらあ！ 出て来いい！」",
+      "text": "「喂！出来！」"
+    },
+    {
+      "name": "CHA_CAUTION2_SM4_1",
+      "src": "「どこ行ったあ……」",
+      "text": "「跑哪去了……」"
+    },
+    {
+      "name": "CHA_CAUTION2_SM4_2",
+      "src": "「くそお……逃げ足の早い……」",
+      "text": "「可恶……跑得真快……」"
+    },
+    {
+      "name": "CHA_CAWAITLONG_GAK_0",
+      "src": "「ああ……もう！」",
+      "text": "啊……真是的！"
+    },
+    {
+      "name": "CHA_CAWAITLONG_GAK_1",
+      "src": "「くそっ やっかいだそ」",
+      "text": "「可恶，真麻烦」"
+    },
+    {
+      "name": "CHA_CAWAITNEAR_GAK_0",
+      "src": "「お おい！ どうする！？」",
+      "text": "「喂、喂！怎么办！？」"
+    },
+    {
+      "name": "CHA_CAWAITNEAR_GAK_1",
+      "src": "「何してるんだ！？ 危ないそ！」",
+      "text": "「你在干什么！？危险啊！」"
+    },
+    {
+      "name": "CHA_CAWAITNEAR_GAK_2",
+      "src": "「ああ……もう！」",
+      "text": "啊……真是的！"
+    },
+    {
+      "name": "CHA_COMELONG_GAK_0",
+      "src": "「どうすりやいいんだ……」",
+      "text": "「该怎么办才好……」"
+    },
+    {
+      "name": "CHA_COUNTER_GAK_0",
+      "src": "「この野郎！ やっぱりお前も怪物か！？」",
+      "text": "「你这混蛋！你果然也是怪物吗！？」"
+    },
+    {
+      "name": "CHA_COUNTER_GAK_1",
+      "src": "「ふざけるな！」",
+      "text": "「别开玩笑了！」"
+    },
+    {
+      "name": "CHA_COUNTER_GAK_2",
+      "src": "「どういうつもりだ！？」",
+      "text": "「你什么意思！？」"
+    },
+    {
+      "name": "CHA_DYING_GAK_0",
+      "src": "「……勘弁してくれ」",
+      "text": "「……饶了我吧」"
+    },
+    {
+      "name": "CHA_DYING_GAK_1",
+      "src": "「……限界だ」",
+      "text": "……不行了"
+    },
+    {
+      "name": "CHA_DYING_GAK_2",
+      "src": "「……死んで……たまるか」",
+      "text": "「……我才不会……死」"
+    },
+    {
+      "name": "CHA_ESC1_GAK_0",
+      "src": "「おい！ あんた助けてくれよ！」",
+      "text": "「喂！你救救我啊！」"
+    },
+    {
+      "name": "CHA_ESC1_GAK_1",
+      "src": "「あんた人間なんだろ！？ 助けてくれ！」",
+      "text": "「你是人类吧！？救救我！」"
+    },
+    {
+      "name": "CHA_ESC1_GAK_2",
+      "src": "「何とかしてくれ！」",
+      "text": "「想想办法啊！」"
+    },
+    {
+      "name": "CHA_ESC2_GAK_0",
+      "src": "「おい 誰か！」",
+      "text": "「喂，来人啊！」"
+    },
+    {
+      "name": "CHA_ESC2_GAK_1",
+      "src": "「くそっ！ 何とかならないのか！？」",
+      "text": "「可恶！就没法子了吗！？」"
+    },
+    {
+      "name": "CHA_ESC2_GAK_2",
+      "src": "「シャレにならんそ！」",
+      "text": "「这可不是闹着玩的！」"
+    },
+    {
+      "name": "CHA_FIND2_GAK_0",
+      "src": "「くそっ！」",
+      "text": "「混蛋！」"
+    },
+    {
+      "name": "CHA_FIND2_GAK_1",
+      "src": "「やばいっ！」",
+      "text": "「糟了！」"
+    },
+    {
+      "name": "CHA_FIND2_GAK_2",
+      "src": "「やるのか！？ この野郎！」",
+      "text": "「要动手吗！？你这混蛋！」"
+    },
+    {
+      "name": "CHA_FINISH_DOC_0",
+      "src": "「どうした？」",
+      "text": "「怎么了？」"
+    },
+    {
+      "name": "CHA_FINISH_DOC_1",
+      "src": "「こんなものか？」",
+      "text": "「就这点程度吗？」"
+    },
+    {
+      "name": "CHA_FINISH_DOC_2",
+      "src": "「化け物め」",
+      "text": "「怪物」"
+    },
+    {
+      "name": "CHA_HURRYUP_GAK_0",
+      "src": "「おい？ 何してるんだ？」",
+      "text": "「喂？你在干什么？」"
+    },
+    {
+      "name": "CHA_HURRYUP_GAK_1",
+      "src": "「何とか言えよ？」",
+      "text": "你倒是说话啊？"
+    },
+    {
+      "name": "CHA_HURRYUP_GAK_2",
+      "src": "「おい！ ……って英語通じないんじやな……」",
+      "text": "「喂！……不过英语你也听不懂啊……」"
+    },
+    {
+      "name": "CHA_MEET_GAK_0",
+      "src": "「おい？ 何してるんだ？」",
+      "text": "「喂？你在干什么？」"
+    },
+    {
+      "name": "CHA_MEET_GAK_1",
+      "src": "「何とか言えよ？」",
+      "text": "你倒是说话啊？"
+    },
+    {
+      "name": "CHA_MEET_GAK_2",
+      "src": "「おい！ ……って英語通じないんじやな……」",
+      "text": "「喂！……不过英语你也听不懂啊……」"
+    },
+    {
+      "name": "CHA_PCDAMAGE_GAK_2",
+      "src": "「危ないっ！」",
+      "text": "「危险！」"
+    },
+    {
+      "name": "CHA_PCDIE_GAK_0",
+      "src": "「おい！ しっかりしろ！」",
+      "text": "「喂！振作点！」"
+    },
+    {
+      "name": "CHA_PCDIE_GAK_1",
+      "src": "「おい！ ど どうした！？」",
+      "text": "「喂！怎、怎么了！？」"
+    },
+    {
+      "name": "CHA_PCDIE_GAK_2",
+      "src": "「おい！ 縮めるな！！」",
+      "text": "「喂！别死啊！！」"
+    },
+    {
+      "name": "CHA_PCDYING_GAK_0",
+      "src": "「おい！ しっかりしろ！」",
+      "text": "「喂！振作点！」"
+    },
+    {
+      "name": "CHA_PCDYING_GAK_1",
+      "src": "「とにかく逃げるんだ！」",
+      "text": "「总之快逃！」"
+    },
+    {
+      "name": "CHA_PCDYING_GAK_2",
+      "src": "「おい！ あんた大丈夫か！？」",
+      "text": "「喂！你没事吧！？」"
+    },
+    {
+      "name": "CHA_PCGETITEM_GAK",
+      "src": "「おい 何してるんだ？」",
+      "text": "「喂，你在干什么？」"
+    },
+    {
+      "name": "CHA_PCMOUNT_GAK_1",
+      "src": "「くそっ！」",
+      "text": "「混蛋！」"
+    },
+    {
+      "name": "CHA_PCMOUNT_GAK_2",
+      "src": "「やめろっ！」",
+      "text": "「住手！」"
+    },
+    {
+      "name": "CHA_PCSWITCH_GAK",
+      "src": "「おい 何してるんだ？」",
+      "text": "「喂，你在干什么？」"
+    },
+    {
+      "name": "CHA_SCREAM_DOC_0",
+      "src": "「良い気はしないな」",
+      "text": "「感觉不太好啊」"
+    },
+    {
+      "name": "CHA_SCREAM_DOC_1",
+      "src": "「運が無かったようだな」",
+      "text": "「看来运气不好啊」"
+    },
+    {
+      "name": "CHA_SCREAM_DOC_2",
+      "src": "「ここまでか」",
+      "text": "到此为止了吗"
+    },
+    {
+      "name": "CHA_ST06EVENT1_CHU_0",
+      "src": "「おっ？ 羽生蛇じやないか……いいねえ！」",
+      "text": "「哦？这不是羽生蛇吗……不错啊！」"
+    },
+    {
+      "name": "CHA_ST06EVENT2_CHU_0",
+      "src": "「ご馳走になりますよ……頂きまあ～す」",
+      "text": "「要承蒙款待了哦……我收下啦～」"
+    },
+    {
+      "name": "CHA_ST06EVENT3_CHU_0",
+      "src": "「ふう……腹いっぱい……」",
+      "text": "「呼……吃得好饱……」"
+    },
+    {
+      "name": "CHA_ST06EVENT3_GAK_0",
+      "src": "「……こいつ信用出来るのか？」",
+      "text": "「……这家伙能借用吗？」"
+    },
+    {
+      "name": "CHA_ST06EVENT5_CHU_0",
+      "src": "「ああ……飯でも食うかあ」",
+      "text": "「啊啊……吃点什么吧」"
+    },
+    {
+      "name": "CHA_ST06EVENT5_CHU_1",
+      "src": "「腹が減っては戦は出来ん」",
+      "text": "「肚子空了可打不了仗」"
+    },
+    {
+      "name": "CHA_ST06EVENT5_CHU_2",
+      "src": "「何か食い物……食い物……」",
+      "text": "「有什么吃的……吃的……」"
+    },
+    {
+      "name": "CHA_ST99EVENT2_GAK_0",
+      "src": "「く 来るな！ あっち行け！」",
+      "text": "「别、别过来！滚开！」"
+    },
+    {
+      "name": "CHA_STARTST06_DOC_0",
+      "src": "「奴ら どこから来た？」",
+      "text": "「那些家伙从哪来的？」"
+    },
+    {
+      "name": "CHA_STARTST06_DOC_1",
+      "src": "「何者だ？ あいつは」",
+      "text": "「他是什么人？」"
+    },
+    {
+      "name": "CHA_STARTST06_DOC_2",
+      "src": "「大人しくしておいてくれよ……」",
+      "text": "「乖乖待着别动啊……」"
+    },
+    {
+      "name": "CHA_WAITLONG_GAK_0",
+      "src": "「どうすりやいいんだ……」",
+      "text": "「该怎么办才好……」"
+    },
+    {
+      "name": "CHA_WAITLONG_GAK_1",
+      "src": "「何なんだこの村は……」",
+      "text": "这村子到底怎么回事…"
+    },
+    {
+      "name": "CHA_WAITNEAR_GAK_0",
+      "src": "「おい？ 何してるんだ？」",
+      "text": "「喂？你在干什么？」"
+    },
+    {
+      "name": "CHA_WAITNEAR_GAK_1",
+      "src": "「何とか言えよ？」",
+      "text": "你倒是说话啊？"
+    },
+    {
+      "name": "CHA_WAITNEAR_GAK_2",
+      "src": "「おい！ ……って英語通じないんじやな……」",
+      "text": "「喂！……不过英语你也听不懂啊……」"
+    },
+    {
+      "name": "DOOR_BLOCKED",
+      "src": "この扉は開かないようだ。",
+      "text": "这扇门似乎打不开。"
+    },
+    {
+      "name": "DOOR_EVENT_LOCKED",
+      "src": "ここに合う鍵を持っていない。",
+      "text": "没有能打开这里的钥匙。"
+    },
+    {
+      "name": "DOOR_INNER_LOCK",
+      "src": "反対側から内鍵が掛かっている。",
+      "text": "内侧上了锁。"
+    },
+    {
+      "name": "DOOR_INNER_UNLOCKED",
+      "src": "内鍵を開けた。",
+      "text": "打开了内锁。"
+    },
+    {
+      "name": "DOOR_UNLOCKED",
+      "src": "鍵を開けた。",
+      "text": "打开了锁。"
+    },
+    {
+      "name": "ELEVATOR_BLOCK",
+      "src": "動かないようだ。",
+      "text": "似乎不动。"
+    },
+    {
+      "name": "EMPTY_LABEL",
+      "src": "空テキストです",
+      "text": "空文本"
+    },
+    {
+      "name": "GET_ARCHIVE2ARCHIVE018",
+      "src": "アーカイブ【はにゅうめん】既に入手済み。",
+      "text": "档案【羽生面】\n已经获得。"
+    },
+    {
+      "name": "GET_ARCHIVE2ARCHIVE106",
+      "src": "アーカイブ【エピソード7 チャプター2】既に入手済み。",
+      "text": "档案【第7章 第2节】\n已经获得。"
+    },
+    {
+      "name": "GET_ARCHIVEARCHIVE018",
+      "src": "【はにゅうめん】がアーカイブに追加された。",
+      "text": "【羽生面】\n已添加到档案。"
+    },
+    {
+      "name": "GET_ARCHIVEARCHIVE106",
+      "src": "【エピソード7 チャプター2】がアーカイブに追加された。",
+      "text": "【第7章 第2节】\n已添加到档案。"
+    },
+    {
+      "name": "GET_ARCHIVE_KEY2ARCHIVE018",
+      "src": "【はにゅうめん】アーカイブ入手の必要行動。既に達成済み。",
+      "text": "【羽生面】\n取得档案所需行动。已经完成。"
+    },
+    {
+      "name": "GET_ARCHIVE_KEY2ARCHIVE106",
+      "src": "【エピソード7 チャプター2】アーカイブ入手の必要行動。既に達成済み。",
+      "text": "【第7章 第2节】\n取得档案所需行动。已经完成。"
+    },
+    {
+      "name": "GET_ARCHIVE_KEYARCHIVE018",
+      "src": "【はにゅうめん】アーカイブ入手の必要行動を達成した。",
+      "text": "【羽生面】\n已完成取得档案所需行动。"
+    },
+    {
+      "name": "GET_ARCHIVE_KEYARCHIVE106",
+      "src": "【エピソード7 チャプター2】アーカイブ入手の必要行動を達成した。",
+      "text": "【第7章 第2节】\n已完成取得档案所需行动。"
+    },
+    {
+      "name": "GET_ITEMNAME_I_B_01",
+      "src": "【猟銃用銃弾】を入手した。",
+      "text": "【猎枪用子弹】已入手。"
+    },
+    {
+      "name": "GET_ITEMNAME_I_B_03",
+      "src": "【拳銃の弾】を入手した。",
+      "text": "【手枪子弹】已入手。"
+    },
+    {
+      "name": "GET_ITEMNAME_I_SP_02",
+      "src": "【発煙筒】を入手した。",
+      "text": "【发烟筒】已入手。"
+    },
+    {
+      "name": "GET_ITEMNAME_I_W_BK_01",
+      "src": "【一升瓶】を入手した。",
+      "text": "【一升瓶】已入手。"
+    },
+    {
+      "name": "GET_ITEMNAME_I_W_BK_02",
+      "src": "【ビール瓶】を入手した。",
+      "text": "【啤酒瓶】已入手。"
+    },
+    {
+      "name": "GET_ITEMNAME_I_W_GUN",
+      "src": "【３８口径短銃】を入手した。",
+      "text": "【38口径短枪】已入手。"
+    },
+    {
+      "name": "GET_ITEMNAME_I_W_HC_04",
+      "src": "【刃広(ハビロ)】を入手した。",
+      "text": "【刃广】已入手。"
+    },
+    {
+      "name": "GET_ITEMNAME_I_W_HH_06",
+      "src": "【バール】を入手した。",
+      "text": "【撬棍】已入手。"
+    },
+    {
+      "name": "GET_ITEMNAME_I_W_HH_09",
+      "src": "【杵(きね)】を入手した。",
+      "text": "【杵】已入手。"
+    },
+    {
+      "name": "GET_ITEMNAME_I_W_LK_04",
+      "src": "【割れたビール瓶】を入手した。",
+      "text": "【破碎的啤酒瓶】已入手。"
+    },
+    {
+      "name": "GET_ITEMNAME_I_W_SG_01",
+      "src": "【狩猟用散弾銃】を入手した。",
+      "text": "【狩猎用散弹枪】已入手。"
+    },
+    {
+      "name": "GET_ITEMNAME_I_W_SG_03",
+      "src": "【狩猟用狙撃銃】を入手した。",
+      "text": "【狩猎用狙击枪】已入手。"
+    },
+    {
+      "name": "NO_TEXT_LABEL",
+      "src": "ＮＯ＿ＴＥＸＴ＿ＬＡＢＥＬ",
+      "text": "NO_TEXT_LABEL"
+    },
+    {
+      "name": "S06_ACTION_COMMAND001",
+      "src": "【看板を落とす",
+      "text": "【放下招牌"
+    },
+    {
+      "name": "S06_MESSAGE_001",
+      "src": "屍人の食べかけが置いてある。妙な臭いだ。",
+      "text": "放着尸人吃剩的东西。有股怪味。"
+    },
+    {
+      "name": "S99_AREA_OVER1",
+      "src": "戻る訳にはいかない。",
+      "text": "不能回头。"
+    },
+    {
+      "name": "S99_AREA_OVER10",
+      "src": "サムを置いていく訳にはいかない……。",
+      "text": "不能丢下山姆……"
+    },
+    {
+      "name": "S99_AREA_OVER11",
+      "src": "この先には用がない……。",
+      "text": "前方没有要办的事……"
+    },
+    {
+      "name": "S99_AREA_OVER2",
+      "src": "この先は危険だ……。",
+      "text": "前方危险……"
+    },
+    {
+      "name": "S99_AREA_OVER3",
+      "src": "目的を果たさなければならない。",
+      "text": "必须完成目的。"
+    },
+    {
+      "name": "S99_AREA_OVER4",
+      "src": "美耶古を置いていく訳にはいかない……。",
+      "text": "不能丢下美耶古……"
+    },
+    {
+      "name": "S99_AREA_OVER5",
+      "src": "メリッサを置いていく訳にはいかない……。",
+      "text": "不能丢下梅丽莎……"
+    },
+    {
+      "name": "S99_AREA_OVER6",
+      "src": "アマナを置いていく訳にはいかない……。",
+      "text": "不能丢下阿玛娜……"
+    },
+    {
+      "name": "S99_AREA_OVER7",
+      "src": "ベラを置いていく訳にはいかない……。",
+      "text": "不能丢下贝拉……"
+    },
+    {
+      "name": "S99_AREA_OVER8",
+      "src": "ベラを探さなければ……。",
+      "text": "必须找到贝拉……"
+    },
+    {
+      "name": "S99_AREA_OVER9",
+      "src": "技が折れている。ここからは戻れそうにない。",
+      "text": "树枝折断了，从这里似乎回不去了。"
+    },
+    {
+      "name": "S99_BUSY",
+      "src": "今はそれどころではない。",
+      "text": "现在不是做这个的时候。"
+    },
+    {
+      "name": "S99_MESSAGE001",
+      "src": "扉は固く閉じられている。中からは物音も聞こえない。",
+      "text": "门紧闭着。\n里面也听不到任何声响。"
+    },
+    {
+      "name": "S99_MESSAGE002",
+      "src": "番号を間違えたようだ。",
+      "text": "好像拨错号码了。"
+    },
+    {
+      "name": "S99_MESSAGE003",
+      "src": "話し中のようだ。",
+      "text": "好像正在通话中。"
+    },
+    {
+      "name": "S99_NPCOUTOFRANGE",
+      "src": "声が届かない。",
+      "text": "声音传达不到。"
+    },
+    {
+      "name": "SUB_COM_CANCEL_TRAP",
+      "src": "罠解除",
+      "text": "拆陷阱"
+    },
+    {
+      "name": "SUB_COM_COME",
+      "src": "「来い」",
+      "text": "「过来」"
+    },
+    {
+      "name": "SUB_COM_HIDE",
+      "src": "「隠れろ」",
+      "text": "「躲起来」"
+    },
+    {
+      "name": "SUB_COM_LIGHT1",
+      "src": "懐中電灯ＯＮ",
+      "text": "手电筒ON"
+    },
+    {
+      "name": "SUB_COM_LIGHT2",
+      "src": "懐中電灯ＯＦＦ",
+      "text": "手电筒OFF"
+    },
+    {
+      "name": "SUB_COM_NO",
+      "src": "いいえ",
+      "text": "否"
+    },
+    {
+      "name": "SUB_COM_SET_TRAP",
+      "src": "罠設置",
+      "text": "设陷阱"
+    },
+    {
+      "name": "SUB_COM_SHOUT",
+      "src": "叫ぶ",
+      "text": "呼喊"
+    },
+    {
+      "name": "SUB_COM_SMOKE",
+      "src": "発煙筒",
+      "text": "发烟筒"
+    },
+    {
+      "name": "SUB_COM_WAIT",
+      "src": "「待て」",
+      "text": "「等待」"
+    },
+    {
+      "name": "SUB_COM_YES",
+      "src": "はい",
+      "text": "是"
+    }
+  ]
+}

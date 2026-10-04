@@ -1,0 +1,855 @@
+{
+  "note": "s04 章节系统文本简体中文草稿（AI 起草，待用户审校）。已跳过第二张表未解码的 GUIDE/TUTORIAL 条目。◇为译码缺字，※ 标注不确定处。",
+  "glossary": {
+    "ハワート・ライト": "霍华德·莱特",
+    "メリッサ・ゲイル": "梅丽莎·盖尔",
+    "サム・モンロー": "山姆·门罗",
+    "ベラ・モンロー": "贝拉·门罗",
+    "ソル・ジャクソン": "索尔·杰克逊",
+    "美耶古": "美耶古",
+    "アマナ": "阿玛娜",
+    "羽生蛇村": "羽生蛇村"
+  },
+  "lines": [
+    {
+      "name": "AC_CHANGENAME_I_KEY_01",
+      "src": "【【受付の鍵】に持ち替える",
+      "text": "【切换为【前台的钥匙】"
+    },
+    {
+      "name": "AC_CHANGENAME_I_L_99",
+      "src": "【【懐中電灯】に持ち替える",
+      "text": "【切换为【手电筒】"
+    },
+    {
+      "name": "AC_CHANGENAME_I_W_BK_01",
+      "src": "【【一升瓶】に持ち替える",
+      "text": "【切换为【一升瓶】"
+    },
+    {
+      "name": "AC_CHANGENAME_I_W_BK_05",
+      "src": "【【ウイスキーボトル】に持ち替える",
+      "text": "【切换为【威士忌酒瓶】"
+    },
+    {
+      "name": "AC_CHANGENAME_I_W_HH_08",
+      "src": "【【テレビカメラ】に持ち替える",
+      "text": "【切换为【电视摄像机】"
+    },
+    {
+      "name": "AC_CHANGENAME_I_W_HH_10",
+      "src": "【【松業杖】に持ち替える",
+      "text": "【切换为【拐杖】"
+    },
+    {
+      "name": "AC_CHANGENAME_I_W_LH_05",
+      "src": "【【察内板】に持ち替える",
+      "text": "【切换为【指示牌】"
+    },
+    {
+      "name": "AC_CHANGENAME_I_W_LH_17",
+      "src": "【【傘】に持ち替える",
+      "text": "【切换为【伞】"
+    },
+    {
+      "name": "AC_CHANGENAME_I_W_LK_01",
+      "src": "【【メス】に持ち替える",
+      "text": "【切换为【手术刀】"
+    },
+    {
+      "name": "AC_CHANGENAME_I_W_LK_02",
+      "src": "【【包丁】に持ち替える",
+      "text": "【切换为【菜刀】"
+    },
+    {
+      "name": "AC_CHECK",
+      "src": "【調べる",
+      "text": "【调查"
+    },
+    {
+      "name": "AC_DOOR_CLOSE",
+      "src": "【閉める",
+      "text": "【关闭"
+    },
+    {
+      "name": "AC_DOOR_HOLD",
+      "src": "〈长按〉押さえる",
+      "text": "长按 按住"
+    },
+    {
+      "name": "AC_DOOR_INNER_LOCK",
+      "src": "〈长按〉内鍵をかける",
+      "text": "长按 上内锁"
+    },
+    {
+      "name": "AC_DOOR_INNER_UNLOCK",
+      "src": "【内鍵を開ける",
+      "text": "【打开内锁"
+    },
+    {
+      "name": "AC_DOOR_OPEN",
+      "src": "【開ける",
+      "text": "【打开"
+    },
+    {
+      "name": "AC_DOOR_UNLOCK",
+      "src": "【鍵を開ける",
+      "text": "【开锁"
+    },
+    {
+      "name": "AC_ELEVATOR_CALL",
+      "src": "【エレベータを呼ぶ",
+      "text": "【呼叫电梯"
+    },
+    {
+      "name": "AC_ELEVATOR_DOWN",
+      "src": "【下へ",
+      "text": "【向下"
+    },
+    {
+      "name": "AC_ELEVATOR_MOVE",
+      "src": "【ボタンを押す",
+      "text": "【按下按钮"
+    },
+    {
+      "name": "AC_ELEVATOR_UP",
+      "src": "【上へ",
+      "text": "【向上"
+    },
+    {
+      "name": "AC_EXIT",
+      "src": "【出る",
+      "text": "【出去"
+    },
+    {
+      "name": "AC_HIDE",
+      "src": "【隠れる",
+      "text": "【躲藏"
+    },
+    {
+      "name": "AC_JUMP_TRUCK",
+      "src": "【飛び降りる",
+      "text": "【跳下"
+    },
+    {
+      "name": "AC_LIFTUP",
+      "src": "【引き上げる",
+      "text": "【拉起"
+    },
+    {
+      "name": "AC_PICKUP_ANTENNA",
+      "src": "【アンテナを投げる",
+      "text": "【投掷天线"
+    },
+    {
+      "name": "AC_PICK_UP2",
+      "src": "【拾う",
+      "text": "【拾取"
+    },
+    {
+      "name": "AC_PICK_UPNAME_I_KEY_01",
+      "src": "【【受付の鍵】を拾う",
+      "text": "【拾取【前台的钥匙】"
+    },
+    {
+      "name": "AC_PICK_UPNAME_I_L_99",
+      "src": "【【懐中電灯】を拾う",
+      "text": "【拾取【手电筒】"
+    },
+    {
+      "name": "AC_PICK_UPNAME_I_W_BK_01",
+      "src": "【【一升瓶】を拾う",
+      "text": "【拾取【一升瓶】"
+    },
+    {
+      "name": "AC_PICK_UPNAME_I_W_BK_05",
+      "src": "【【ウイスキーボトル】を拾う",
+      "text": "【拾取【威士忌酒瓶】"
+    },
+    {
+      "name": "AC_PICK_UPNAME_I_W_HH_08",
+      "src": "【【テレビカメラ】を拾う",
+      "text": "【拾取【电视摄像机】"
+    },
+    {
+      "name": "AC_PICK_UPNAME_I_W_HH_10",
+      "src": "【【松業杖】を拾う",
+      "text": "【拾取【拐杖】"
+    },
+    {
+      "name": "AC_PICK_UPNAME_I_W_LH_05",
+      "src": "【【察内板】を拾う",
+      "text": "【拾取【指示牌】"
+    },
+    {
+      "name": "AC_PICK_UPNAME_I_W_LH_17",
+      "src": "【【傘】を拾う",
+      "text": "【拾取【伞】"
+    },
+    {
+      "name": "AC_PICK_UPNAME_I_W_LK_01",
+      "src": "【【メス】を拾う",
+      "text": "【拾取【手术刀】"
+    },
+    {
+      "name": "AC_PICK_UPNAME_I_W_LK_02",
+      "src": "【【包丁】を拾う",
+      "text": "【拾取【菜刀】"
+    },
+    {
+      "name": "AC_PUSH_TRUCK",
+      "src": "〈长按〉トロッコを押す",
+      "text": "长按 推矿车"
+    },
+    {
+      "name": "AC_RIDE_TRUCK",
+      "src": "【飛び乗る",
+      "text": "【跳上"
+    },
+    {
+      "name": "AC_ROLL_LEVER",
+      "src": "〈长按〉レバーを回す",
+      "text": "长按 转动拉杆"
+    },
+    {
+      "name": "CHA_AFTERDRAT_CAS_0",
+      "src": "「やっと会えたね！」",
+      "text": "「终于见到你了！」"
+    },
+    {
+      "name": "CHA_AFTERDRAT_CAS_1",
+      "src": "「ベイビーちやん 手間かけさぜないでおくれよ」",
+      "text": "「小宝贝，别让我费事啊」"
+    },
+    {
+      "name": "CHA_AFTERDRAT_CAS_2",
+      "src": "「惜しかったな！」",
+      "text": "「真可惜啊！」"
+    },
+    {
+      "name": "CHA_BATTLE_CAS_0",
+      "src": "「ベラ！ ベラ～！ ベラ～！」",
+      "text": "「贝拉！贝拉～！贝拉～！」"
+    },
+    {
+      "name": "CHA_BATTLE_CAS_1",
+      "src": "「もう逃がさないそお～」",
+      "text": "「不会再让你逃了哦～」"
+    },
+    {
+      "name": "CHA_CAUTION1_CAS_1",
+      "src": "「聞こえるよ～！」",
+      "text": "「我听得见哦～！」"
+    },
+    {
+      "name": "CHA_CAUTION1_CAS_2",
+      "src": "「わかったそ！ そこにいるんだね！」",
+      "text": "「我知道了！你就在那儿吧！」"
+    },
+    {
+      "name": "CHA_CAUTION1_SK1_0",
+      "src": "「誰かいるの？」",
+      "text": "「有人吗？」"
+    },
+    {
+      "name": "CHA_CAUTION1_SK1_1",
+      "src": "「いるんでしよ？」",
+      "text": "「有人在吧？」"
+    },
+    {
+      "name": "CHA_CAUTION1_SK1_2",
+      "src": "「誰？ そこにいるの？」",
+      "text": "「谁？在那儿吗？」"
+    },
+    {
+      "name": "CHA_CAUTION1_SK2_0",
+      "src": "「そこにいるの誰？」",
+      "text": "「在那儿的，是谁？」"
+    },
+    {
+      "name": "CHA_CAUTION1_SK2_1",
+      "src": "「誰ですかあ？ 出てきなさいよお！」",
+      "text": "「是谁呀？出来呀！」"
+    },
+    {
+      "name": "CHA_CAUTION1_SK2_2",
+      "src": "「いるのは分かってるわよお～」",
+      "text": "「我知道你在哦～」"
+    },
+    {
+      "name": "CHA_CAUTION1_SM3_1",
+      "src": "「何だってえ？」",
+      "text": "「你说什么？」"
+    },
+    {
+      "name": "CHA_CAUTION1_SM3_2",
+      "src": "「誰じやあ！ 出て来い！」",
+      "text": "「是谁！出来！」"
+    },
+    {
+      "name": "CHA_CAUTION2_CAS_0",
+      "src": "「お～い 逃げないでくれよ」",
+      "text": "「喂～别逃啊」"
+    },
+    {
+      "name": "CHA_CAUTION2_CAS_1",
+      "src": "「冗談きついせ……」",
+      "text": "「玩笑开过头了……」"
+    },
+    {
+      "name": "CHA_CAUTION2_CAS_2",
+      "src": "「出ておいで～子猫ちやん～」",
+      "text": "「出来吧～小猫咪～」"
+    },
+    {
+      "name": "CHA_CAUTION2_SK1_0",
+      "src": "「どこ……いっちやったの？」",
+      "text": "「跑哪……去了？」"
+    },
+    {
+      "name": "CHA_CAUTION2_SK1_1",
+      "src": "「出てきなさいよ！」",
+      "text": "「给我出来！」"
+    },
+    {
+      "name": "CHA_CAUTION2_SK1_2",
+      "src": "「馬鹿にしないで！」",
+      "text": "「别小看我！」"
+    },
+    {
+      "name": "CHA_CAUTION2_SK2_0",
+      "src": "「こらっ！ どこに行った！」",
+      "text": "「喂！跑哪去了！」"
+    },
+    {
+      "name": "CHA_CAUTION2_SK2_1",
+      "src": "「絶対見つけてやる！」",
+      "text": "「我一定会找到你！」"
+    },
+    {
+      "name": "CHA_CAUTION2_SK2_2",
+      "src": "「遊びじやないのよ！」",
+      "text": "「这可不是在玩！」"
+    },
+    {
+      "name": "CHA_CAUTION2_SM3_0",
+      "src": "「年寄りだと思って馬鹿にしおって！」",
+      "text": "「竟敢把我当老人耍！」"
+    },
+    {
+      "name": "CHA_CAUTION2_SM3_1",
+      "src": "「どこじや！ 馬鹿もん！」",
+      "text": "「在哪！混账！」"
+    },
+    {
+      "name": "CHA_CAUTION2_SM3_2",
+      "src": "「次は見逃してやらんからな！」",
+      "text": "「下次可不会放过你！」"
+    },
+    {
+      "name": "CHA_DIE_MUS",
+      "src": "「いやあ一一！」",
+      "text": "「不要——！」"
+    },
+    {
+      "name": "CHA_PATROL_CAS_0",
+      "src": "「ベラ……もう大丈夫だよ」",
+      "text": "「贝拉……已经没事了」"
+    },
+    {
+      "name": "CHA_PATROL_CAS_1",
+      "src": "「信じてくれよ……ボクが守ってあげるよ」",
+      "text": "「相信我吧……我会保护你的」"
+    },
+    {
+      "name": "CHA_PATROL_CAS_2",
+      "src": "「ベラ ボク メリッサ 幸ぜな家族になろうせ」",
+      "text": "「贝拉，我，还有梅丽莎，组成幸福的家庭吧」"
+    },
+    {
+      "name": "CHA_PATROL_CAS_4",
+      "src": "「眺ずかしがらないで出ておいで……」",
+      "text": "「别害羞，出来吧……」"
+    },
+    {
+      "name": "CHA_ST04EVENT1_CAS_0",
+      "src": "「良かった！ 無事だったんだね！」",
+      "text": "「太好了！你没事！」"
+    },
+    {
+      "name": "CHA_ST04EVENT1_CAS_1",
+      "src": "「ベラ……ここを開けてくれよお！」",
+      "text": "「贝拉……把这里打开啊！」"
+    },
+    {
+      "name": "CHA_ST04EVENT1_CAS_2",
+      "src": "「なあ……開けておくれよ……開けろっってば！」",
+      "text": "「喂……开开门啊……我叫你打开！」"
+    },
+    {
+      "name": "CHA_ST04EVENT2_CAS_0",
+      "src": "「いたっ！」",
+      "text": "「好痛！」"
+    },
+    {
+      "name": "CHA_ST04EVENT2_CAS_1",
+      "src": "「ベラ～！」",
+      "text": "「贝拉～！」"
+    },
+    {
+      "name": "CHA_ST04EVENT2_CAS_2",
+      "src": "「ここにいたのかい お姪さま……」",
+      "text": "「原来你在这儿啊，小侄女……」"
+    },
+    {
+      "name": "CHA_ST04EVENT2_SK1_0",
+      "src": "「いやあねえ……何の音？」",
+      "text": "「真讨厌……什么声音？」"
+    },
+    {
+      "name": "CHA_ST04EVENT2_SK2_0",
+      "src": "「誰え？ 勝手にスイッチ入れたのは……」",
+      "text": "「谁呀？擅自打开开关的是……」"
+    },
+    {
+      "name": "CHA_ST04EVENT3_SK1_0",
+      "src": "「開けてえ……お願い……早く……」",
+      "text": "「开开门……求你了……快点……」"
+    },
+    {
+      "name": "CHA_ST04EVENT3_SK1_1",
+      "src": "「はあ……どうしよう……お手洗い行きたい……」",
+      "text": "「唉……怎么办……我想上厕所……」"
+    },
+    {
+      "name": "CHA_ST04EVENT3_SK2_0",
+      "src": "「どうしましたかあ？」",
+      "text": "「怎么了？」"
+    },
+    {
+      "name": "CHA_ST04EVENT3_SK2_1",
+      "src": "「何ですかあ？ 何も無いなら戻りますよお？」",
+      "text": "「什么事啊？没事的话我要回去了哦？」"
+    },
+    {
+      "name": "CHA_ST04EVENT4_SK2_0",
+      "src": "「開けなさい！ 早く開けなさいってば！」",
+      "text": "「打开！我叫你快点打开！」"
+    },
+    {
+      "name": "CHA_ST04EVENT4_SK2_1",
+      "src": "「誰かあ～！ 誰かあ開けてえ～！ 誰かあ～！」",
+      "text": "「有人吗～！谁来开开门啊～！有人吗～！」"
+    },
+    {
+      "name": "CHA_ST99EVENT1_CAS_0",
+      "src": "「はいチ～ズ～」",
+      "text": "来，说茄子～"
+    },
+    {
+      "name": "CHA_ST99EVENT1_CAS_1",
+      "src": "「笑っておくれよお～」",
+      "text": "「笑一个嘛～」"
+    },
+    {
+      "name": "CHA_STARTST19_MUS_0",
+      "src": "「マミィ……」",
+      "text": "「妈妈……」"
+    },
+    {
+      "name": "CHA_STARTST19_MUS_1",
+      "src": "「どうしよう……」",
+      "text": "「怎么办……」"
+    },
+    {
+      "name": "CHA_STARTST19_MUS_2",
+      "src": "「もうこんなとこいやだよ……」",
+      "text": "「我已经讨厌这种地方了……」"
+    },
+    {
+      "name": "DOOR_BLOCKED",
+      "src": "この扉は開かないようだ。",
+      "text": "这扇门似乎打不开。"
+    },
+    {
+      "name": "DOOR_EVENT_LOCKED",
+      "src": "ここに合う鍵を持っていない。",
+      "text": "没有能打开这里的钥匙。"
+    },
+    {
+      "name": "DOOR_INNER_LOCK",
+      "src": "反対側から内鍵が掛かっている。",
+      "text": "内侧上了锁。"
+    },
+    {
+      "name": "DOOR_INNER_UNLOCKED",
+      "src": "内鍵を開けた。",
+      "text": "打开了内锁。"
+    },
+    {
+      "name": "DOOR_UNLOCKED",
+      "src": "鍵を開けた。",
+      "text": "打开了锁。"
+    },
+    {
+      "name": "ELEVATOR_BLOCK",
+      "src": "動かないようだ。",
+      "text": "似乎不动。"
+    },
+    {
+      "name": "EMPTY_LABEL",
+      "src": "空テキストです",
+      "text": "空文本"
+    },
+    {
+      "name": "EP03_CP2_1_01",
+      "src": "「助けて！ ダディ！ マミィ！ どこにいるの？」",
+      "text": "「救命！爸爸！妈妈！你们在哪？」"
+    },
+    {
+      "name": "EP03_CP2_1_02",
+      "src": "「ダディ！ マミィ！」",
+      "text": "「爸爸！妈妈！」"
+    },
+    {
+      "name": "EP03_CP2_1_03",
+      "src": "「ベラ！」",
+      "text": "「贝拉！」"
+    },
+    {
+      "name": "EP03_CP2_1_04",
+      "src": "「ベラ！」",
+      "text": "「贝拉！」"
+    },
+    {
+      "name": "EP03_CP2_1_05",
+      "src": "「ソル？」",
+      "text": "「索尔？」"
+    },
+    {
+      "name": "EP03_CP2_1_06",
+      "src": "「ベラ！ ベラ～！」",
+      "text": "「贝拉！贝拉～！」"
+    },
+    {
+      "name": "EP03_CP2_1_07",
+      "src": "「み～つけたあ～！」",
+      "text": "「找～到你了～！」"
+    },
+    {
+      "name": "EP03_CP2_1_08",
+      "src": "「いやあ一一！」",
+      "text": "「不要——！」"
+    },
+    {
+      "name": "EP03_CP2_2_01",
+      "src": "「おいでベラ 僕だよ？」",
+      "text": "「过来，贝拉，是我啊？」"
+    },
+    {
+      "name": "EP03_CP2_2_02",
+      "src": "「いやっ！」",
+      "text": "「不要！」"
+    },
+    {
+      "name": "GET_ARCHIVE2ARCHIVE012",
+      "src": "アーカイブ【入院患者の手紙】既に入手済み。",
+      "text": "档案【住院患者的信】\n已经获得。"
+    },
+    {
+      "name": "GET_ARCHIVE2ARCHIVE013",
+      "src": "アーカイブ【メリッサ・ゲイルのロケットペンダント】既に入手済み。",
+      "text": "档案【梅丽莎·盖尔的吊坠】\n已经获得。"
+    },
+    {
+      "name": "GET_ARCHIVE2ARCHIVE014",
+      "src": "アーカイブ【ソル・ジャクソンの社員証】既に入手済み。",
+      "text": "档案【索尔·杰克逊的员工证】\n已经获得。"
+    },
+    {
+      "name": "GET_ARCHIVEARCHIVE012",
+      "src": "【入院患者の手紙】がアーカイブに追加された。",
+      "text": "【住院患者的信】\n已添加到档案。"
+    },
+    {
+      "name": "GET_ARCHIVEARCHIVE013",
+      "src": "【メリッサ・ゲイルのロケットペンダント】がアーカイブに追加された。",
+      "text": "【梅丽莎·盖尔的吊坠】\n已添加到档案。"
+    },
+    {
+      "name": "GET_ARCHIVEARCHIVE014",
+      "src": "【ソル・ジャクソンの社員証】がアーカイブに追加された。",
+      "text": "【索尔·杰克逊的员工证】\n已添加到档案。"
+    },
+    {
+      "name": "GET_ARCHIVE_KEY2ARCHIVE012",
+      "src": "【入院患者の手紙】アーカイブ入手の必要行動。既に達成済み。",
+      "text": "【住院患者的信】\n取得档案所需行动。已经完成。"
+    },
+    {
+      "name": "GET_ARCHIVE_KEY2ARCHIVE013",
+      "src": "【メリッサ・ゲイルのロケットペンダント】アーカイブ入手の必要行動。既に達成済み。",
+      "text": "【梅丽莎·盖尔的吊坠】\n取得档案所需行动。已经完成。"
+    },
+    {
+      "name": "GET_ARCHIVE_KEY2ARCHIVE014",
+      "src": "【ソル・ジャクソンの社員証】アーカイブ入手の必要行動。既に達成済み。",
+      "text": "【索尔·杰克逊的员工证】\n取得档案所需行动。已经完成。"
+    },
+    {
+      "name": "GET_ARCHIVE_KEYARCHIVE012",
+      "src": "【入院患者の手紙】アーカイブ入手の必要行動を達成した。",
+      "text": "【住院患者的信】\n已完成取得档案所需行动。"
+    },
+    {
+      "name": "GET_ARCHIVE_KEYARCHIVE013",
+      "src": "【メリッサ・ゲイルのロケットペンダント】アーカイブ入手の必要行動を達成した。",
+      "text": "【梅丽莎·盖尔的吊坠】\n已完成取得档案所需行动。"
+    },
+    {
+      "name": "GET_ARCHIVE_KEYARCHIVE014",
+      "src": "【ソル・ジャクソンの社員証】アーカイブ入手の必要行動を達成した。",
+      "text": "【索尔·杰克逊的员工证】\n已完成取得档案所需行动。"
+    },
+    {
+      "name": "GET_ITEMNAME_I_KEY_01",
+      "src": "【受付の鍵】を入手した。",
+      "text": "【前台的钥匙】已入手。"
+    },
+    {
+      "name": "GET_ITEMNAME_I_L_99",
+      "src": "【懐中電灯】を入手した。",
+      "text": "【手电筒】已入手。"
+    },
+    {
+      "name": "GET_ITEMNAME_I_W_BK_01",
+      "src": "【一升瓶】を入手した。",
+      "text": "【一升瓶】已入手。"
+    },
+    {
+      "name": "GET_ITEMNAME_I_W_BK_05",
+      "src": "【ウイスキーボトル】を入手した。",
+      "text": "【威士忌酒瓶】已入手。"
+    },
+    {
+      "name": "GET_ITEMNAME_I_W_HH_08",
+      "src": "【テレビカメラ】を入手した。",
+      "text": "【电视摄像机】已入手。"
+    },
+    {
+      "name": "GET_ITEMNAME_I_W_HH_10",
+      "src": "【松業杖】を入手した。",
+      "text": "【拐杖】已入手。"
+    },
+    {
+      "name": "GET_ITEMNAME_I_W_LH_05",
+      "src": "【察内板】を入手した。",
+      "text": "【指示牌】已入手。"
+    },
+    {
+      "name": "GET_ITEMNAME_I_W_LH_17",
+      "src": "【傘】を入手した。",
+      "text": "【伞】已入手。"
+    },
+    {
+      "name": "GET_ITEMNAME_I_W_LK_01",
+      "src": "【メス】を入手した。",
+      "text": "【手术刀】已入手。"
+    },
+    {
+      "name": "GET_ITEMNAME_I_W_LK_02",
+      "src": "【包丁】を入手した。",
+      "text": "【菜刀】已入手。"
+    },
+    {
+      "name": "NO_TEXT_LABEL",
+      "src": "ＮＯ＿ＴＥＸＴ＿ＬＡＢＥＬ",
+      "text": "NO_TEXT_LABEL"
+    },
+    {
+      "name": "S04_ACTION_COMMAND001",
+      "src": "【スイッチを入れる",
+      "text": "【打开开关"
+    },
+    {
+      "name": "S04_ACTION_COMMAND003",
+      "src": "【くくり抜ける",
+      "text": "【钻过"
+    },
+    {
+      "name": "S04_ACTION_COMMAND005",
+      "src": "【助けを呼ぶ",
+      "text": "【呼救"
+    },
+    {
+      "name": "S04_ACTION_COMMAND007",
+      "src": "【キッチンタイマーをセットする",
+      "text": "【设置厨房定时器"
+    },
+    {
+      "name": "S04_ACTION_COMMAND009",
+      "src": "【外に出る",
+      "text": "【到外面去"
+    },
+    {
+      "name": "S04_ACTION_COMMAND060",
+      "src": "【ナースコールを押す",
+      "text": "【按呼叫铃"
+    },
+    {
+      "name": "S04_MESSAGE001",
+      "src": "手紙が置いてある。",
+      "text": "放着一本手册。"
+    },
+    {
+      "name": "S04_MESSAGE009",
+      "src": "ドアは固く閉じられ開かない。",
+      "text": "门紧闭着打不开。"
+    },
+    {
+      "name": "S04_MESSAGE082",
+      "src": "自動ドアが開かない。別の道を探そう。",
+      "text": "自动门打不开。找找别的路吧。"
+    },
+    {
+      "name": "S04_MESSAGE083",
+      "src": "通れそうな隙間がある。",
+      "text": "有个似乎能通过的缝隙。"
+    },
+    {
+      "name": "S99_AREA_OVER1",
+      "src": "戻る訳にはいかない。",
+      "text": "不能回头。"
+    },
+    {
+      "name": "S99_AREA_OVER10",
+      "src": "サムを置いていく訳にはいかない……。",
+      "text": "不能丢下山姆……"
+    },
+    {
+      "name": "S99_AREA_OVER11",
+      "src": "この先には用がない……。",
+      "text": "前方没有要办的事……"
+    },
+    {
+      "name": "S99_AREA_OVER2",
+      "src": "この先は危険だ……。",
+      "text": "前方危险……"
+    },
+    {
+      "name": "S99_AREA_OVER3",
+      "src": "目的を果たさなければならない。",
+      "text": "必须完成目的。"
+    },
+    {
+      "name": "S99_AREA_OVER4",
+      "src": "美耶古を置いていく訳にはいかない……。",
+      "text": "不能丢下美耶古……"
+    },
+    {
+      "name": "S99_AREA_OVER5",
+      "src": "メリッサを置いていく訳にはいかない……。",
+      "text": "不能丢下梅丽莎……"
+    },
+    {
+      "name": "S99_AREA_OVER6",
+      "src": "アマナを置いていく訳にはいかない……。",
+      "text": "不能丢下阿玛娜……"
+    },
+    {
+      "name": "S99_AREA_OVER7",
+      "src": "ベラを置いていく訳にはいかない……。",
+      "text": "不能丢下贝拉……"
+    },
+    {
+      "name": "S99_AREA_OVER8",
+      "src": "ベラを探さなければ……。",
+      "text": "必须找到贝拉……"
+    },
+    {
+      "name": "S99_AREA_OVER9",
+      "src": "技が折れている。ここからは戻れそうにない。",
+      "text": "树枝折断了，从这里似乎回不去了。"
+    },
+    {
+      "name": "S99_BUSY",
+      "src": "今はそれどころではない。",
+      "text": "现在不是做这个的时候。"
+    },
+    {
+      "name": "S99_MESSAGE001",
+      "src": "扉は固く閉じられている。中からは物音も聞こえない。",
+      "text": "门紧闭着。\n里面也听不到任何声响。"
+    },
+    {
+      "name": "S99_MESSAGE002",
+      "src": "番号を間違えたようだ。",
+      "text": "好像拨错号码了。"
+    },
+    {
+      "name": "S99_MESSAGE003",
+      "src": "話し中のようだ。",
+      "text": "好像正在通话中。"
+    },
+    {
+      "name": "S99_NPCOUTOFRANGE",
+      "src": "声が届かない。",
+      "text": "声音传达不到。"
+    },
+    {
+      "name": "SUB_COM_CANCEL_TRAP",
+      "src": "罠解除",
+      "text": "拆陷阱"
+    },
+    {
+      "name": "SUB_COM_COME",
+      "src": "「来い」",
+      "text": "「过来」"
+    },
+    {
+      "name": "SUB_COM_HIDE",
+      "src": "「隠れろ」",
+      "text": "「躲起来」"
+    },
+    {
+      "name": "SUB_COM_LIGHT1",
+      "src": "懐中電灯ＯＮ",
+      "text": "手电筒ON"
+    },
+    {
+      "name": "SUB_COM_LIGHT2",
+      "src": "懐中電灯ＯＦＦ",
+      "text": "手电筒OFF"
+    },
+    {
+      "name": "SUB_COM_NO",
+      "src": "いいえ",
+      "text": "否"
+    },
+    {
+      "name": "SUB_COM_SET_TRAP",
+      "src": "罠設置",
+      "text": "设陷阱"
+    },
+    {
+      "name": "SUB_COM_SHOUT",
+      "src": "叫ぶ",
+      "text": "呼喊"
+    },
+    {
+      "name": "SUB_COM_SMOKE",
+      "src": "発煙筒",
+      "text": "发烟筒"
+    },
+    {
+      "name": "SUB_COM_WAIT",
+      "src": "「待て」",
+      "text": "「等待」"
+    },
+    {
+      "name": "SUB_COM_YES",
+      "src": "はい",
+      "text": "是"
+    }
+  ]
+}

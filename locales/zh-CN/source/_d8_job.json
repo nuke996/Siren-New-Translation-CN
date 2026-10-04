@@ -1,0 +1,438 @@
+{
+ "arch": "common",
+ "font": "SimHei",
+ "items": [
+  {
+   "name": "menu/jp/launcher_store/products/pjp_e02/pjp_e02_title.dds",
+   "size": 18,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "章节2",
+     "y": 0,
+     "x": 1
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/launcher_store/products/pjp_e02/pjp_e02_text.dds",
+   "size": 17,
+   "bold": 0,
+   "align": "left",
+   "lines": [
+    {
+     "text": "被警笛吞噬的人们身上，显现出「幻视」之力……。",
+     "y": 0,
+     "x": 1
+    },
+    {
+     "text": "SIREN: New Translation 困惑·第2章。",
+     "y": 21,
+     "x": 1
+    },
+    {
+     "text": "※本商品也包含在优惠套装之中。",
+     "y": 42,
+     "x": 1
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/launcher_store/products/pjp_e03/pjp_e03_title.dds",
+   "size": 18,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "章节3",
+     "y": 0,
+     "x": 1
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/launcher_store/products/pjp_e03/pjp_e03_text.dds",
+   "size": 17,
+   "bold": 0,
+   "align": "left",
+   "lines": [
+    {
+     "text": "寻找逃出村子之路的少年，遇见了惊慌奔逃的少女……。",
+     "y": 0,
+     "x": 1
+    },
+    {
+     "text": "SIREN: New Translation 怪奇·第3章。",
+     "y": 21,
+     "x": 1
+    },
+    {
+     "text": "※本商品也包含在优惠套装之中。",
+     "y": 42,
+     "x": 1
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/launcher_store/products/pjp_e04/pjp_e04_title.dds",
+   "size": 18,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "章节4",
+     "y": 0,
+     "x": 1
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/launcher_store/products/pjp_e04/pjp_e04_text.dds",
+   "size": 17,
+   "bold": 0,
+   "align": "left",
+   "lines": [
+    {
+     "text": "异境的邂逅。疑惑与不信层层交叠……。",
+     "y": 0,
+     "x": 1
+    },
+    {
+     "text": "SIREN: New Translation 疑念·第4章。",
+     "y": 21,
+     "x": 1
+    },
+    {
+     "text": "※本商品也包含在优惠套装之中。",
+     "y": 42,
+     "x": 1
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/launcher_store/products/pjp_e05/pjp_e05_title.dds",
+   "size": 18,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "章节5",
+     "y": 0,
+     "x": 1
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/launcher_store/products/pjp_e05/pjp_e05_text.dds",
+   "size": 17,
+   "bold": 0,
+   "align": "left",
+   "lines": [
+    {
+     "text": "擦肩而过、终又重逢的人们，寻得了微弱的希望……。",
+     "y": 0,
+     "x": 1
+    },
+    {
+     "text": "SIREN: New Translation 焦躁·第5章。",
+     "y": 21,
+     "x": 1
+    },
+    {
+     "text": "※本商品也包含在优惠套装之中。",
+     "y": 42,
+     "x": 1
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/launcher_store/products/pjp_e06/pjp_e06_title.dds",
+   "size": 18,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "章节6",
+     "y": 0,
+     "x": 1
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/launcher_store/products/pjp_e06/pjp_e06_text.dds",
+   "size": 17,
+   "bold": 0,
+   "align": "left",
+   "lines": [
+    {
+     "text": "受伤倒下的人们。以及，再度站起身来的人……。",
+     "y": 0,
+     "x": 1
+    },
+    {
+     "text": "SIREN: New Translation 混沌·第6章。",
+     "y": 21,
+     "x": 1
+    },
+    {
+     "text": "※本商品也包含在优惠套装之中。",
+     "y": 42,
+     "x": 1
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/launcher_store/products/pjp_e07/pjp_e07_title.dds",
+   "size": 18,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "章节7",
+     "y": 0,
+     "x": 1
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/launcher_store/products/pjp_e07/pjp_e07_text.dds",
+   "size": 17,
+   "bold": 0,
+   "align": "left",
+   "lines": [
+    {
+     "text": "潜入尸人筑成的「巢」。等待着的是灾厄的根源……。",
+     "y": 0,
+     "x": 1
+    },
+    {
+     "text": "SIREN: New Translation 迷宫·第7章。",
+     "y": 21,
+     "x": 1
+    },
+    {
+     "text": "※本商品也包含在优惠套装之中。",
+     "y": 42,
+     "x": 1
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/launcher_store/products/pjp_e08/pjp_e08_title.dds",
+   "size": 18,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "章节8",
+     "y": 0,
+     "x": 1
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/launcher_store/products/pjp_e08/pjp_e08_text.dds",
+   "size": 17,
+   "bold": 0,
+   "align": "left",
+   "lines": [
+    {
+     "text": "被玩弄的命运。在循环往复的时光尽头等待着的……。",
+     "y": 0,
+     "x": 1
+    },
+    {
+     "text": "SIREN: New Translation 混乱·第8章。",
+     "y": 21,
+     "x": 1
+    },
+    {
+     "text": "※本商品也包含在优惠套装之中。",
+     "y": 42,
+     "x": 1
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/launcher_store/products/pjp_e09/pjp_e09_title.dds",
+   "size": 18,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "章节9",
+     "y": 0,
+     "x": 1
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/launcher_store/products/pjp_e09/pjp_e09_text.dds",
+   "size": 17,
+   "bold": 0,
+   "align": "left",
+   "lines": [
+    {
+     "text": "牺牲自己，将希望托付给留下之人的他们……。",
+     "y": 0,
+     "x": 1
+    },
+    {
+     "text": "SIREN: New Translation 绝望·第9章。",
+     "y": 21,
+     "x": 1
+    },
+    {
+     "text": "※本商品也包含在优惠套装之中。",
+     "y": 42,
+     "x": 1
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/launcher_store/products/pjp_e10/pjp_e10_title.dds",
+   "size": 18,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "章节10",
+     "y": 0,
+     "x": 1
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/launcher_store/products/pjp_e10/pjp_e10_text.dds",
+   "size": 17,
+   "bold": 0,
+   "align": "left",
+   "lines": [
+    {
+     "text": "在废屋中醒来时，已被尸人一家所支配……。",
+     "y": 0,
+     "x": 1
+    },
+    {
+     "text": "SIREN: New Translation 噩梦·第10章。",
+     "y": 21,
+     "x": 1
+    },
+    {
+     "text": "※本商品也包含在优惠套装之中。",
+     "y": 42,
+     "x": 1
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/launcher_store/products/pjp_e11/pjp_e11_title.dds",
+   "size": 18,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "章节11",
+     "y": 0,
+     "x": 1
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/launcher_store/products/pjp_e11/pjp_e11_text.dds",
+   "size": 17,
+   "bold": 0,
+   "align": "left",
+   "lines": [
+    {
+     "text": "再次辗转抵达尸人之巢。不愿重逢的重逢……。",
+     "y": 0,
+     "x": 1
+    },
+    {
+     "text": "SIREN: New Translation 死斗·第11章。",
+     "y": 21,
+     "x": 1
+    },
+    {
+     "text": "※本商品也包含在优惠套装之中。",
+     "y": 42,
+     "x": 1
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/launcher_store/products/pjp_e12/pjp_e12_title.dds",
+   "size": 18,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "章节12",
+     "y": 0,
+     "x": 1
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/launcher_store/products/pjp_e12/pjp_e12_text.dds",
+   "size": 17,
+   "bold": 0,
+   "align": "left",
+   "lines": [
+    {
+     "text": "命运的轮回被斩断，最后留下的是冲击性的事实……。",
+     "y": 0,
+     "x": 1
+    },
+    {
+     "text": "SIREN: New Translation 惊愕·最终章。",
+     "y": 21,
+     "x": 1
+    },
+    {
+     "text": "※本商品也包含在优惠套装之中。",
+     "y": 42,
+     "x": 1
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/launcher_store/products/pjp_full/pjp_full_title.dds",
+   "size": 18,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "全章节套装",
+     "y": 0,
+     "x": 1
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/launcher_store/products/pjp_full/pjp_full_text.dds",
+   "size": 17,
+   "bold": 0,
+   "align": "left",
+   "lines": [
+    {
+     "text": "收录全部章节的优惠商品。",
+     "y": 0,
+     "x": 1
+    },
+    {
+     "text": "※本商品为章节2～12的全部章节组成的套装。",
+     "y": 21,
+     "x": 1
+    },
+    {
+     "text": "请注意不要重复购买。",
+     "y": 42,
+     "x": 1
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,772 @@
+{
+ "arch": "common",
+ "font": "SimHei",
+ "items": [
+  {
+   "name": "menu/jp/etc_timecount/place_jp/menu_timecount_s01_spot1.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "下粗户",
+     "y": 1
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/etc_timecount/place_other/menu_timecount_s01_spot2.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "下粗户",
+     "y": 1
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/etc_timecount/place_jp/menu_timecount_s02_spot1.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "合石岳　羽生蛇矿山",
+     "y": 1
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/etc_timecount/place_other/menu_timecount_s02_spot2.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "合石岳　羽生蛇矿山",
+     "y": 1
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/etc_timecount/place_jp/menu_timecount_s03_spot1.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "波罗宿村落",
+     "y": 1
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/etc_timecount/place_other/menu_timecount_s03_spot2.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "波罗宿村落",
+     "y": 1
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/etc_timecount/place_jp/menu_timecount_s04_spot1.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "比良境　犀贺医院",
+     "y": 1
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/etc_timecount/place_other/menu_timecount_s04_spot2.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "比良境　犀贺医院",
+     "y": 1
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/etc_timecount/place_jp/menu_timecount_s05_spot1.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "刈割",
+     "y": 1
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/etc_timecount/place_other/menu_timecount_s05_spot2.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "刈割",
+     "y": 1
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/etc_timecount/place_jp/menu_timecount_s06_spot1.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "波罗宿村落",
+     "y": 1
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/etc_timecount/place_other/menu_timecount_s06_spot2.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "波罗宿村落",
+     "y": 1
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/etc_timecount/place_jp/menu_timecount_s07_spot1.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "田堀　伊东家",
+     "y": 1
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/etc_timecount/place_other/menu_timecount_s07_spot2.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "田堀　伊东家",
+     "y": 1
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/etc_timecount/place_jp/menu_timecount_s08_spot1.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "比良境　犀贺医院",
+     "y": 1
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/etc_timecount/place_other/menu_timecount_s08_spot2.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "比良境　犀贺医院",
+     "y": 1
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/etc_timecount/place_jp/menu_timecount_s09_spot1.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "合石岳　羽生蛇矿山",
+     "y": 1
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/etc_timecount/place_other/menu_timecount_s09_spot2.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "合石岳　羽生蛇矿山",
+     "y": 1
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/etc_timecount/place_jp/menu_timecount_s10_spot1.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "刈割",
+     "y": 1
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/etc_timecount/place_other/menu_timecount_s10_spot2.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "刈割",
+     "y": 1
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/etc_timecount/place_jp/menu_timecount_s11_spot1.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "上粗户　尸人之巢",
+     "y": 1
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/etc_timecount/place_other/menu_timecount_s11_spot2.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "上粗户　尸人之巢",
+     "y": 1
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/etc_timecount/place_jp/menu_timecount_s12_spot1.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "尸人之巢　中枢",
+     "y": 1
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/etc_timecount/place_other/menu_timecount_s12_spot2.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "尸人之巢　中枢",
+     "y": 1
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/etc_timecount/place_jp/menu_timecount_s13_spot1.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "合石岳　羽生蛇矿山",
+     "y": 1
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/etc_timecount/place_other/menu_timecount_s13_spot2.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "合石岳　羽生蛇矿山",
+     "y": 1
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/etc_timecount/place_jp/menu_timecount_s14_spot1.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "比良境　犀贺医院",
+     "y": 1
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/etc_timecount/place_other/menu_timecount_s14_spot2.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "比良境　犀贺医院",
+     "y": 1
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/etc_timecount/place_jp/menu_timecount_s15_spot1.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "刈割",
+     "y": 1
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/etc_timecount/place_other/menu_timecount_s15_spot2.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "刈割",
+     "y": 1
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/etc_timecount/place_jp/menu_timecount_s16_spot1.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "刈割",
+     "y": 1
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/etc_timecount/place_other/menu_timecount_s16_spot2.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "刈割",
+     "y": 1
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/etc_timecount/place_jp/menu_timecount_s17_spot1.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "波罗宿村落",
+     "y": 1
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/etc_timecount/place_other/menu_timecount_s17_spot2.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "波罗宿村落",
+     "y": 1
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/etc_timecount/place_jp/menu_timecount_s18_spot1.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "波罗宿村落",
+     "y": 1
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/etc_timecount/place_other/menu_timecount_s18_spot2.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "波罗宿村落",
+     "y": 1
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/etc_timecount/place_jp/menu_timecount_s19_spot1.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "田堀　伊东家",
+     "y": 1
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/etc_timecount/place_other/menu_timecount_s19_spot2.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "田堀　伊东家",
+     "y": 1
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/etc_timecount/place_jp/menu_timecount_s20_spot1.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "合石岳　羽生蛇矿山",
+     "y": 1
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/etc_timecount/place_other/menu_timecount_s20_spot2.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "合石岳　羽生蛇矿山",
+     "y": 1
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/etc_timecount/place_jp/menu_timecount_s21_spot1.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "上粗户　尸人之巢",
+     "y": 1
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/etc_timecount/place_other/menu_timecount_s21_spot2.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "上粗户　尸人之巢",
+     "y": 1
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/etc_timecount/place_jp/menu_timecount_s22_spot1.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "尸人之巢　中枢",
+     "y": 1
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/etc_timecount/place_other/menu_timecount_s22_spot2.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "尸人之巢　中枢",
+     "y": 1
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/etc_timecount/place_jp/menu_timecount_s23_spot1.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "炼狱",
+     "y": 1
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/etc_timecount/place_other/menu_timecount_s23_spot2.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "炼狱",
+     "y": 1
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/etc_timecount/place_jp/menu_timecount_s24_spot1.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "数据缺失",
+     "y": 1
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/etc_timecount/place_other/menu_timecount_s24_spot2.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "数据缺失",
+     "y": 1
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/etc_timecount/place_jp/menu_timecount_s25_spot1.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "合石岳　羽生蛇矿山",
+     "y": 1
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/etc_timecount/place_other/menu_timecount_s25_spot2.dds",
+   "size": 22,
+   "bold": 1,
+   "align": "right",
+   "lines": [
+    {
+     "text": "合石岳　羽生蛇矿山",
+     "y": 1
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/etc_timecount/name/menu_status_name_amana.dds",
+   "size": 62,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "阿玛娜",
+     "y": 8,
+     "x": 2
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/etc_timecount/name/menu_status_name_bella.dds",
+   "size": 62,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "贝拉·门罗",
+     "y": 8,
+     "x": 2
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/etc_timecount/name/menu_status_name_howard.dds",
+   "size": 62,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "霍华德·莱特",
+     "y": 8,
+     "x": 2
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/etc_timecount/name/menu_status_name_kobe.dds",
+   "size": 62,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "河边幸江",
+     "y": 6,
+     "x": 2
+    }
+   ],
+   "keep": true,
+   "clear": [
+    {
+     "x": 0,
+     "y": 0,
+     "w": 420,
+     "h": 78
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/etc_timecount/name/menu_status_name_melissa.dds",
+   "size": 62,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "梅丽莎·盖尔",
+     "y": 8,
+     "x": 2
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/etc_timecount/name/menu_status_name_miyako.dds",
+   "size": 62,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "美耶古",
+     "y": 6,
+     "x": 2
+    }
+   ],
+   "keep": true,
+   "clear": [
+    {
+     "x": 0,
+     "y": 0,
+     "w": 420,
+     "h": 78
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/etc_timecount/name/menu_status_name_saiga.dds",
+   "size": 62,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "犀贺省悟",
+     "y": 6,
+     "x": 2
+    }
+   ],
+   "keep": true,
+   "clear": [
+    {
+     "x": 0,
+     "y": 0,
+     "w": 420,
+     "h": 78
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/etc_timecount/name/menu_status_name_sam.dds",
+   "size": 62,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "山姆·门罗",
+     "y": 8,
+     "x": 2
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/etc_timecount/name/menu_status_name_shimada.dds",
+   "size": 62,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "岛田习次",
+     "y": 6,
+     "x": 2
+    }
+   ],
+   "keep": true,
+   "clear": [
+    {
+     "x": 0,
+     "y": 0,
+     "w": 420,
+     "h": 78
+    }
+   ]
+  },
+  {
+   "name": "menu/jp/etc_timecount/name/menu_status_name_sol.dds",
+   "size": 62,
+   "bold": 1,
+   "align": "left",
+   "lines": [
+    {
+     "text": "索尔·杰克逊",
+     "y": 8,
+     "x": 2
+    }
+   ]
+  }
+ ]
+}

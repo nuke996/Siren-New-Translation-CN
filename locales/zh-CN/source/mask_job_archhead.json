@@ -1,0 +1,10 @@
+{
+  "arch": "common",
+  "font": "SimHei",
+  "items": [
+    { "name": "menu/jp/main_archive/element/menu_archive_head_chr.dds", "size": 22, "bold": 0, "align": "left",
+      "lines": [ { "text": "获得人物／", "y": 0 }, { "text": "获得时间／", "y": 32 }, { "text": "获得地点／", "y": 65 }, { "text": "获得条件／", "y": 96 } ] },
+    { "name": "menu/jp/main_archive/element/menu_archive_head_group.dds", "size": 22, "bold": 0, "align": "left",
+      "lines": [ { "text": "分类／", "y": 0 }, { "text": "强度／", "y": 33 } ] }
+  ]
+}
