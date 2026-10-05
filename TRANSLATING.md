@@ -113,17 +113,145 @@ data stays reviewable.
 
 # 6. Terminology & consistency
 
-- Character names and place names must be consistent across all channels.
-  `アマナ` → `阿玛娜`; interpunct in names is `·` (e.g. `霍华德·莱特`).
+Character names, place names and proper nouns must be consistent across **all
+channels** (subtitles, chapter/UI text, documents, baked menus, item names).
+The tables below are the canonical zh-CN glossary. The **source of truth is the
+current `translator-view/`** — translation edits are made and committed there.
+Where an older `source/` draft disagrees, the glossary wins: treat the draft as
+stale and correct it on the next import.
+
+Cross-cutting rules:
+
+- The name interpunct is the middle dot `·` (`霍华德·莱特`), never `・`/`•`.
+- Once a proper noun has a canonical form, keep those exact characters
+  everywhere; do not paraphrase or split it.
+- `マナ` (the religion and its symbols) is rendered `真鱼`, **not** by phonetic
+  transliteration — hence `マナ字架` → `真鱼字架`, not `玛娜字架`/`玛纳字架`.
+- Do not merge identical JP strings blindly; identical JP text can carry
+  different meanings.
+
+## 6.1 Characters
+
+| JP | zh-CN | Notes |
+|---|---|---|
+| ハワード・ライト | 霍华德·莱特 | protagonist |
+| メリッサ・ゲイル | 梅丽莎·盖尔 | |
+| サム・モンロー | 山姆·门罗 | |
+| ベラ・モンロー | 贝拉·门罗 | |
+| ソル・ジャクソン | 索尔·杰克逊 | |
+| アマナ | 阿玛娜 | 求导女 (shrine maiden) |
+| 美耶古 | 美耶古 | 依巫 (medium) |
+| 犀賀省悟 | 犀贺省悟 | 犀贺家 |
+| 河辺幸江 | 河边幸江 | |
+| 嶋田習次 | 岛田习次 | police officer |
+| 三田村（秀人） | 三田村（秀人） | |
+| リリアン | 莉莉安 | doll / obtainable item |
+
+## 6.2 Places
+
+| JP | zh-CN | Notes |
+|---|---|---|
+| 羽生蛇村 | 羽生蛇村 | |
+| 羽生蛇鉱山 | 羽生蛇矿山 | 羽生蛇鉱山株式会社 → 羽生蛇矿山株式会社 |
+| 合石岳 | 合石岳 | |
+| 下粗戸 | 下粗户 | |
+| 上粗戸 | 上粗户 | 上粗戸トンネル → 上粗户隧道 |
+| 波罗宿村落 | 波罗宿村落 | 波罗宿駅 → 波罗宿车站; 波罗宿祈祷所 → 波罗宿祈祷所 |
+| 比良境 | 比良境 | 比良境 犀賀医院 → 比良境　犀贺医院 |
+| 刈割 | 刈割 | |
+| 田堀 | 田堀 | 田堀 伊東家 → 田堀　伊东家 |
+| 不入谷聖堂 | 不入谷圣堂 | |
+| 屍人の巣 | 尸人之巢 | 中枢 → 中枢 |
+| 煉獄 | 炼狱 | endgame area |
+| 常世 | 常世 | |
+
+Outlying landmark names (rooms, stairs, shops) follow the map sheet
+`d12/part_landmark.json` as the authority.
+
+## 6.3 Religion, lore & proper nouns
+
+| JP | zh-CN | Notes |
+|---|---|---|
+| 真魚教 | 真鱼教 | |
+| マナ字架 | 真鱼字架 | **never** 玛娜字架 / 玛纳字架 |
+| 御蚕子様 | 御蚕子大人 | |
+| 蚕子 | 蚕子 | s23 boss |
+| 聖画 | 圣画 | |
+| 天地救之伝 | 天地救之传 | |
+| 宇理炎 | 宇理炎 | its flame: 炼狱之炎 → 炼狱之炎 |
+| 尊体拝領 | 尊体拜领 | |
+| 虚母ろ主 | 虚母吕主 | item name keeps `ろ` — see §6.6 |
+| 焔薙 | 焰薙 | katana; 焔薙秘録 → 焰薙秘录 |
+| 来訪神 | 来访神 | |
+| 四精霊 | 四精灵 | |
+| 求導女 | 求导女 | |
+| 依巫 | 依巫 | |
+| 聖女 | 圣女 | |
+| 異教 | 异教 | |
+| 美耶古祭文 | 美耶古祭文 | |
+| 羽生蛇村民話集 | 羽生蛇村民间故事集 | |
+| 合石岳異記 | 合石岳异记 | |
+| 十尺ノ異人ノ事 | 十尺异人之事 | |
+| はにゅうめん | 羽生面 | |
+| ハニュウダカブト | 羽生独角仙 | |
+| 世界UMA大百科事典 | 世界UMA大百科事典 | |
+
+## 6.4 Enemies
+
+| JP | zh-CN | Notes |
+|---|---|---|
+| 屍人 | 尸人 | generic term |
+| 頭脳屍人 | 头脑尸人 | |
+| 蜘蛛屍人 | 蜘蛛尸人 | |
+| 羽根屍人 | 羽根尸人 | |
+| 女屍人 | 女尸人 | |
+| 怪力屍人 | 怪力尸人 | |
+| 追従者 | 追随者 | |
+| スス人 | 烬人 | スス人アラワレ → 烬人显现 |
+
+## 6.5 UI & system terms
+
+| JP | zh-CN | Notes |
+|---|---|---|
+| 視界ジャック | 视界劫持 | core mechanic |
+| 副指令 | 副指令 | sub-command |
+| 視界登録 | 视界登记 | |
+| 警報システム | 警戒系统 | |
+| エピソード | 剧集 | |
+| チャプター | 章节 | |
+| アーカイブ | 档案 | |
+| 称号 | 称号 | clear title |
+
+## 6.6 Open consistency issues
+
+Correct these when the affected channel is next touched; the canonical column
+wins.
+
+| Concept | Canonical | Older variant still in data | Where the variant lives |
+|---|---|---|---|
+| マナ字架 | 真鱼字架 | 玛娜字架 | `zh_draft_chapter_s13/s18.json`, `zh_draft_common.json` |
+| マナ字架 | 真鱼字架 | 玛纳字架 | `archive_zh.json`, `archzh/batch_02/04.json` |
+| 視界ジャック | 视界劫持 | 视野劫持 | `zh_draft_sxx1.json` |
+| 尊体拝領 | 尊体拜领 | 尊体拝领 | `07_archive_documents.json` |
+| 警報システム | 警戒系统 | 警报系统 | `06_guide_tutorial.json` |
+| 依巫 | 依巫 | 巫女 | `07_archive_documents.json` |
+| 煉獄の炎 | 炼狱之炎 | 炼狱之焰 | `zh_draft_chapter_s23.json` (`S23_ACTION_COMMAND001`) |
+
+The placename `三隅`／`三隈` is rendered inconsistently in the **original
+Japanese** (e.g. `三隅郡` vs `三隈郡`, `三隈日報`, `三隈署`); the translation
+currently mirrors the JP per occurrence. Decide whether to keep mirroring or
+unify before release.
+
+Additional standing rules:
+
 - **Item names** must match the authoritative names baked in
   `menu/jp/main_status/{weapon,item}_name/name_i_*.dds` (translated in
   `d12/trans.json`). The three text systems `AC_CHANGENAME_*`,
   `AC_PICK_UPNAME_*` and `GET_ITEMNAME_*` must agree (`_itemfix.js` enforces
   this; `I_EV_*` is skipped by design).
-- Do not merge identical source strings blindly; identical JP text can have
-  different meanings.
 - `ARCHIVE030` intentionally keeps the Japanese `ろ` (phonetic Uroboros spelling,
-  `圣画 -虚母ろ主-`); it is whitelisted in the audit.
+  `圣画 -虚母ろ主-`); it is whitelisted in the audit. The **document body** for
+  the same word uses `虚母吕主`.
 
 ---
 
