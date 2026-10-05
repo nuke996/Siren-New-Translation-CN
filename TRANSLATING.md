@@ -216,31 +216,19 @@ Outlying landmark names (rooms, stairs, shops) follow the map sheet
 | 視界ジャック | 视界劫持 | core mechanic |
 | 副指令 | 副指令 | sub-command |
 | 視界登録 | 视界登记 | |
-| 警報システム | 警戒系统 | |
+| 警報システム | 警报系统 | |
 | エピソード | 剧集 | |
 | チャプター | 章节 | |
 | アーカイブ | 档案 | |
 | 称号 | 称号 | clear title |
 
-## 6.6 Open consistency issues
+## 6.6 Corrected transcription: 羽生蛇村's district name
 
-Correct these when the affected channel is next touched; the canonical column
-wins.
-
-| Concept | Canonical | Older variant still in data | Where the variant lives |
-|---|---|---|---|
-| マナ字架 | 真鱼字架 | 玛娜字架 | `zh_draft_chapter_s13/s18.json`, `zh_draft_common.json` |
-| マナ字架 | 真鱼字架 | 玛纳字架 | `archive_zh.json`, `archzh/batch_02/04.json` |
-| 視界ジャック | 视界劫持 | 视野劫持 | `zh_draft_sxx1.json` |
-| 尊体拝領 | 尊体拜领 | 尊体拝领 | `07_archive_documents.json` |
-| 警報システム | 警戒系统 | 警报系统 | `06_guide_tutorial.json` |
-| 依巫 | 依巫 | 巫女 | `07_archive_documents.json` |
-| 煉獄の炎 | 炼狱之炎 | 炼狱之焰 | `zh_draft_chapter_s23.json` (`S23_ACTION_COMMAND001`) |
-
-The placename `三隅`／`三隈` is rendered inconsistently in the **original
-Japanese** (e.g. `三隅郡` vs `三隈郡`, `三隈日報`, `三隈署`); the translation
-currently mirrors the JP per occurrence. Decide whether to keep mirroring or
-unify before release.
+The district name in the 羽生蛇村 address is `三隅` everywhere (`三隅郡`). Some
+archive pages (`a33`, the newspaper) had been mis-transcribed as `三隈` in the
+`jp` reference field. Re-checked against the original archive-page masks
+(`work/archdds/…`), the originals are indeed `三隅`, so every occurrence — `jp`
+and `zh` alike — was unified to `三隅`.
 
 Additional standing rules:
 

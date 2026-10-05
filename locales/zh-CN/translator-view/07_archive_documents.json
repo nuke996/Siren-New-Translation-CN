@@ -142,7 +142,7 @@
     {
       "id": "menu/jp/main_archive/archives/01/a01_text_8.dds::3",
       "jp": "屍人ノ巣でサムによって発見された「天地救之伝」原本の最終頁。",
-      "zh": "此乃萨姆于尸人之巢中寻得的《天地救之传》原典之末页。"
+      "zh": "此乃山姆于尸人之巢中寻得的《天地救之传》原典之末页。"
     },
     {
       "id": "menu/jp/main_archive/archives/01/a01_text_8.dds::4",
@@ -467,12 +467,12 @@
     {
       "id": "menu/jp/main_archive/archives/07/a07_text_1.dds::2",
       "jp": "サム・モンロー",
-      "zh": "萨姆·门罗"
+      "zh": "山姆·门罗"
     },
     {
       "id": "menu/jp/main_archive/archives/07/a07_text_2.dds::0",
       "jp": "サムが受け持つ講義の自作パンフレット。",
-      "zh": "萨姆所授课程的亲手制作的小册子。"
+      "zh": "山姆所授课程的亲手制作的小册子。"
     },
     {
       "id": "menu/jp/main_archive/archives/07/a07_text_2.dds::1",
@@ -482,7 +482,7 @@
     {
       "id": "menu/jp/main_archive/archives/07/a07_text_2.dds::2",
       "jp": "【サム・モンローの講義紹介】",
-      "zh": "【萨姆·门罗的课程介绍】"
+      "zh": "【山姆·门罗的课程介绍】"
     },
     {
       "id": "menu/jp/main_archive/archives/07/a07_text_2.dds::3",
@@ -512,7 +512,7 @@
     {
       "id": "menu/jp/main_archive/archives/07/a07_text_2.dds::8",
       "jp": "マシソン大学の人類学部に所属するサム・モンロー博士。",
-      "zh": "隶属于马西森大学人类学系的萨姆·门罗博士。"
+      "zh": "隶属于马西森大学人类学系的山姆·门罗博士。"
     },
     {
       "id": "menu/jp/main_archive/archives/07/a07_text_2.dds::9",
@@ -1152,7 +1152,7 @@
     {
       "id": "menu/jp/main_archive/archives/15/a15_text_2.dds::4",
       "jp": "美耶古トイウ名ヲ与エラレタ依巫ガ来訪神ニ祈リヲ捧ゲテイタト伝エラレテイル。",
-      "zh": "相传一位被赐名“美耶古”的巫女曾向来访神献上祈祷。"
+      "zh": "相传一位被赐名“美耶古”的依巫曾向来访神献上祈祷。"
     },
     {
       "id": "menu/jp/main_archive/archives/15/a15_text_2.dds::5",
@@ -1612,12 +1612,12 @@
     {
       "id": "menu/jp/main_archive/archives/24/a24_text_1.dds::1",
       "jp": "その身を犠牲にして飢饉で苦しむ村人を救ったという尊体拝領伝承が描かれた聖画。",
-      "zh": "描绘了其牺牲己身、拯救饱受饥荒之苦的村民这一“尊体拝领”传说的圣画。"
+      "zh": "描绘了其牺牲己身、拯救饱受饥荒之苦的村民这一“尊体拜领”传说的圣画。"
     },
     {
       "id": "menu/jp/main_archive/archives/24/a24_text_1.dds::2",
       "jp": "尊体拝領が行われたと言われる土地は聖地とされ、足を踏み入れることが禁じられている。",
-      "zh": "据说举行过尊体拝领的土地被视为圣地，禁止踏入。"
+      "zh": "据说举行过尊体拜领的土地被视为圣地，禁止踏入。"
     },
     {
       "id": "menu/jp/main_archive/archives/25/a25_text_1.dds::0",
@@ -2246,8 +2246,8 @@
     },
     {
       "id": "menu/jp/main_archive/archives/33/a33_text_2.dds::0",
-      "jp": "三隈日報　夕刊",
-      "zh": "三隈日报　晚刊"
+      "jp": "三隅日報　夕刊",
+      "zh": "三隅日报　晚刊"
     },
     {
       "id": "menu/jp/main_archive/archives/33/a33_text_2.dds::1",
@@ -2266,8 +2266,8 @@
     },
     {
       "id": "menu/jp/main_archive/archives/33/a33_text_2.dds::4",
-      "jp": "三十日午前六時ごろ、三隈郡羽生蛇村の国道333号崖下に転落している乗用車を、",
-      "zh": "三十日上午六时许，一辆坠落在三隈郡羽生蛇村国道333号旁崖下的轿车，"
+      "jp": "三十日午前六時ごろ、三隅郡羽生蛇村の国道333号崖下に転落している乗用車を、",
+      "zh": "三十日上午六时许，一辆坠落在三隅郡羽生蛇村国道333号旁崖下的轿车，"
     },
     {
       "id": "menu/jp/main_archive/archives/33/a33_text_2.dds::5",
@@ -2291,8 +2291,8 @@
     },
     {
       "id": "menu/jp/main_archive/archives/33/a33_text_2.dds::9",
-      "jp": "三隈署の調べによると、現場は見通しの良い一本道であり、ブレーキ痕はなかった。",
-      "zh": "据三隈警署调查，现场为视野良好的一条直路，并未留下刹车痕迹。"
+      "jp": "三隅署の調べによると、現場は見通しの良い一本道であり、ブレーキ痕はなかった。",
+      "zh": "据三隅警署调查，现场为视野良好的一条直路，并未留下刹车痕迹。"
     },
     {
       "id": "menu/jp/main_archive/archives/33/a33_text_2.dds::10",
@@ -2657,12 +2657,12 @@
     {
       "id": "menu/jp/main_archive/archives/44/a44_text_1.dds::1",
       "jp": "サムが講義やフィールドワークの内容を記録するために携帯していたもの。",
-      "zh": "萨姆为记录讲义与实地调查的内容而随身携带之物。"
+      "zh": "山姆为记录讲义与实地调查的内容而随身携带之物。"
     },
     {
       "id": "menu/jp/main_archive/archives/44/a44_text_1.dds::2",
       "jp": "ソルと別行動になってからのサムの行動と見解が、独白形式で録音されている。",
-      "zh": "与索尔分开行动之后，萨姆的所作所为与见解，以独白的形式被录制下来。"
+      "zh": "与索尔分开行动之后，山姆的所作所为与见解，以独白的形式被录制下来。"
     },
     {
       "id": "menu/jp/main_archive/archives/45/a45_text_1.dds::0",
@@ -2762,7 +2762,7 @@
     {
       "id": "menu/jp/main_archive/archives/46/a46_text_1.dds::12",
       "jp": "サム・モンローより",
-      "zh": "萨姆·门罗　敬上"
+      "zh": "山姆·门罗　敬上"
     },
     {
       "id": "menu/jp/main_archive/archives/46/a46_text_1.dds::13",
