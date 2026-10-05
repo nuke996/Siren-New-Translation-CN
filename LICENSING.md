@@ -1,3 +1,5 @@
+[English](LICENSING.md) | [简体中文](LICENSING.zh-CN.md)
+
 # Licensing
 
 This document describes the licensing boundaries of the localization project.

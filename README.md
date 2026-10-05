@@ -1,3 +1,5 @@
+[English](README.md) | [简体中文](README.zh-CN.md)
+
 # SIREN: New Translation (BCJS30020) — Simplified-Chinese Localization
 
 Source, translation data, tooling, reverse-engineering notes and a reproducible

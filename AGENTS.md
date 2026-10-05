@@ -1,3 +1,5 @@
+[English](AGENTS.md) | [简体中文](AGENTS.zh-CN.md)
+
 # Game Localization Project Instructions
 
 This repository is a game localization project.

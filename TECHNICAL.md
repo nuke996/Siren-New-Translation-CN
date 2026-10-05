@@ -1,3 +1,5 @@
+[English](TECHNICAL.md) | [简体中文](TECHNICAL.zh-CN.md)
+
 # Technical Notes
 
 Reverse-engineering findings, implementation details and unresolved technical

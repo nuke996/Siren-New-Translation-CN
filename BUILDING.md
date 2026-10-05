@@ -1,3 +1,5 @@
+[English](BUILDING.md) | [简体中文](BUILDING.zh-CN.md)
+
 # Building
 
 How to rebuild the SIREN: New Translation (BCJS30020) zh-CN localization from a

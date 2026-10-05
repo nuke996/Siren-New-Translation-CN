@@ -1,3 +1,5 @@
+[English](TRANSLATING.md) | [简体中文](TRANSLATING.zh-CN.md)
+
 # Translating
 
 Translation workflow, data formats and text-safety rules for the zh-CN
