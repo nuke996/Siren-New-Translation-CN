@@ -2731,7 +2731,7 @@
     {
       "id": "ui_job::mask_job_mission::menu/jp/etc_mission/japanese/s09_object_main.dds::0",
       "jp": "",
-      "zh": "击退「追随者」。",
+      "zh": "击退「追迹者」。",
       "ref": "refs/menu_jp_etc_mission_japanese_s09_object_main_dds.png"
     },
     {
@@ -2911,7 +2911,7 @@
     {
       "id": "ui_job::mask_job_results::menu/jp/launcher_results/mission/s09_object_main.dds::0",
       "jp": "",
-      "zh": "击退「追随者」",
+      "zh": "击退「追迹者」",
       "ref": "refs/menu_jp_launcher_results_mission_s09_object_main_dds.png"
     },
     {

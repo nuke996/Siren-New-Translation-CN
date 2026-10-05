@@ -379,6 +379,7 @@ tool is later reused.
 | `_tbladd.js`, `_tblcov.js`, `_fprobe2.js`, `_frender.js`, `_fontcrop.js` | global font atlas extension / verification | project |
 | `_deploy.js`, `_chapterdeploy.js`, `_mirrorsync.js`, `_depcheck.js`, `_repack_disc.js` | deploy (HDD+mirror) and disc repack | project |
 | `_i18n_export.js`, `_i18n_import.js`, `_i18n_lib.js`, `_pipeline.js` | translator round-trip and shared build pipeline | project |
+| `_validate_i18n.js` | translator-view pre-flight validation (marks/kana/control/placeholder/missing-glyph) + build-diagnostic aggregation | project |
 | `_subaudit.js`, `_itemaudit.js`, `_chapaudit.js`, `_jmkaudit.js`, `_magicscan.js`, `_finalaudit.js` | automated audits | project |
 | `render_text.ps1` | GDI+ glyph rendering | project |
 | RPCS3 | runtime verification | upstream (emulator) |

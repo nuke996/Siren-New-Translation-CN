@@ -55,7 +55,7 @@
     {
       "id": "d12::menu/jp/main_map/text_mission/s09_object_main.dds",
       "jp": "",
-      "zh": "击退「追随者」。",
+      "zh": "击退「追迹者」。",
       "ref": "refs/menu_jp_main_map_text_mission_s09_object_main_dds.png"
     },
     {
@@ -2281,7 +2281,7 @@
     {
       "id": "d12::menu/jp/main_map/text_smallaim/s09_object02_04.dds",
       "jp": "",
-      "zh": "把「追随者」引到地面",
+      "zh": "把「追迹者」引到地面",
       "ref": "refs/menu_jp_main_map_text_smallaim_s09_object02_04_dds.png"
     },
     {
@@ -5149,7 +5149,7 @@
     {
       "id": "d12::menu/jp/main_map/text_aim/s09_object02_00.dds",
       "jp": "",
-      "zh": "击退「追随者」。",
+      "zh": "击退「追迹者」。",
       "ref": "refs/menu_jp_main_map_text_aim_s09_object02_00_dds.png"
     },
     {

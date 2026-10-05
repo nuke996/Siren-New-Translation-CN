@@ -5,7 +5,7 @@ const __P = require('./_config.js');
 // For each chapter the game bakes its objective lines as one text line per
 // MSN_DATA record into hud/mission/sNN_mission.dds, with the record giving
 // (a=y offset, b=ink width, c=line height).  This tool re-renders every line in
-// Chinese (text reused from the D12/D1 translation data via work/msn/*.json),
+// Chinese (text reused from the D12/D1 translation data via work/d12/trans.json),
 // pastes it back into the DXT1 atlas and updates the `b` width field.
 //
 // usage: node _msnbuild.js [--deploy] [tag ...]      (default: all chapters)
@@ -29,7 +29,7 @@ fs.mkdirSync(TMP, { recursive: true });
 
 // ---------- translation resolution ----------
 const items = {};
-for (const f of ['trans.json', 'part_smallaim_1.json', 'part_smallaim_2.json', 'part_status.json', 'part_landmark.json']) {
+for (const f of ['trans.json']) {
   if (!fs.existsSync(D12 + f)) continue;
   const j = JSON.parse(fs.readFileSync(D12 + f, 'utf8'));
   for (const [k, v] of Object.entries(j.items || j)) {

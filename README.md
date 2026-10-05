@@ -249,5 +249,6 @@ respective rights holders. Do not commit complete proprietary game files.
 
 - Original game: SCE Japan Studio / Team Siren, published by Sony Computer
   Entertainment.
+- Project owner: nobina
 - Localization tooling, reverse-engineering and translation: project
   contributors (see repository history).

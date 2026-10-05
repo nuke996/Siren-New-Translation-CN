@@ -1,4 +1,4 @@
-﻿# Building
+# Building
 
 How to rebuild the SIREN: New Translation (BCJS30020) zh-CN localization from a
 clean repository checkout plus a user-supplied original game.
@@ -230,6 +230,13 @@ version and fail on mismatch.
 
 Because there is no compiler, "validation" is the audit tooling plus in-game
 testing. Before release:
+
+The translator round-trip is checked automatically: `_validate_i18n.js` runs after
+`-Task export` and before `-Task import` writes anything (an ERROR aborts the
+import unless `--force`), reporting the view file, entry `id` and the offending
+sentence; the import additionally summarises the build diagnostics
+(`work/import/_fitfail.txt`, `_capskip.txt`, `_cap_*.txt`). The audits below are
+still run manually.
 
 - `_subaudit.js` → no unmapped glyphs / residual Japanese (whitelist for
   intentional kana such as `ARCHIVE030`)

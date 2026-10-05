@@ -176,6 +176,14 @@ deploys and refreshes `dist`. After a large font change, visually re-check
 
 Automated (run before release, see `BUILDING.md` §10):
 
+- `_validate_i18n.js` — **runs automatically** on `导出汉化.bat` (after export)
+  and `导入汉化.bat` (before writing; an ERROR aborts the import unless `--force`).
+  It flags `◇`/`※` (font channels), stray kana, control characters, placeholder
+  mismatches and global-font missing glyphs, naming the **view file, entry `id`
+  and the offending sentence** (e.g.
+  `09_menu_d12.json :: d12::menu/…/s15_object01_02.dds :: JP_KANA :: "…"`). The
+  import also surfaces the build diagnostics `work/import/_fitfail.txt`,
+  `_capskip.txt` and `_cap_*.txt` (glyph-atlas records that do not fit).
 - `_subaudit.js` — residual Japanese / unmapped glyphs across all deployed tables
 - `_itemaudit.js` / `_itemfix.js` — item-name consistency
 - `_chapaudit.js`, `_jmkaudit.js`, `_magicscan.js`, `_finalaudit.js` — record

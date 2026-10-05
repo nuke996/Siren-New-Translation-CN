@@ -525,3 +525,47 @@ bytes.
 localized text in a PowerShell/Node layer saved as UTF-8 **with** BOM. Inside
 ASCII batch text, escape or avoid `><|&^()`; in particular `echo a -> b` will try
 to redirect to a file named `b`.
+
+---
+
+# 28. A stale duplicate small-aim source silently overrode the merged one (HUD kept the old text)
+
+**Symptom:** a `text_smallaim` string edited in
+`locales/zh-CN/translator-view/09_menu_d12.json` updates the **map** textures but
+the **HUD top-left mission prompt** keeps the old text (and vice versa for a
+genuine change, e.g. `把「追随者」引到地面`). Reproduced with `s15` `解除「人间」→
+「人类」的封印` (`…/text_smallaim/s15_object01_02.dds`) and `s09`
+`s09_object02_04`. The two locations looked like "separately stored textures",
+which they are — but they read two copies of the same string.
+
+**Cause:** the 375 `menu/jp/main_map/text_smallaim/sNN_objectMM_PP.dds` strings
+exist **twice**:
+
+- `d12/trans.json` — the merged source the translator round-trip reads/writes
+  (`_i18n_lib.js` `d12Unit`) and the only input to `_d12gen.js`, which builds the
+  **map** textures;
+- `d12/part_smallaim_1.json` (195) + `part_smallaim_2.json` (180) — an exact
+  partition of the same 375 keys (195 + 180 = 375), i.e. a duplicate copy.
+
+`_msnbuild.js` (which bakes the **HUD** atlas `hud/mission/sNN_mission.dds`)
+loaded `trans.json` **first** and then the two part files, so
+`part_smallaim_*` **overwrote** the fresh values with its stale ones. Only
+`trans.json` is maintained by the translator flow, and nothing regenerates the
+part files (`_d12c.js` merges the parts *into* `trans.json`, but it is **not** in
+`_pipeline.js`), so the two copies silently diverged.
+
+**Fix (2026):** `_msnbuild.js`, `_msncov.js` and `_msnmap.js` now read **only**
+`d12/trans.json` (the merged source); the part files are no longer loaded. The
+HUD atlas rebuilds with the current translation (verified in
+`work/msn/sNN_zh.png`). `trans.json` already contains the full 375/75/25
+small-aim / aim / mission keys, so coverage is unchanged (`_msncov`:
+`covered=246 uncovered=1`).
+
+**Rule:** keep **one** authoritative source per string. When a builder loads
+several files with "last file wins", make sure they are the *same logical set* and
+that every writer maintains *every* one of them — otherwise a stale member wins by
+load order. A channel that reuses another channel's text must read the
+already-merged source, never a stale split copy. Same class as §26 (deploy tools
+clobbering each other) and §1 (dual-write): a change is only as complete as the
+least-maintained copy. Prefer deleting/merging redundant copies over keeping them
+in sync by hand.

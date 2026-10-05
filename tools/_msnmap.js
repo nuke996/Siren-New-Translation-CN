@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 const __P = require('./_config.js');
 // Build the MSN record -> Chinese text map from existing D12/D1 translation data.
-// Sources: work/d12/trans.json, work/d12/part_smallaim_1.json, part_smallaim_2.json
+// Source: work/d12/trans.json (the merged D12 source).
 //   text_smallaim/sNN_objectMM_PP.dds  <-> MSN name SNN_OBJECTMM_PP
 //   text_aim/sNN_objectMM_00.dds       <-> MSN name SNN_OBJECTMM_00
 //   text_mission/sNN_object_main.dds   <-> MSN name SNN_OBJECT_MAIN
@@ -11,7 +11,7 @@ const D = `${__P.WORK}/d12/`;
 const W = `${__P.WORK}/`;
 
 const items = {};
-for (const f of ['trans.json', 'part_smallaim_1.json', 'part_smallaim_2.json', 'part_status.json', 'part_landmark.json']) {
+for (const f of ['trans.json']) {
   if (!fs.existsSync(D + f)) continue;
   const j = JSON.parse(fs.readFileSync(D + f, 'utf8'));
   const src = j.items || j;

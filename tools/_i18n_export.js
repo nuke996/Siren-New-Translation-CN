@@ -13,6 +13,7 @@
 const fs = require('fs');
 const path = require('path');
 const { WORK, I18N, DISC, RD, WR, safeName, UNITS } = require('./_i18n_lib.js');
+const { preflight, printReport } = require('./_validate_i18n.js');
 const { parseHed } = require('./sntp_pack.js');
 const { parseDDS, decodeDXT1, writePNG } = require('./dds2png.js');
 
@@ -93,5 +94,12 @@ for (const u of UNITS) {
   console.log(`${u.file.padEnd(26)} ${String(entries.length).padStart(5)} entries  [${u.kind}]`);
   total += entries.length;
 }
-console.log(`\nexported ${total} entries (+${refs} ref images) -> _hanhua/i18n/`);
+console.log(`\nexported ${total} entries (+${refs} ref images) -> translator-view/`);
+
+const pf = preflight();
+printReport(pf, []);
+if (pf.errors.length) {
+  console.log(`\n[WARN] 导出完成，但发现 ${pf.errors.length} 个译文错误（见上）；请在导入前修正。`);
+  process.exitCode = 1;
+}
 console.log('translate / polish the "zh" fields, then run: node _i18n_import.js');

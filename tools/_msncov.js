@@ -7,7 +7,7 @@ const D = `${__P.WORK}/d12/`;
 const W = `${__P.WORK}/`;
 
 const items = {};
-for (const f of ['trans.json', 'part_smallaim_1.json', 'part_smallaim_2.json', 'part_status.json', 'part_landmark.json']) {
+for (const f of ['trans.json']) {
   if (!fs.existsSync(D + f)) continue;
   const j = JSON.parse(fs.readFileSync(D + f, 'utf8'));
   for (const [k, v] of Object.entries(j.items || j)) {
