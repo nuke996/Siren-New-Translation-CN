@@ -605,3 +605,59 @@ are identical were never localized. Then render the `size == 8320` (256×32 A8) 
 other mask-sized candidates with `_a8png.js` / `_dxt5a.js` to find the ones that
 still hold source-language text. This is how the title/results difficulty masks and
 `hud/s99/s99_dxt5.dds` were found.
+
+---
+
+# 30. The GUIDE button-name labels are engine-rendered — prove it with a marker test, don't guess
+
+**Symptom:** the in-game GUIDE/TUTORIAL still shows `方向キー` / `左スティック` /
+`右スティック` / `SELECT` while the rest of each line is Chinese. See
+`KNOWN_ISSUES.md` #16.
+
+**The tempting, wrong conclusion:** "it's the icon sheet
+`hud/font_02_icon_jp.dds`" — that sheet *does* contain exactly those three label
+graphics, and the project already has `tools/_iconbuild.js` to localize them. But
+localizing it never changed the GUIDE.
+
+**What actually settled it (two controlled in-game marker tests, plus search):**
+
+1. **Marker test on `font_02`** — paint its three label rows to a solid opaque
+   block (`work/font_02_icon_jp_zh.dds`), run `_deploy.js`, restart RPCS3. The
+   GUIDE was unchanged ⇒ the GUIDE does not sample `font_02`. (Menus that *do* use
+   `font_02` correctly showed Chinese.)
+2. **Marker test on the global font `font01.dds`** — the kana shapes in the GUIDE
+   match `font01`'s glyph cells, so replace the cells the names use
+   (`ス`=411, `テ`=424, `キ`=399, `ィ/ッ/ク/ー`=389/421/401/122) with Chinese/blank
+   glyphs via `font01_zh.glyphspec.json`, deploy, restart. Still unchanged ⇒ not
+   `font01` either. (Rolled back.)
+3. **`glyphseq.js`** — no glyph-index sequence for `左スティック`/`スティック`
+   exists in `common.dat` or any `sNN.dat`; the disc `EBOOT.BIN` is an encrypted
+   `SCE`(SELF) and can't be searched.
+4. **Whole-archive bitmap template match** — the label art exists **only** in
+   `font_02_icon_jp.dds`.
+
+**Lesson:** for a "still Japanese" residual, do **not** trust "which tool normally
+writes a texture with those glyphs". A cheap, targeted **marker test** on the
+candidate asset (paint it obviously wrong → deploy → restart → look) settles it in
+one round-trip and is far more reliable than reasoning from the toolchain. Also
+run `glyphseq.js` first — if the string is not stored as glyph indices anywhere and
+the executable is encrypted, a data-only fix is impossible, which is the case here.
+
+**Make the marker test safe:** snapshot first (`git tag`, plus back up the
+work-file you overwrite), keep the marker in a generated work file only, and after
+the test restore the normal asset and redeploy.
+
+**Remaining source — UNVERIFIED (hypotheses only, do not treat as fact):** no test
+or search has pinned the exact source.
+
+- The **glyphs** may be rasterized at runtime from the **PS3 system font**
+  (`dev_flash/data/font/SCE-PS3-NR-*-JPN.TTF`, `SCE-PS3 NewRodin JPN`): the labels
+  render in that typeface, and this would explain why editing the game's own font
+  atlases did nothing. Whether the engine actually reads `dev_flash` is unproven.
+- The **strings** are probably hard-coded in the encrypted `EBOOT.BIN`.
+
+Verified read-only facts supporting the above (facts, not speculation): a full
+`dev_flash` scan (UTF-8 / UTF-16LE / UTF-16BE / Shift-JIS) found **no**
+`左スティック`/`方向キー` resource — only an unrelated `スティック` inside the
+browser plugin `.rco` — and the system font does render those labels in a matching
+typeface. See `KNOWN_ISSUES.md` #16.

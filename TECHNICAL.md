@@ -318,8 +318,27 @@ None. No proxy DLL, loader or trampoline is used.
 # 17. Hard-Coded Strings
 
 No user-visible hard-coded system strings requiring translation were found in the
-executable. Remaining hard-coded tables (`productlist.txt`, `pjp_*_data.txt`) are
-identifiers/values and are intentionally untouched.
+executable **that can be reached by data-only patching**. Remaining hard-coded
+tables (`productlist.txt`, `pjp_*_data.txt`) are identifiers/values and are
+intentionally untouched.
+
+**Exception (unreachable):** the in-game GUIDE/TUTORIAL button-name labels
+(`方向キー` / `左スティック` / `右スティック` / `SELECT`, e.g. record
+`S02_GUIDE_002`) are drawn by the engine from a source that is **not** any editable
+texture or text container — verified by two in-game marker tests (on
+`hud/font_02_icon_jp.dds` and on the global font `font01.dds`), a glyph-index search
+(`glyphseq.js`, no hits in `common.dat` or any `sNN.dat`) and a whole-archive bitmap
+template match (label art present only in `font_02`). The likely source is a glyph
+sequence hard-coded in the encrypted `EBOOT.BIN` (a `SCE`/SELF), so it cannot be
+localized without executable patching. See `KNOWN_ISSUES.md` #16 and
+`docs/PITFALLS.md` #30.
+
+**Status of the attribution:** the statements "the strings are hard-coded in the
+encrypted `EBOOT.BIN`" and "the glyphs are drawn from the PS3 system font
+(`dev_flash/.../SCE-PS3-NR-*-JPN.TTF`)" are **unverified hypotheses, not confirmed
+facts** — the executable is encrypted and was not analysed. The only *verified*
+facts are the two in-game marker results and the read-only searches recorded in
+`KNOWN_ISSUES.md` #16.
 
 ---
 
