@@ -187,7 +187,7 @@ complete, clean disc (including `s09.dat`) is supplied**.
 2. FONTDATA atlases — `importsheet.js --all`, `--chapters`, archive videos
 3. chapter 9 (from its saved original base) — `_s09base.js`, `importsheet`,
    `_s11batch.js`
-4. baked textures — `_d5gen`…`_d13gen`, `_d12gen`, `_labelgen`/`_labelwrite`,
+4. baked textures — `_d5gen`…`_d13gen`, `_d12gen`, `_s99build`, `_labelgen`/`_labelwrite`,
    `_manualbuild`, `_archivebuild`, `_manheadbuild`, `_iconbuild`, `_msnbuild`,
    `_s11batch`, standalone mask jobs
 5. `_revertpatch.js place_other time_other` (restore bilingual English lines)

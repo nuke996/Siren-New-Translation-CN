@@ -56,6 +56,31 @@
    "name": "menu/jp/launcher_title/choice/title_parts_07.dds",
    "size": 20, "bold": 1, "align": "left",
    "lines": [ { "text": "迷你游戏", "y": 2, "x": 1 } ]
+  },
+  {
+   "name": "menu/jp/launcher_title/choice/menu_option_difc_easy.dds",
+   "size": 20, "bold": 1, "align": "left",
+   "lines": [ { "text": "简单", "y": 2, "x": 1 } ]
+  },
+  {
+   "name": "menu/jp/launcher_title/choice/menu_option_difc_normal.dds",
+   "size": 20, "bold": 1, "align": "left",
+   "lines": [ { "text": "普通", "y": 2, "x": 1 } ]
+  },
+  {
+   "name": "menu/jp/launcher_results/difficulty/menu_option_difc_easy.dds",
+   "size": 20, "bold": 1, "align": "left",
+   "lines": [ { "text": "简单", "y": 2, "x": 1 } ]
+  },
+  {
+   "name": "menu/jp/launcher_results/difficulty/menu_option_difc_hard.dds",
+   "size": 20, "bold": 1, "align": "left",
+   "lines": [ { "text": "困难", "y": 2, "x": 1 } ]
+  },
+  {
+   "name": "menu/jp/launcher_results/difficulty/menu_option_difc_normal.dds",
+   "size": 20, "bold": 1, "align": "left",
+   "lines": [ { "text": "普通", "y": 2, "x": 1 } ]
   }
  ]
 }

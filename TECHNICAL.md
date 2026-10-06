@@ -377,7 +377,7 @@ tool is later reused.
 | `importsheet.js`, `glyphgen.js`, `msgwrite.js` | FONTDATA extraction, glyph rendering, message rewrite | project |
 | `_s11gen.js`, `_s11write.js`, `_s11batch.js` | chapter GUIDE/TUTORIAL atlas generation | project |
 | `_labelgen.js`, `_labelwrite.js` | launcher label atlas | project |
-| `build_mask.js`, `_maskimport.js`, `_d5gen`…`_d13gen`, `_d12gen.js`, `_manualbuild.js`, `_archivebuild.js`, `_manheadbuild.js`, `_iconbuild.js`, `_msnbuild.js` | baked-texture regeneration | project |
+| `build_mask.js`, `_maskimport.js`, `_d5gen`…`_d13gen`, `_d12gen.js`, `_s99build.js`, `_manualbuild.js`, `_archivebuild.js`, `_manheadbuild.js`, `_iconbuild.js`, `_msnbuild.js` | baked-texture regeneration | project |
 | `_tbladd.js`, `_tblcov.js`, `_fprobe2.js`, `_frender.js`, `_fontcrop.js` | global font atlas extension / verification | project |
 | `_deploy.js`, `_chapterdeploy.js`, `_mirrorsync.js`, `_depcheck.js`, `_repack_disc.js` | deploy (HDD+mirror) and disc repack | project |
 | `_i18n_export.js`, `_i18n_import.js`, `_i18n_lib.js`, `_pipeline.js` | translator round-trip and shared build pipeline | project |

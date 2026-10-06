@@ -264,6 +264,9 @@ function uiMaskUnit() {
       j = RD(SRC('d13.json'));
       push(`ui::d13::text`, j.text, 'hud/s99/now_loading.dds');
 
+      j = RD(SRC('d14.json'));
+      j.lines.forEach((ln, i) => push(`ui::d14::${i}`, ln.zh, 'hud/s99/s99_dxt5.dds'));
+
       j = RD(SRC('manhead.json'));
       for (const [base, t] of Object.entries(j.small)) push(`ui::manhead::small::${base}`, t, `menu/jp/main_manual/small_subject/${base}.dds`);
       j.head.forEach((t, i) => push(`ui::manhead::head::${i}`, t, 'menu/jp/main_manual/big_subject/menu_manual_head_control.dds'));
@@ -314,6 +317,10 @@ function uiMaskUnit() {
       j = RD(SRC('d13.json'));
       if (byId.has('ui::d13::text')) j.text = byId.get('ui::d13::text');
       WR(SRC('d13.json'), j);
+
+      j = RD(SRC('d14.json'));
+      j.lines.forEach((ln, i) => { const id = `ui::d14::${i}`; if (byId.has(id)) ln.zh = byId.get(id); });
+      WR(SRC('d14.json'), j);
 
       j = RD(SRC('manhead.json'));
       for (const base of Object.keys(j.small)) { const id = `ui::manhead::small::${base}`; if (byId.has(id)) j.small[base] = byId.get(id); }

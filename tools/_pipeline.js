@@ -63,6 +63,7 @@ function runPipeline(log = s => process.stdout.write(s + '\n')) {
   // ---- baked image masks ----
   for (const g of ['_d5gen.js', '_d6gen.js', '_d8gen.js', '_d9gen.js', '_d10gen.js', '_d11gen.js', '_d13gen.js']) step(g, []);
   step('_d12gen.js', ['--into', PATCH]);
+  step('_s99build.js', []);
   step('_labelgen.js', []); step('_labelwrite.js', []);
   step('_manualbuild.js', []);
   step('_archivebuild.js', []);

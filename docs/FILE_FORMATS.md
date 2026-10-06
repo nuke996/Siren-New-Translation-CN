@@ -189,6 +189,7 @@ header.
 | **A8** | monochrome text masks | 8-bit alpha; render rule `grey = 255 - alpha` (white text ⇒ alpha 255). Re-rendered with anti-aliasing. |
 | **DXT1** | colour text/texture atlases | re-encoded full image (e.g. cautions, NOW LOADING, archive art) |
 | **DXT5** | textures whose alpha is the mask (e.g. `hud/font_02_icon_jp.dds`, 256×256) | only the alpha blocks are rewritten for partial edits; symbols/English labels preserved |
+| **DXT5** (large HUD/tutorial atlas) | `hud/s99/s99_dxt5.dds` (512×1024; RGB = art, alpha = text/icon mask) | `_s99build.js` clears the Japanese objective-header band (`終了条件:`/`目的:`/`小目的:`) and rewrites only those alpha blocks; RGB art is preserved byte-for-byte |
 
 `build_mask.js` writes new pixels into the existing (decoded) surface and keeps
 the header/format, so entry sizes stay within the SNTP zero-relocation rule.

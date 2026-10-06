@@ -569,3 +569,39 @@ already-merged source, never a stale split copy. Same class as §26 (deploy tool
 clobbering each other) and §1 (dual-write): a change is only as complete as the
 least-maintained copy. Prefer deleting/merging redundant copies over keeping them
 in sync by hand.
+
+---
+
+# 29. A stale `config.local.json` `gameRoot` silently skips every DISC-based texture generator
+
+**Symptom:** a texture's translation was edited and the build "succeeded", but the
+in-game texture is unchanged — the reported case was the title/new-game difficulty
+(`menu/jp/launcher_title/choice/menu_option_difc_*.dds`) and the S99 tutorial HUD
+(`hud/s99/s99_dxt5.dds`) still showing the original `EASY`/`NORMAL`/Japanese text
+while the OPTIONS screen (D10) was already Chinese.
+
+**Cause:** the `-Task build`/`import` pipeline has two kinds of steps.
+
+- Some generators read their base from `__P.BASE` (the live RPCS3 HDD install, else
+  the disc). These keep working even when the disc path is wrong — e.g.
+  `_iconbuild.js` (`hud/font_02_icon_jp.dds`) reads the HDD.
+- Most baked-texture generators read the **original art** from `__P.DISC`
+  (`config.local.json → gameRoot`): `_d5gen`…`_d13gen`, `_d12gen`, `_s99build`,
+  `_maskimport` (all the standalone mask jobs), `_manheadbuild`, `_labelgen`,
+  `_manualbuild`, `_archivebuild`, and the `sXX` importers. If `gameRoot` points at
+  a directory that no longer exists (the disc folder was renamed, e.g.
+  `死魂曲：新解` → `死魂曲：新解 - 副本`), every one of those steps throws
+  `ENOENT ... common.hed`, `_pipeline.js` records it as `!! ... failed`, and — because
+  a failed step does **not** abort the run — the deploy still packs the *previous*
+  `patch_common.json`. The texture is therefore silently stale.
+
+**Rule:** after moving/renaming the game disc, re-point `gameRoot` (or `-GameDir`)
+and check the pipeline's final `pipeline: ok N, failed 0` — **never** trust "the
+command finished".
+
+**Audit technique used to find the missed textures:** diff the **clean disc** against
+the deployed HDD (or `dist`) entry-by-entry over `common.dat`; entries whose bytes
+are identical were never localized. Then render the `size == 8320` (256×32 A8) and
+other mask-sized candidates with `_a8png.js` / `_dxt5a.js` to find the ones that
+still hold source-language text. This is how the title/results difficulty masks and
+`hud/s99/s99_dxt5.dds` were found.

@@ -1580,5 +1580,11 @@
  "menu/jp/main_archive/element/rright/menu_archive_etc_3.dds": "mask\\menu_jp_main_archive_element_rright_menu_archive_etc_3_dds.dds",
  "menu/jp/main_archive/element/rright/menu_archive_etc_4.dds": "mask\\menu_jp_main_archive_element_rright_menu_archive_etc_4_dds.dds",
  "menu/jp/main_archive/element/rright/menu_archive_etc_5.dds": "mask\\menu_jp_main_archive_element_rright_menu_archive_etc_5_dds.dds",
- "menu/jp/main_archive/element/rright/menu_archive_etc_6.dds": "mask\\menu_jp_main_archive_element_rright_menu_archive_etc_6_dds.dds"
+ "menu/jp/main_archive/element/rright/menu_archive_etc_6.dds": "mask\\menu_jp_main_archive_element_rright_menu_archive_etc_6_dds.dds",
+ "menu/jp/launcher_title/choice/menu_option_difc_easy.dds": "mask\\menu_jp_launcher_title_choice_menu_option_difc_easy_dds.dds",
+ "menu/jp/launcher_title/choice/menu_option_difc_normal.dds": "mask\\menu_jp_launcher_title_choice_menu_option_difc_normal_dds.dds",
+ "menu/jp/launcher_results/difficulty/menu_option_difc_easy.dds": "mask\\menu_jp_launcher_results_difficulty_menu_option_difc_easy_dds.dds",
+ "menu/jp/launcher_results/difficulty/menu_option_difc_hard.dds": "mask\\menu_jp_launcher_results_difficulty_menu_option_difc_hard_dds.dds",
+ "menu/jp/launcher_results/difficulty/menu_option_difc_normal.dds": "mask\\menu_jp_launcher_results_difficulty_menu_option_difc_normal_dds.dds",
+ "hud/s99/s99_dxt5.dds": "mask\\hud_s99_s99_dxt5_dds.dds"
 }
