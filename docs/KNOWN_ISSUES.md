@@ -291,3 +291,35 @@ confirmed):**
 If it ever matters: decrypt/analyse `EBOOT.BIN`, or compare against another game
 that uses the same NewRodin system font. Both are outside this project's data-only
 scope.
+
+---
+
+# 17. Fade in / fade out screen effects are lost after patching (Low)
+
+**Status:** Open · **Severity:** Low · **Cause unknown**
+
+**Symptom:** after applying the localization patch, the game no longer shows some
+of its fade-in / fade-out screen transitions (the original's gradual
+dimming/brightening between scenes or states is gone).
+
+**Cause:** not known. This is a user-observed symptom only; no root cause has been
+identified. It was reported during in-game testing but was never recorded in the
+project docs at the time, so there is no prior investigation to build on.
+
+**Impact:** low — there is no substantive effect on gameplay (no crash, no
+progression blocker, no missing text). It is a cosmetic/visual regression, so it
+is tracked but not treated as a release blocker.
+
+**Not yet investigated.** Nothing below is verified; these are only candidate
+directions for a future investigation, not conclusions:
+
+- Whether the lost fades correlate with any particular patched container
+  (`common.dat` / `sNN.dat` / baked masks) or appear globally.
+- Whether an overlay texture whose alpha the engine animates (e.g. an A8/DXT5
+  mask) was altered in a way that removes the transition rather than the text.
+- Whether the symptom reproduces on an unmodified build at the same spot (to rule
+  out an emulator-side or version-side cause before attributing it to the patch).
+
+**Next step:** reproduce in RPCS3, narrow down which patch entry (if any)
+correlates with the missing fade, then record findings here or in
+`docs/PITFALLS.md`.
