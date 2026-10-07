@@ -5479,121 +5479,121 @@
     {
       "id": "d12::menu/jp/main_status/profile/sex/menu_status_sex_amana.dds",
       "jp": "",
-      "zh": "女",
+      "zh": "女／Female",
       "ref": "refs/menu_jp_main_status_profile_sex_menu_status_sex_amana_dds.png"
     },
     {
       "id": "d12::menu/jp/main_status/profile/sex/menu_status_sex_bella.dds",
       "jp": "",
-      "zh": "女",
+      "zh": "女／Female",
       "ref": "refs/menu_jp_main_status_profile_sex_menu_status_sex_bella_dds.png"
     },
     {
       "id": "d12::menu/jp/main_status/profile/sex/menu_status_sex_howard.dds",
       "jp": "",
-      "zh": "男",
+      "zh": "男／Male",
       "ref": "refs/menu_jp_main_status_profile_sex_menu_status_sex_howard_dds.png"
     },
     {
       "id": "d12::menu/jp/main_status/profile/sex/menu_status_sex_kobe.dds",
       "jp": "",
-      "zh": "女",
+      "zh": "女／Female",
       "ref": "refs/menu_jp_main_status_profile_sex_menu_status_sex_kobe_dds.png"
     },
     {
       "id": "d12::menu/jp/main_status/profile/sex/menu_status_sex_melissa.dds",
       "jp": "",
-      "zh": "女",
+      "zh": "女／Female",
       "ref": "refs/menu_jp_main_status_profile_sex_menu_status_sex_melissa_dds.png"
     },
     {
       "id": "d12::menu/jp/main_status/profile/sex/menu_status_sex_miyako.dds",
       "jp": "",
-      "zh": "女",
+      "zh": "女／Female",
       "ref": "refs/menu_jp_main_status_profile_sex_menu_status_sex_miyako_dds.png"
     },
     {
       "id": "d12::menu/jp/main_status/profile/sex/menu_status_sex_saiga.dds",
       "jp": "",
-      "zh": "男",
+      "zh": "男／Male",
       "ref": "refs/menu_jp_main_status_profile_sex_menu_status_sex_saiga_dds.png"
     },
     {
       "id": "d12::menu/jp/main_status/profile/sex/menu_status_sex_sam.dds",
       "jp": "",
-      "zh": "男",
+      "zh": "男／Male",
       "ref": "refs/menu_jp_main_status_profile_sex_menu_status_sex_sam_dds.png"
     },
     {
       "id": "d12::menu/jp/main_status/profile/sex/menu_status_sex_shimada.dds",
       "jp": "",
-      "zh": "男",
+      "zh": "男／Male",
       "ref": "refs/menu_jp_main_status_profile_sex_menu_status_sex_shimada_dds.png"
     },
     {
       "id": "d12::menu/jp/main_status/profile/sex/menu_status_sex_sol.dds",
       "jp": "",
-      "zh": "男",
+      "zh": "男／Male",
       "ref": "refs/menu_jp_main_status_profile_sex_menu_status_sex_sol_dds.png"
     },
     {
       "id": "d12::menu/jp/main_status/profile/work/menu_status_job_amana.dds",
       "jp": "",
-      "zh": "修女",
+      "zh": "修女／Nun",
       "ref": "refs/menu_jp_main_status_profile_work_menu_status_job_amana_dds.png"
     },
     {
       "id": "d12::menu/jp/main_status/profile/work/menu_status_job_bella.dds",
       "jp": "",
-      "zh": "小学生",
+      "zh": "小学生／Grade School Student",
       "ref": "refs/menu_jp_main_status_profile_work_menu_status_job_bella_dds.png"
     },
     {
       "id": "d12::menu/jp/main_status/profile/work/menu_status_job_howard.dds",
       "jp": "",
-      "zh": "高中生",
+      "zh": "高中生／High School Student",
       "ref": "refs/menu_jp_main_status_profile_work_menu_status_job_howard_dds.png"
     },
     {
       "id": "d12::menu/jp/main_status/profile/work/menu_status_job_kobe.dds",
       "jp": "",
-      "zh": "护士",
+      "zh": "护士／Nurse",
       "ref": "refs/menu_jp_main_status_profile_work_menu_status_job_kobe_dds.png"
     },
     {
       "id": "d12::menu/jp/main_status/profile/work/menu_status_job_melissa.dds",
       "jp": "",
-      "zh": "电视记者",
+      "zh": "电视记者／TV Reporter",
       "ref": "refs/menu_jp_main_status_profile_work_menu_status_job_melissa_dds.png"
     },
     {
       "id": "d12::menu/jp/main_status/profile/work/menu_status_job_miyako.dds",
       "jp": "",
-      "zh": "不明",
+      "zh": "不明／Unknown",
       "ref": "refs/menu_jp_main_status_profile_work_menu_status_job_miyako_dds.png"
     },
     {
       "id": "d12::menu/jp/main_status/profile/work/menu_status_job_saiga.dds",
       "jp": "",
-      "zh": "医生",
+      "zh": "医生／Doctor",
       "ref": "refs/menu_jp_main_status_profile_work_menu_status_job_saiga_dds.png"
     },
     {
       "id": "d12::menu/jp/main_status/profile/work/menu_status_job_sam.dds",
       "jp": "",
-      "zh": "文化人类学者",
+      "zh": "文化人类学者／Cultural Anthropologist",
       "ref": "refs/menu_jp_main_status_profile_work_menu_status_job_sam_dds.png"
     },
     {
       "id": "d12::menu/jp/main_status/profile/work/menu_status_job_shimada.dds",
       "jp": "",
-      "zh": "驻守警官",
+      "zh": "驻守警官／Police Officer",
       "ref": "refs/menu_jp_main_status_profile_work_menu_status_job_shimada_dds.png"
     },
     {
       "id": "d12::menu/jp/main_status/profile/work/menu_status_job_sol.dds",
       "jp": "",
-      "zh": "电视导演",
+      "zh": "电视导演／TV Director",
       "ref": "refs/menu_jp_main_status_profile_work_menu_status_job_sol_dds.png"
     },
     {

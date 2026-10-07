@@ -3109,64 +3109,64 @@
       "text": "武器"
     },
     "menu/jp/main_status/profile/sex/menu_status_sex_amana.dds": {
-      "text": "女"
+      "text": "女／Female"
     },
     "menu/jp/main_status/profile/sex/menu_status_sex_bella.dds": {
-      "text": "女"
+      "text": "女／Female"
     },
     "menu/jp/main_status/profile/sex/menu_status_sex_howard.dds": {
-      "text": "男"
+      "text": "男／Male"
     },
     "menu/jp/main_status/profile/sex/menu_status_sex_kobe.dds": {
-      "text": "女"
+      "text": "女／Female"
     },
     "menu/jp/main_status/profile/sex/menu_status_sex_melissa.dds": {
-      "text": "女"
+      "text": "女／Female"
     },
     "menu/jp/main_status/profile/sex/menu_status_sex_miyako.dds": {
-      "text": "女"
+      "text": "女／Female"
     },
     "menu/jp/main_status/profile/sex/menu_status_sex_saiga.dds": {
-      "text": "男"
+      "text": "男／Male"
     },
     "menu/jp/main_status/profile/sex/menu_status_sex_sam.dds": {
-      "text": "男"
+      "text": "男／Male"
     },
     "menu/jp/main_status/profile/sex/menu_status_sex_shimada.dds": {
-      "text": "男"
+      "text": "男／Male"
     },
     "menu/jp/main_status/profile/sex/menu_status_sex_sol.dds": {
-      "text": "男"
+      "text": "男／Male"
     },
     "menu/jp/main_status/profile/work/menu_status_job_amana.dds": {
-      "text": "修女"
+      "text": "修女／Nun"
     },
     "menu/jp/main_status/profile/work/menu_status_job_bella.dds": {
-      "text": "小学生"
+      "text": "小学生／Grade School Student"
     },
     "menu/jp/main_status/profile/work/menu_status_job_howard.dds": {
-      "text": "高中生"
+      "text": "高中生／High School Student"
     },
     "menu/jp/main_status/profile/work/menu_status_job_kobe.dds": {
-      "text": "护士"
+      "text": "护士／Nurse"
     },
     "menu/jp/main_status/profile/work/menu_status_job_melissa.dds": {
-      "text": "电视记者"
+      "text": "电视记者／TV Reporter"
     },
     "menu/jp/main_status/profile/work/menu_status_job_miyako.dds": {
-      "text": "不明"
+      "text": "不明／Unknown"
     },
     "menu/jp/main_status/profile/work/menu_status_job_saiga.dds": {
-      "text": "医生"
+      "text": "医生／Doctor"
     },
     "menu/jp/main_status/profile/work/menu_status_job_sam.dds": {
-      "text": "文化人类学者"
+      "text": "文化人类学者／Cultural Anthropologist"
     },
     "menu/jp/main_status/profile/work/menu_status_job_shimada.dds": {
-      "text": "驻守警官"
+      "text": "驻守警官／Police Officer"
     },
     "menu/jp/main_status/profile/work/menu_status_job_sol.dds": {
-      "text": "电视导演"
+      "text": "电视导演／TV Director"
     },
     "menu/jp/main_option/small_choice/menu_option_aim_a.dds": {
       "text": "最快"
